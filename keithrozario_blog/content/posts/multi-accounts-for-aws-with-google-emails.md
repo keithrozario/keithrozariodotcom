@@ -1,12 +1,13 @@
 +++
 title = "Multi-Accounts for AWS with Google &#39;+&#39; emails."
+slug = "multi-accounts-for-aws-with-google-emails"
 date = "2019-12-15T12:51:01"
 draft = false
 categories = ['Misc']
 +++
 
 <!-- wp:image {"id":6861,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/Screenshot-2019-12-17-at-9.29.38-PM.png" alt="" class="wp-image-6861"/></figure>
+![](/uploads/Screenshot-2019-12-17-at-9.29.38-PM.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

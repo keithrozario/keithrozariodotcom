@@ -1,5 +1,6 @@
 +++
 title = "Maxis blocks Torrent traffic"
+slug = "maxis-torrent-traffic-blocked"
 date = "2013-05-30T07:00:47"
 draft = false
 tags = ['Maxis', 'Torrent']
@@ -15,8 +16,8 @@ It's important to point out as well, that this is my Maxis Mobile connection and
 Most feedback from the blogs and forums seems to suggest, Maxis isn't the most torrent friendly ISP. Which is sad.
 
 Here's the glasnost result from Maxis:
-<p style="text-align: center;"><a href="/uploads/Maxis_bit_torrent_block.png"><img class="aligncenter  wp-image-3467" alt="Maxis_bit_torrent_block" src="/uploads/Maxis_bit_torrent_block.png" width="715" height="195" /></a> <a href="/uploads/Glasnost_confirm_unifi_torrent_block.png">
+<p style="text-align: center;"><a href="/uploads/Maxis_bit_torrent_block.png">![Maxis_bit_torrent_block](/uploads/Maxis_bit_torrent_block.png)</a> <a href="/uploads/Glasnost_confirm_unifi_torrent_block.png">
 </a></p>
 And here's the result from Unifi, but of course I knew already that <a title="TM Unifi speeds actually quite GOOD!" href="http://www.keithrozario.com/2012/05/unifi-speed-test-broadband-torrents-youtube.html" target="_blank">Unifi didn't block torrent traffic</a>.
-<p style="text-align: center;"><a href="/uploads/Glasnost_confirm_unifi_torrent_block.png"><img class="aligncenter" alt="Glasnost_confirm_unifi_torrent_block" src="/uploads/Glasnost_confirm_unifi_torrent_block.png" width="423" height="322" /></a></p>
+<p style="text-align: center;"><a href="/uploads/Glasnost_confirm_unifi_torrent_block.png">![Glasnost_confirm_unifi_torrent_block](/uploads/Glasnost_confirm_unifi_torrent_block.png)</a></p>
 You can run your own test <a title="BitTorrent Test" href="http://broadband.mpi-sws.org/transparency/bttest.php" target="_blank">here</a>, to determine if you ISP is blocking your torrent traffic. It's also able to detect if your ISP is blocking other popular peer-to-peer applications as well as youtube and email servers as well.

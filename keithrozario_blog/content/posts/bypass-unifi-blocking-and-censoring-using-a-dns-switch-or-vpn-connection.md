@@ -1,12 +1,13 @@
 +++
 title = "Bypass Unifi blocking and censoring using a DNS switch or VPN connection"
+slug = "bypass-unifi-blocking-and-censoring-using-a-dns-switch-or-vpn-connection"
 date = "2012-03-06T23:43:38"
 draft = false
 tags = ['SOPA', 'Unifi']
 categories = ['Copyright and Censorship', 'Malaysia']
 +++
 
-<p style="text-align: justify;"><a href="/uploads/2731182967_e784c1f65e.jpg"><img class="aligncenter wp-image-1870 size-full" title="2731182967_e784c1f65e" src="/uploads/2731182967_e784c1f65e.jpg" alt="" width="500" height="375" /></a>If you're on Unifi you might have noticed that <a title="Unifi sites blocked" href="http://torrentfreak.com/pirate-bay-megaupload-others-blocked-by-government-order-110609/" target="_blank">some sites are blocked</a> and it's due to<a title="Wirawan SKMM censorship" href="http://wirawanweb.com/2011/06/09/mcmc-censoring-the-internet/" target="_blank"> government directives to block these sites. </a> Now that goes against what the Government of Malaysia promised it's stakeholders during the advent of the MsC, in which it promised to not censor the internet. If you remember, somewhere in August 2008, the government issued a similar directive to<a title="Malaysia Today Censor" href="http://en.wikipedia.org/wiki/Malaysia_Today#Censorship_by_the_Malaysian_Communications_and_Multimedia_Commission" target="_blank"> censor Malaysia Today</a>.</p>
+<p style="text-align: justify;"><a href="/uploads/2731182967_e784c1f65e.jpg">![](/uploads/2731182967_e784c1f65e.jpg "2731182967_e784c1f65e")</a>If you're on Unifi you might have noticed that <a title="Unifi sites blocked" href="http://torrentfreak.com/pirate-bay-megaupload-others-blocked-by-government-order-110609/" target="_blank">some sites are blocked</a> and it's due to<a title="Wirawan SKMM censorship" href="http://wirawanweb.com/2011/06/09/mcmc-censoring-the-internet/" target="_blank"> government directives to block these sites. </a> Now that goes against what the Government of Malaysia promised it's stakeholders during the advent of the MsC, in which it promised to not censor the internet. If you remember, somewhere in August 2008, the government issued a similar directive to<a title="Malaysia Today Censor" href="http://en.wikipedia.org/wiki/Malaysia_Today#Censorship_by_the_Malaysian_Communications_and_Multimedia_Commission" target="_blank"> censor Malaysia Today</a>.</p>
 <p style="text-align: justify;">So what's a average user to do to bypass these internet blocks. The blocks themselves are issued by the government and issued to all ISPs, fortunately there are a couple of ways to bypass these internet blocks which amount to censorship, and it depends on what kind of mechanism your ISP uses to block it. I'm all for a free internet and here are some ways you can bypass those blocks.<!--more--></p>
 
 <h2>A Domain Name Server (DNS) block</h2>
@@ -30,7 +31,7 @@ Alternate DNS Server : <strong>208.67.220.220</strong></pre>
 Alternate DNS Server: <strong>8.8.4.4</strong></pre>
 On Windows your end result should look something like this:
 
-<a href="/uploads/TCP_Settings.jpg"><img class="wp-image-1868 size-full aligncenter" title="TCP_Settings" src="/uploads/TCP_Settings.jpg" alt="" width="415" height="461" /></a>
+<a href="/uploads/TCP_Settings.jpg">![](/uploads/TCP_Settings.jpg "TCP_Settings")</a>
 <p style="text-align: justify;">I also have to stress, that changing your DNS server to OpenDNS has benefits above and beyond bypassing Unifis censorship. OpenDNS operates phishtank, which is a crowd-sourced application that signals out phishing websites and then blocks those websites via a DNS block. To a Layman what that means is that once you switch to OpenDNS, it'll offer you some protection, whenever you lookup a domain of a website that it believes to be malicious, you'll get a warning to inform you of the potential dangers.You can read up more<a title="OpenDNS" href="http://www.opendns.com/business-solutions/premium-dns/benefits/" target="_blank"> here</a>.</p>
 <p style="text-align: justify;">Also OpenDNS operates a parental control DNS where it blocks access to sites marked as Adult content.</p>
 <p style="text-align: justify;">This would easily by pass any DNS block your Internet service provider has set in place, but what if your ISP actually has a more sophisticated blocking mechanism. A DNS block is real kiddie stuff when it comes to online censorship and there should be other means to block users from accessing content and other means for users to bypass those blocking mechanisms.</p>

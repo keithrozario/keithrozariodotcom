@@ -1,12 +1,13 @@
 +++
 title = "TrueCrypt is dead, long live ....bitlocker?!?!"
+slug = "truecrypt-has-ended"
 date = "2014-05-30T09:00:18"
 draft = false
 tags = ['TrueCrypt']
 categories = ['Security &amp; Privacy']
 +++
 
-&nbsp;
+ 
 
 The understatement of the month would be calling this a peculiar moment. This is far from peculiar--this is straightup WTF?!
 

@@ -1,12 +1,13 @@
 +++
 title = "LinkedIn reaches 100 million members"
+slug = "linkedin-reaches-100-million-members"
 date = "2011-04-19T09:42:47"
 draft = false
 tags = ['Jobs', 'LinkedIn']
 categories = ['Misc']
 +++
 
-<a href="/uploads/LinkedIn.jpg"><img class="alignleft size-full wp-image-100" title="LinkedIn" src="/uploads/LinkedIn.jpg" alt="" width="120" height="120" /></a>
+<a href="/uploads/LinkedIn.jpg">![](/uploads/LinkedIn.jpg "LinkedIn")</a>
 According to the <a href="http://blog.linkedin.com/2011/03/22/linkedin-100-million/">LinkedIn blog</a>, LinkedIn that ever popular 'professional' facebook like thingy now has more members than the population of Australia, Malaysia, Singapore combined. LinkedIn has grown to a more niche social network that proves Facebook isn't the only kid on the block, and niche networks like LinkedIn do have a future, for instance we're more likely to search for a job/talent via LinkedIn than via facebook, and for the most part it's probably better to keep our social (facebook) and professional (linkedIn) lives separate. <!--more-->
 
 I personally love the features, but think they could have spent more time designing the interface and making it easier to host better looking resumes on LinkedIn. That being said the features on LinkedIn beat the crap out of Jobstreet anyday.

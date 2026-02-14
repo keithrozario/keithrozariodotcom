@@ -1,5 +1,6 @@
 +++
 title = "Run serverless on GitHub actions"
+slug = "run-serverless-on-github-actions"
 date = "2020-02-27T20:26:31"
 draft = false
 categories = ['Security &amp; Privacy', 'Serverless']
@@ -87,7 +88,7 @@ $ npm install --save-dev serverless-step-functions</pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6955,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/Screenshot-2020-02-27-at-7.14.37-AM.png" alt="" class="wp-image-6955"/></figure>
+![](/uploads/Screenshot-2020-02-27-at-7.14.37-AM.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -139,7 +140,7 @@ $ npm install --save-dev serverless-step-functions</pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6947,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/feature_branch_flow.png" alt="" class="wp-image-6947"/></figure>
+![](/uploads/feature_branch_flow.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -171,7 +172,7 @@ $ npm install --save-dev serverless-step-functions</pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6951,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/feature_branch_flow2.png" alt="" class="wp-image-6951"/></figure>
+![](/uploads/feature_branch_flow2.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -259,7 +260,7 @@ $ npm install --save-dev serverless-step-functions</pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6952,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/Different_repo.png" alt="" class="wp-image-6952"/></figure>
+![](/uploads/Different_repo.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

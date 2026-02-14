@@ -1,11 +1,12 @@
 +++
 title = "Court rules Hacking Team documents still confidential"
+slug = "court-rules-hacking-team-documents-still-confidential"
 date = "2016-02-19T08:00:51"
 draft = false
 categories = ['Copyright and Censorship', 'CyberLaw']
 +++
 
-<a href="/uploads/Censorship.jpg" rel="attachment wp-att-4283"><img class="alignleft wp-image-4283 size-medium" src="/uploads/Censorship-300x225.jpg" alt="internet censorship" width="300" height="225" /></a>Under the current hype of the <a href="https://www.keithrozario.com/2016/02/apple-vs-fbi-everything-you-need-to-know.html">FBI ordering Apple to 'install backdoors' on their iPhones</a>, a bit of interesting news seems to have slid under the radar.
+<a href="/uploads/Censorship.jpg" rel="attachment wp-att-4283">![internet censorship](/uploads/Censorship-300x225.jpg)</a>Under the current hype of the <a href="https://www.keithrozario.com/2016/02/apple-vs-fbi-everything-you-need-to-know.html">FBI ordering Apple to 'install backdoors' on their iPhones</a>, a bit of interesting news seems to have slid under the radar.
 
 A court in Singapore ruled that e-mails from the Hacking Team breach, published by the hacker Phineas Fisher via a torrent download, and available freely on Wikileaks--<a href="http://www.singaporelawwatch.com/slw/index.php/headlines/77528-data-hacked-and-leaked-online-still-confidential-court#sthash.5wWkbsg1.dpbs">were still confidential in nature.</a>
 

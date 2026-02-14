@@ -1,5 +1,6 @@
 +++
 title = "Some rather odd Maths"
+slug = "two-third-majority-bn-bad-maths"
 date = "2013-01-26T21:55:24"
 draft = false
 categories = ['Science']

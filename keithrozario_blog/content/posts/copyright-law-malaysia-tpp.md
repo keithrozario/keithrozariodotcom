@@ -1,12 +1,13 @@
 +++
 title = "Copyright laws get dumber: Trans-Pacific Partnership (TPP) agreement"
+slug = "copyright-law-malaysia-tpp"
 date = "2012-02-18T21:22:28"
 draft = false
 tags = ['SOPA']
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia']
 +++
 
-<a href="http://farm4.staticflickr.com/3129/2583620793_a41371bec1.jpg"><img class="alignnone" style="border-style: initial; border-color: initial;" title="Copyright is for losers" src="http://farm4.staticflickr.com/3129/2583620793_a41371bec1.jpg" alt="" width="550" height="330" /></a>
+<a href="http://farm4.staticflickr.com/3129/2583620793_a41371bec1.jpg">![](http://farm4.staticflickr.com/3129/2583620793_a41371bec1.jpg "Copyright is for losers")</a>
 
 A recent article from the Star noted that Malaysia was about to sign a new Trans-Pacific Partnership agreement that would make subject local copyright laws to those imposed by the US. Now according to <a title="Strict IP Policy mulled" href="http://thestar.com.my/news/story.asp?file=/2012/2/9/nation/10692529&amp;sec=nation" target="_blank">the article from the star </a>the purpose of us looking into a stricter Intellectual property law was to "encourage investments, innovation, research and development". That is a false premise.
 

@@ -1,11 +1,12 @@
 +++
 title = "Top 4 ways to access blocked sites"
+slug = "how-to-access-blocked-websites-malaysia"
 date = "2013-05-04T18:40:15"
 draft = false
 categories = ['Copyright and Censorship', 'Malaysia']
 +++
 
-<p style="text-align: justify;"><a href="/uploads/Internet-Access-Blocked.jpg"><img src="/uploads/Internet-Access-Blocked.jpg" alt="Access Blocked Website" width="360" height="225" /></a></p>
+<p style="text-align: justify;"><a href="/uploads/Internet-Access-Blocked.jpg">![Access Blocked Website](/uploads/Internet-Access-Blocked.jpg)</a></p>
 <p style="text-align: justify;">Here's some quick tips on how to access blocked sites in Malaysia that is blocked by the ISP (Telekom, Maxis, Time..etc etc). Currently the ISPs in Malaysia are throttling and filtering specific traffic to websites like Malaysiakini, Facebook and even Youtube. Just in case, things get nasty post-election day, I thought I'd quickly put together a couple of ways you can access Malaysiakini and other online portals despite a Unifi censor.<!--more--><a href="/uploads/Internet-Access-Blocked.jpg">
 </a></p>
 

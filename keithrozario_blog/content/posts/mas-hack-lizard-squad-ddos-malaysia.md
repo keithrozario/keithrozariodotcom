@@ -1,11 +1,12 @@
 +++
 title = "What happened in the MAS hack. All questions answered, one question asked."
+slug = "mas-hack-lizard-squad-ddos-malaysia"
 date = "2015-01-29T23:11:53"
 draft = false
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++
 
-<center><a href="/uploads/11445766236_d072478f86_o.jpg"><img class=" wp-image-4742 aligncenter" src="/uploads/11445766236_d072478f86_o.jpg" alt="Real-Life DDOS attack" width="550" height="550" /></a></center>
+<center><a href="/uploads/11445766236_d072478f86_o.jpg">![Real-Life DDOS attack](/uploads/11445766236_d072478f86_o.jpg)</a></center>
 
 Late in January the Malaysian Airlines website was 'supposedly' hacked by Lizard Squad. You  might remember Lizard Squad as the guys who 'hacked' the XBox and Play Station network over the Christmas holidays, and I'm using a lot of 'quotes' here because Lizard Squad didn't really 'hack' XBox One or Playstation, they merely DDOS-ed the services.
 <h2><em>What is DDOS-ed I hear you say?</em></h2>
@@ -28,7 +29,7 @@ Now hacking is one thing, but hacking as a service for dodgy customers is anothe
 Lizard Squad members were beginning to be arrested across the globe, and it looked like it was over for this group...or so it seemed.
 
 As publicity for their service begin to wane, and people begun forgetting who Lizard Squad were, they struck again. Only this time they didn't perform a DOS attack, but rather went after our very own Airline--MAS. It's worth noting that if you're not from my country, that Malaysians still have an open-wound for all 3 of our aircraft that crashed in 2014, specifically for the victims of MH370, whose relatives are still hoping and praying that their loved ones are still alive. You don't make fun of an open wound like that and hope that people like you...you don't kick a country when it's grieving--that's just not what real hackers do.
-<h2><em>So what happened to Malaysian Airlines you ask?<a href="/uploads/472739228_9acc811ec4_z.jpg"><img class="alignright wp-image-4743 size-medium" src="/uploads/472739228_9acc811ec4_z-300x200.jpg" alt="Malaysian Airlines" width="300" height="200" /></a></em></h2>
+<h2><em>So what happened to Malaysian Airlines you ask?<a href="/uploads/472739228_9acc811ec4_z.jpg">![Malaysian Airlines](/uploads/472739228_9acc811ec4_z-300x200.jpg)</a></em></h2>
 MAS was a victim not of a DOS attack, but had its DNS hijacked by Lizard Squad.
 
 DNS stands for Domain Name Server. It's the end-2-end solution that manages to translate website's name to an <a title="What is an IP address" href="http://www.keithrozario.com/2013/10/what-is-ip-address.html">IP addresses</a>. A simple way to think of it is as the telephone book for websites, but instead of giving phone numbers of people--it was giving IP addresses of Websites.
@@ -61,7 +62,7 @@ Also, if MAS allows their staff to access email from external sources via public
 
 Of course, all hypothetical.
 <h3><em>But I have a question for you...</em></h3>
-<img class="alignleft wp-image-4741 size-full" src="/uploads/images-11.jpg" alt="We take ourselves WAAAY to seriously" width="290" height="174" />Where is Pertubuhan Martabat Jalinan Muhibbah Malaysia(MJMM)--you know the guy with the Red Beret who lodges a Police Report every time his backside feels a bit itchy.
+![We take ourselves WAAAY to seriously](/uploads/images-11.jpg)Where is Pertubuhan Martabat Jalinan Muhibbah Malaysia(MJMM)--you know the guy with the Red Beret who lodges a Police Report every time his backside feels a bit itchy.
 
 I mean if this guy lodges reports over anything and everything, and claims to be the defender of this <strong>'Agama, Bangsa dan Negara'</strong>--where is he when Lizard Squad attacks the website of our National Airline, and insults the memory of victims of a tragedy that Malaysians are still grieving for.
 

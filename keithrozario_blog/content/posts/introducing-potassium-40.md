@@ -1,12 +1,13 @@
 +++
 title = "Introducing potassium-40"
+slug = "introducing-potassium-40"
 date = "2018-12-20T21:38:27"
 draft = false
 categories = ['Misc']
 +++
 
 <!-- wp:image {"id":6573,"align":"left","width":187,"height":206} -->
-<div class="wp-block-image"><figure class="alignleft is-resized"><img src="/uploads/K-1.png" alt="" class="wp-image-6573" width="187" height="206"/></figure></div>
+![](/uploads/K-1.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -54,7 +55,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6574} -->
-<figure class="wp-block-image"><img src="/uploads/prompt_results.png" alt="" class="wp-image-6574"/></figure>
+![](/uploads/prompt_results.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -134,7 +135,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6612} -->
-<figure class="wp-block-image"><img src="/uploads/ARCHITECTURE1.png" alt="" class="wp-image-6612"/><figcaption>Architecture</figcaption></figure>
+![](/uploads/ARCHITECTURE1.png)<figcaption>Architecture</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -150,7 +151,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6571,"align":"center","width":367,"height":290} -->
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="/uploads/duration.png" alt="" class="wp-image-6571" width="367" height="290"/></figure></div>
+<div class="wp-block-image"><figure class="aligncenter is-resized">![](/uploads/duration.png)</div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

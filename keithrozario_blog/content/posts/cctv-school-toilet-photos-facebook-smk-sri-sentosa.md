@@ -1,12 +1,13 @@
 +++
 title = "CCTV in toilets vs. Photos on facebook"
+slug = "cctv-school-toilet-photos-facebook-smk-sri-sentosa"
 date = "2013-09-14T21:56:49"
 draft = false
 tags = ['CCTV']
 categories = ['Security &amp; Privacy']
 +++
 
-<a href="/uploads/4638981545_f0578a16fe.jpg"><img class="alignleft" style="margin-right: 15px; margin-bottom: 10px;" alt="Childrens Privacy" src="/uploads/4638981545_f0578a16fe.jpg" width="500" height="281" /></a>Wedding dinners in the Klang Valley, can only be called wedding dinners if they have at least 3 video presentations, one of photos of the couples on their 'pre-wedding' shoots, one for their 'wedding-day' shoots and of course the ever popular 'story of our life' montage--where the couple walk you through photos of their childhood over what is usually a Kenny G soundtrack in the background.
+<a href="/uploads/4638981545_f0578a16fe.jpg">![Childrens Privacy](/uploads/4638981545_f0578a16fe.jpg)</a>Wedding dinners in the Klang Valley, can only be called wedding dinners if they have at least 3 video presentations, one of photos of the couples on their 'pre-wedding' shoots, one for their 'wedding-day' shoots and of course the ever popular 'story of our life' montage--where the couple walk you through photos of their childhood over what is usually a Kenny G soundtrack in the background.
 
 My parents wanted to have a 'photo montage' of my baby pics during my wedding dinner, but not being much of a social person and I obviously opposed the idea, even going to the extent of sabotaging the effort <em>(I cannot reveal the extent of sabotage for fear of incriminating myself)</em>--unfortunately my father is a master story teller in his own right, and still managed to illustrate embarrassing stories of my childhood that almost caused me to blush, <em>almost</em>.
 

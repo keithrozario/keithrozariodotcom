@@ -1,5 +1,6 @@
 +++
 title = "Lambda functions in a VPC"
+slug = "lambda-functions-in-a-vpc"
 date = "2020-02-09T21:57:07"
 draft = false
 categories = ['Cloud Computing', 'Security &amp; Privacy', 'Serverless']
@@ -58,7 +59,7 @@ categories = ['Cloud Computing', 'Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6930,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/VPC_Lambda1.png" alt="" class="wp-image-6930"/></figure>
+![](/uploads/VPC_Lambda1.png)
 <!-- /wp:image -->
 
 <!-- wp:more -->
@@ -194,7 +195,7 @@ categories = ['Cloud Computing', 'Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6940,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/Screenshot-2020-02-12-at-7.45.58-AM.png" alt="" class="wp-image-6940"/></figure>
+![](/uploads/Screenshot-2020-02-12-at-7.45.58-AM.png)
 <!-- /wp:image -->
 
 <!-- wp:heading -->

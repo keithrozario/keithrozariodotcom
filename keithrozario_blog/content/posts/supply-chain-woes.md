@@ -1,5 +1,6 @@
 +++
 title = "Supply Chain Woes"
+slug = "supply-chain-woes"
 date = "2018-10-07T22:27:21"
 draft = false
 categories = ['Misc']
@@ -34,7 +35,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6521} -->
-<figure class="wp-block-image"><img src="/uploads/Dependency.png" alt="" class="wp-image-6521"/></figure>
+![](/uploads/Dependency.png)
 <!-- /wp:image -->
 
 <!-- wp:more -->

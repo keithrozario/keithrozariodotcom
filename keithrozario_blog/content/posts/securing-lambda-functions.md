@@ -1,12 +1,13 @@
 +++
 title = "Securing Lambda Functions"
+slug = "securing-lambda-functions"
 date = "2019-02-17T21:21:16"
 draft = false
 categories = ['Security &amp; Privacy', 'Serverless']
 +++
 
 <!-- wp:image {"id":6674} -->
-<figure class="wp-block-image"><img src="/uploads/Dt7GO7aUUAAfgIc.jpg-large.jpg" alt="" class="wp-image-6674"/></figure>
+![](/uploads/Dt7GO7aUUAAfgIc.jpg-large.jpg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -98,7 +99,7 @@ categories = ['Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6673} -->
-<figure class="wp-block-image"><img src="/uploads/a-serverless-journey-aws-lambd-6011aa65-e55a-4cc5-96dc-6e76be2d4740-86362699-181130054549.jpg" alt="" class="wp-image-6673"/></figure>
+![](/uploads/a-serverless-journey-aws-lambd-6011aa65-e55a-4cc5-96dc-6e76be2d4740-86362699-181130054549.jpg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -142,7 +143,7 @@ categories = ['Security &amp; Privacy', 'Serverless']
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":6677} -->
-<figure class="wp-block-image"><img src="/uploads/Screenshot-2019-02-17-at-9.18.28-PM.png" alt="" class="wp-image-6677"/></figure>
+![](/uploads/Screenshot-2019-02-17-at-9.18.28-PM.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -166,7 +167,7 @@ categories = ['Security &amp; Privacy', 'Serverless']
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"left","id":6678} -->
-<div class="wp-block-image"><figure class="alignleft"><img src="/uploads/IAM-1.png" alt="" class="wp-image-6678"/></figure></div>
+![](/uploads/IAM-1.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -206,7 +207,7 @@ categories = ['Security &amp; Privacy', 'Serverless']
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"left","id":6679} -->
-<div class="wp-block-image"><figure class="alignleft"><img src="/uploads/cloudwatch.png" alt="" class="wp-image-6679"/></figure></div>
+![](/uploads/cloudwatch.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

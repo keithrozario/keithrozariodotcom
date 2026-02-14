@@ -1,19 +1,20 @@
 +++
 title = "Coolendar: Wonderful Calendar App"
+slug = "coolendar-wonderful-calendar-app"
 date = "2011-06-15T11:51:52"
 draft = false
 tags = ['Cool Designs', 'Google']
 categories = ['Design', 'Misc']
 +++
 
-<a title="Coolendar" rel="attachment wp-att-942" href="http://www.keithrozario.com/2011/06/coolendar-wonderful-calendar-app.html/olympus-digital-camera-2" target="_blank"><img class="alignleft size-thumbnail wp-image-942" title="Coolendar " src="/uploads/5310219143_3cf4d98b53_m-150x100.jpg" alt="http://www.flickr.com/photos/quil/5310219143/sizes/s/in/photostream/" width="150" height="100" /></a>Google just added <em>appointment slots</em> to their online Calendar in their quest to successfully emulate MS Outlook on the cloud. Quite frankly, Googles getting pretty good, I can organize my whole life online and now with <em>appointment slots</em> I can allow people to book my time online, just like they would do with a MS Outlook Meeting Request.
+<a title="Coolendar" rel="attachment wp-att-942" href="http://www.keithrozario.com/2011/06/coolendar-wonderful-calendar-app.html/olympus-digital-camera-2" target="_blank">![http://www.flickr.com/photos/quil/5310219143/sizes/s/in/photostream/](/uploads/5310219143_3cf4d98b53_m-150x100.jpg "Coolendar ")</a>Google just added <em>appointment slots</em> to their online Calendar in their quest to successfully emulate MS Outlook on the cloud. Quite frankly, Googles getting pretty good, I can organize my whole life online and now with <em>appointment slots</em> I can allow people to book my time online, just like they would do with a MS Outlook Meeting Request.
 
 For those of us who miss the good ol' days of pen and paper though (like me!!), there's a spectacular app that does just the calendar bit and nothing else. It's call <a title="Coolendar" href="http://www.coolendar.com" target="_blank">coolendar</a> and it's really cool (pardon the lame pun)<!--more-->
 
 The first thing I love about<a title="Coolendar" href="http://www.coolendar.com" target="_blank"> Coolendar.</a>..it's syntax. Just type in
 <blockquote>13/06/2011 23h call Keith</blockquote>
 And it appears as:
-<a rel="attachment wp-att-941" href="http://www.keithrozario.com/2011/06/coolendar-wonderful-calendar-app.html/call-keith"><img class="alignnone size-full wp-image-941" title="Call Keith" src="/uploads/Call-Keith.jpg" alt="" width="973" height="55" /></a>
+<a rel="attachment wp-att-941" href="http://www.keithrozario.com/2011/06/coolendar-wonderful-calendar-app.html/call-keith">![](/uploads/Call-Keith.jpg "Call Keith")</a>
 
 Coolendar actually figured out that I had entered a date and time and stored the data accordingly. Basically it's a text based entry calendar I can input in on the fly. Since, I can type faster than I can move my mouse or touchpad, this allows me to enter in data far quicker then I would if I had to click the slots and type the description in. I love it. If you're worried about the date entry, don't. I tried both in <span style="color: #888888;"><em>mm/dd/yy</em></span> format (as it's entered in America) and the <span style="color: #888888;"><em>dd/mm/yy</em></span> format (as it's entered everywhere else) and they both work!
 

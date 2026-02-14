@@ -1,5 +1,6 @@
 +++
 title = "Why Apple will never make a 100GB iPad Model"
+slug = "why-apple-will-never-make-a-100gb-ipad-model"
 date = "2013-11-11T21:26:41"
 draft = false
 categories = ['WhatisIT']

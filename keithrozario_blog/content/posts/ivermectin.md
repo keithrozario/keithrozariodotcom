@@ -1,12 +1,13 @@
 +++
 title = "Ivermectin"
+slug = "ivermectin"
 date = "2021-08-25T09:10:28"
 draft = false
 categories = ['Misc']
 +++
 
 <!-- wp:image {"id":7537,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/uploads/da6df04b172f6b6f40e67c4e0436caca.jpgs660.jpeg" alt="" class="wp-image-7537"/></figure>
+![](/uploads/da6df04b172f6b6f40e67c4e0436caca.jpgs660.jpeg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -202,19 +203,19 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7520,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/Screenshot-2021-08-23-at-8.46.29-PM-820x178.png" alt="" class="wp-image-7520"/></figure>
+![](/uploads/Screenshot-2021-08-23-at-8.46.29-PM-820x178.png)
 <!-- /wp:image -->
 
 <!-- wp:image {"id":7521,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/uploads/Screenshot-2021-08-23-at-8.45.09-PM.png" alt="" class="wp-image-7521"/></figure>
+![](/uploads/Screenshot-2021-08-23-at-8.45.09-PM.png)
 <!-- /wp:image -->
 
 <!-- wp:image {"id":7522,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/uploads/Screenshot-2021-08-23-at-8.44.59-PM.png" alt="" class="wp-image-7522"/></figure>
+![](/uploads/Screenshot-2021-08-23-at-8.44.59-PM.png)
 <!-- /wp:image -->
 
 <!-- wp:image {"id":7523,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/Screenshot-2021-08-23-at-8.51.32-PM-820x86.png" alt="" class="wp-image-7523"/></figure>
+![](/uploads/Screenshot-2021-08-23-at-8.51.32-PM-820x86.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -234,15 +235,15 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7528,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/uploads/Screenshot-2021-08-24-at-9.10.10-PM.png" alt="" class="wp-image-7528"/></figure>
+![](/uploads/Screenshot-2021-08-24-at-9.10.10-PM.png)
 <!-- /wp:image -->
 
 <!-- wp:image {"id":7529,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/uploads/Screenshot-2021-08-24-at-9.10.05-PM.png" alt="" class="wp-image-7529"/></figure>
+![](/uploads/Screenshot-2021-08-24-at-9.10.05-PM.png)
 <!-- /wp:image -->
 
 <!-- wp:image {"id":7530,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/uploads/Screenshot-2021-08-24-at-9.10.00-PM.png" alt="" class="wp-image-7530"/></figure>
+![](/uploads/Screenshot-2021-08-24-at-9.10.00-PM.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -250,7 +251,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7532,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/uploads/Screenshot-2021-08-25-at-9.07.16-AM.png" alt="" class="wp-image-7532"/></figure>
+![](/uploads/Screenshot-2021-08-25-at-9.07.16-AM.png)
 <!-- /wp:image -->
 
 <!-- wp:heading -->

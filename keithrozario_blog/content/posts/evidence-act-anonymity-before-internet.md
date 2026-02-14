@@ -1,5 +1,6 @@
 +++
 title = "Evidence Act: Anonymity before the internet"
+slug = "evidence-act-anonymity-before-internet"
 date = "2012-11-06T08:00:35"
 draft = false
 categories = ['Copyright and Censorship', 'CyberLaw', "Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
@@ -13,7 +14,7 @@ The public perception that is reinforced by ignorant government statements, is t
 
 That is a false statement.
 <h2>Let me introduce you to snail-mail.</h2>
-<a href="/uploads/2439736125_c4d1cfd6d1.jpg"><img class="size-medium wp-image-2908 alignleft" style="margin: 10px;" title="Snail Mail Anonymous" alt="" src="/uploads/2439736125_c4d1cfd6d1-300x225.jpg" width="300" height="225" /></a>In the past, long before the internet was around, people use to communicate via letters and postcards that were hand-delivered by postmen to your doorstep. This is a foreign concept to most children but it's good to let them know just how hyper-connected they are in relation to their parents or grandparents.
+<a href="/uploads/2439736125_c4d1cfd6d1.jpg">![](/uploads/2439736125_c4d1cfd6d1-300x225.jpg "Snail Mail Anonymous")</a>In the past, long before the internet was around, people use to communicate via letters and postcards that were hand-delivered by postmen to your doorstep. This is a foreign concept to most children but it's good to let them know just how hyper-connected they are in relation to their parents or grandparents.
 
 When you send a letter, you write a note on a piece of paper, sign it at the bottom (presumably with your name) and then place it into an envelope. You then write the name and address of the recipient on the envelope, afix a stamp (that acts as a proof of purchase)--and then drop it off at any post office you see fit. The Post Office then somehow routes that letter to the recipient on the envelope--physically hand delivered.
 
@@ -29,7 +30,7 @@ In fact, what's to stop someone from sending out emails in my name using a free 
 
 I need to be able to rely on a legal system that has enough common sense to distinguish between what I really sent and what I didn't send--rather than automatically presume it.
 <h2>Anonymity in General</h2>
-<a href="/uploads/anonymous_guy_fawkes.jpg"><img class="alignright size-medium wp-image-2909" title="anonymous_guy_fawkes" alt="" src="/uploads/anonymous_guy_fawkes-300x199.jpg" width="300" height="199" /></a>Anonymity gets a bad reputation by Governments, and for good reason, Anonymity scares the shit out of Government.
+<a href="/uploads/anonymous_guy_fawkes.jpg">![](/uploads/anonymous_guy_fawkes-300x199.jpg "anonymous_guy_fawkes")</a>Anonymity gets a bad reputation by Governments, and for good reason, Anonymity scares the shit out of Government.
 
 Think about how Governments are ended peacefully--through an election, and we all know how elections are run--<strong>anonymously</strong>. In fact anonymity is the cornerstone of democracy, if people can't cast an anonymous vote you don't have a democracy. We intuitively understand the need for anonymous voting, we understand that if your vote wasn't anonymous the Government or political parties could influence you (either by carrots or sticks) to vote either which way. We understand the need for everyone to choose their government without undue influence and so far after thousands of years of refining the democratic elections--we still rely on anonymity to do that.
 

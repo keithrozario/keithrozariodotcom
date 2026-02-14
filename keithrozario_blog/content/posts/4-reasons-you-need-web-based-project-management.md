@@ -1,12 +1,13 @@
 +++
 title = "4 Reasons you need Web Based Project Management"
+slug = "4-reasons-you-need-web-based-project-management"
 date = "2011-05-29T18:32:59"
 draft = false
 tags = ['Blog Features']
 categories = ['Blog']
 +++
 
-<a title="Project Management" rel="attachment wp-att-786" href="http://www.keithrozario.com/2011/05/4-reasons-you-need-web-based-project-management.html/project-management" target="_blank"><img class="alignleft size-thumbnail wp-image-786" title="Project Management" src="/uploads/project-management-150x112.jpg" alt="" width="150" height="112" /></a>Last week, I blogged about how to start a wiki on your blog. One of the great things about wiki was to run a entire project using a wiki, however a wiki is limited in functionality and a lack of any concrete structure makes wiki unacceptable for certain projects.
+<a title="Project Management" rel="attachment wp-att-786" href="http://www.keithrozario.com/2011/05/4-reasons-you-need-web-based-project-management.html/project-management" target="_blank">![](/uploads/project-management-150x112.jpg "Project Management")</a>Last week, I blogged about how to start a wiki on your blog. One of the great things about wiki was to run a entire project using a wiki, however a wiki is limited in functionality and a lack of any concrete structure makes wiki unacceptable for certain projects.
 
 If you're looking to run a full project management suite that lets you look at task, tasklist and milestones. Manage time and resources, provide 1-page updates for stakeholders. You're in luck because that's what I'm doing here today. However, before we proceed to the how-to-install, I thought it's best if we revisit why you'd need a web-based tool for project management and how it can help overcome the 4 major pitfalls of the traditional method of managing project plans via MS Project and emails.
 

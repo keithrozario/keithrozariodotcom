@@ -1,11 +1,12 @@
 +++
 title = "Migrating wordpress to Dreamhost"
+slug = "migrating-wordpress-to-dreamhost"
 date = "2011-12-07T20:44:09"
 draft = false
 categories = ['Blog']
 +++
 
-<a href="http://www.keithrozario.com/2011/12/migrating-wordpress-to-dreamhost.html/3950846568_69a959524f_o" rel="attachment wp-att-1532"><img class="alignleft size-medium wp-image-1532" title="3950846568_69a959524f_o" src="/uploads/3950846568_69a959524f_o-300x300.jpg" alt="" width="300" height="300" /></a>Last week I migrated my blog from Nearlyfreespeech (who are awesome by the way!) to dreamhost (who are also quite awesome in their own way). What prompted the move was that I'm already subscribed to a year of hosting to dreamhost at about $6/mo, while my blog at Nearlyfreespeech is still costing me money, although admittedly not much. So I thought why waste my dreamhost hosting, and instead switch over from Nearlyfreespeech to dreamhost.
+<a href="http://www.keithrozario.com/2011/12/migrating-wordpress-to-dreamhost.html/3950846568_69a959524f_o" rel="attachment wp-att-1532">![](/uploads/3950846568_69a959524f_o-300x300.jpg "3950846568_69a959524f_o")</a>Last week I migrated my blog from Nearlyfreespeech (who are awesome by the way!) to dreamhost (who are also quite awesome in their own way). What prompted the move was that I'm already subscribed to a year of hosting to dreamhost at about $6/mo, while my blog at Nearlyfreespeech is still costing me money, although admittedly not much. So I thought why waste my dreamhost hosting, and instead switch over from Nearlyfreespeech to dreamhost.
 
 Before I start, let's me first explain what I want to do. I want to migrate my blog from nearlyfreespech to dreamhost, in essence I want to change my hosting provider from Nearlyfreespeech to dreamhost. I do <strong>not</strong> want to change my url, I still want readers who type www.keithrozario.com to visit my blog, it's just that the blog is now hosted on a different service provider and will ultimately have a different IP.
 

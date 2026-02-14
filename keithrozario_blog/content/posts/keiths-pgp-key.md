@@ -1,5 +1,6 @@
 +++
 title = "Keith's PGP Key"
+slug = "keiths-pgp-key"
 date = "2015-04-18T07:06:40"
 draft = false
 categories = ['Misc']

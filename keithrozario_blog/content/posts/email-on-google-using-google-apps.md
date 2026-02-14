@@ -1,12 +1,13 @@
 +++
 title = "Creating a email for your domain using Google Apps"
+slug = "email-on-google-using-google-apps"
 date = "2011-04-20T12:19:05"
 draft = false
 tags = ['Blog Features', 'Google', 'Mail', 'NearlyFreeSpeech']
 categories = ['Blog']
 +++
 
-<a href="/uploads/google_apps.jpg"><img class="alignleft size-thumbnail wp-image-107" title="Google_apps" src="/uploads/google_apps-150x150.jpg" alt="" width="150" height="150" /></a> So with the latest that the Malaysian government hopes to spend upwards of USD15 million to give every single Malaysian above 18 years of age an email address, I just noticed I have no email address @keithrozario.com
+<a href="/uploads/google_apps.jpg">![](/uploads/google_apps-150x150.jpg "Google_apps")</a> So with the latest that the Malaysian government hopes to spend upwards of USD15 million to give every single Malaysian above 18 years of age an email address, I just noticed I have no email address @keithrozario.com
 
 Unfortunately, Nearlyfreespeech.net (my web host) does not provide a email like other webhost do. If you've got your website hosted on goDaddy, Dreamhost or bluehost, you'll have in built email functionality. If you're with Nearlyfreespeech, you're on your own (which is why they're cheap).
 
@@ -34,7 +35,7 @@ So to recap the entries:
 
 At the end they look like this:
 
-<center><a href="/uploads/DNS-Information-keithrozario.com-NearlyFreeSpeech.NET-Member-Interface.png"><img class="alignnone  wp-image-2612" title="DNS Information   keithrozario.com   NearlyFreeSpeech.NET Member Interface" src="/uploads/DNS-Information-keithrozario.com-NearlyFreeSpeech.NET-Member-Interface-1024x188.png" alt="" width="550" height="94" /></a></center>It's also important to note, that between steps (1) and (2), I could send email out but couldn't receive any. And I didn't get any error messages till I did step (2). If you were wondering why you could send email but not receive them at your domain on google apps, that's probably the reason, you haven't configured your CNAME entries.What this means is that your emails were in a state of Limbo, because your domain had no MX entries, email sent to your domain didn't know which servers to route to. Once you set the MX entries, emails lookup your domain, grab the MX entries and send the emails to anyone of the Google.com servers.
+<center><a href="/uploads/DNS-Information-keithrozario.com-NearlyFreeSpeech.NET-Member-Interface.png">![](/uploads/DNS-Information-keithrozario.com-NearlyFreeSpeech.NET-Member-Interface-1024x188.png "DNS Information   keithrozario.com   NearlyFreeSpeech.NET Member Interface")</a></center>It's also important to note, that between steps (1) and (2), I could send email out but couldn't receive any. And I didn't get any error messages till I did step (2). If you were wondering why you could send email but not receive them at your domain on google apps, that's probably the reason, you haven't configured your CNAME entries.What this means is that your emails were in a state of Limbo, because your domain had no MX entries, email sent to your domain didn't know which servers to route to. Once you set the MX entries, emails lookup your domain, grab the MX entries and send the emails to anyone of the Google.com servers.
 
 The last thing to remember is that these DNS entries take about 1 hour to take effect, so don't worry if you don't see immediate effects. You'll need to wait as much as 1 day in some cases.
 <h2>How does email on Google Apps look like?</h2>

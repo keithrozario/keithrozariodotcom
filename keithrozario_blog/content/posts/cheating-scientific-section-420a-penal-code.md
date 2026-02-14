@@ -1,5 +1,6 @@
 +++
 title = "When is Cheating OK?"
+slug = "cheating-scientific-section-420a-penal-code"
 date = "2013-04-04T00:00:06"
 draft = false
 categories = ['Science']

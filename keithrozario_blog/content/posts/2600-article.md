@@ -1,5 +1,6 @@
 +++
 title = "2600 article"
+slug = "2600-article"
 date = "2016-08-01T08:00:39"
 draft = false
 categories = ['Misc']

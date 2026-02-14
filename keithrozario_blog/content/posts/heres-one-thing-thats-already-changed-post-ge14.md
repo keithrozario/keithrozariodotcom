@@ -1,5 +1,6 @@
 +++
 title = "Here's one thing that's already changed post GE14"
+slug = "heres-one-thing-thats-already-changed-post-ge14"
 date = "2018-05-11T20:54:02"
 draft = false
 categories = ['Copyright and Censorship', "Keith's Favorite Post", 'Malaysia']

@@ -1,11 +1,12 @@
 +++
 title = "Starting your own Groupon site"
+slug = "starting-your-own-groupon-site"
 date = "2011-09-03T13:13:02"
 draft = false
 categories = ['Misc']
 +++
 
-<a href="http://www.keithrozario.com/2011/09/starting-your-own-groupon-site.html/5283549962_49a5d231da_m" rel="attachment wp-att-1200"><img class="alignleft size-full wp-image-1200" title="Deals" src="/uploads/5283549962_49a5d231da_m.jpg" alt="" width="240" height="179" /></a>My wife trolls deal sites everyday looking for deals to save us 50% on romantic dinners or 70% off on Hotel stays or even 90% off on skydiving. Deal sites like Groupon and Mydeals are popping up everywhere these days that you'd look like a fool if you bought a meal at ...regular price (gasp!) .
+<a href="http://www.keithrozario.com/2011/09/starting-your-own-groupon-site.html/5283549962_49a5d231da_m" rel="attachment wp-att-1200">![](/uploads/5283549962_49a5d231da_m.jpg "Deals")</a>My wife trolls deal sites everyday looking for deals to save us 50% on romantic dinners or 70% off on Hotel stays or even 90% off on skydiving. Deal sites like Groupon and Mydeals are popping up everywhere these days that you'd look like a fool if you bought a meal at ...regular price (gasp!) .
 
 However, if you're not contented with just trolling the 10 deal sites you subscribe to, you might want to start your own groupon site. Think about it, it's an easy business model, you require limited upfront capital and you're more or less just a middle man, you'd think anyone can do it. Well it turns out everyone <strong>can</strong> do it, and a lot or people <strong>are</strong>. Here's 3 ways to start your deal website and be on your way to Groupon like fame (or infamy)<!--more-->
 

@@ -1,12 +1,13 @@
 +++
 title = "Cyberwar assessment of Malaysia vs. DPRK"
+slug = "cyberwar-assessment-of-malaysia-vs-dprk"
 date = "2017-04-01T01:15:41"
 draft = false
 tags = ['cyberwar']
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++
 
-<a href="/uploads/Kim-Cyber.jpg"><img class="alignleft wp-image-6006" src="/uploads/Kim-Cyber.jpg" alt="" width="300" height="200" /></a>Would North Korea ever declare war on Malaysia?
+<a href="/uploads/Kim-Cyber.jpg">![](/uploads/Kim-Cyber.jpg)</a>Would North Korea ever declare war on Malaysia?
 
 Probably not.
 
@@ -40,7 +41,7 @@ The Americans have drawn clear delineation, that the Department of Homeland Secu
 
 But before we evaluate our defensive capabilities, let's evaluate the North Korean defense.<!--more-->
 <h2>The North Korean Defense</h2>
-<a href="/uploads/N-v-S-Korea.jpg"><img class="size-full wp-image-6009 alignleft" src="/uploads/N-v-S-Korea.jpg" alt="" width="438" height="390" /></a>I'll let you guess where the Korean border is based on this satellite image of the night-lights in the region.
+<a href="/uploads/N-v-S-Korea.jpg">![](/uploads/N-v-S-Korea.jpg)</a>I'll let you guess where the Korean border is based on this satellite image of the night-lights in the region.
 
 From a defender's perspective, the less internet you have in your country, the easier it is to defend. Syria was famous for <a href="http://www.newyorker.com/news/daily-comment/why-did-syria-shut-down-the-internet">frequently cutting internet co</a><a href="http://www.newyorker.com/news/daily-comment/why-did-syria-shut-down-the-internet">nectivity to the entire country</a> because there were only 2 cables connecting it to the internet, that's a small attack surface to defend. It's like playing football with a 6ft goalie, and 3ft goal.
 
@@ -80,7 +81,7 @@ Anyway, the report detailed a group called <a href="http://download.microsoft.co
 
 The attackers used a hack on the 'hot-patching' feature of Microsoft Windows. A feature that required admin level access, which meant that the primary attack vector was spear-phishing. In other words, admins on government computers were spear-phished, and were then owned, which then led to Platinum getting access.
 
-<a href="/uploads/Platinum-APT.png"><img class="alignnone size-full wp-image-6005" src="/uploads/Platinum-APT.png" alt="" width="655" height="368" /></a>
+<a href="/uploads/Platinum-APT.png">![](/uploads/Platinum-APT.png)</a>
 
 The real-issue that this wasn't a one-off thing, in July 2016, Kaspersky reported that more than 2,000 servers in Malaysia were hacked and <a href="http://www.straitstimes.com/asia/se-asia/more-than-2100-servers-in-malaysia-have-been-hacked-says-cybersecurity-agency">sold on black market forums for prices as low as RM29</a>.
 
@@ -94,7 +95,7 @@ To be honest this isn't very shocking, or very unique to Malaysia. But couple th
 
 Fortunately, it's unlikely we'd even go to cyber war for this.
 <h2>One time weapons use</h2>
-<a href="/uploads/MV5BMTUyODE1NTIzOF5BMl5BanBnXkFtZTgwMjA5NjY5ODE@._V1_UX182_CR00182268_AL_.jpg"><img class="size-full wp-image-6010 alignleft" src="/uploads/MV5BMTUyODE1NTIzOF5BMl5BanBnXkFtZTgwMjA5NjY5ODE@._V1_UX182_CR00182268_AL_.jpg" alt="" width="182" height="268" /></a>Attacks cost resources, and cyber-attacks usually expend the one critical and scarce resource--Zero Day Exploits!!
+<a href="/uploads/MV5BMTUyODE1NTIzOF5BMl5BanBnXkFtZTgwMjA5NjY5ODE@._V1_UX182_CR00182268_AL_.jpg">![](/uploads/MV5BMTUyODE1NTIzOF5BMl5BanBnXkFtZTgwMjA5NjY5ODE@._V1_UX182_CR00182268_AL_.jpg)</a>Attacks cost resources, and cyber-attacks usually expend the one critical and scarce resource--Zero Day Exploits!!
 
 Zero Day exploits are critical vulnerabilites in code that are not (yet!) public knowledge. Which means that vulnerabilities will work on any version of the software. If you discovered an exploit in Windows, and didn't tell Microsoft, you could use that exploit against against anyone running the Windows software.
 

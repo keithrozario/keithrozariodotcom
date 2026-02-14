@@ -1,5 +1,6 @@
 +++
 title = "Writing a Wordpress Restoration script"
+slug = "writing-a-wordpress-restoration-script"
 date = "2017-03-02T21:59:50"
 draft = false
 categories = ["Keith's Favorite Post", 'Misc', 'Security &amp; Privacy']
@@ -272,7 +273,7 @@ Letsencrypt only works if your domain already resolves to the new server. During
 <span style="color: #008000;">echo</span> -e <span style="color: #ba2121;">"\\n#########    SCRIPT END    #########\\n"</span>
 </pre>
 </div>
-&nbsp;
+ 
 <h2><span style="text-decoration: underline;">File 3: restoreWP.sh</span></h2>
 Easily the most complex of the 3 core files is restoreWP.sh. This script is meant to run on a bare Ubuntu 16.04 box, and will build the WordPress Installation from scratch, specifically:
 <ul>

@@ -1,5 +1,6 @@
 +++
 title = "How I hacked 4 Unifi accounts in under 5 minutes"
+slug = "hack-unifi-in-5-minutes"
 date = "2014-01-02T22:00:14"
 draft = false
 categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
@@ -15,7 +16,7 @@ With that said, here's how you use Shodan, and a well known exploit to hack Unif
 
 <span style="color: #c0c0c0;"><strong>Update 22-Jun:</strong> My Apologies: YouTube have removed my video because someone reported it as being inappropriate. I am appealing..I'm not sure what about the video was inappropriate, and I have made no attempt to mis-lead anyone. Stay tuned. I've updated the video with a Vimeo upload instead.</span>
 
-<a href="/uploads/Video_Rejected_Content_Inappropriate_2.png"><img class=" wp-image-4456 aligncenter" src="/uploads/Video_Rejected_Content_Inappropriate_2.png" alt="Video Rejected by Youtube" width="550" height="45" /></a>
+<a href="/uploads/Video_Rejected_Content_Inappropriate_2.png">![Video Rejected by Youtube](/uploads/Video_Rejected_Content_Inappropriate_2.png)</a>
 
 <iframe src="//player.vimeo.com/video/98848750" width="500" height="281" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -35,6 +36,6 @@ To address the issue check out my post on how to prevent this on your Unifi rout
 
 <!--more-->
 
-<a href="/uploads/TM-changing-passwords.png"><img class="aligncenter" src="/uploads/TM-changing-passwords.png" alt="TM were informed in August" width="560" height="522" /></a>
+<a href="/uploads/TM-changing-passwords.png">![TM were informed in August](/uploads/TM-changing-passwords.png)</a>
 
-<a href="/uploads/Telekom_malaysia_acknowledge_exploit.png"><img class="aligncenter size-full wp-image-4201" src="/uploads/Telekom_malaysia_acknowledge_exploit.png" alt="Telekom_malaysia_acknowledge_exploit" width="546" height="698" /></a>
+<a href="/uploads/Telekom_malaysia_acknowledge_exploit.png">![Telekom_malaysia_acknowledge_exploit](/uploads/Telekom_malaysia_acknowledge_exploit.png)</a>

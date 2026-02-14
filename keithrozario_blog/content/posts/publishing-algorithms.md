@@ -1,5 +1,6 @@
 +++
 title = "Publishing Government Algorithms"
+slug = "publishing-algorithms"
 date = "2017-02-04T23:44:31"
 draft = false
 categories = ['Misc']

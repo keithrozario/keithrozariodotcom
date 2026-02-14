@@ -1,12 +1,13 @@
 +++
 title = "Trust the science: Why mining pool water is safe to drink"
+slug = "trust-the-science-why-mining-pool-water-is-safe-to-drink"
 date = "2014-05-10T16:49:24"
 draft = false
 tags = ['Water']
 categories = ['Malaysia', 'Science']
 +++
 
-<p style="text-align: center;"><a href="/uploads/948387459_9aafe1f591_z-1.jpg"><img class="aligncenter  wp-image-4313" alt="Trust the Science on Water" src="/uploads/948387459_9aafe1f591_z-1.jpg" width="512" height="341" /></a></p>
+<p style="text-align: center;"><a href="/uploads/948387459_9aafe1f591_z-1.jpg">![Trust the Science on Water](/uploads/948387459_9aafe1f591_z-1.jpg)</a></p>
 Do a quick experiment:
 
 1. Fill a glass half-full with water

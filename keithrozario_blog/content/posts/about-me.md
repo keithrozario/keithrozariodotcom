@@ -1,5 +1,6 @@
 +++
 title = "Contact me"
+slug = "about-me"
 date = "2011-04-23T10:41:21"
 draft = false
 +++

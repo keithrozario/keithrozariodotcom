@@ -1,12 +1,13 @@
 +++
 title = "So you got hit by Ransomware"
+slug = "so-you-got-hit-by-ransomware"
 date = "2017-02-23T21:28:54"
 draft = false
 tags = ['Ransomware']
 categories = ['Security &amp; Privacy']
 +++
 
-<img class="aligncenter wp-image-5975" src="/uploads/Petya.jpg" width="550" height="309" />Last Monday, I got a text message from my uncle saying his office computer was hacked, and he couldn't access any of his files. Even without probing further, I already knew he'd been hit with ransomware and was now an unwitting victim in a criminal industry estimated to be worth Billions of dollars.
+![](/uploads/Petya.jpg)Last Monday, I got a text message from my uncle saying his office computer was hacked, and he couldn't access any of his files. Even without probing further, I already knew he'd been hit with ransomware and was now an unwitting victim in a criminal industry estimated to be worth Billions of dollars.
 
 After learning a bit more, I found out that the IT guys at the company backed up their data (which was good), but stored all backup files on the same computer (which was bad). I guess they kept it on a different hard-drive which mitigated the risk of hard-disk crashes, but didn't effect any other type of risk. What if someone had broken into the office and stolen the whole computer? What if the Office was burnt to the ground or flooded? With all the backups on the same computer these risk would completely wipe out all their data--even if the files were stored in separate drives.
 
@@ -24,7 +25,7 @@ File encryption, a necessary tool to protect  the confidentiality of your data,
 
 There is no panacea in cyber security, only specific actions to address specific threats, and unless you're addressing availability threats like ransomware and DDOS attacks, your general anti-virus is quite useless against it. So let's breakdown the Ransomware threat and see how its evolved to become the darling of cybercriminals everywhere.<!--more-->
 <h2>Ransomware : An Introduction</h2>
-<a href="/uploads/20012126873_c644607795_m.jpg"><img class="alignright wp-image-5982 size-full" src="/uploads/20012126873_c644607795_m.jpg" width="240" height="134" /></a>Typically ransomware finds some way of entering your system, and then starts encrypting files based on specific extensions (.doc, .xls, .pdf..etc) Once all the files are encrypted, a prompt for payment is displayed, stipulating that failure to pay will result in you losing your files forever. The attackers have a secret decryption key, known only to them that will allow for the decryption of files back to their usable state, without this key your data is useless.
+<a href="/uploads/20012126873_c644607795_m.jpg">![](/uploads/20012126873_c644607795_m.jpg)</a>Typically ransomware finds some way of entering your system, and then starts encrypting files based on specific extensions (.doc, .xls, .pdf..etc) Once all the files are encrypted, a prompt for payment is displayed, stipulating that failure to pay will result in you losing your files forever. The attackers have a secret decryption key, known only to them that will allow for the decryption of files back to their usable state, without this key your data is useless.
 
 Clever criminals only use standard encryption (and so should you), which means the encryption is practically unbreakable. It's ironic that the same encryption used to protect your online banking, is used by criminals to enable their ransomware operation. Which also means the ransomware has the same 'quality' of protection as online banking (very simplistic but you get the point)
 

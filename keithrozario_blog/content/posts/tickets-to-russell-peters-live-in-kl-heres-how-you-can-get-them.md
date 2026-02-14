@@ -1,12 +1,13 @@
 +++
 title = "Tickets to Russell Peters Live in KL: Here's how you can get them"
+slug = "tickets-to-russell-peters-live-in-kl-heres-how-you-can-get-them"
 date = "2012-04-19T17:37:55"
 draft = false
 tags = ['Russell Peters']
 categories = ['Copyright and Censorship', 'Misc']
 +++
 
-<a href="/uploads/Russell-Peters-2nd-Hand.png"><img class="alignleft size-full wp-image-2034" title="Russell Peters 2nd Hand" src="/uploads/Russell-Peters-2nd-Hand.png" alt="" width="322" height="448" /></a>
+<a href="/uploads/Russell-Peters-2nd-Hand.png">![](/uploads/Russell-Peters-2nd-Hand.png "Russell Peters 2nd Hand")</a>
 
 <em><span style="color: #888888;">*update: there's been an announcement that the organizers are setting up a second show due to the huge demand. I'd recommend waiting for that before you start buying 2nd hand tickets.</span></em>
 

@@ -1,5 +1,6 @@
 +++
 title = "Censoring and spying--Malaysian Style"
+slug = "malaysian-general-elections-ge13-finfisher-ddos-dpi-censoring-spyware"
 date = "2013-05-04T15:06:15"
 draft = false
 tags = ['DDOS', 'Finfisher', 'GE13', 'Spyware']

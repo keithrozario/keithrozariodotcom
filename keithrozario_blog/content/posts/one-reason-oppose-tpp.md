@@ -1,11 +1,12 @@
 +++
 title = "The one reason you should oppose the TPP"
+slug = "one-reason-oppose-tpp"
 date = "2015-05-07T18:25:08"
 draft = false
 categories = ['Copyright and Censorship', 'Malaysia', 'Misc']
 +++
 
-<img class="alignright wp-image-5020" src="/uploads/img_20150507_095640-371x500.jpg" alt="img_20150507_095640" width="350" height="472" />Today I attended an Institute for Democracy and Economic Affairs (<span class="il">IDEAS</span>) event about the TPP. Among the panel members, included <a href="https://en.wikipedia.org/wiki/Michael_Froman" target="_blank">Michael Froman</a>, the US trade representative and chief advisor to President Obama on issues of International Trade and Investment. <em>(big shot!!)</em>
+![img_20150507_095640](/uploads/img_20150507_095640-371x500.jpg)Today I attended an Institute for Democracy and Economic Affairs (<span class="il">IDEAS</span>) event about the TPP. Among the panel members, included <a href="https://en.wikipedia.org/wiki/Michael_Froman" target="_blank">Michael Froman</a>, the US trade representative and chief advisor to President Obama on issues of International Trade and Investment. <em>(big shot!!)</em>
 
 For those you don't know, the Trans-Pacific Partnership(TPP) agreement is a trade deal between 12 countries including Malaysia and America whose main objective is to balance out the power and influence China has over the region. But the TPP has been opposed by many NGOs and special interest groups, for good reason--it's secret. The TPP has garnered such a bad reputation, it's sort of like the Justin Bieber of trade agreements, everyone knows about it, but nobody likes it.
 
@@ -35,7 +36,7 @@ That's how bad this is, but Malaysia is worse.
 <h2>Malaysian perspective</h2>
 Prior to this event, <a href="http://ideas.org.my/events/tppa-and-economic-liberalisation-good-or-bad-for-malaysia-event-summary-report/" target="_blank">IDEAS hosted a TPP debate</a>, that had Klang Member of Parliament Charles Santiago <em>(my home boy)</em>, debate against the TPP. What documents did the MP bring to the debate? Copies of wikileaks articles, because even he doesn't have access to the TPP  documents.
 
-[caption id="attachment_5017" align="alignleft" width="350"]<img class="wp-image-5017" src="/uploads/keith_rozario_ecuador-398x500.jpg" alt="keith_rozario_ecuador" width="350" height="440" /> Me outside the Ecuadorian Embassy in London, the pale shadow in the background is Julian..:)[/caption]
+[caption id="attachment_5017" align="alignleft" width="350"]![keith_rozario_ecuador](/uploads/keith_rozario_ecuador-398x500.jpg) Me outside the Ecuadorian Embassy in London, the pale shadow in the background is Julian..:)[/caption]
 
 Think about that, in order to debate a Multilateral free trade agreement, that covers multiple aspects of the economy and has significant legal and social implications to Malaysia, a member of our own Parliament has to get his documents from <a href="http://www.latimes.com/world/europe/la-fg-britain-assange-20150213-story.html">an estranged aussie living at Ecuadorian Embassy in London</a>. That's a whole new level of dodginess right there. Doesn't help that Charles is from Klang either, whole bunch of dodgy characters from that part of Malaysia ;).
 
@@ -47,7 +48,7 @@ So I found it strange that BFM, and <a href="http://www.isis.org.my/" target="_b
 <h2>Other key highlights</h2>
 Other key highlights from the hour long talk was that Tabacco was a huge issue, I never knew about this, and am deeply interested, so watch this space.
 
-[caption id="attachment_5021" align="aligncenter" width="674"]<img class="wp-image-5021 size-large" src="/uploads/banner_tppa2-674x500.jpg" alt="banner_tppa2" width="674" height="500" /> Some guy interrupting the discussion, didn't stay for Q&amp;A either.[/caption]
+[caption id="attachment_5021" align="aligncenter" width="674"]![banner_tppa2](/uploads/banner_tppa2-674x500.jpg) Some guy interrupting the discussion, didn't stay for Q&amp;A either.[/caption]
 
 Also, some dude decided to interrupt the conversation and spread a banner across the room in the middle of the discussion. Now I'm all for free speech, and the chairperson did specifically welcome him to ask his question later, but he left immediately after his little show--even though he was specifically given first dibs on questions. I think in a country where freedom of expression is so rare, people don't know what to do with it when it's given to them--which is just a sad statement of truth.
 <h2>Anyway, back to the TPP</h2>
@@ -61,4 +62,4 @@ Finally, I want to leave you with a question. If the TPP were truly about balanc
 
 Don't you think that represents corporate interest more than national interest, specifically that one corporation that's associated with a certain mouse? Now multiply that by the 600 corporate advisors, and you've got yourself the full 29-chapter TPP.
 
-[caption id="attachment_5022" align="aligncenter" width="674"]<img class="wp-image-5022 size-large" src="/uploads/bantahtppa-674x500.jpg" alt="Bantah TPPA" width="674" height="500" /> Something I found at the toilet of the Venue[/caption]
+[caption id="attachment_5022" align="aligncenter" width="674"]![Bantah TPPA](/uploads/bantahtppa-674x500.jpg) Something I found at the toilet of the Venue[/caption]

@@ -1,11 +1,12 @@
 +++
 title = "The Malaysian Government isn't watching your porn habits"
+slug = "the-malaysian-government-isnt-watching-your-porn-habits"
 date = "2018-07-15T00:10:35"
 draft = false
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++
 
-<a href="/uploads/ICCACOPS.jpg"><img class="size-full wp-image-6463 aligncenter" src="/uploads/ICCACOPS.jpg" alt="" width="781" height="465" /></a>Recently, there was a poorly written article in The New Straits Times, that suggested the Malaysian Police would know if you were watching porn online.
+<a href="/uploads/ICCACOPS.jpg">![](/uploads/ICCACOPS.jpg)</a>Recently, there was a poorly written article in The New Straits Times, that suggested the Malaysian Police would know if you were watching porn online.
 
 Let me cut to the chase, the article is shit.
 

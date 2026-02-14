@@ -1,5 +1,6 @@
 +++
 title = "Playing with files within the memory of Lambda function"
+slug = "playing-with-files-within-the-memory-of-lambda-function"
 date = "2020-04-18T11:40:14"
 draft = false
 categories = ['Misc', 'Serverless']
@@ -10,7 +11,7 @@ categories = ['Misc', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7044,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/Screenshot-2020-04-18-at-11.37.04-AM.png" alt="" class="wp-image-7044"/></figure>
+![](/uploads/Screenshot-2020-04-18-at-11.37.04-AM.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -22,7 +23,7 @@ categories = ['Misc', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7046,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/Screenshot-2020-04-18-at-11.39.49-AM.png" alt="" class="wp-image-7046"/></figure>
+![](/uploads/Screenshot-2020-04-18-at-11.39.49-AM.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

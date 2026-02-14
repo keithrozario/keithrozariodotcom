@@ -1,11 +1,12 @@
 +++
 title = "Jho Low uses Gmail? Why emails can't be considered evidence"
+slug = "jho-low-uses-gmail"
 date = "2015-03-07T15:11:26"
 draft = false
 categories = ['CyberLaw', 'Security &amp; Privacy']
 +++
 
-<img class="alignleft wp-image-4775 size-full" src="/uploads/15197804185_d4a1f3d9b3_m.jpg" alt="15197804185_d4a1f3d9b3_m" width="240" height="205" />As the 1MDB fiasco begins to simmer over the political stove, I wanted to inject some technical information into this discussion, specifically around emails and how they're almost useless pieces of evidence.
+![15197804185_d4a1f3d9b3_m](/uploads/15197804185_d4a1f3d9b3_m.jpg)As the 1MDB fiasco begins to simmer over the political stove, I wanted to inject some technical information into this discussion, specifically around emails and how they're almost useless pieces of evidence.
 
 Just to make sure everyone's on the same page, here's some context.
 
@@ -28,7 +29,7 @@ In this analogy the internet is composed of 'layers', technology that is built o
 
 Even if layers like WiFi or 3G/4G have security, and they reside on the what we call the physical layer, the security on these layers are usually stripped out before being passed onto the general internet. So WiFi has encryption that protects your data transmission from your phone or iPad to your router, but traffic from your router to the general internet no longer carries this encryption, and thus has to rely on other technologies to secure it.
 
-<img class=" wp-image-4771 aligncenter" src="/uploads/Layers-of-the-Internet.jpg" alt="Layers of the Internet" width="550" height="309" />
+![Layers of the Internet](/uploads/Layers-of-the-Internet.jpg)
 
 Every layer of the internet corresponds (more or less) to the time it was created--and addressed the needs of users at the time. Security only became a requirement when online shopping was popular, which when viewed over the course of the history of the internet--wasn't too long back.
 <h2>Which brings us to E-mails.</h2>
@@ -42,7 +43,7 @@ For completeness sake though, I have to inform you that there are certain techno
 
 The point of course is that email is great for communication but provides no form of authenticating the sender--which is why your bank will never send you an important e-mail, it always does so by snail-mail. Snail-mails are also easily spoofed, but they're far more expensive to send, and most scammers may know your e-mail, very few will go through the trouble of finding your actual physical address.
 <h2>What about those Prism documents eh?</h2>
-<img class=" wp-image-4776 alignright" src="/uploads/12224127613_9e6586dae1_z-214x300.jpg" alt="Snowden" width="300" height="420" />But Keith...you protest. Don't you believe all the Snowden documents, and can't those have been elaborately forged as well. Why hold SarawakReport to such a high standard, but let Snowden pass under the bridge, I hear you say.
+![Snowden](/uploads/12224127613_9e6586dae1_z-214x300.jpg)But Keith...you protest. Don't you believe all the Snowden documents, and can't those have been elaborately forged as well. Why hold SarawakReport to such a high standard, but let Snowden pass under the bridge, I hear you say.
 
 That's true. All the Snowden documentation (which I believe is 100% genuine) could have been easily manufactured in much the same as the 1MDB emails could have been manufactured--although I'm not accusing anyone of manufacturing those emails.
 

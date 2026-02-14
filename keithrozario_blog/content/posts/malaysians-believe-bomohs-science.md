@@ -1,11 +1,12 @@
 +++
 title = "No Surprise Malaysia scores low on Science"
+slug = "malaysians-believe-bomohs-science"
 date = "2012-12-26T08:00:14"
 draft = false
 categories = ['Malaysia', 'Science']
 +++
 
-<a href="/uploads/Phytoplankton_SoAtlantic_20060215.jpg"><img class="alignleft size-medium wp-image-3013" title="Phytoplankton_SoAtlantic_20060215" src="/uploads/Phytoplankton_SoAtlantic_20060215-230x300.jpg" alt="" width="230" height="300" /></a>This is a tech blog, so let's talk about tech.
+<a href="/uploads/Phytoplankton_SoAtlantic_20060215.jpg">![](/uploads/Phytoplankton_SoAtlantic_20060215-230x300.jpg "Phytoplankton_SoAtlantic_20060215")</a>This is a tech blog, so let's talk about tech.
 
 Let's about the technology behind the term geo-engineering. According to wikipedia  "The concept of <strong>geoengineering</strong> (or <strong>climate engineering,</strong> <strong>climate remediation,</strong> and <strong>climate intervention</strong>) refers to "the deliberate large-scale intervention in the Earth’s climate system, in order to moderate global warming". The techniques of geo-engineering are based on science, but applied on scale that exceeds even my imagination.
 
@@ -35,7 +36,7 @@ The icing on the cake though--and you really have to be sitting down to hear thi
 
 The most disturbing thing for me though is this, we promised to pay someone a fee of RM3.2 MILLION in 1991, if he could help raise the water level in the Durian Tunggal. Of course we didn't pay it (which is a relief), but the fact that we would have paid for it if on the off-chance there was rain over the dam is pretty disturbing.
 <h2>Betting State funds on Bomohs with money back guarantees</h2>
-<a href="/uploads/bomoh.jpg"><img class="alignright size-medium wp-image-3014" title="State government hires bomoh hujan " src="/uploads/bomoh-300x200.jpg" alt="State government hires bomoh hujan" width="300" height="200" /></a>For most these money-guarantees offer are proof of their effectiveness, as no one could provide a money back guarantee without being convinced of their abilities. This is where we fail to understand mathematics.
+<a href="/uploads/bomoh.jpg">![State government hires bomoh hujan](/uploads/bomoh-300x200.jpg "State government hires bomoh hujan ")</a>For most these money-guarantees offer are proof of their effectiveness, as no one could provide a money back guarantee without being convinced of their abilities. This is where we fail to understand mathematics.
 
 Let's imagine you were  T.J Constable, CEO of TJC Atmos Engineering. The government calls you and ask you help raise the water levels in Durian Tunggal, they offer you Rm3.2 Million if you succeed. So you do some calculations, you figure out that the flight to Malaysia cost you about RM15,000, with food and lodging it comes to around RM20,000. If you 'succeed' in raising the water levels, you get Rm3.2 Million, if you don't succeed you lose the RM20,000 you spent. The Government of course only loses if you succeed.
 

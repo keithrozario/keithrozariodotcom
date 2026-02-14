@@ -1,11 +1,12 @@
 +++
 title = "Sayakenahack.com answering the questions"
+slug = "sayakenahack-com-answering-the-questions"
 date = "2017-11-16T23:50:35"
 draft = false
 categories = ['Misc']
 +++
 
-<a href="/uploads/image2017-11-12_19-2-50.png"><img class="size-full wp-image-6088 aligncenter" src="/uploads/image2017-11-12_19-2-50.png" alt="" width="614" height="404" /></a>OK, this is my last post on sayakenahack.com, and I've got a script scheduled to run at Sunday midnight to tear down the database. So if you wanna check, you better do it now, cause in 3 days time, it'll be gone.
+<a href="/uploads/image2017-11-12_19-2-50.png">![](/uploads/image2017-11-12_19-2-50.png)</a>OK, this is my last post on sayakenahack.com, and I've got a script scheduled to run at Sunday midnight to tear down the database. So if you wanna check, you better do it now, cause in 3 days time, it'll be gone.
 
 *poof*
 
@@ -75,7 +76,7 @@ First-off, the data is masked at source. i.e. the database only has the masked d
 
 Below is the full representation of the data in the DB (for ic number 12345):
 
-<a href="/uploads/JSON.png"><img class="size-full wp-image-6114 aligncenter" src="/uploads/JSON.png" alt="" width="369" height="282" /></a>
+<a href="/uploads/JSON.png">![](/uploads/JSON.png)</a>
 
 The data is masked at source, not in transit. So even I have no way to retrieve the full phone number from the DB. That's why I can't provide folks their full phone numbers -- it just doesn't work that way.
 
@@ -117,7 +118,7 @@ That's just the tip of the icerberg of what I have on AWS. This thing is a labou
 <h2>So what</h2>
 Let's compare all of the above -- with this!!
 
-<a href="/uploads/spr.png"><img class="alignnone size-full wp-image-6111" src="/uploads/spr.png" alt="" width="1016" height="490" /></a>
+<a href="/uploads/spr.png">![](/uploads/spr.png)</a>
 
 That's the election commission website, that publishes your full name, and voting location based on a simple IC entry. The site is marked as insecure by Google Chrome because it doesn't even have TLS.
 
@@ -145,7 +146,7 @@ Just saying, maybe sayakenahack isn't a problem when the Election Commission's w
 
 This is sayakenahack.
 
-<a href="/uploads/sayakenahack.png"><img class="alignnone size-full wp-image-6112" src="/uploads/sayakenahack.png" alt="" width="829" height="473" /></a>
+<a href="/uploads/sayakenahack.png">![](/uploads/sayakenahack.png)</a>
 
 That 1 cookie is for Google Analytics, it's the only bit of 'data capturing' I do, and it's industry standard. I collect data about who visits the site, and see what their load/lag times are, to ensure the site is operational and working well. But that doesn't capture query strings, so no IC numbers are tracked.
 
@@ -155,15 +156,15 @@ So, I go through great lengths protecting the site, and definitely more effort t
 
 As a bonus, here's the PTPTN website, that allows you to check your balance. To be fair, they at least have a TLS equivalent, but they don't re-direct you to it. So it's still possible to access their non-encrypted site. See that bit on the browser that says "Not Secure".
 
-<img class="confluence-embedded-image" style="cursor: move; max-width: calc(100% - 4px); margin-left: 2px; margin-right: 2px; vertical-align: text-bottom; color: #333333; font-family: Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;" title="Hacks &gt; ScreenShots &gt; image2017-11-16_22-19-57.png" src="http://192.168.0.10:8090/download/attachments/9535583/image2017-11-16_22-19-57.png?version=1&amp;modificationDate=1510841997939&amp;api=v2" data-image-src="/download/attachments/9535583/image2017-11-16_22-19-57.png?version=1&amp;modificationDate=1510841997939&amp;api=v2" data-unresolved-comment-count="0" data-linked-resource-id="9535586" data-linked-resource-version="1" data-linked-resource-type="attachment" data-linked-resource-default-alias="image2017-11-16_22-19-57.png" data-base-url="http://192.168.0.10:8090" data-linked-resource-content-type="image/png" data-linked-resource-container-id="9535583" data-linked-resource-container-version="2" data-location="Hacks &gt; ScreenShots &gt; image2017-11-16_22-19-57.png" data-image-height="168" data-image-width="975" />
+![](http://192.168.0.10:8090/download/attachments/9535583/image2017-11-16_22-19-57.png?version=1&amp;modificationDate=1510841997939&amp;api=v2 "Hacks &gt; ScreenShots &gt; image2017-11-16_22-19-57.png")
 
-&nbsp;
+ 
 
 Sayakenahack forces re-direction. There is no un-encrypted version for either the website or API.
 
-&nbsp;
+ 
 
-<a href="/uploads/sayakenahack-redirect.png"><img class="size-full wp-image-6115 aligncenter" src="/uploads/sayakenahack-redirect.png" alt="" width="623" height="336" /></a>
+<a href="/uploads/sayakenahack-redirect.png">![](/uploads/sayakenahack-redirect.png)</a>
 <h2>Yes, but these are government websites</h2>
 Yes, the government (both state and federal) are exempt from PDPA.
 
@@ -175,7 +176,7 @@ Secondly, there exist an exemption clause in the PDPA, specifically section 45(2
 (ii) the data user reasonably believes that, taking into account the <strong>special importance of public interest in freedom of expression, the publication would be in the public interest</strong>;</blockquote>
 I don't know how you define, public interest, but the site got 100,000 visits today (even with the ban kicking in at 12pm) signals to me that there is public interest.
 
-<a href="/uploads/PageViews.png"><img class="alignnone size-full wp-image-6116" src="/uploads/PageViews.png" alt="" width="983" height="207" /></a>
+<a href="/uploads/PageViews.png">![](/uploads/PageViews.png)</a>
 
 I know Public Interest doesn't literally mean things that interest the public, but you can't argue that this is something people should be aware of. And don't give me bullshit about hackers querying this instead of 'real-users'. Hackers would use the API, and bypass the Google Analytics, the 100,000 is purely from the Google Analytics data.
 

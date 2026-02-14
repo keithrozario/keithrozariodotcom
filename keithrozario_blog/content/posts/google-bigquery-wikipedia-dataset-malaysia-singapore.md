@@ -1,12 +1,13 @@
 +++
 title = "Google bigquery"
+slug = "google-bigquery-wikipedia-dataset-malaysia-singapore"
 date = "2012-07-17T07:00:16"
 draft = false
 tags = ['Google']
 categories = ['Misc']
 +++
 
-<center><a href="/uploads/Google-bigquery-image.png"><img class="alignnone  wp-image-2552" title="Google-bigquery-image" src="/uploads/Google-bigquery-image.png" alt="Google-bigquery-whatisit" width="550" height="211" /></a></center>There are other more popular tools for big data, but today we'll focus on Google BigQuery for a very good reason. It's the only one I know how to use.
+<center><a href="/uploads/Google-bigquery-image.png">![Google-bigquery-whatisit](/uploads/Google-bigquery-image.png "Google-bigquery-image")</a></center>There are other more popular tools for big data, but today we'll focus on Google BigQuery for a very good reason. It's the only one I know how to use.
 
 Google BigQuery is a full fledge big data tool developed by google and stored on the cloud. There's a lot more information you can glean from their presentation <a title="Google bigquery" href="http://www.youtube.com/watch?v=QI8623HlYd4&amp;" target="_blank">here</a>. The short story is that Google created this tool online where you can analyze your bigdata for a per use fee, similar to other cloud offerings. Google currently charges $0.035 per GB of data processed or $35 per TB of data. That seems like a small fee, but it adds up pretty quickly, so for the moment bigdata and bigquery aren't exactly end-user offerings.
 
@@ -26,7 +27,7 @@ title CONTAINS 'Malaysia'
 GROUP BY title</blockquote>
 The results:
 
-<center><a href="/uploads/Google-biquery-title-contains-Malaysia.png"><img style="border: 2px solid black;" title="Google-biquery-title-contains-Malaysia" src="/uploads/Google-biquery-title-contains-Malaysia.png" alt="" width="550" height="219" /></a></center>The results were quite impressive 5423 rows returned from a total of 6.79GB processed--in 7.5seconds!
+<center><a href="/uploads/Google-biquery-title-contains-Malaysia.png">![](/uploads/Google-biquery-title-contains-Malaysia.png "Google-biquery-title-contains-Malaysia")</a></center>The results were quite impressive 5423 rows returned from a total of 6.79GB processed--in 7.5seconds!
 
 If I was getting a bit competitive and wanted to see the results from all Wikipedia entries containing Singapore for example, I rerun the query changing 'Malaysia' to 'Singapore'.
 
@@ -39,7 +40,7 @@ WHERE title CONTAINS 'Malaysia'
 GROUP BY title
 HAVING num_revisions &gt; 50
 ORDER BY num_revisions DESC</blockquote>
-<center><a href="/uploads/BigQuery_contributor_num_revisions.png"><img class="alignnone size-full wp-image-2553" style="border: 2px solid black;" title="BigQuery_contributor_num_revisions" src="/uploads/BigQuery_contributor_num_revisions.png" alt="Number of revision per title Wikipedia" width="550" height="231" /></a></center>Now things get interesting, from this query I can determined the most updated article containing the word 'Malaysia', all of this processing on 6.79GB of data in just 4.2 seconds. That's amazing.
+<center><a href="/uploads/BigQuery_contributor_num_revisions.png">![Number of revision per title Wikipedia](/uploads/BigQuery_contributor_num_revisions.png "BigQuery_contributor_num_revisions")</a></center>Now things get interesting, from this query I can determined the most updated article containing the word 'Malaysia', all of this processing on 6.79GB of data in just 4.2 seconds. That's amazing.
 
 At this juncture it's important to point out that the bigdata doesn't operate on the same principles as regular databases. Here things are sorted out in columns rather than rows, and all my examples prior to this select data from just the title column. So to see how things pan out when we look at 2 rows, I decided to look at who contributes the most to wikipedia by looking at the contributor_username.
 <blockquote>SELECT contributor_username,title, count(contributor_username) as num_revisions
@@ -50,7 +51,7 @@ HAVING num_revisions &gt; 50
 ORDER BY num_revisions DESC</blockquote>
 The results:
 
-<center><a href="/uploads/Google-BigQuery_contributorusername_title.png"><img class="alignnone size-full wp-image-2555" style="border: 2px solid black;" title="Google BigQuery_contributorusername_title" src="/uploads/Google-BigQuery_contributorusername_title.png" alt="Google-bigquery-most-contributions-wikipedia" width="550" height="219" /></a></center>This query, looks at all articles containing the word 'Malaysia', and it groups them by title and username. Basically it allows me to see which user is updating which articles the most. I've intentionally limited the returned data by looking at only those articles which have been updated more than 50 times by the user.
+<center><a href="/uploads/Google-BigQuery_contributorusername_title.png">![Google-bigquery-most-contributions-wikipedia](/uploads/Google-BigQuery_contributorusername_title.png "Google BigQuery_contributorusername_title")</a></center>This query, looks at all articles containing the word 'Malaysia', and it groups them by title and username. Basically it allows me to see which user is updating which articles the most. I've intentionally limited the returned data by looking at only those articles which have been updated more than 50 times by the user.
 
 The results were interesting, but I'll share those in a separate article I intend to write about Malaysia's King of Wikipedia and how Malaysian Airlines (MAS) looks to be updating their own wikipedia page...tsk tsk tsk.
 
@@ -67,7 +68,7 @@ GROUP BY title
 HAVING num_revisions &gt; 250;</blockquote>
 The Results:
 
-<center><a href="/uploads/Google-BigQuerymultiple-countries.png"><img class="alignnone  wp-image-2557" style="border: 2px solid black;" title="Google BigQuery(multiple countries)" src="/uploads/Google-BigQuerymultiple-countries.png" alt="Google-Bigquery-wikipedia-Malaysia-Singapore-Philippines-Brunei-Indonesia" width="612" height="206" /></a></center>The results, 6.79GB processed, in 5.8 seconds.
+<center><a href="/uploads/Google-BigQuerymultiple-countries.png">![Google-Bigquery-wikipedia-Malaysia-Singapore-Philippines-Brunei-Indonesia](/uploads/Google-BigQuerymultiple-countries.png "Google BigQuery(multiple countries)")</a></center>The results, 6.79GB processed, in 5.8 seconds.
 
 So overall I think, regardless of whatever data you query from the wikipedia public data set, whether you add CONTAINS statement and an 'OR' on that, or query two columns instead of one, or even add a HAVING clause and a overtly complicated WHILE clause, you're unlikely to break the 10s/query barrier with this baby.
 

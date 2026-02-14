@@ -1,5 +1,6 @@
 +++
 title = "Random thoughts"
+slug = "random-thoughts"
 date = "2016-08-20T22:13:56"
 draft = false
 categories = ['Misc']
@@ -59,4 +60,4 @@ Hypothetically they could infiltrate a financial organization and start routing 
 
 Just maybe.
 
-&nbsp;
+ 

@@ -1,11 +1,12 @@
 +++
 title = "Read this before GE14"
+slug = "read-this-before-you-vote"
 date = "2018-04-03T01:28:56"
 draft = false
 categories = ["Keith's Favorite Post", 'Singapore']
 +++
 
-<a href="/uploads/riptide_filter_405x640_.jpg"><img class="aligncenter wp-image-6340" src="/uploads/riptide_filter_405x640_.jpg" alt="" width="250" height="250" /></a>
+<a href="/uploads/riptide_filter_405x640_.jpg">![](/uploads/riptide_filter_405x640_.jpg)</a>
 
 Let's start this post the same way I start my day -- by looking at Facebook.
 

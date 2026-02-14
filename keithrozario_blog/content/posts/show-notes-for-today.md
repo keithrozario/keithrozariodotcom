@@ -1,5 +1,6 @@
 +++
 title = "Show notes for today"
+slug = "show-notes-for-today"
 date = "2016-06-23T13:35:35"
 draft = false
 tags = ['BFM']
@@ -8,7 +9,7 @@ categories = ['CyberLaw', "Keith's Favorite Post", 'Security &amp; Privacy']
 
 <audio preload="" controls="controls"><source src="https://s3-ap-southeast-1.amazonaws.com/livelearn/2016-06-23_KeithRozario_AnInternetlessPublicService.mp3" type="audio/mp3" />Your browser does not support native audio, but you can <a href="https://s3-ap-southeast-1.amazonaws.com/livelearn/2016-06-23_KeithRozario_AnInternetlessPublicService.mp3">download this MP3</a> to listen on your device.
 
-&nbsp;
+ 
 
 </audio>
 

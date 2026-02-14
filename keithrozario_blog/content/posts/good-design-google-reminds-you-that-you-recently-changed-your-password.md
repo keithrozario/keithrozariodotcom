@@ -1,12 +1,13 @@
 +++
 title = "Good Design: Google reminds you that you recently changed your password"
+slug = "good-design-google-reminds-you-that-you-recently-changed-your-password"
 date = "2012-02-01T11:29:53"
 draft = false
 tags = ['Google']
 categories = ['Design', 'Security &amp; Privacy', 'Social Media']
 +++
 
-<img class="alignleft size-medium wp-image-1742" title="Google Reader" src="/uploads/Google-Reader-300x285.png" alt="" width="300" height="285" />
+![](/uploads/Google-Reader-300x285.png "Google Reader")
 
 A couple of weeks back, Dreamhost reported a security breach on it's servers, so I thought for security sake I should change my passwords as well. I'd been using the same password for the past couple of years and it was time for a change anyway.
 

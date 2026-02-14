@@ -1,5 +1,6 @@
 +++
 title = "My First Post on Composito"
+slug = "my-first-post-on-composito"
 date = "2011-04-16T08:22:46"
 draft = false
 tags = ['Blog Features']

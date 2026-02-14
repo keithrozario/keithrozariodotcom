@@ -1,5 +1,6 @@
 +++
 title = "Datuk Maglin Dennis D'cruz in Klang : The non-updating Minister"
+slug = "datuk-maglin-dennis-dcruz-n49-klang-kota-alam-shah"
 date = "2013-04-20T20:22:13"
 draft = false
 categories = ['CyberLaw', 'Malaysia']
@@ -17,4 +18,4 @@ Things get more strange--because Datuk Maglin appears to have 2 websites--one wh
 
 If Datuk Maglin can't even update his own bloody website and facebook page, while he was Deputy Minister of Information Communications--that doesn't really speak volumes of his ability now does it?
 
-<a href="/uploads/rsz_yb_senator_maglin_dennis_d_cruz.png"><img class="aligncenter size-medium wp-image-3360" title="rsz_yb_senator_maglin_dennis_d_cruz" src="/uploads/rsz_yb_senator_maglin_dennis_d_cruz-300x263.png" alt="Datuk Maglin Dennis D'Cruz " width="300" height="263" /></a>
+<a href="/uploads/rsz_yb_senator_maglin_dennis_d_cruz.png">![Datuk Maglin Dennis D](/uploads/rsz_yb_senator_maglin_dennis_d_cruz-300x263.png "rsz_yb_senator_maglin_dennis_d_cruz")</a>

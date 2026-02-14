@@ -1,11 +1,12 @@
 +++
 title = "Sayakenahack architecture"
+slug = "sayakenahack-architecture"
 date = "2017-11-23T07:23:19"
 draft = false
 categories = ['Misc']
 +++
 
-<a href="/uploads/image2017-11-22_10-36-1.png"><img class="alignnone size-full wp-image-6131" src="/uploads/image2017-11-22_10-36-1.png" alt="" width="1308" height="618" /></a>
+<a href="/uploads/image2017-11-22_10-36-1.png">![](/uploads/image2017-11-22_10-36-1.png)</a>
 
 I know the picture is a bit hard to read, but I wanted to make sure I had a detailed enough picture to understand the 'innards' of sayakenahack. Sometimes when you're building stuff on the fly, and bottom-up, it's good to take a step back, and have a top-down view.
 
@@ -41,4 +42,4 @@ Next up, we'll look at the Holy Trinity of Serverless (API Gateway, Lambda, Dyna
 
 --stay tuned.
 
-&nbsp;
+ 

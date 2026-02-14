@@ -1,12 +1,13 @@
 +++
 title = "Original Microsoft Office for just Rm18/month"
+slug = "original-microsoft-office-for-just-rm18month"
 date = "2012-03-04T14:32:28"
 draft = false
 tags = ['Microsoft', 'Office365', 'SaaS']
 categories = ['Cloud Computing']
 +++
 
-<a href="/uploads/microsoft-office365.png"><img class="alignleft size-medium wp-image-1860" title="microsoft-office365" src="/uploads/microsoft-office365-300x166.png" alt="" width="300" height="166" /></a>Yeap, you read that right. Microsoft office is the bane of all small business owners, they need it to generate documents and spreadsheets, but it cost a bomb to own. The standard Microsoft Office suite runs well over Rm600, and according to this <a title="Software Exchange Pricelist" href="http://www.softwareexchange.com.sg/my/pricelist.pdf" target="_blank">pricelist</a> from software exchange, Microsoft Office 2010 cost a whooping Rm643. Now Rm643 may not seem like much, but when a laptop/desktop cost just Rm2000, that's nearly 30% more cash upfront for your software needs.
+<a href="/uploads/microsoft-office365.png">![](/uploads/microsoft-office365-300x166.png "microsoft-office365")</a>Yeap, you read that right. Microsoft office is the bane of all small business owners, they need it to generate documents and spreadsheets, but it cost a bomb to own. The standard Microsoft Office suite runs well over Rm600, and according to this <a title="Software Exchange Pricelist" href="http://www.softwareexchange.com.sg/my/pricelist.pdf" target="_blank">pricelist</a> from software exchange, Microsoft Office 2010 cost a whooping Rm643. Now Rm643 may not seem like much, but when a laptop/desktop cost just Rm2000, that's nearly 30% more cash upfront for your software needs.
 
 How is this possible, well Microsoft is offering <a title="Office 365" href="http://www.microsoft.com/en-my/office365/plans/small-business/office-web-apps.aspx#fbid=GVET-WNYfyY" target="_blank">Office365</a> worldwide and has even partnered with TM to sell their cloud offerings<a title="Office365 Malaysia" href="http://www.tm.com.my/sme/products/ComplementaryServices/Pages/O365-howitswork.aspx" target="_blank"> locally in Malaysia</a>. Office365 is a cloud based version of the Microsoft Office, and it even includes things like email, collaboration and project management software. All of this for just Rm18/month is a pretty sweet deal in comparison to putting down Rm600 per user as a initial capital expense.<!--more-->
 

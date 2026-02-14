@@ -1,5 +1,6 @@
 +++
 title = "PMO purchases of Hacking Team software"
+slug = "no-the-prime-minister-doesnt-need-spyware"
 date = "2016-01-11T08:00:32"
 draft = false
 tags = ['Spyware']
@@ -7,7 +8,7 @@ categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++
 
 
-[caption id="attachment_5373" align="aligncenter" width="550"]<a href="/uploads/Prime-Ministers-Department.png" rel="attachment wp-att-5373"><img class="wp-image-5373" src="/uploads/Prime-Ministers-Department.png" alt="E-mail from Miliserv to Hacking team stipulating the end-customer as the Prime Ministers Department" width="550" height="249" /></a> E-mail from Miliserv to Hacking team stipulating the end-customer as the Prime Ministers Department[/caption]
+[caption id="attachment_5373" align="aligncenter" width="550"]<a href="/uploads/Prime-Ministers-Department.png" rel="attachment wp-att-5373">![E-mail from Miliserv to Hacking team stipulating the end-customer as the Prime Ministers Department](/uploads/Prime-Ministers-Department.png)</a> E-mail from Miliserv to Hacking team stipulating the end-customer as the Prime Ministers Department[/caption]
 
 
 The Prime Ministers Department has <a href="http://www.themalaymailonline.com/malaysia/article/pms-department-didnt-buy-spyware-minister-says">denied</a> (<a href="http://www.themalaysianinsider.com/malaysia/article/again-azalina-denies-putrajaya-bought-spyware">twice!</a>) that it has ever procured surveillance software from Hacking Team. Even though hundreds of e-mails in the leaked <a href="https://wikileaks.org/hackingteam/emails/">Hacking Team archive</a> point to it. The latest rebuttal, Datuk Azalina distanced her Ministry from other government agencies, encouraging reporters to seek official statement directly from other agencies accused of procuring the spyware.
@@ -19,7 +20,7 @@ To be clear, I'm not accusing anyone of anything. I'm merely reproducing what is
 So...here's an e-mail (linked <a href="https://www.dropbox.com/s/nhf46kexcbhli27/RE%2030%25%20Payment.msg?dl=">here</a>), showing Miliserv requesting Hacking Team to register the <strong>Prime Ministers Department</strong> as the End User of the system in the Licensing agreement, and here's another (below), showing Miliserv preparing to welcome 6 PMO staff to their headquarters in Milan for 'advanced training'. I have removed the names of the PMO staff (red blocks) as I believe that employees shouldn't be punished for mistakes their employers commit <em>(but you can search for it online, it comes with passport numbers as well). </em>Why send 6 staff to Milan for training if you didn't buy the spyware?
 
 <!--more-->
-<a href="/uploads/PMO-Training-1.png" rel="attachment wp-att-5377"><img class="wp-image-5379 aligncenter" src="/uploads/PMO-Training-1.png" alt="" width="550" height="387" /></a>Now why is it important that we clear this up, even after the MACC has implicitly admitted purchasing such spyware? Well, it's because of a little known agreement known as Wassenaar.
+<a href="/uploads/PMO-Training-1.png" rel="attachment wp-att-5377">![](/uploads/PMO-Training-1.png)</a>Now why is it important that we clear this up, even after the MACC has implicitly admitted purchasing such spyware? Well, it's because of a little known agreement known as Wassenaar.
 
 <h2>Implications of Wassenaar</h2>
 
@@ -46,7 +47,7 @@ I've always maintained that there are 'legitimate' uses of this software. This <
 Oh and a final bonus. At one point, the PMO purportedly asked Hacking Team to lie on their customs declaration forms for shipments into Malaysia..tsk tsk tsk.
 
 
-[caption id="attachment_5374" align="aligncenter" width="550"]<img class="wp-image-5374" src="/uploads/Customs-avoidind.png" alt="Customs-avoidind" width="550" height="155" /> Zuraimi asked if Hacking team could change the description of their items during shipment because they didn't want Malaysian customs to find out.[/caption]
+[caption id="attachment_5374" align="aligncenter" width="550"]![Customs-avoidind](/uploads/Customs-avoidind.png) Zuraimi asked if Hacking team could change the description of their items during shipment because they didn't want Malaysian customs to find out.[/caption]
 
 
 <h2></h2>

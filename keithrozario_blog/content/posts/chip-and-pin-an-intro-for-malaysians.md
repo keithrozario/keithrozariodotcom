@@ -1,5 +1,6 @@
 +++
 title = "Chip And Pin : An intro for Malaysians"
+slug = "chip-and-pin-an-intro-for-malaysians"
 date = "2015-10-29T11:59:54"
 draft = false
 categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
@@ -7,7 +8,7 @@ categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 
 In 2016, Chip and Pin will gradually be introduced in Malaysia, that means your Credit Cards now will prompt you for a PIN instead of signature during purchases. This will be a bit of a hassle, but it will be worth it,  here's what you need to know about it and credit card transactions in general.
 <h2>The 5 people you meet in card transaction</h2>
-<a href="/uploads/19205891971_2abaa89036_z.jpg"><img class="wp-image-5281 size-medium alignleft" src="/uploads/19205891971_2abaa89036_z-300x300.jpg" alt="19205891971_2abaa89036_z" width="300" height="300" /></a>First off, a short primer on credit card transactions. In any business transaction, there are at least 2 actors involved, a buyer and a seller. In industry lingo we call them <strong>Merchants </strong>and <strong>Cardholders</strong>. These are important terms to remember, as we'll use them extensively .
+<a href="/uploads/19205891971_2abaa89036_z.jpg">![19205891971_2abaa89036_z](/uploads/19205891971_2abaa89036_z-300x300.jpg)</a>First off, a short primer on credit card transactions. In any business transaction, there are at least 2 actors involved, a buyer and a seller. In industry lingo we call them <strong>Merchants </strong>and <strong>Cardholders</strong>. These are important terms to remember, as we'll use them extensively .
 
 But a card transaction is far more complicated and involves at <span style="text-decoration: underline;">least</span> 3 more actors, some of which you may not even be aware off. First, we have the party that issued the cardholder their card, the '<strong>Issuer</strong>'. If you have a credit card, chances are that credit card is tied to an line of credit issued by a bank, whether it's HSBC, or Maybank, these are issuers, who have a relationship with the card holder.
 
@@ -73,7 +74,7 @@ By the way, there's a myth going around that if you enter your PIN backwards, th
 
 But what does 2-Factor authentication have to do with Chip And PIN?
 <h2>Signature vs. PIN</h2>
-<img class="alignright wp-image-5279" src="/uploads/signature.jpg" alt="signature" width="300" height="212" />Technically even today all credit transactions are two-factor authenticated. You must have the card, and you must be able to sign according to the signature behind the card.
+![signature](/uploads/signature.jpg)Technically even today all credit transactions are two-factor authenticated. You must have the card, and you must be able to sign according to the signature behind the card.
 
 But all of that assumes that a signature is hard to forge, and that cashiers verify the signature--both of which aren't true. The main problem with signatures is that it relies on a human (the cashier) to verify the transaction, that's weak in every sense of the word.
 
@@ -85,7 +86,7 @@ So if we want to keep fraud low, we need to upgrade the tech, and the logical st
 
 But Why are Pins more secure?
 
-<img class="alignleft wp-image-5280" src="/uploads/7212980434_e0b58bd5d2_m.jpg" alt="7212980434_e0b58bd5d2_m" width="300" height="300" />A PIN is fundamentally more secure than a card, because it is verified by the issuing bank (<em>or sometimes on the terminal by the card itself, but I don't have time to explore offline and online PIN here--again that needs a beer</em>), and the verification process is automatic. So we don't have to rely on cashiers and human judgement, it also frees up the cashier, because no decision is reliant on them.
+![7212980434_e0b58bd5d2_m](/uploads/7212980434_e0b58bd5d2_m.jpg)A PIN is fundamentally more secure than a card, because it is verified by the issuing bank (<em>or sometimes on the terminal by the card itself, but I don't have time to explore offline and online PIN here--again that needs a beer</em>), and the verification process is automatic. So we don't have to rely on cashiers and human judgement, it also frees up the cashier, because no decision is reliant on them.
 
 An extra benefit of Chip and PIN is there are less opportunities for downgrade attacks. Because Signatures need human verification, there are special circumstances where card transactions don't require signatures. When you pump petrol in Malaysia and swipe your card at the pump, no signature is requested from you--because there would be no way to verify it. So a petrol purchase, specifically one done at the outdoor pump, is a pure Single Factor authenticated transaction--you only need the card <em>(something you have)</em>
 
@@ -105,7 +106,7 @@ Chip &amp; PIN is fundamentally more secure than Chip &amp; Signature...BUT it i
 
 In security of the masses, you can never be 100% secure, but you can put in place systems that make you less of a target. Moving Chip &amp; PIN will elevate Malaysia out of the lowest rung in the technological ladder, and keep us away from 'most' of the criminals.
 <h2>Conclusion &amp; a note about liability</h2>
-<a href="/uploads/5654834876_3c5feb5678_z.jpg"><img class="alignleft wp-image-5278 size-medium" src="/uploads/5654834876_3c5feb5678_z-300x194.jpg" alt="5654834876_3c5feb5678_z" width="300" height="194" /></a>Even if you didn't understand what I just said throughout this ridiculously long 2000 word post, you need to at least understand this.
+<a href="/uploads/5654834876_3c5feb5678_z.jpg">![5654834876_3c5feb5678_z](/uploads/5654834876_3c5feb5678_z-300x194.jpg)</a>Even if you didn't understand what I just said throughout this ridiculously long 2000 word post, you need to at least understand this.
 
 In Malaysia, we have a Law that limits the liability of a cardholder to Rm250 provided they reported the lost card in a 'reasonable' amount of time. Moving to Chip and PIN may impact that significantly, and increase your liability, simply because it wasn't just a lost or stolen card, but also a lost or stolen PIN as well. Losing a physical item is 'reasonable', telling someone a secret like a PIN is something else entirely.
 
@@ -115,4 +116,4 @@ If you're a merchant, consider this. Chip and PIN isn't mandatory for everyone. 
 
 That being said, happy PINning.
 
-&nbsp;
+ 

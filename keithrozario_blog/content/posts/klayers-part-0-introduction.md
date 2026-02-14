@@ -1,5 +1,6 @@
 +++
 title = "Klayers Part 0: Introduction"
+slug = "klayers-part-0-introduction"
 date = "2019-08-13T00:36:40"
 draft = false
 categories = ['Serverless']
@@ -114,5 +115,5 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6763,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/Klayers-Architecture.png" alt="" class="wp-image-6763"/></figure>
+![](/uploads/Klayers-Architecture.png)
 <!-- /wp:image -->

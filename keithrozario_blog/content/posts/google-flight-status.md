@@ -1,12 +1,13 @@
 +++
 title = "Google: Typing your flight number in Google reveals the flight status"
+slug = "google-flight-status"
 date = "2011-10-22T22:53:32"
 draft = false
 tags = ['Google']
 categories = ['Misc']
 +++
 
-<a title="http://www.keithrozario.com/2011/10/google-flight-status.html" href="http://www.keithrozario.com/2011/10/google-flight-status.html/flight-search" rel="attachment wp-att-1329"><img class="alignleft size-full wp-image-1329" title="Flight Search" src="/uploads/Flight-Search.jpg" alt="" width="350" height="156" /></a>Apparently Google isn't content being the number one place you have for your knowledge thirst. Google is working on being the number place you'd look for <strong>anything and everything</strong>, from the price of gold to currency exchange and now even flight schedules.
+<a title="http://www.keithrozario.com/2011/10/google-flight-status.html" href="http://www.keithrozario.com/2011/10/google-flight-status.html/flight-search" rel="attachment wp-att-1329">![](/uploads/Flight-Search.jpg "Flight Search")</a>Apparently Google isn't content being the number one place you have for your knowledge thirst. Google is working on being the number place you'd look for <strong>anything and everything</strong>, from the price of gold to currency exchange and now even flight schedules.
 
 Typing in a flight number (with no spaces) directly into Google yields the flight status in terms of departure and arrival times. Not to mention letting you know of delays ahead of time, the flight data is pulled from flightstats.com and Google does a fine job of displaying the data directly <strong>before</strong> the query results.
 

@@ -1,12 +1,13 @@
 +++
 title = "Apple's new Slide-To-Unlock patent : Why it doesn't matter"
+slug = "apples-new-slide-to-unlock-patent-why-it-doesnt-matter"
 date = "2012-10-12T13:00:26"
 draft = false
 tags = ['Apple']
 categories = ['Copyright and Censorship', 'Design']
 +++
 
-<center><a href="/uploads/US8286103B2-slide-to-unlock-patent-apple.jpg"><img class="alignnone size-full wp-image-2844" title="US8286103B2-slide-to-unlock-patent-apple" src="/uploads/US8286103B2-slide-to-unlock-patent-apple.jpg" alt="Apple Slide to Unlock" width="600" height="385" /></a></center>
+<center><a href="/uploads/US8286103B2-slide-to-unlock-patent-apple.jpg">![Apple Slide to Unlock](/uploads/US8286103B2-slide-to-unlock-patent-apple.jpg "US8286103B2-slide-to-unlock-patent-apple")</a></center>
 Apple was just awarded a <a title="Apple Slide to Unlock patent" href="http://assets.sbnation.com/assets/1522863/US8286103B2.pdf" target="_blank">3rd patent for it's Slide-to-Unlock feature</a>, and while the internet is still abuzz with it, I just fail to see any reason to get excited.
 
 <strong>Yes</strong>, Apple looks to be greedy and is apparently more than happy competing with HTC and Samsung in courtrooms rather than the open market--but we all knew this already.

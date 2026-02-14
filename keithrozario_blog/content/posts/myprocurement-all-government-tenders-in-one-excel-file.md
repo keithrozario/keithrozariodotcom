@@ -1,11 +1,12 @@
 +++
 title = "MyProcurement: All government tenders in one Excel file"
+slug = "myprocurement-all-government-tenders-in-one-excel-file"
 date = "2014-09-16T22:54:40"
 draft = false
 categories = ['Big Data', 'CyberLaw', 'Malaysia']
 +++
 
-<a href="/uploads/MyPROCUREMENT-Pusat-Maklumat-Perolehan-Kerajaan.png"><img class="size-full wp-image-4587 aligncenter" src="/uploads/MyPROCUREMENT-Pusat-Maklumat-Perolehan-Kerajaan.png" alt="MyProcurement" width="535" height="307" /></a>
+<a href="/uploads/MyPROCUREMENT-Pusat-Maklumat-Perolehan-Kerajaan.png">![MyProcurement](/uploads/MyPROCUREMENT-Pusat-Maklumat-Perolehan-Kerajaan.png)</a>
 <blockquote><span style="color: #99ccff;">I've updated this post on 31-Mar-2015, to incorporate the latest changes, and to provide more up to data info on the procurement database. Left everything else in tact.</span></blockquote>
 Happy birthday Malaysia!! Just how awesome is our country, that we celebrate an Independence Day AND a Malaysia Day, not to mention 2 New years day, (or 3 if you count Awal Muharram).
 
@@ -19,13 +20,13 @@ So I wrote a simple Python script to extract all the data, and prettified the da
 
 I was happy that I could at least see which Ministeries or Government departments gave out the most contracts, and what the values of those contracts were. All in all, the excel spreadsheet has more than 10,000 tenders with a cumulative value of RM35 billion worth of contracts going back to 2009. The data allowed me to figure out which Ministry gave out the most contracts, the contracts with the highest and lowest value (including one for Rm0.00, and one for just Rm96.00). All in all it was quite informative.
 
-<a href="/uploads/Results_by_ministry.png"><img class="wp-image-4584 aligncenter" src="/uploads/Results_by_ministry.png" alt="Results_by_ministry" width="550" height="425" /></a>
+<a href="/uploads/Results_by_ministry.png">![Results_by_ministry](/uploads/Results_by_ministry.png)</a>
 
 <!--more-->
 
 What I wasn't too happy about was the data quality in the dataset. Firstly, there were 419 tenders where the winning party wasn't documented--in other words a total of Rm2 Billion was given out through this system but the winning parties who received that huge amount of cash was blank. Also the names of the winners were not documented consistently, for example look at the screenshot below:
 
-<a href="/uploads/Advance-Altimas.png"><img class="wp-image-4585 aligncenter" src="/uploads/Advance-Altimas.png" alt="Advance Altimas" width="550" height="181" /></a>
+<a href="/uploads/Advance-Altimas.png">![Advance Altimas](/uploads/Advance-Altimas.png)</a>
 
 This company "ADVANCE ALTIMAS SDN.BHD." won 5 different contracts, but the name of the company seems to change with each contract. Sometimes there is a dot at the end of the SDN and BHD, sometimes there isn't, and one time there is a huge typo that changes ALTIMAS to AGITMASS. Even the ROC registration number or the Ministries own registration number (under MOF/PKK) is inconsistent acrosss the 5 entries, and this is not specific to this company either. The entire dataset is filled with these inconsistencies.
 

@@ -1,12 +1,13 @@
 +++
 title = "QR codes making a comeback with Wikipedia?"
+slug = "qr-codes-making-a-comeback"
 date = "2011-10-01T18:40:26"
 draft = false
 tags = ['wiki', 'Wikipedia']
 categories = ['Design']
 +++
 
-<a title="QR Codes making a comeback?" href="http://www.keithrozario.com/2011/10/qr-codes-making-a-comeback.html/400px-j_wales_tcm_013" rel="attachment wp-att-1245" target="_blank"><img class="size-medium wp-image-1245 alignleft" title="400px-J_Wales_TCM_013" src="/uploads/400px-J_Wales_TCM_013-300x214.jpg" alt="" width="300" height="214" /></a>QR codes may be making that all important comeback. Apparently QR codes were all the craze a couple of months ago, but now (just like the Royal Wedding) seem to be out of fashion. Fortunately, though there seems to be life left in this brilliant invention. The Wikimedia blog recently made a strange (yet interesting) announcement that they're launching <a title="QRPedia" href="http://www.QRPedia.org" target="_blank">QRPedia</a>.
+<a title="QR Codes making a comeback?" href="http://www.keithrozario.com/2011/10/qr-codes-making-a-comeback.html/400px-j_wales_tcm_013" rel="attachment wp-att-1245" target="_blank">![](/uploads/400px-J_Wales_TCM_013-300x214.jpg "400px-J_Wales_TCM_013")</a>QR codes may be making that all important comeback. Apparently QR codes were all the craze a couple of months ago, but now (just like the Royal Wedding) seem to be out of fashion. Fortunately, though there seems to be life left in this brilliant invention. The Wikimedia blog recently made a strange (yet interesting) announcement that they're launching <a title="QRPedia" href="http://www.QRPedia.org" target="_blank">QRPedia</a>.
 
 Wikimedia are the guys behind wikipedia and they're using the great power of QR codes by offering a fantastic service via the wikipedia API.
 
@@ -27,4 +28,4 @@ So what do you think? QR Codes making a comeback?
 <em><span style="color: #888888;">Picture from the wikimedia blog entry: http://blog.wikimedia.org/2011/09/28/qr-codes-wikipedia/ by the way the the guy scanning the QR Code is <a title="Jimmy Wales" href="http://en.wikipedia.org/wiki/Jimmy_Wales">Jimmy Wales</a>
 </span></em>
 
-&nbsp;
+ 

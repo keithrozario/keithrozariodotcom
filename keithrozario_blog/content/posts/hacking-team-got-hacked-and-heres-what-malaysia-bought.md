@@ -1,12 +1,13 @@
 +++
 title = "Hacking Team got Hacked, and here's what Malaysia Bought"
+slug = "hacking-team-got-hacked-and-heres-what-malaysia-bought"
 date = "2015-07-16T10:04:35"
 draft = false
 tags = ['Spyware']
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++
 
-[caption id="attachment_5085" align="aligncenter" width="550"]<img class="wp-image-5085" src="/uploads/RCS-monitor-820x461.jpg" alt="RCS monitor" width="550" height="309" /> A screenshot of the RCS Software from Hacking Team[/caption]
+[caption id="attachment_5085" align="aligncenter" width="550"]![RCS monitor](/uploads/RCS-monitor-820x461.jpg) A screenshot of the RCS Software from Hacking Team[/caption]
 
 There are two types of governments in the world, Those that <span style="text-decoration: underline;">build</span> complex surveillance software to spy on their citizens, and those that <span style="text-decoration: underline;">buy</span> them--and our government is more the buying type.
 
@@ -24,7 +25,7 @@ The question of course is should you be worried, the answer is Yes, and not just
 
 Worst still, some e-mails point to incompetent IT skills as well as bad Procurement practices, that actually annoyed hacking team's salesforce. I will conclude this post with why this attack on Hacking Team has a positive outlook for regular internet users, and why our government agencies procuring this stuff isn't exactly ALL THAT BAD.<!--more-->
 <h2>What did the Government Buy?</h2>
-<img class=" wp-image-5090 aligncenter" src="/uploads/HackingTeam-Architecture-603x500.png" alt="HackingTeam-Architecture" width="550" height="456" />But let's start with the RCS software itself.
+![HackingTeam-Architecture](/uploads/HackingTeam-Architecture-603x500.png)But let's start with the RCS software itself.
 
 What exactly was being purchased? Well according to the Hacking Team Brochure (you can download <a href="/uploads/RCS.pdf">here</a>)
 <blockquote>Remote Control System (RCS) is a solution designed to evade encryption by means of an agent directly installed on the device to monitor. Evidence collection on monitored devices is stealth and transmission of collected data from the device to the RCS server is encrypted and untraceable.
@@ -34,7 +35,7 @@ In other words, RCS is a piece of spyware, that when installed on your computer 
 
 The RCS still requires to be implanted onto your system, and for this Hacking Team utilized vulnerabilities in software like Microsoft Windows, Google Android and Adobe Flash that weren't publicly known. Meaning they knew of weak spots in Flash that even the manufacturer wasn't aware of, so that their RCS agent could be implanted onto a victims machine. These '0-day exploits' (as in the Zero day) are rare, researchers spend years finding such things, and Hacking Team had quite a number of them, fortunately since this disclosure those vulnerabilities are being patched.
 <h2>Which government departments?</h2>
-<a href="/uploads/Invoices_XLS.png"><img class="wp-image-5096 aligncenter" src="/uploads/Invoices_XLS-820x219.png" alt="Invoices_XLS" width="550" height="147" /></a>Buying surveillance software in itself isn't wrong. After all, the police are well within their authority to purchase such software as part of their investigative powers.It's not just acceptable, it's actually expected that the Police ramp up their surveillance capabilities--phone taps and binoculars don't get you enough information these days. I don't oppose specific surveillance, where the police in their authority with proper judicial oversight run a 'stake-out' on criminal suspects. What I oppose is bulk surveillance, where the police without judicial oversight are given blank cheques to spy on whomever they choose. There's a nuance that many don't quite understand. Of course, all of this violates the Computer Crimes act, since the very act of using RCS is 'hacking', therefore these government agencies by just purchasing the software have admitted to hacking citizens. Wonder when any of these guys will be seeing the inside of a jail-cell.
+<a href="/uploads/Invoices_XLS.png">![Invoices_XLS](/uploads/Invoices_XLS-820x219.png)</a>Buying surveillance software in itself isn't wrong. After all, the police are well within their authority to purchase such software as part of their investigative powers.It's not just acceptable, it's actually expected that the Police ramp up their surveillance capabilities--phone taps and binoculars don't get you enough information these days. I don't oppose specific surveillance, where the police in their authority with proper judicial oversight run a 'stake-out' on criminal suspects. What I oppose is bulk surveillance, where the police without judicial oversight are given blank cheques to spy on whomever they choose. There's a nuance that many don't quite understand. Of course, all of this violates the Computer Crimes act, since the very act of using RCS is 'hacking', therefore these government agencies by just purchasing the software have admitted to hacking citizens. Wonder when any of these guys will be seeing the inside of a jail-cell.
 
 So which government departments purchased the software?
 

@@ -1,11 +1,12 @@
 +++
 title = "Russell Peters : A case for copyright"
+slug = "russell-peters-a-case-for-copyright"
 date = "2012-04-17T16:36:40"
 draft = false
 categories = ['Copyright and Censorship', 'Malaysia']
 +++
 
-<a href="/uploads/russell-peters-malaysia-poster.jpg"><img class="alignleft size-medium wp-image-2024" title="russell-peters-malaysia-poster" src="/uploads/russell-peters-malaysia-poster-214x300.jpg" alt="" width="214" height="300" /></a>
+<a href="/uploads/russell-peters-malaysia-poster.jpg">![](/uploads/russell-peters-malaysia-poster-214x300.jpg "russell-peters-malaysia-poster")</a>
 
 <em><span style="color: #888888;">Update 1: Russell Peters World Tour in Malaysia was sold out in hours. I failed to get a ticket online, couldn't even log in. A friend of mine lining up in KLCC was told at around 10-ish in the morning that only platinum tickets were available. </span></em>
 
@@ -35,4 +36,4 @@ The only reason he's able to perform in Malaysia is because Malaysians watched h
 
 So there you have it folks, I'm already anxiously waiting to buy the tickets, and you should you.
 
-&nbsp;
+ 

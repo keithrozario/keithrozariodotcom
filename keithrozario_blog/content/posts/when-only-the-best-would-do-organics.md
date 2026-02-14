@@ -1,11 +1,12 @@
 +++
 title = "When only the best would do: Organics"
+slug = "when-only-the-best-would-do-organics"
 date = "2012-02-06T23:19:56"
 draft = false
 categories = ['Misc']
 +++
 
-<a href="/uploads/5894911119_d1ea3b2a64.jpg"><img class="alignleft size-medium wp-image-1759" title="5894911119_d1ea3b2a64" src="/uploads/5894911119_d1ea3b2a64-300x225.jpg" alt="" width="300" height="225" /></a>I used to be a strong believer of organics, until I saw the prices of organic foods at my local Jusco. Needless to say, I stopped believing in organics pretty quickly. Of course, I understand the premise, which is that organic food is 100% natural, without added chemicals or fertilizers, no herbicides or pesticides leaving your food 100% wholesome. There is strong justification for this, although limited scientific proof.
+<a href="/uploads/5894911119_d1ea3b2a64.jpg">![](/uploads/5894911119_d1ea3b2a64-300x225.jpg "5894911119_d1ea3b2a64")</a>I used to be a strong believer of organics, until I saw the prices of organic foods at my local Jusco. Needless to say, I stopped believing in organics pretty quickly. Of course, I understand the premise, which is that organic food is 100% natural, without added chemicals or fertilizers, no herbicides or pesticides leaving your food 100% wholesome. There is strong justification for this, although limited scientific proof.
 
 The way to think about organic is that, mankind evolved to consume certain types of food and nutrition, but with the advent of 'industrialized agriculture'  things changed. We now consume tomatoes all year round, although it's a seasonal fruit, the concept is simple--pluck the tomatoes when they're ripe and then spray them with chemicals just before they hit supermarket shelves, that way nobody needs to worry about seasons. This is true for nearly all your seasonal fruits that appear 'all year round'. All this makes the fruit un-natural or at least--less nutritious than it's purely organic counterpart.<!--more-->
 
@@ -21,8 +22,8 @@ But for the life of me, I can't imagine why you'd want even an attacker to be sp
 
 Why in the world would you pay an organic premium for pepper spray aimed at an enemy? Some people really have too much money. Sounds bizzare, but it's true and for just Rm28 you too can get Organic pepper spray from this <a title="Groupon: Organic Pepper Spray" href="http://www.groupon.my/deals/national-deal/esona-organic-pepper-spray/715959389?nlp=&amp;CID=MY_CRM_1_0_0_37&amp;a=715827970" target="_blank">Groupon Link</a>. Act fast.
 
-<a href="/uploads/Up-to-35-Off-Organic-Pepper-Spray-formulated-in-the-USA-from-RM28-for-1.-Free-Delivery-Nationwide.png"><img class="alignnone size-full wp-image-1757" title="Up to 35  Off Organic Pepper Spray formulated in the USA from RM28 for 1. Free Delivery Nationwide" src="/uploads/Up-to-35-Off-Organic-Pepper-Spray-formulated-in-the-USA-from-RM28-for-1.-Free-Delivery-Nationwide.png" alt="" width="755" height="525" /></a>
+<a href="/uploads/Up-to-35-Off-Organic-Pepper-Spray-formulated-in-the-USA-from-RM28-for-1.-Free-Delivery-Nationwide.png">![](/uploads/Up-to-35-Off-Organic-Pepper-Spray-formulated-in-the-USA-from-RM28-for-1.-Free-Delivery-Nationwide.png "Up to 35  Off Organic Pepper Spray formulated in the USA from RM28 for 1. Free Delivery Nationwide")</a>
 
-&nbsp;
+ 
 
 <span style="color: #888888;">Photo or Organic produce courtesy of : <a href="http://www.flickr.com/photos/aroberts/5894911119/sizes/m/in/photostream/"><span style="color: #888888;">http://www.flickr.com/photos/aroberts/5894911119/sizes/m/in/photostream/</span></a></span>

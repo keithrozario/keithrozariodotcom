@@ -1,5 +1,6 @@
 +++
 title = "Agents productivity vs. Quality"
+slug = "agents-productivity-vs-quality"
 date = "2026-01-12T14:14:37"
 draft = false
 categories = ['Misc']
@@ -39,15 +40,15 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p id="6017">If that’s what they said, I’d be delighted. But no one is investing hundreds of billions in AI companies because they think AI will make radiology more expensive, not even if it that also makes radiology more accurate. The market’s bet on AI is that an AI salesman will visit the CEO of Kaiser and make this pitch: “Look, you fire 9/10s of your radiologists, saving $20m/year, you give us $10m/year, and you net $10m/year,&nbsp;<mark>and the remaining radiologists’ job will be to oversee the diagnoses the AI makes at superhuman speed, and somehow remain vigilant as they do so, despite the fact that the AI is usually right, except when it’s catastrophically wrong.</mark></p>
+<p id="6017">If that’s what they said, I’d be delighted. But no one is investing hundreds of billions in AI companies because they think AI will make radiology more expensive, not even if it that also makes radiology more accurate. The market’s bet on AI is that an AI salesman will visit the CEO of Kaiser and make this pitch: “Look, you fire 9/10s of your radiologists, saving $20m/year, you give us $10m/year, and you net $10m/year, <mark>and the remaining radiologists’ job will be to oversee the diagnoses the AI makes at superhuman speed, and somehow remain vigilant as they do so, despite the fact that the AI is usually right, except when it’s catastrophically wrong.</mark></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p id="651c">“And if the AI misses a tumor, this will be the human&nbsp;<em>radiologist’s</em>&nbsp;fault, because they are the ‘human in the loop.’ It’s their signature on the diagnosis.”</p>
+<p id="651c">“And if the AI misses a tumor, this will be the human <em>radiologist’s</em> fault, because they are the ‘human in the loop.’ It’s their signature on the diagnosis.”</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p id="83cb">This is a reverse centaur, and it’s a specific kind of reverse-centaur: it’s what Dan Davies calles an “accountability sink.”&nbsp;<mark>The radiologist’s job isn’t really to oversee the AI’s work, it’s to take the blame for the AI’s mistakes.</mark></p>
+<p id="83cb">This is a reverse centaur, and it’s a specific kind of reverse-centaur: it’s what Dan Davies calles an “accountability sink.” <mark>The radiologist’s job isn’t really to oversee the AI’s work, it’s to take the blame for the AI’s mistakes.</mark></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

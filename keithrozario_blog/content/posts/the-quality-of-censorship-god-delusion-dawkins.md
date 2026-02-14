@@ -1,11 +1,12 @@
 +++
 title = "The quality of censorship: The God Delusion in Malaysia"
+slug = "the-quality-of-censorship-god-delusion-dawkins"
 date = "2013-08-18T00:48:18"
 draft = false
 categories = ['Copyright and Censorship']
 +++
 
-<a href="/uploads/Kinokuniya_Richard_Dawkins_God_Delusion.png"><img class="alignleft" style="margin-right: 10px;" alt="Kinokuniya_Richard_Dawkins_God_Delusion" src="/uploads/Kinokuniya_Richard_Dawkins_God_Delusion.png" width="520" height="358" /></a>I try to keep this blog focused on technology, but every once in a while the urge to veer off topic gets the better of me. The recent state of Malaysia has been one of paranoia and hyper-sensitivity. It seems that not a day goes by without a report of someone somewhere or 'challenging' the position of Islam, and that Muslims need to be united to stop this wave. Well if the solution was really Muslim unity, why doesn't UMNO take it upon itself to dissolve and then the Muslims can be united behind PAS?
+<a href="/uploads/Kinokuniya_Richard_Dawkins_God_Delusion.png">![Kinokuniya_Richard_Dawkins_God_Delusion](/uploads/Kinokuniya_Richard_Dawkins_God_Delusion.png)</a>I try to keep this blog focused on technology, but every once in a while the urge to veer off topic gets the better of me. The recent state of Malaysia has been one of paranoia and hyper-sensitivity. It seems that not a day goes by without a report of someone somewhere or 'challenging' the position of Islam, and that Muslims need to be united to stop this wave. Well if the solution was really Muslim unity, why doesn't UMNO take it upon itself to dissolve and then the Muslims can be united behind PAS?
 
 Here's the deal...the internet is so big, that if you try hard enough, you'll find something that offends you. Even if it is a 3 year-old video tucked away in some back alley of the internet, that shows a woman cleaning the feet of dogs.With a little elbow grease and some help from Google, you'll have more than enough 'offensive' content to reveal day after day.
 
@@ -27,4 +28,4 @@ Not only is The God Delusion un-banned in Malaysia, it's easily available from b
 
 Don't you find it amusing, that a book that specifically targets Islam is censored in Malaysia, but a book that targets the whole notion of God itself is allowed through. Even more amusing is that the fact, that after years of this book being readily available to members of the public, not many Malaysians (Muslim or otherwise) have been 'confused'.  Perhaps, we're more matured than we think--either that we don't read enough books.
 
-[caption id="" align="aligncenter" width="550"]<a href="/uploads/God_delusion.png"><img class=" " title="The God Delusion Description" alt="God_delusion" src="/uploads/God_delusion.png" width="550" height="180" /></a> A description of the God Delusion taken from the MPH website[/caption]
+[caption id="" align="aligncenter" width="550"]<a href="/uploads/God_delusion.png">![God_delusion](/uploads/God_delusion.png "The God Delusion Description")</a> A description of the God Delusion taken from the MPH website[/caption]

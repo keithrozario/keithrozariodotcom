@@ -1,5 +1,6 @@
 +++
 title = "Analytics for your blog"
+slug = "analytics-for-your-blog"
 date = "2011-04-18T16:57:56"
 draft = false
 tags = ['Analytics', 'Blog Features', 'Google']
@@ -20,4 +21,4 @@ The best analytics to use comes from google (like a lot of other things). So hea
 
 Even if you know HTML and CSS, I'd suggest using one of the many google analytic plugins to install it, since it won't run everytime you update your theme. For me I used <a title="Google Analytics for Wordpress" href="http://yoast.com/wordpress/google-analytics/#utm_source=wordpress&amp;utm_medium=plugin&amp;utm_campaign=google-analytics-for-wordpress&amp;utm_content=v407" target="_blank"><em>Google Anlaytics for Wordpress</em></a>. It's a very simple interface, and doesn't require any code installation, all you need is a google account and google analytics setup and the plugin takes care of the rest.
 
-&nbsp;
+ 

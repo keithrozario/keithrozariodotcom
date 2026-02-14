@@ -1,5 +1,6 @@
 +++
 title = "Personal Data Protection Act 2010 Malaysia"
+slug = "personal-data-protection-act-2010-malaysia"
 date = "2012-07-30T06:00:19"
 draft = false
 tags = ['Laws']
@@ -30,7 +31,7 @@ It has become imperative that we as users look towards protecting our data onlin
 
 <!--more-->
 <h2>The technological limits</h2>
-<a href="/uploads/2152798588_724f8a2f1c.jpg"><img class="alignleft size-medium wp-image-2628" title="2152798588_724f8a2f1c" alt="" src="/uploads/2152798588_724f8a2f1c-300x225.jpg" width="300" height="225" /></a>Corporations (like supermarket chains) have a responsibilities to their shareholders to maximize profit, that's just a fact of life, corporations try to do more business every year, and one way to do more business with customers is to know more about their customers and offer targeted promotions.
+<a href="/uploads/2152798588_724f8a2f1c.jpg">![](/uploads/2152798588_724f8a2f1c-300x225.jpg "2152798588_724f8a2f1c")</a>Corporations (like supermarket chains) have a responsibilities to their shareholders to maximize profit, that's just a fact of life, corporations try to do more business every year, and one way to do more business with customers is to know more about their customers and offer targeted promotions.
 
 The first step about knowing more about customers, is getting more data about customers. In the past, this was all a sort of technological fairy tale, storing that much information about customers was problematic for two reasons. Firstly, the cost of storing the data was pretty high and secondly, the computation power required to process the data was too expensive to justify. The technology at the time limited the amount of data corporations could gather, store and process--they just couldn't do it at a economical price, and hence they only targeted the rich customers. If you've ever been on Business Class on an airline before, you'd notice the stewardess actually knows your full name, it made sense to track the rich.The rich are usually public figures anyway, so there wasn't an issue--however, as the technological limit starts to disappear--the corporations can begin to track everyone.
 

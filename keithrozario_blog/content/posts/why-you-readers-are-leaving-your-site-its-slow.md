@@ -1,5 +1,6 @@
 +++
 title = "Why you readers are leaving your site: It's slow"
+slug = "why-you-readers-are-leaving-your-site-its-slow"
 date = "2012-03-16T16:25:58"
 draft = false
 tags = ['wordpress']
@@ -16,13 +17,13 @@ The infographic is pretty interesting, but I'm really surprised at the numbers. 
 
 So I took a look at my own blog to see if this was true. I started out with Google Analytics to check on my engagement and the results were startling:
 
-<a href="/uploads/Engagement-Google-Analytics.png"><img class="wp-image-1892 alignnone" title="Engagement   Google Analytics" src="/uploads/Engagement-Google-Analytics.png" alt="" width="550" height="220" /></a>
+<a href="/uploads/Engagement-Google-Analytics.png">![](/uploads/Engagement-Google-Analytics.png "Engagement   Google Analytics")</a>
 
 A full 75% of visitors left my blog within 10 seconds, now that 10 seconds is just Google's categorization, I'm quite sure a lot of users left within the first 3-5 seconds. What that meant is that after all my blood sweat and tears in getting 1800+ people to my site a vast majority of them (more than 2/3) left before even reading it. This was the first time in my life I felt like my efforts were really wasted.
 
 Then to round it up I visited <a title="loads.in : Let’s you know how fast your page loads across the world" href="http://www.keithrozario.com/2011/07/loads-in-lets-you-know-how-fast-your-page-loads-across-the-world.html" target="_blank">loads.in</a> to check my website loading speed, and lo and behold:
 
-<a href="/uploads/loadin.png"><img class=" wp-image-1893 alignnone" title="loadin" src="/uploads/loadin.png" alt="" width="550" height="230" /></a>
+<a href="/uploads/loadin.png">![](/uploads/loadin.png "loadin")</a>
 
 According to the website my page loaded in 8.7 seconds, and I'm willing to bet that it as because my website took 8 seconds to load that I'm losing so many readers. This requires a lot of effort to get that down to just 3 seconds, and that'll take some effort. I'll keep you informed.
 

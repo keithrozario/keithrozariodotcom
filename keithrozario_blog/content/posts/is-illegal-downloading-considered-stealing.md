@@ -1,11 +1,12 @@
 +++
 title = "Is illegal downloading considered stealing?"
+slug = "is-illegal-downloading-considered-stealing"
 date = "2014-08-11T08:00:40"
 draft = false
 categories = ['Copyright and Censorship']
 +++
 
-<a href="/uploads/copying_is_not_piracy.png"><img class="wp-image-4524 aligncenter" src="/uploads/copying_is_not_piracy.png" alt="copying_is_not_piracy" width="551" height="413" /></a>
+<a href="/uploads/copying_is_not_piracy.png">![copying_is_not_piracy](/uploads/copying_is_not_piracy.png)</a>
 
 There's a general perception that illegal downloads of movies, music or books is akin to stealing the works of the artist, singers and authors. But downloads are more akin to trespassing than it is stealing--they're nothing like stealing and if you take some time off to think about it, you'd figure this out too.
 
@@ -45,4 +46,4 @@ If we made illegal to have those exclusive clauses, Astro would have to compete 
 
 So you're left a choice, consider downloading as a reality of doing business on the internet--or as stealing.
 
-<a href="/uploads/3699195138_9313067f45_o.jpg"><img class="size-full wp-image-4526 aligncenter" src="/uploads/3699195138_9313067f45_o.jpg" alt="Illegal downloads dead relatives" width="587" height="631" /></a>
+<a href="/uploads/3699195138_9313067f45_o.jpg">![Illegal downloads dead relatives](/uploads/3699195138_9313067f45_o.jpg)</a>

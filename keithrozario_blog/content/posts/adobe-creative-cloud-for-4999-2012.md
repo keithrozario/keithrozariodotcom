@@ -1,12 +1,13 @@
 +++
 title = "Adobe releasing Creative Cloud for $49.99 soon!"
+slug = "adobe-creative-cloud-for-4999-2012"
 date = "2012-02-25T14:48:48"
 draft = false
 tags = ['Adobe', 'Cloud']
 categories = ['Cloud Computing', 'Design']
 +++
 
-<a href="/uploads/creative-cloud-marquee-709x400.jpg"><img class="size-medium wp-image-1850 aligncenter" title="creative-cloud-marquee-709x400" src="/uploads/creative-cloud-marquee-709x400-300x169.jpg" alt="" width="550" height="310" /></a>
+<a href="/uploads/creative-cloud-marquee-709x400.jpg">![](/uploads/creative-cloud-marquee-709x400-300x169.jpg "creative-cloud-marquee-709x400")</a>
 
 Adobe is looking to release a cloud version of their creative applications online called creativecloud. From what I gather from their website it looks to be like a office365 version for creatives. This is probably a step in the right direction, Adobe software usually run into the hundreds or thousands of dollars, and buying the licenses for that software usually incur a huge capital expenditure for startups looking use these applications.<!--more-->
 

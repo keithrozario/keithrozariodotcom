@@ -1,5 +1,6 @@
 +++
 title = "Igor Presnyakov succeeds in getting kickstart-ed"
+slug = "what-is-crowd-funding-igor-presnyakov-succeeds-getting-kickstarter"
 date = "2012-03-25T16:44:21"
 draft = false
 tags = ['Crowdsourcing', 'kickstarter', 'wiki', 'Youtube']
@@ -32,13 +33,13 @@ All in all, Kickstarter is a great way, specifically for creatives and tech junk
 
 The music industry is changing because the cost to produce music has reduced and people don't need big recording companies to produce their music, sure the companies add value, but what was once an absolute necessity now is looked on more as a luxury, and sometimes people prefer to live without the luxury.
 <h2>Why I spent $50 supporting Igor Presnyakov?</h2>
-<a href="/uploads/Backers_Igor.png"><img class="alignright size-medium wp-image-1927" title="Backers_Igor" src="/uploads/Backers_Igor-300x271.png" alt="" width="300" height="271" /></a>Igor is awesome, I can't tell you how many times I watched his rendition of Canon, I absolutely LOVE it.
+<a href="/uploads/Backers_Igor.png">![](/uploads/Backers_Igor-300x271.png "Backers_Igor")</a>Igor is awesome, I can't tell you how many times I watched his rendition of Canon, I absolutely LOVE it.
 
 So it felt natural, that I wanted to be part of his success, to help a musician I love create more music I love. $50 is a lot of money for just a CD, but I get more than just a CD. I get to be part of something, to help create great music, to be part of Igor Presnyakovs first album, now how awesome is that?
 
 A lot times, the RIAA and MPAA give off the impression that music and movie downloaders are pirates, that we just want a free ride. Everybody loves a free ride, and few people would turn them down, but Igors kickstarter proves that even the downloaders would chip in when they want to be a part of something. Downloaders are willing to fork out cash for the music industry or even the movie industry, it's just that the movie industry rarely gives them a chance, and then turns around and calls them pirates.
 <h2>The future of music and copyright?</h2>
-<a href="/uploads/Steamboat-Willie-Wikipedia-the-free-encyclopedia.png"><img class="size-full wp-image-1929 alignleft" title="Steamboat Willie   Wikipedia  the free encyclopedia" src="/uploads/Steamboat-Willie-Wikipedia-the-free-encyclopedia.png" alt="" width="242" height="235" /></a>So what is the future of copyright. It's important to mention that Canon is a public domain song, and thus Igors rendition of it is legit in every way. However, the same can't be said about the other songs? Where the future of copyright take us?
+<a href="/uploads/Steamboat-Willie-Wikipedia-the-free-encyclopedia.png">![](/uploads/Steamboat-Willie-Wikipedia-the-free-encyclopedia.png "Steamboat Willie   Wikipedia  the free encyclopedia")</a>So what is the future of copyright. It's important to mention that Canon is a public domain song, and thus Igors rendition of it is legit in every way. However, the same can't be said about the other songs? Where the future of copyright take us?
 
 Think of it this way, everyone believes that copyrights sooner or later expire, that everything would return to the public domain once their 'lease' expires. So that's why we believe that Canon (which was written 2 centuries ago) is public domain and anyone can play if without worrying about copyright.
 

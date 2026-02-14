@@ -1,5 +1,6 @@
 +++
 title = "Kevin Spacey doesn't like Indian Pirates: But are they really pirates?"
+slug = "kevin-spacey-india-house-of-cards-stealing"
 date = "2014-04-29T22:29:52"
 draft = false
 categories = ['Copyright and Censorship']
@@ -7,7 +8,7 @@ categories = ['Copyright and Censorship']
 
 <blockquote>"House of Cards is really big in India, I discovered," Spacey told reporters at the International Indian Film Academy Awards which took place in Tampa, Floria – the first time they’ve been held in America. "Except isn't it funny that Netflix doesn't exist there yet. Which means that you're stealing it.” </blockquote>
 
-<a href="/uploads/rs_560x382-140428161741-1024.kevin-spacey-bollywood.ls_.42814_copy.jpg"><img class="alignleft" style="margin-right: 10px;" alt="Kevin Spacey claims Indians stealing House of Cards" src="/uploads/rs_560x382-140428161741-1024.kevin-spacey-bollywood.ls_.42814_copy-300x204.jpg" width="300" height="204" /></a>
+<a href="/uploads/rs_560x382-140428161741-1024.kevin-spacey-bollywood.ls_.42814_copy.jpg">![Kevin Spacey claims Indians stealing House of Cards](/uploads/rs_560x382-140428161741-1024.kevin-spacey-bollywood.ls_.42814_copy-300x204.jpg)</a>
 
 I'm gonna be honest here. Kevin Spacey is one of my all time favorite actors, from his brilliant work in Usual Suspects and American Beauty, to his legendary performance in the House of Cards series--this guy can do no wrong.
 

@@ -1,5 +1,6 @@
 +++
 title = "Keith's on #HITBGSEC"
+slug = "keiths-on-hitbgsec"
 date = "2018-10-01T22:59:52"
 draft = false
 categories = ['Misc']

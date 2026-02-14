@@ -1,12 +1,13 @@
 +++
 title = "MacinCloud: Develop iPad / iPhone apps on Windows"
+slug = "develop-ios-iphone-ipad-apps-windows-nomac"
 date = "2012-05-16T11:10:53"
 draft = false
 tags = ['Apple', 'Cloud Computing', 'Mac']
 categories = ['Cloud Computing']
 +++
 
-<a href="/uploads/MacInTheCloud.png"><img class="alignleft size-full wp-image-2144" title="MacInTheCloud" src="/uploads/MacInTheCloud.png" alt="" width="300" height="299" /></a>So you want to develop an iOS application for your iPhone or iPad.
+<a href="/uploads/MacInTheCloud.png">![](/uploads/MacInTheCloud.png "MacInTheCloud")</a>So you want to develop an iOS application for your iPhone or iPad.
 
 Thinking of being the next big app to hit the appstore.
 
@@ -60,4 +61,4 @@ Link: <a title="http://www.macincloud.com/" href="http://www.macincloud.com/" ta
 
 <em><span style="color: #888888;">Picture Courtesy of : Screenshot of MacinCloud website</span></em>
 
-&nbsp;
+ 

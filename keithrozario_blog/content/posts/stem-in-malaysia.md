@@ -1,5 +1,6 @@
 +++
 title = "STEM in Malaysia"
+slug = "stem-in-malaysia"
 date = "2013-09-29T07:00:37"
 draft = false
 categories = ['Science']

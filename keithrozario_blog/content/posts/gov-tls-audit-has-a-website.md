@@ -1,11 +1,12 @@
 +++
 title = "Gov TLS Audit has a website!"
+slug = "gov-tls-audit-has-a-website"
 date = "2018-04-27T18:12:24"
 draft = false
 categories = ['Misc']
 +++
 
-<a href="/uploads/gov-tls-audir.jpg"><img class="size-full wp-image-6388 aligncenter" src="/uploads/gov-tls-audir.jpg" alt="" width="665" height="548" /></a>Gov TLS Audit finally has a website to complement the API.
+<a href="/uploads/gov-tls-audir.jpg">![](/uploads/gov-tls-audir.jpg)</a>Gov TLS Audit finally has a website to complement the API.
 
 I used the services of a guy from fiverr to code the site, it isn't the best design in the world, but it's good enough for now. The site allows you to query a site and view the historical details of a particular .gov.my website. The full list of .gov hostnames can be found <a href="https://gist.github.com/keithrozario/f19d62aaa77564e4bd34ad0692788c02">here.</a>
 

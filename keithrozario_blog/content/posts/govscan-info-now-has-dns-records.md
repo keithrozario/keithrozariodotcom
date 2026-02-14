@@ -1,5 +1,6 @@
 +++
 title = "govScan.info now has DNS records"
+slug = "govscan-info-now-has-dns-records"
 date = "2018-10-15T01:36:30"
 draft = false
 categories = ['Misc']
@@ -34,7 +35,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6531} -->
-<figure class="wp-block-image"><img src="/uploads/latest_architecture1.png" alt="" class="wp-image-6531"/></figure>
+![](/uploads/latest_architecture1.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -58,7 +59,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6530} -->
-<figure class="wp-block-image"><img src="/uploads/Screenshot-2018-10-15-at-1.06.15-AM.png" alt="" class="wp-image-6530"/><figcaption>CloudFront Options</figcaption></figure>
+![](/uploads/Screenshot-2018-10-15-at-1.06.15-AM.png)<figcaption>CloudFront Options</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -106,7 +107,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6532} -->
-<figure class="wp-block-image"><img src="/uploads/Screenshot-2018-10-15-at-1.34.14-AM.png" alt="" class="wp-image-6532"/></figure>
+<figure class="wp-block-image">![](/uploads/Screenshot-2018-10-15-at-1.34.14-AM.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

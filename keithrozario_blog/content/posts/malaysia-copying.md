@@ -1,11 +1,12 @@
 +++
 title = "Are you embarrassed to be Malaysian?"
+slug = "malaysia-copying"
 date = "2013-12-11T21:38:17"
 draft = false
 categories = ['Malaysia']
 +++
 
-<a href="/uploads/blog-proton-flx.png"><img class="size-full wp-image-4174 alignleft" style="border: 1px solid black; margin-right: 10px;" alt="Proton FLX Crass NCAP" src="/uploads/blog-proton-flx.png" width="334" height="152" /></a>Am I embarrassed to be Malaysian?
+<a href="/uploads/blog-proton-flx.png">![Proton FLX Crass NCAP](/uploads/blog-proton-flx.png)</a>Am I embarrassed to be Malaysian?
 
 Nope, I can never be embarrassed to be Malaysian, this is my home country. I'm not just from Malaysia--I'm from Klang.
 

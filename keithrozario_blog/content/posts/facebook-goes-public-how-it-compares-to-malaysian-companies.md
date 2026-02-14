@@ -1,12 +1,13 @@
 +++
 title = "Facebook goes public : How it compares to Malaysian companies"
+slug = "facebook-goes-public-how-it-compares-to-malaysian-companies"
 date = "2012-05-18T16:44:26"
 draft = false
 tags = ['Facebook']
 categories = ['Misc', 'Social Media']
 +++
 
-<a href="/uploads/6804229097_c53f53d862.jpg"><img class="alignleft size-medium wp-image-2165" title="6804229097_c53f53d862" src="/uploads/6804229097_c53f53d862-239x300.jpg" alt="" width="239" height="300" /></a>The big FB goes public today, making a lot of people very happy and few people very very rich, including one <a title="Saverin barred from US" href="http://www.washingtonpost.com/business/technology/facebook-co-founder-saverin-under-fire-for-renouncing-us-citizenship/2012/05/17/gIQAPFCyVU_story.html" target="_blank">Eduardo Saverin -- who will probably be barred from ever entering the US --EVER AGAIN!</a>
+<a href="/uploads/6804229097_c53f53d862.jpg">![](/uploads/6804229097_c53f53d862-239x300.jpg "6804229097_c53f53d862")</a>The big FB goes public today, making a lot of people very happy and few people very very rich, including one <a title="Saverin barred from US" href="http://www.washingtonpost.com/business/technology/facebook-co-founder-saverin-under-fire-for-renouncing-us-citizenship/2012/05/17/gIQAPFCyVU_story.html" target="_blank">Eduardo Saverin -- who will probably be barred from ever entering the US --EVER AGAIN!</a>
 
 However, that's a story for another day, today Facebook is the hottest bit of tech news you can get your hands on, the last time an IPO this exciting occurred it was for a search engine named Google. Google IPO-ed at around $80, today it shares hover between <a title="GOOG" href="https://www.google.com/finance?client=ob&amp;q=NASDAQ:GOOG" target="_blank">$550 - $650</a>. <span style="color: #888888;">Just saying.</span>
 
@@ -121,7 +122,7 @@ Now of course I've left out Berjaya or other 'smaller' companies that are not on
 
 Some of you of course may scoff at the very idea of comparing a company as mind-blowing as facebook to anything Malaysia has to offer, that is of course a topic I'd very much like to debate with you, but to put things on a global perspective, the New York Times did a brilliant article on <a title="Facebook: How it compares" href="http://www.nytimes.com/interactive/2012/05/17/business/dealbook/how-the-facebook-offering-compares.html" target="_blank">Facebook Offering and how it compares </a>with other IPO. Facebook will IPO at nearly 4 times the size of Google, if that puts anything into perspective:
 
-<center><a href="/uploads/ScreenShot104-625x333.jpg"><img class="alignnone  wp-image-2168" title="ScreenShot104-625x333" src="/uploads/ScreenShot104-625x333.jpg" alt="" width="550" height="290" /></a></center>So overall, a company founded by a College Dropout in some dorm somewhere is now worth more than any Malaysian company (public listed of course), and in some cases more than most Malaysian Industries. The sheer magnitude is quite remarkable. So while Mark and Eduardo are sipping margaritas and enjoying their ridiculous fortunes, I hope you guys have equally enjoyable weekends.
+<center><a href="/uploads/ScreenShot104-625x333.jpg">![](/uploads/ScreenShot104-625x333.jpg "ScreenShot104-625x333")</a></center>So overall, a company founded by a College Dropout in some dorm somewhere is now worth more than any Malaysian company (public listed of course), and in some cases more than most Malaysian Industries. The sheer magnitude is quite remarkable. So while Mark and Eduardo are sipping margaritas and enjoying their ridiculous fortunes, I hope you guys have equally enjoyable weekends.
 
 Good weekend everyone.
 

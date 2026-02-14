@@ -1,12 +1,13 @@
 +++
 title = "What is a Wordpress Cache and how do I use it?"
+slug = "cache-wordpress-hypercache-what-is-it"
 date = "2011-04-27T10:49:20"
 draft = false
 tags = ['Blog Features', 'Cache', 'HyperCache', 'W3 Total Cache']
 categories = ['Blog']
 +++
 
-<a href="/uploads/satollo-small.jpg"><img class="alignleft size-thumbnail wp-image-162" title="HyperCache creator" src="/uploads/satollo-small-140x150.jpg" alt="" width="140" height="150" /></a>Wordpress is the best blogging platform out there. It's the best blogging platform ever. It's great, but there is one downside. It's SLOOOOW. How Slow, depending on what you post up. People are a lot more forgiving on a PC, but if you're surfing on EDGE through your mobile phone, or browsing on a slow connection, it's very very slow. Painfully slow.
+<a href="/uploads/satollo-small.jpg">![](/uploads/satollo-small-140x150.jpg "HyperCache creator")</a>Wordpress is the best blogging platform out there. It's the best blogging platform ever. It's great, but there is one downside. It's SLOOOOW. How Slow, depending on what you post up. People are a lot more forgiving on a PC, but if you're surfing on EDGE through your mobile phone, or browsing on a slow connection, it's very very slow. Painfully slow.
 
 There is a great solution though<!--more-->It's called caching.
 <h2>What is Cache?</h2>

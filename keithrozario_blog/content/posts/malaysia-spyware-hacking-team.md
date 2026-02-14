@@ -1,5 +1,6 @@
 +++
 title = "The Government doesn't buy spyware--yea right!"
+slug = "malaysia-spyware-hacking-team"
 date = "2015-12-30T00:28:44"
 draft = false
 tags = ['Spyware']
@@ -7,7 +8,7 @@ categories = ['CyberLaw', "Keith's Favorite Post", 'Malaysia', 'Security &amp; P
 +++
 
 <blockquote>The Government has denied buying spyware from hacking team, they really should have checked with me before issuing the statement.</blockquote>
-<a href="/uploads/314989744_5b5a852b47_z.jpg" rel="attachment wp-att-4940"><img class="alignleft wp-image-4940 size-medium" src="/uploads/314989744_5b5a852b47_z-300x200.jpg" alt="Spying Program" width="300" height="200" /></a>On the 23rd of November 2015, Datuk Seri Azalina Othman Said denied that the Malaysian government had procured spyware from hacking team. In a formal response (in Parliament!!), the Minister simply stated <em>"For your information, no such device was purchased by the Prime Minister’s Department"</em>.
+<a href="/uploads/314989744_5b5a852b47_z.jpg" rel="attachment wp-att-4940">![Spying Program](/uploads/314989744_5b5a852b47_z-300x200.jpg)</a>On the 23rd of November 2015, Datuk Seri Azalina Othman Said denied that the Malaysian government had procured spyware from hacking team. In a formal response (in Parliament!!), the Minister simply stated <em>"For your information, no such device was purchased by the Prime Minister’s Department"</em>.
 
 For <strong>YOUR</strong> information, dear Minister, I don't like being lied to, and oh look there's a flying pig by the window.Next time ask your PR guys to call me before you go setting your pants on fire.
 

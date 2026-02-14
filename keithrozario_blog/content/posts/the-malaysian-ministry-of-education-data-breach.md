@@ -1,12 +1,13 @@
 +++
 title = "The Malaysian Ministry of Education Data Breach"
+slug = "the-malaysian-ministry-of-education-data-breach"
 date = "2018-06-18T22:44:08"
 draft = false
 tags = ['dataBreach']
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++
 
-<a href="/uploads/MoE_SAPS_0906_1.png"><img class="aligncenter wp-image-6423" src="/uploads/MoE_SAPS_0906_1.png" alt="" width="550" height="278" /></a>Ok, I've been pretty involved in the latest data breach, so here's my side of the story.
+<a href="/uploads/MoE_SAPS_0906_1.png">![](/uploads/MoE_SAPS_0906_1.png)</a>Ok, I've been pretty involved in the latest data breach, so here's my side of the story.
 
 At around 11pm last Friday, I got a query from Zurairi at The Malay Mail, asking for a second opinion on a strange email the newsdesk received from an <em>'anonymous source'</em>. The email was  regular vulnerability disclosure, but one that was full of details, attached with an enormous amount of data.
 
@@ -32,7 +33,7 @@ Danger averted...at least for now.
 
 But, since <a href="https://www.keithrozario.com/2017/12/that-long-post-about-data-breaches-you-never-wanted-to-read.html">Data breaches last forever</a>, and this was a breach, we should talk about what data was in the system. Zurairi did a good job <a href="https://www.malaymail.com/s/1640346/putrajayas-exam-portal-shut-down-after-data-breach-affecting-millions">here</a>, but here's my more detail take on the issue.<!--more-->
 <h2>But is this a breach? And what's in it?!!</h2>
-<a href="/uploads/data-breach.jpeg"><img class="alignleft wp-image-6424" src="/uploads/data-breach.jpeg" alt="" width="300" height="143" /></a>Sadly it IS a breach.
+<a href="/uploads/data-breach.jpeg">![](/uploads/data-breach.jpeg)</a>Sadly it IS a breach.
 
 Once the data left the servers, and were placed onto a Google Drive, it was breached! By exploiting the vulnerability, instead of just reporting it, the anonymous source unintentionally caused the biggest data breach Malaysia has seen (so far!).
 
@@ -61,7 +62,7 @@ However, there are two hard questions we have to ask.
 Let's tackle the 2nd question first.
 
 <b>Responding to vulnerability disclosures</b><a href="/uploads/original-complaint.png">
-<img class="aligncenter wp-image-6421" src="/uploads/original-complaint.png" alt="" width="550" height="317" /></a>After contacting the source, we further chatted about a few things, and they(*) shared with me their frustrations and lack of response from the Ministry.
+![](/uploads/original-complaint.png)</a>After contacting the source, we further chatted about a few things, and they(*) shared with me their frustrations and lack of response from the Ministry.
 
 A report was lodge using the <a href="http://moe.spab.gov.my/eApps/sdmscasepool/SdmsCasePool/check.do"><em>Sistem Pengurusan Aduan Awam</em> </a>website, which isn't the right place to report these things. But if the government isn't clear on where to report security vulnerabilities, then people are going to be confused.
 
@@ -77,7 +78,7 @@ Had the source been able to contact a legitimate technical contact who understoo
 
 Now onto the second point.
 <h2>How did the vulnerable site continue to be up?</h2>
-<a href="https://www.amazon.co.uk/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641"><img class="alignleft wp-image-6425 size-full" src="/uploads/penetration-testing.jpeg" alt="" width="195" height="258" /></a>If you ask most folks, they'll tell you the same thing -- site should have been pentested.
+<a href="https://www.amazon.co.uk/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641">![](/uploads/penetration-testing.jpeg)</a>If you ask most folks, they'll tell you the same thing -- site should have been pentested.
 
 A pen-test (short for penetration test) is hiring 'ethical hackers' to attempt to break your system. At the end of the test, they present to you their findings, you fix them, and hopefully your system goes live in an more secure state. <em>(remember it's more secure, not absolutely secure)</em>
 

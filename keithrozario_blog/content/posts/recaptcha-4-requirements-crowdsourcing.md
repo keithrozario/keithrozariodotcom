@@ -1,12 +1,13 @@
 +++
 title = "Why ReCaptcha works: The 4 requirements of Crowdsourcing"
+slug = "recaptcha-4-requirements-crowdsourcing"
 date = "2011-12-17T18:34:31"
 draft = false
 tags = ['Captcha', 'Google', 'ReCaptcha']
 categories = ['Crowdsourcing']
 +++
 
-<a href="http://www.keithrozario.com/2011/12/ReCaptcha-4-requirements-crowdsourcing.html"><img class="alignleft size-full wp-image-1585" title="logo2-new" src="/uploads/logo2-new.gif" alt="" width="187" height="125" /></a>If the 5 of you can't decide where to eat lunch without saying the dreaded words "up to you", how in world can 100,000 or even 1 million people combine together to solve a problem? The answer is through a mixture of the right collaborative systems enabled by the right technology and people with the right skill-sets motivated by the right things. Get all 4 components right, and you've got yourself the answer to any problem.
+<a href="http://www.keithrozario.com/2011/12/ReCaptcha-4-requirements-crowdsourcing.html">![](/uploads/logo2-new.gif "logo2-new")</a>If the 5 of you can't decide where to eat lunch without saying the dreaded words "up to you", how in world can 100,000 or even 1 million people combine together to solve a problem? The answer is through a mixture of the right collaborative systems enabled by the right technology and people with the right skill-sets motivated by the right things. Get all 4 components right, and you've got yourself the answer to any problem.
 
 However, getting these 4 components right is very very tricky.Some might argue it's more difficult than solving the task at hand, but a handful of successful crowdsourcing projects have broken the mold and set the tone for others to follow. Today I want to focus on what is quite possibly the biggest crowdsourcing project ever, and with the exception of wikipedia is probably the most successful as well. <a title="ReCaptcha" href="http://www.google.com/recaptcha" target="_blank">ReCaptcha</a>.<!--more-->
 

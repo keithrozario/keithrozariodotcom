@@ -1,12 +1,13 @@
 +++
 title = "I'm Sorry, the Malaysian Government IS spying on you"
+slug = "the-malaysian-government-is-spying-on-you-finspy-fisher"
 date = "2013-05-03T09:06:52"
 draft = false
 tags = ['Spyware']
 categories = ['Copyright and Censorship', 'CyberLaw', "Keith's Favorite Post", 'Malaysia']
 +++
 
-<a href="/uploads/Malaysian_government_spying_on_citizens.jpg"><img class="aligncenter size-full wp-image-3419" alt="Big Brother is watching" src="/uploads/Malaysian_government_spying_on_citizens.jpg" width="199" height="254" /></a>A couple of weeks ago, I wrote about an<a title="Malaysian government using spyware against citizens? No, not really." href="http://www.keithrozario.com/2013/03/malaysian-government-using-spyware-against-citizens-irresponsible-journalism-by-the-malaysian-insider.html" target="_blank"> 'irresponsible' piece of journalism by the Malaysian Insider</a> when the 'claimed' the Malaysian government was spying on Malaysian citizens--but they didn't have any proof. I was very upset that a reporter would make such a bold statement and not back it up with any proof --so obviously the post was written in a caustic  and emotionally charged way--I was upset, annoyed, angry even!
+<a href="/uploads/Malaysian_government_spying_on_citizens.jpg">![Big Brother is watching](/uploads/Malaysian_government_spying_on_citizens.jpg)</a>A couple of weeks ago, I wrote about an<a title="Malaysian government using spyware against citizens? No, not really." href="http://www.keithrozario.com/2013/03/malaysian-government-using-spyware-against-citizens-irresponsible-journalism-by-the-malaysian-insider.html" target="_blank"> 'irresponsible' piece of journalism by the Malaysian Insider</a> when the 'claimed' the Malaysian government was spying on Malaysian citizens--but they didn't have any proof. I was very upset that a reporter would make such a bold statement and not back it up with any proof --so obviously the post was written in a caustic  and emotionally charged way--I was upset, annoyed, angry even!
 
 More importantly though--I was wrong!
 

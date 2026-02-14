@@ -1,11 +1,12 @@
 +++
 title = "The problem with bio-metrics"
+slug = "the-problem-with-bio-metrics"
 date = "2015-10-18T15:59:49"
 draft = false
 categories = ['CyberLaw', 'Security &amp; Privacy']
 +++
 
-<a href="/uploads/8229504229_47a07ff41f_z.jpg"><img class="alignleft wp-image-5237 size-medium" src="/uploads/8229504229_47a07ff41f_z-300x200.jpg" alt="8229504229_47a07ff41f_z" width="300" height="200" /></a>Passwords have always been a problem.
+<a href="/uploads/8229504229_47a07ff41f_z.jpg">![8229504229_47a07ff41f_z](/uploads/8229504229_47a07ff41f_z-300x200.jpg)</a>Passwords have always been a problem.
 
 For a password to be adequately secure, you need a certain amount of randomness <em>(or entropy in geek)</em> associated with the password to ensure it can't be easily guessed. The password <strong>monkey</strong> is less secure than the password <strong>k3ithI$one$3xydev1l, </strong>but the latter is inherently harder to remember (although still very true).
 
@@ -19,13 +20,13 @@ Which suggest that the problem isn't passwords per se, but rather our human inab
 
 But what is the solution then? Well, in general we have 2 partial solutions.<!--more-->
 <h2>Password managers</h2>
-<a href="/uploads/17046271105_2b6a5a619f_z.jpg"><img class="alignright wp-image-5235 size-medium" src="/uploads/17046271105_2b6a5a619f_z-300x300.jpg" alt="17046271105_2b6a5a619f_z" width="300" height="300" /></a>One is to use a password manager, like LastPass. LastPass stores a unique password for each of your online services, while requiring you to remember only one. Basically, it securely stores your password in a 'vault' that is encrypted by a secure key known only to you. When you use LastPass, you download the encrypted vault from the lastpass servers, and then decrypt it with your (hopefully) hard to guess secret key. This way you can have unique, hard to guess passwords for all your services.
+<a href="/uploads/17046271105_2b6a5a619f_z.jpg">![17046271105_2b6a5a619f_z](/uploads/17046271105_2b6a5a619f_z-300x300.jpg)</a>One is to use a password manager, like LastPass. LastPass stores a unique password for each of your online services, while requiring you to remember only one. Basically, it securely stores your password in a 'vault' that is encrypted by a secure key known only to you. When you use LastPass, you download the encrypted vault from the lastpass servers, and then decrypt it with your (hopefully) hard to guess secret key. This way you can have unique, hard to guess passwords for all your services.
 
 But there's a catch, LastPass itself then becomes a high value target for attackers. Thankfully LastPass is pretty secure and provides the option for 2 factor authentication. Now, LastPass just happens to be the password manager I use, most other password managers would do just fine.
 
 The one strongest piece of security advice I could give you is to use a password manager, it will reduce a lot of your headaches.
 <h2>Bio-metrics and Permanence</h2>
-<img class="wp-image-5234 size-medium alignleft" src="/uploads/16250748818_b1f9bc160e_z-300x169.jpg" alt="Biometric validation" width="300" height="169" />The 2nd option is to use a bio-metric authentication. Your thumbprint or retina scan is unique only to you, and is quite hard to guess. So obviously that's a good place to start.
+![Biometric validation](/uploads/16250748818_b1f9bc160e_z-300x169.jpg)The 2nd option is to use a bio-metric authentication. Your thumbprint or retina scan is unique only to you, and is quite hard to guess. So obviously that's a good place to start.
 
 But there is a problem with bio-metrics that makes me shudder at the thought of ever using it as an authentication mechanism--it's PERMANENT.
 
@@ -75,7 +76,7 @@ Those questions could be, what's the password for your iPhone.
 
 But if you protected your iPhone with a touchID, then all bets are off. Because a fingerprint is something you have, instead of something you know it doesn't get the 5th Amendment protections as passwords. The Government can't compel you to unlock a password protected phone, but they can compel you to open a bio-metric secured one.
 <h2>Conclusion</h2>
-<img class=" wp-image-5236 alignleft" src="/uploads/10643204815_655b8e60c8_o-300x300.jpg" alt="10643204815_655b8e60c8_o" width="270" height="270" />So between the permanence of bio-metrics, their lack of 5th Amendment protections and the chance that they can cause you some serious physical harm, I'd be very very worried about using a bio-metric to protect anything, let alone something as important as my bank account.
+![10643204815_655b8e60c8_o](/uploads/10643204815_655b8e60c8_o-300x300.jpg)So between the permanence of bio-metrics, their lack of 5th Amendment protections and the chance that they can cause you some serious physical harm, I'd be very very worried about using a bio-metric to protect anything, let alone something as important as my bank account.
 
 Plus they're not even secret, you're leaving your fingerprints on everything you touch--that doesn't apply to your ATM PIN which never leaves your head. Biometrics aren't all that good.
 

@@ -1,12 +1,13 @@
 +++
 title = "This is how Pedophiles get caught"
+slug = "this-is-how-pedophiles-get-caught"
 date = "2016-06-12T15:24:43"
 draft = false
 tags = ['FBI']
 categories = ['CyberLaw', 'Malaysia', 'Security &amp; Privacy']
 +++
 
-<a href="/uploads/SexOffender.jpg"><img class="size-full wp-image-5725 alignleft" src="/uploads/SexOffender.jpg" alt="SexOffender" width="278" height="181" /></a>This will easily be the most controversial blog post I ever wrote, so consider yourself warned.
+<a href="/uploads/SexOffender.jpg">![SexOffender](/uploads/SexOffender.jpg)</a>This will easily be the most controversial blog post I ever wrote, so consider yourself warned.
 
 It's controversial, because it touches on multiple taboos in our society, sex, child abuse and security theater. You see, there's been a growing call for a national sex offender registry, especially in the wake of news that a British Pedophile had sexually abused up to 200 children in Malaysia.
 
@@ -28,7 +29,7 @@ But that makes some uncomfortable, and for good reason--it's creepy. In the Huc
 
 The Love Zone was hosted on the 'dark web', which I assume means a TOR hosted website. TOR is a piece of technology that allows for the anonymous hosting of websites (as well as anonymous browsing--but you knew that already).
 
-&nbsp;
+ 
 <h2>A brief word about TOR</h2>
 So how does the FBI, or the Australian police actually find Pedophiles who host their disgusting content on the dark web?
 
@@ -80,4 +81,4 @@ If politicians wanted to work on something--it should be that.
 <h2>Post Script</h2>
 Let me just say, I don't quite believe that the Australian police has been 100% honest in how they found the operator of The Love Zone--it sounds way to convenient. When you hear stories from the police like "we pulled him over for a stop-light violation and found drugs on him", you can almost be certain that some <a href="https://en.wikipedia.org/wiki/Parallel_construction">parallel construction</a> is going on. I'm sure the Aussie police (God Bless their hearts), aren't divulging the exact nature of how they conducted their investigations and found their suspect.
 
-&nbsp;
+ 

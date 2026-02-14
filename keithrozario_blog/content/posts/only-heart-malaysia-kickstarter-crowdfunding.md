@@ -1,5 +1,6 @@
 +++
 title = "Kickstarter Malaysia: A collection of Malaysian Kickstarter Projects"
+slug = "only-heart-malaysia-kickstarter-crowdfunding"
 date = "2012-07-23T08:00:46"
 draft = false
 tags = ['kickstarter']
@@ -44,4 +45,4 @@ Fortunately, Pitchin has improved over time, but the success rates of the site i
 <h2>What about Dev?</h2>
 Dev required about RM30,000 of capital to start with, at present he's about 15% of the way. With just 18 days to go, it's a 50-50 chance he'll make it. That being said, even if Only Heart doesn't get funded, I'm sure Dev will find someway to get his idea out, and the publicity from Kickstarter would be a nice to have at that point.
 
-&nbsp;
+ 

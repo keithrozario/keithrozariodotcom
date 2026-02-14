@@ -1,12 +1,13 @@
 +++
 title = "First Day Review: Dreamhost web hosting"
+slug = "first-day-review-dreamhost-web-hosting"
 date = "2011-05-14T02:15:29"
 draft = false
 tags = ['Hosting']
 categories = ['Blog']
 +++
 
-<a href="http://www.dreamhost.com/"><img class="alignleft size-thumbnail wp-image-711" title="Dreamhost" src="/uploads/500x_2010-05-23_091553-150x105.jpg" alt="" width="185" height="129" /></a>Yesterday I took out another domain at Dreamhost.com, it's another hosting service that got rave reviews from <a href="http://lifehacker.com/5545568/five-best-personal-web-hosts">lifehacker</a>. The costing is quite pricey, but I managed to get a promo code online for a $50 dollar discount. Mind you it's still on the high side for me, it works out to about $65.00/year, but that includes both unlimited storage and bandwidth , one domain AND a who-is protect on that domain. So overall it's pretty reasonable. When the promo ends though , (presumably when I renew next year), the price will revert to $8.95/month quite a hefty sum, so dreamhost better deliver.
+<a href="http://www.dreamhost.com/">![](/uploads/500x_2010-05-23_091553-150x105.jpg "Dreamhost")</a>Yesterday I took out another domain at Dreamhost.com, it's another hosting service that got rave reviews from <a href="http://lifehacker.com/5545568/five-best-personal-web-hosts">lifehacker</a>. The costing is quite pricey, but I managed to get a promo code online for a $50 dollar discount. Mind you it's still on the high side for me, it works out to about $65.00/year, but that includes both unlimited storage and bandwidth , one domain AND a who-is protect on that domain. So overall it's pretty reasonable. When the promo ends though , (presumably when I renew next year), the price will revert to $8.95/month quite a hefty sum, so dreamhost better deliver.
 
 <!--more-->
 

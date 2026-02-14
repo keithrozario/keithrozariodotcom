@@ -1,11 +1,12 @@
 +++
 title = "Congratulations LHDN"
+slug = "congratulations-lhdn"
 date = "2012-04-27T14:51:37"
 draft = false
 categories = ['Malaysia']
 +++
 
-<a href="/uploads/LHDN.jpg"><img class="alignleft size-medium wp-image-2077" title="LHDN" src="/uploads/LHDN-300x232.jpg" alt="" width="300" height="232" /></a>The <a title="http://thestar.com.my/news/story.asp?file=/2012/4/26/nation/20120426065850&amp;sec=nation" href="http://thestar.com.my/news/story.asp?file=/2012/4/26/nation/20120426065850&amp;sec=nation" target="_blank">star today reports </a>that:
+<a href="/uploads/LHDN.jpg">![](/uploads/LHDN-300x232.jpg "LHDN")</a>The <a title="http://thestar.com.my/news/story.asp?file=/2012/4/26/nation/20120426065850&amp;sec=nation" href="http://thestar.com.my/news/story.asp?file=/2012/4/26/nation/20120426065850&amp;sec=nation" target="_blank">star today reports </a>that:
 <blockquote>e-Filing looks to be a definite winner among Malaysians well over half of the country's estimated 2.5 million tax-paying citizens have gone the paperless route.
 
 Inland Revenue Board (IRB) figures showed that as at yesterday, 1,621,647 Malaysians had filed their taxes, with online filings accounting for nearly 75% of the total

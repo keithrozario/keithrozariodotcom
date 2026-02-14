@@ -1,5 +1,6 @@
 +++
 title = "Open letter to Tun Dr. M on internet censorship"
+slug = "open-letter-to-tun-dr-m-on-internet-censorship"
 date = "2013-11-18T12:49:12"
 draft = false
 categories = ['Copyright and Censorship', 'Malaysia', 'Misc']

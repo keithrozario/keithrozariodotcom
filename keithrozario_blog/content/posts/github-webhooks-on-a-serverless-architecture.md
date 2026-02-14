@@ -1,5 +1,6 @@
 +++
 title = "GitHub webhooks with Serverless"
+slug = "github-webhooks-on-a-serverless-architecture"
 date = "2018-10-15T22:37:54"
 draft = false
 categories = ['Misc']
@@ -38,7 +39,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6547,"align":"center"} -->
-<div class="wp-block-image"><figure class="aligncenter"><img src="/uploads/untitled2.png" alt="" class="wp-image-6547"/></figure></div>
+![](/uploads/untitled2.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -70,7 +71,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6544,"align":"center"} -->
-<div class="wp-block-image"><figure class="aligncenter"><img src="/uploads/Step_1_Github_Webhook.png" alt="" class="wp-image-6544"/><figcaption>Webhooks</figcaption></figure></div>
+<div class="wp-block-image">![](/uploads/Step_1_Github_Webhook.png)<figcaption>Webhooks</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -98,7 +99,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6545,"align":"center"} -->
-<div class="wp-block-image"><figure class="aligncenter"><img src="/uploads/Step_2_Github_Webhook.png" alt="" class="wp-image-6545"/><figcaption>Webhook with Shared Secret</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter">![](/uploads/Step_2_Github_Webhook.png)<figcaption>Webhook with Shared Secret</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -118,7 +119,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Once you load a secret onto the GitHub webhook, it's easy for you to verify the authenticity of a message, by comparing the signature provided in the <code>POST</code>&nbsp; against the signature that you calculate on the receiving end. If they match, you can be sure the message has come from someone in possession of the shared secret -- hopefully that's <strong>only</strong> GitHub.</p>
+<p>Once you load a secret onto the GitHub webhook, it's easy for you to verify the authenticity of a message, by comparing the signature provided in the <code>POST</code>  against the signature that you calculate on the receiving end. If they match, you can be sure the message has come from someone in possession of the shared secret -- hopefully that's <strong>only</strong> GitHub.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -153,7 +154,7 @@ Manager it is!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6546,"align":"center"} -->
-<div class="wp-block-image"><figure class="aligncenter"><img src="/uploads/Step_3_Github_Webhook.png" alt="" class="wp-image-6546"/><figcaption>Using Secrets Manager</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter">![](/uploads/Step_3_Github_Webhook.png)<figcaption>Using Secrets Manager</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -230,5 +231,5 @@ Webhook, lookup a secret in AWS Secrets Manager, and then compare_digest
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6553} -->
-<figure class="wp-block-image"><img src="/uploads/Screenshot-2018-10-15-at-8.51.47-PM.png" alt="" class="wp-image-6553"/></figure>
+<figure class="wp-block-image">![](/uploads/Screenshot-2018-10-15-at-8.51.47-PM.png)
 <!-- /wp:image -->

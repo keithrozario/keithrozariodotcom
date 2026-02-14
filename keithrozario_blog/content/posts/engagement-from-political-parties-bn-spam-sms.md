@@ -1,5 +1,6 @@
 +++
 title = "Political parties don't know how to engage"
+slug = "engagement-from-political-parties-bn-spam-sms"
 date = "2013-05-01T14:53:22"
 draft = false
 tags = ['BN SPAM SMS']
@@ -18,4 +19,4 @@ It seems the Barisan doesn't really understand technology, with their resources 
 I talk You listen isn't engaging--it's an ancient way of thinking that would fail to engage anyone in this day of age, but you can't really expect much more from Barisan, <a title="Datuk Maglin Dennis D’cruz in Klang : The non-updating Minister" href="http://www.keithrozario.com/2013/04/datuk-maglin-dennis-dcruz-n49-klang-kota-alam-shah.html" target="_blank">after all their Deputy Minister of Information Communications only started blogging last week</a>--and hasn't updated his twitter since 2010.
 
 <center><a href="/uploads/Screenshot_2013-04-25-19-40-14.jpg">
-</a> <a href="/uploads/Screenshot_2013-04-30-08-31-30.jpg"><img class=" wp-image-3403 alignnone" title="BN Spam SMS 1" alt="BN Spam SMS 1" src="/uploads/Screenshot_2013-04-30-08-31-30.jpg" width="150" height="270" /></a> <a href="/uploads/Screenshot_2013-04-30-08-31-24.jpg"><img class="wp-image-3407 alignnone" title="BN Spam SMS 2" alt="BN Spam SMS 2" src="/uploads/Screenshot_2013-04-30-08-31-24.jpg" width="150" height="270" /></a> <a href="/uploads/Screenshot_2013-04-30-08-31-38.jpg"><img class="wp-image-3404 alignnone" title="BN Spam SMS 3" alt="BN Spam SMS 3" src="/uploads/Screenshot_2013-04-30-08-31-38.jpg" width="150" height="270" /></a> <a href="/uploads/Screenshot_2013-04-30-08-31-54.jpg"><img class="wp-image-3405 alignnone" title="BN Spam SMS 4" alt="BN Spam SMS 4" src="/uploads/Screenshot_2013-04-30-08-31-54.jpg" width="150" height="270" /></a></center>
+</a> <a href="/uploads/Screenshot_2013-04-30-08-31-30.jpg">![BN Spam SMS 1](/uploads/Screenshot_2013-04-30-08-31-30.jpg "BN Spam SMS 1")</a> <a href="/uploads/Screenshot_2013-04-30-08-31-24.jpg">![BN Spam SMS 2](/uploads/Screenshot_2013-04-30-08-31-24.jpg "BN Spam SMS 2")</a> <a href="/uploads/Screenshot_2013-04-30-08-31-38.jpg">![BN Spam SMS 3](/uploads/Screenshot_2013-04-30-08-31-38.jpg "BN Spam SMS 3")</a> <a href="/uploads/Screenshot_2013-04-30-08-31-54.jpg">![BN Spam SMS 4](/uploads/Screenshot_2013-04-30-08-31-54.jpg "BN Spam SMS 4")</a></center>

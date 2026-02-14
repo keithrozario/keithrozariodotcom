@@ -1,12 +1,13 @@
 +++
 title = "Sign you Git Commits to Github with A Yubikey"
+slug = "sign-you-git-commits-to-github-with-a-yubikey"
 date = "2021-10-08T21:34:22"
 draft = false
 categories = ['Misc']
 +++
 
 <!-- wp:image {"align":"center","id":7564,"sizeSlug":"full","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-full"><img src="/uploads/Screenshot-2021-10-08-at-9.31.00-PM.png" alt="" class="wp-image-7564"/></figure></div>
+![](/uploads/Screenshot-2021-10-08-at-9.31.00-PM.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -31,7 +32,7 @@ $ gpg --full-generate-key</code></pre>
 <!-- /wp:code -->
 
 <!-- wp:image {"align":"center","id":7561,"sizeSlug":"large","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/GPG-generate-key-538x500.png" alt="" class="wp-image-7561"/></figure></div>
+![](/uploads/GPG-generate-key-538x500.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -51,7 +52,7 @@ $ gpg --full-generate-key</code></pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7563,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/GPG-List-Keys-820x182.png" alt="" class="wp-image-7563"/></figure>
+![](/uploads/GPG-List-Keys-820x182.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -135,7 +136,7 @@ save</code></pre>
 <!-- /wp:code -->
 
 <!-- wp:image {"id":7562,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/List-GPG-820x311.png" alt="" class="wp-image-7562"/></figure>
+![](/uploads/List-GPG-820x311.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -158,7 +159,7 @@ gpg/card&gt; passwd</code></pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7563,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/GPG-List-Keys-820x182.png" alt="" class="wp-image-7563"/></figure>
+![](/uploads/GPG-List-Keys-820x182.png)
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -174,7 +175,7 @@ gpg/card&gt; passwd</code></pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7564,"sizeSlug":"full","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-full"><img src="/uploads/Screenshot-2021-10-08-at-9.31.00-PM.png" alt="" class="wp-image-7564"/></figure></div>
+![](/uploads/Screenshot-2021-10-08-at-9.31.00-PM.png)
 <!-- /wp:image -->
 
 <!-- wp:heading -->

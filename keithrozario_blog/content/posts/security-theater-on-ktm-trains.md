@@ -1,5 +1,6 @@
 +++
 title = "Security theater on KTM trains"
+slug = "security-theater-on-ktm-trains"
 date = "2016-05-29T16:20:34"
 draft = false
 categories = ['Misc']
@@ -71,4 +72,4 @@ In the end, there's no evidence it makes women safer, or reduce crime--it merely
 
 Women's safety isn't about sequestering them in separate compartments, but the enforcement of laws already on the books, and the social changes necessary to ensure they are treated equally in society and not looked upon like sex-toys on trains.
 
-&nbsp;
+ 

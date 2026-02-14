@@ -1,12 +1,13 @@
 +++
 title = "3 ways to get more visibility in twitter"
+slug = "twitter-visibility"
 date = "2011-09-30T10:32:47"
 draft = false
 tags = ['twitter']
 categories = ['Social Media']
 +++
 
-<a title="Twitter Visibility" href="http://www.keithrozario.com/2011/09/twitter-visibility.html"><img class="alignleft size-thumbnail wp-image-1239" title="ARENA" src="/uploads/3814061348_a6e1b9d662_m-150x112.jpg" alt="" width="150" height="112" /></a>I've been using twitter for some time now, as I hope to make it the default social media for promoting my blog. Thanks for platforms like <a title="Bufferapp : Schedule your Tweets" href="http://www.keithrozario.com/2011/07/bufferapp.html">bufferapp</a> and <a title="Bit.ly" href="http://www.bit.ly" target="_blank">bit.ly</a>, I can track how often people visit my website from twitter. The result aren't good, in fact I'd be lucky if a tweet was able to garner 2 hits to my website, most of the time it hovers around an agonizing ZERO!!
+<a title="Twitter Visibility" href="http://www.keithrozario.com/2011/09/twitter-visibility.html">![](/uploads/3814061348_a6e1b9d662_m-150x112.jpg "ARENA")</a>I've been using twitter for some time now, as I hope to make it the default social media for promoting my blog. Thanks for platforms like <a title="Bufferapp : Schedule your Tweets" href="http://www.keithrozario.com/2011/07/bufferapp.html">bufferapp</a> and <a title="Bit.ly" href="http://www.bit.ly" target="_blank">bit.ly</a>, I can track how often people visit my website from twitter. The result aren't good, in fact I'd be lucky if a tweet was able to garner 2 hits to my website, most of the time it hovers around an agonizing ZERO!!
 
 So what am I doing wrong?<!--more-->
 

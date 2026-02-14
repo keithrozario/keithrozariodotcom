@@ -1,12 +1,13 @@
 +++
 title = "My Issue with WPWebHost: Bad Support"
+slug = "wpwebhost-issue-bad-support"
 date = "2014-05-22T08:00:52"
 draft = false
 tags = ['WPWebHost']
 categories = ['Blog', 'Malaysia']
 +++
 
-<span style="font-size: 13px;"><a href="/uploads/WPWebHost-Logo.jpg"><img class="aligncenter size-full wp-image-2757" src="/uploads/WPWebHost-Logo.jpg" alt="WPWebHost-Logo" width="620" height="150" /></a></span>
+<span style="font-size: 13px;"><a href="/uploads/WPWebHost-Logo.jpg">![WPWebHost-Logo](/uploads/WPWebHost-Logo.jpg)</a></span>
 
 Last weekend I had an issue with my hosting provider, WPWebHost.
 
@@ -35,7 +36,7 @@ Keith</blockquote>
 
 <hr />
 
-&nbsp;
+ 
 <blockquote>Dear Keith,
 
 Good day! Please elaborate on your inquiry, do you mean website is showing errors intermittently?
@@ -51,7 +52,7 @@ Keith</blockquote>
 
 <hr />
 
-&nbsp;
+ 
 <blockquote>Dear Keith,
 
 We have checked and found that your account is hitting the virtual memory limit of the server due to which you will get internal server errors on your sites.
@@ -66,7 +67,7 @@ If you have any enquiries, please do not hesitate to contact us. Thank You!</blo
 
 <hr />
 
-&nbsp;
+ 
 <blockquote>Hi,
 
 I don't have a web developer, the entire site runs on Wordpress.
@@ -77,7 +78,7 @@ I haven't performed any updates on any themes or plugins in the last 5 days, so 
 
 <hr />
 
-&nbsp;
+ 
 <blockquote>Dear Keith,
 
 Kindly allow some time to check on this and get back to you. Your patience is appreciated.
@@ -86,7 +87,7 @@ If you have any enquiries, please do not hesitate to contact us. Thank You!</blo
 
 <hr />
 
-&nbsp;
+ 
 <blockquote>Dear Keith,
 
 Sorry for the delay.
@@ -167,7 +168,7 @@ Keith</blockquote>
 
 <hr />
 
-&nbsp;
+ 
 <blockquote>Dear Keith,
 
 Apologize for the extreme delay.
@@ -180,7 +181,7 @@ If you have any enquiries, please do not hesitate to contact us. Thank You!
 
 <hr />
 
-&nbsp;
+ 
 
 Dear Keith,
 
@@ -192,7 +193,7 @@ Awaiting for your reply.</blockquote>
 
 <hr />
 
-&nbsp;
+ 
 <blockquote>agreed. I still own the keithrozario.com domain, please let me know the IP address once you've migrated it for me to change the DNS entry.
 
 However you manage the keithrozario.net domain, so you will have to change that.
@@ -202,7 +203,7 @@ Keith​</blockquote>
 
 <hr />
 
-&nbsp;
+ 
 <blockquote>Hello Keith?
 
 We shall schedule on the migration for weekend and will get back to you on this. We appreciate your patience in this regards as we shall update you before and after the migration is done.
@@ -213,7 +214,7 @@ keith
 
 <hr />
 
-&nbsp;
+ 
 <blockquote>Dear Keith,
 
 Due to there is some problem to the server, we will continue migration once the server is back to normal.
@@ -221,7 +222,7 @@ If you have any enquiries, please do not hesitate to contact us. Thank You!</blo
 
 <hr />
 
-&nbsp;
+ 
 <blockquote>Dear Keith,
 
 We are still working on your account migration process. We will update you once the migration is done.
@@ -232,7 +233,7 @@ If you have any enquiries, please do not hesitate to contact us. Thank You!</blo
 
 <hr />
 
-&nbsp;
+ 
 <blockquote>Hi,
 
 Give me a time and date.
@@ -242,7 +243,7 @@ Keith</blockquote>
 
 <hr />
 
-&nbsp;
+ 
 <blockquote>Dear Keith,
 
 Due to server is not stable at the moment. I will delay the migration.
@@ -251,11 +252,11 @@ Our migration department will arrange the time and date with you once they resum
 
 Apologize for the issue caused to you.
 
-&nbsp;</blockquote>
+ </blockquote>
 
 <hr />
 
-&nbsp;
+ 
 <blockquote>Dear Keith,
 
 We apologize for the inconvenience caused to you.
@@ -266,7 +267,7 @@ If you have any enquiries, please do not hesitate to contact us. Thank You!</blo
 
 <hr />
 
-&nbsp;
+ 
 <blockquote>Dear Keith,
 
 We have proceed to migrate your account to another server (72.18.130.154).
@@ -294,14 +295,14 @@ If you have any enquiries, please do not hesitate to contact us. Thank You!</blo
 
 <hr />
 
-&nbsp;
+ 
 <blockquote>Dear Keith,
 
 Please be advised that the migration has completed. Kindly note that the cpanel username and password details will remain the same.</blockquote>
 
 <hr />
 
-&nbsp;
+ 
 <blockquote>Thanks everything appears fine for now. Will monitor and revert.</blockquote>
 Eventually the problem is fixed, but this took a couple of days to resolve.
 

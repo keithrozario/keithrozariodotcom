@@ -1,12 +1,13 @@
 +++
 title = "Goodbye Google Buzz, Hello Google+"
+slug = "google-buzz-google-plus"
 date = "2011-12-06T23:02:10"
 draft = false
 tags = ['Google']
 categories = ['Blog', 'Social Media']
 +++
 
-<a title="Google Buzz" href="http://www.keithrozario.com/2011/12/google-buzz-google-plus.html/274852368_3bd1afcde7" rel="attachment wp-att-1521"><img class="alignleft size-medium wp-image-1521" title="274852368_3bd1afcde7" src="/uploads/274852368_3bd1afcde7-300x225.jpg" alt="" width="300" height="225" /></a>I've long been a great fan of all things Google, even when they weren't exactly producing top quality stuff (like Google Wave), I stuck by them through thick and thin. That being said, it's been more good than bad, sure they had a rough patch with Wave and Google Buzz, and yes Google+ isn't exactly the Facebook killer it was tauted to be. However, think of all the really cool stuff they're doing, consider the fact that I literally LIVE on Googles Cloud, all my email is on GMail, there isn't a single day that goes by that I don't get my daily dose of blogs via Google Reader and I do Google Searches at least 10 times a day. So overall Google is still pretty good in my book.
+<a title="Google Buzz" href="http://www.keithrozario.com/2011/12/google-buzz-google-plus.html/274852368_3bd1afcde7" rel="attachment wp-att-1521">![](/uploads/274852368_3bd1afcde7-300x225.jpg "274852368_3bd1afcde7")</a>I've long been a great fan of all things Google, even when they weren't exactly producing top quality stuff (like Google Wave), I stuck by them through thick and thin. That being said, it's been more good than bad, sure they had a rough patch with Wave and Google Buzz, and yes Google+ isn't exactly the Facebook killer it was tauted to be. However, think of all the really cool stuff they're doing, consider the fact that I literally LIVE on Googles Cloud, all my email is on GMail, there isn't a single day that goes by that I don't get my daily dose of blogs via Google Reader and I do Google Searches at least 10 times a day. So overall Google is still pretty good in my book.
 
 Be that as it may though, one of the hallmark of successful innovators is that they know when to call it quits. Google has already <a title="Google Kills off Buzz" href="http://crave.cnet.co.uk/software/google-kills-off-buzz-tells-you-how-to-save-your-posts-50005840/" target="_blank">shelved Google Buzz</a>, and spun off Google Wave as <a title="Apache Wave" href="http://incubator.apache.org/wave/">Apache Wave.</a> Which begs the question of what would replace Buzz.<!--more-->
 

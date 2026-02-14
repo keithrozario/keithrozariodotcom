@@ -1,11 +1,12 @@
 +++
 title = "Techless Tuesday: Stress isn't just mental"
+slug = "stress_prt1"
 date = "2011-09-07T09:37:49"
 draft = false
 categories = ['Misc']
 +++
 
-<a title="Stress" href="http://www.keithrozario.com/2011/09/stress_prt1.html/2204059683_09eb09601b_m" rel="attachment wp-att-1205"><img class="alignleft size-full wp-image-1205" title="2204059683_09eb09601b_m" src="/uploads/2204059683_09eb09601b_m.jpg" alt="" width="172" height="240" /></a>I've decided to start a separate Tuesday posting that has nothing to do with the web or tech, I call it Techless Tuesday, and the topic of todays Techless Tuesday is something I've been researching for about 3 weeks now...Stress.
+<a title="Stress" href="http://www.keithrozario.com/2011/09/stress_prt1.html/2204059683_09eb09601b_m" rel="attachment wp-att-1205">![](/uploads/2204059683_09eb09601b_m.jpg "2204059683_09eb09601b_m")</a>I've decided to start a separate Tuesday posting that has nothing to do with the web or tech, I call it Techless Tuesday, and the topic of todays Techless Tuesday is something I've been researching for about 3 weeks now...Stress.
 
 So what is Stress and what can we do about it.
 

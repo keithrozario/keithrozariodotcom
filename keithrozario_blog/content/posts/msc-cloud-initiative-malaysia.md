@@ -1,12 +1,13 @@
 +++
 title = "MSC Cloud Initiative : Why it's a bridge too far"
+slug = "msc-cloud-initiative-malaysia"
 date = "2012-08-03T11:33:57"
 draft = false
 tags = ['MSC']
 categories = ['Cloud Computing', "Keith's Favorite Post", 'Malaysia']
 +++
 
-<a href="/uploads/msc-medc-cloud-intiative.jpg"><img class="alignleft  wp-image-2646" title="msc-medc-cloud-intiative" src="/uploads/msc-medc-cloud-intiative-300x285.jpg" alt="" width="300" height="250" /></a>Why does Amazon--arguably the biggest cloud player in the world--choose to launch it's Asia-Pacific Offering in Singapore rather than Malaysia? One would think that the prohibitively high prices of land in Singapore, coupled with it's higher base cost and employee wages would make Singapore a terrible place to put up a Huge Datacenter comprising of thousands of Servers and HVAC units.
+<a href="/uploads/msc-medc-cloud-intiative.jpg">![](/uploads/msc-medc-cloud-intiative-300x285.jpg "msc-medc-cloud-intiative")</a>Why does Amazon--arguably the biggest cloud player in the world--choose to launch it's Asia-Pacific Offering in Singapore rather than Malaysia? One would think that the prohibitively high prices of land in Singapore, coupled with it's higher base cost and employee wages would make Singapore a terrible place to put up a Huge Datacenter comprising of thousands of Servers and HVAC units.
 
 Just to compare Malaysia and Singapore, you can build data centers in Malaysia for a fraction of the cost, coupled with cheaper labor and support cost. Our subsidized power, also means that Amazon could benefit from lower electricity bills. Best of all, Malaysia and Singapore, aren't really that far apart, so why setup shop in Singapore for something that relies on high volume and low cost? The answer is quite simple--Singapore is where the Internet is, or rather that's where the data flows through. The internet is the information super highway, and just like any other highway the 3 most important criteria for setting up business on the internet is location, location,location.<!--more-->
 <h2>Data Cables Bring the Internet to your doorstep</h2>

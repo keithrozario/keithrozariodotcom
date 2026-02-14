@@ -1,12 +1,13 @@
 +++
 title = "Bufferapp : Schedule your Tweets"
+slug = "bufferapp"
 date = "2011-07-28T10:33:57"
 draft = false
 tags = ['twitter']
 categories = ['Social Media']
 +++
 
-<a title="Bufferapp" href="http://www.keithrozario.com/2011/07/bufferapp.html"><img class="alignleft size-thumbnail wp-image-1131" title="Buffer App" src="/uploads/buffer-app-246x250-147x150.png" alt="Buffer App" width="147" height="150" /></a>Buffer is a great tool that helps your organize and schedule your tweets to maximize your shameless attempts to promote your website on twitter.
+<a title="Bufferapp" href="http://www.keithrozario.com/2011/07/bufferapp.html">![Buffer App](/uploads/buffer-app-246x250-147x150.png "Buffer App")</a>Buffer is a great tool that helps your organize and schedule your tweets to maximize your shameless attempts to promote your website on twitter.
 
 Well let's face it, I'm on twitter but with only 39 followers its not really adding any hits to my website...well maybe one or two. What's clear though is that good blog content without any social media promotion on twitterr , LinkedIN or facebook means I have to rely on Google bringing in the hits, that's like starting a company with only 1 customer and then relying on that customer only. If I'm going to get 1000 hits/ month, then I'm going to have to get serious on twitter and start churning out content that aligns with what my followers on twitter want to see.<!--more-->
 
@@ -14,11 +15,11 @@ There is one problem, how do you know which links users are clicking and which l
 
 For example, my tweet below on fetch.io reached 40 people and was clicked 3 times. So this tweet generated 3 hits to my website. 3 hits isn't so great, but 3 hits from 39 followers is quite high, usually I get zero. With this information I can then try to adjust the content to garner more hits..etc etc.
 
-<img class="alignleft size-full wp-image-1130" title="Analytics" src="/uploads/Analytics.jpg" alt="" width="885" height="70" />
+![](/uploads/Analytics.jpg "Analytics")
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
 Buffer however was design for something else, for you to schedule your tweets. And here's where it really excels. Buffer lets you tweet at odd hours of the day, when you're at work or when you're on holiday, allowing you to have a nearly persistent presence on twitter. Now it's debatable if this is good or bad, but Buffer does allow you to distribute tweets over the day which is awesome.
 

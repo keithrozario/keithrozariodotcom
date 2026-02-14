@@ -1,5 +1,6 @@
 +++
 title = "A dumb-pipe and Net Neutrality"
+slug = "a-dumb-pipe-and-net-neutrality"
 date = "2015-09-02T09:56:05"
 draft = false
 categories = ['Misc']
@@ -37,7 +38,7 @@ The reality is that, I'm having a difficult time figuring out whether internet.o
 
 I'm really torn. But at least now you know the controversy.
 
-&nbsp;
+ 
 <blockquote>
 <h2 class="story-body__crosshead">What is Internet.org?</h2>
 <figure class="media-landscape has-caption full-width"></figure>Internet.org allows subscribers of partner mobile networks to use a limited number of online services without having to pay to make use of the data involved.

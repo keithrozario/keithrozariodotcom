@@ -1,11 +1,12 @@
 +++
 title = "About Me"
+slug = "tech-evangelist"
 date = "2013-05-26T17:39:46"
 draft = false
 +++
 
 <!-- wp:image {"align":"center","id":7264,"width":138,"height":138,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="/uploads/795867.png" alt="" class="wp-image-7264" width="138" height="138"/></figure></div>
+![](/uploads/795867.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->

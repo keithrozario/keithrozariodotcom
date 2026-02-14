@@ -1,11 +1,12 @@
 +++
 title = "A Techie's view on the Law"
+slug = "a-techies-view-on-the-law"
 date = "2014-09-08T22:30:09"
 draft = false
 categories = ['CyberLaw', 'Security &amp; Privacy']
 +++
 
-<img class="alignleft wp-image-4572 size-medium" src="/uploads/2283584007_f199332890_z-300x200.jpg" alt="2283584007_f199332890_z" width="300" height="200" />Are some laws worth following--in other words, are some Laws so idiotic that they should be ignored completely?
+![2283584007_f199332890_z](/uploads/2283584007_f199332890_z-300x200.jpg)Are some laws worth following--in other words, are some Laws so idiotic that they should be ignored completely?
 
 That sounds anathema, because we have a romanticized definition of the law, we define the Law as a broad general agreement a society undertakes, and the law keeps society from tearing itself apart. In other words, the law is so sacred because without it--we descend into anarchy, so ignoring the law is akin to promoting anarchy.
 
@@ -54,4 +55,4 @@ After all, the law is a piece of Technology. It was designed some couple thousan
 
 And just like any other piece of Technology, upgrades come in increments or paradigm shifts--we've probably incremented the existing system as much as we should, it's time we took radical approaches.Trying to use this old-skool law technology, to regulate todays digital technology is akin to pouring new wine into old wine-skins. I have no idea what a wine-skin is, but at least I know what the Public Key Infrastructure is, something the MPs that drafted the Digital Signature act clearly didn't. I leave you with the wise words of Nicholas Negroponte, a giant of the tech world:
 
-<img class="size-full wp-image-4570 aligncenter" src="/uploads/2845536335_d86cf7db2e_z.jpg" alt="2845536335_d86cf7db2e_z" width="640" height="426" />
+![2845536335_d86cf7db2e_z](/uploads/2845536335_d86cf7db2e_z.jpg)

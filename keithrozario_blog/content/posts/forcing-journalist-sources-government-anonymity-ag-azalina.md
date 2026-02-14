@@ -1,5 +1,6 @@
 +++
 title = "Forcing journalist to reveal sources will be bad--for the government!"
+slug = "forcing-journalist-sources-government-anonymity-ag-azalina"
 date = "2016-02-09T19:21:19"
 draft = false
 categories = ['CyberLaw', 'Malaysia', 'Security &amp; Privacy']

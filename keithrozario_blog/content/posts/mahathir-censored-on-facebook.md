@@ -1,5 +1,6 @@
 +++
 title = "Mahathir censored on facebook"
+slug = "mahathir-censored-on-facebook"
 date = "2013-08-03T12:14:00"
 draft = false
 categories = ['Copyright and Censorship']
@@ -11,7 +12,7 @@ Can't do it?
 
 You most probably got a warning that looked something like this:
 
-<a href="/uploads/chedet_blocked.png"><img class="aligncenter size-full wp-image-3958" alt="chedet_blocked" src="/uploads/chedet_blocked.png" width="609" height="282" /></a>
+<a href="/uploads/chedet_blocked.png">![chedet_blocked](/uploads/chedet_blocked.png)</a>
 
 This has been going on for some time, but a couple of days ago, the Malaymail reported that not only is the website blocked, but articles pointing to Mahathirs 'Chinese dilemma'  were also blocked. A note on Mahathirs Facebook page informed readers that:
 

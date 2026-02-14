@@ -1,11 +1,12 @@
 +++
 title = "Singapore Historical PSI Readings in Excel"
+slug = "singapore-historical-psi-readings-in-excel"
 date = "2016-03-25T08:00:51"
 draft = false
 categories = ['Misc']
 +++
 
-<a href="/uploads/8679939937_79ac83f81c_z.jpg" rel="attachment wp-att-4752"><img class="alignleft wp-image-4752 size-medium" src="/uploads/8679939937_79ac83f81c_z-300x200.jpg" alt="Haze Malaysia" width="300" height="200" /></a>Every now an again, I brush off the dust from an old laptop I have in the corner, and boot-up a couple of forgotten python scripts.
+<a href="/uploads/8679939937_79ac83f81c_z.jpg" rel="attachment wp-att-4752">![Haze Malaysia](/uploads/8679939937_79ac83f81c_z-300x200.jpg)</a>Every now an again, I brush off the dust from an old laptop I have in the corner, and boot-up a couple of forgotten python scripts.
 
 One of those scripts would scrap the DOE Malaysia website for API readings in Malaysia, unfortunately, those damn fools at the DOE now only publish 7-day data, and completely wipe off anything older--for some unknown reason.
 

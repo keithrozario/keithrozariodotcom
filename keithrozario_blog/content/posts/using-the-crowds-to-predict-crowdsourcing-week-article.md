@@ -1,5 +1,6 @@
 +++
 title = "Using the Crowds to Predict : Crowdsourcing week article"
+slug = "using-the-crowds-to-predict-crowdsourcing-week-article"
 date = "2013-02-06T22:06:17"
 draft = false
 tags = ['crowdsourcing week']

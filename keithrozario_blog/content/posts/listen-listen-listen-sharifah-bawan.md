@@ -1,11 +1,12 @@
 +++
 title = "5 Lessons from Listen Listen Listen"
+slug = "listen-listen-listen-sharifah-bawan"
 date = "2013-01-20T14:00:46"
 draft = false
 categories = ['Social Media']
 +++
 
-<center><a href="/uploads/Sharifah-Bawani-Listen-Listen.jpg"><img title="Sharifah-Bawani-Listen-Listen" src="/uploads/Sharifah-Bawani-Listen-Listen.jpg" alt="Sharifah telling Bawani to Listen Listen Listen" width="500" height="375" /></a></center>For the past week or so, Malaysians have been completely engrossed by the "Listen Listen Listen" video, and barely a day went by without me hearing some lame joke about listening, speaking...and even sharks. Over the weekend however, I had some time to contemplate through the craziness and realize that underneath this viral video that took Malaysia by storm had some rather interesting lessons we could all learn from--that includes the sharks cause everyone knows sharks have got problems and Jaws really needs to shut up and listen.<!--more-->
+<center><a href="/uploads/Sharifah-Bawani-Listen-Listen.jpg">![Sharifah telling Bawani to Listen Listen Listen](/uploads/Sharifah-Bawani-Listen-Listen.jpg "Sharifah-Bawani-Listen-Listen")</a></center>For the past week or so, Malaysians have been completely engrossed by the "Listen Listen Listen" video, and barely a day went by without me hearing some lame joke about listening, speaking...and even sharks. Over the weekend however, I had some time to contemplate through the craziness and realize that underneath this viral video that took Malaysia by storm had some rather interesting lessons we could all learn from--that includes the sharks cause everyone knows sharks have got problems and Jaws really needs to shut up and listen.<!--more-->
 <h2>Lesson 1: Don't bully anyone--people don't like bullies.</h2>
 Sharifah was nothing more than a bully, using her power as a moderator, her age and even her education background to talk 'down' to Bawani. For the most part, we're familiar with videos of people saying stupid things or politicians going at each other--but what really gets our collective blood to boil are bullies. No one likes a bully, and when people find out you're a bully, they won't like you.
 
@@ -38,7 +39,7 @@ For some unexplainable reason she chose to employ a strategy of silence--which i
 
 Slightly off-tangent, has anyone noticed that all the seminars utilize the very same picture of Sharifah, you'd think a millionaire could afford some decent photo-shots??
 <h2>Lesson 5: When a video goes viral, people are going to get in on the action</h2>
-<center><a href="/uploads/Listen-Listen-Listen-Sharks-Have-Problems.jpg"><img class="wp-image-3112 aligncenter" title="Listen-Listen-Listen-Sharks-Have-Problems" src="/uploads/Listen-Listen-Listen-Sharks-Have-Problems.jpg" alt="" width="251" height="336" /></a><a href="/uploads/LISTEN-LISTEN-LISTEN-6.jpg">
+<center><a href="/uploads/Listen-Listen-Listen-Sharks-Have-Problems.jpg">![](/uploads/Listen-Listen-Listen-Sharks-Have-Problems.jpg "Listen-Listen-Listen-Sharks-Have-Problems")</a><a href="/uploads/LISTEN-LISTEN-LISTEN-6.jpg">
 </a></center>There's a whole boat-load of adverts featuring listen listen listen, with the more interesting one including mentions of chickens, pigs and even sharks. These cause sort of a second wave to the viral-ity of the video. The initial wave hits everyone on Facebook and Twitter simply because that's the medium that the videos are being shared on, but when the more mainstream media starts reporting on it, and Advertisers start taking advantage of the situation--that causes all those outliers who don't use Facebook (like my Father) to get curious and start searching for it.
 
 So the first wave hits Facebook, and the 2nd wave hits those who don't have Facebook--it gets to a point where everyone knows, even those who aren't connected to the internet. This is National news people!!
@@ -49,5 +50,5 @@ The Internet is a all-knowing (pervasive) and never forgetting (persistent) crea
 
 Saying Sorry is the best thing Sharifah can do right now, I can only she's listening listening listening to this post.
 <div><em>P.S Btw, if you're looking to get in on the Listen Listen Listen action, there's a guy on <a title="Listen Listen Listen t-shirts" href="http://tshirt.mylubok.com/" target="_blank">http://tshirt.mylubok.com/</a> whose selling really cool Listen Listen Listen t-shirts.</em></div>
-<div><a href="http://tshirt.mylubok.com/"><img class="aligncenter size-full wp-image-3113" title="LISTEN-LISTEN-LISTEN-6" src="/uploads/LISTEN-LISTEN-LISTEN-6.jpg" alt="Listen Listen Listen t-shirts" width="400" height="367" /></a></div>
+<div><a href="http://tshirt.mylubok.com/">![Listen Listen Listen t-shirts](/uploads/LISTEN-LISTEN-LISTEN-6.jpg "LISTEN-LISTEN-LISTEN-6")</a></div>
 <div></div>

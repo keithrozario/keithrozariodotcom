@@ -1,5 +1,6 @@
 +++
 title = "Maxis Launches ebook portal "
+slug = "maxis-launches-ebook-portal"
 date = "2012-04-23T18:03:24"
 draft = false
 tags = ['Amazon', 'Maxis']
@@ -12,14 +13,14 @@ I'm an avid reader and was excited when I heard the news, so I headed over to th
 
 <!--more-->
 
-<a href="/uploads/Progress-Principle.jpg"><img class="wp-image-2054 alignnone" title="Progress Principle" src="/uploads/Progress-Principle.jpg" alt="" width="550" height="309" /></a><a href="/uploads/Mitch-Albom.png"><img class="wp-image-2052 alignnone" title="Maxis ebuuk Progress" src="/uploads/Maxis-ebuuk-Progress.png" alt="" width="550" height="125" /></a>
+<a href="/uploads/Progress-Principle.jpg">![](/uploads/Progress-Principle.jpg "Progress Principle")</a><a href="/uploads/Mitch-Albom.png">![](/uploads/Maxis-ebuuk-Progress.png "Maxis ebuuk Progress")</a>
 
 Next I looked up one of Maxis recommendations, I expected the recommendations to be cheaper and probably be able to compete with Amazon. The recommendation in question was 5 people you meet in Heaven by Mitch Albom. Amazon retails the kindle version for USD4.99, or about Rm16-Rm17 here. Maxis on the other hand retails it for Rm55.99 that's more than 3 times the price of Amazon.
 
 Now I know it's hard for Maxis to compete with Amazon, and it's difficult (though not impossible) for Malaysians to purchase ebooks from Amazon, but we're talking about a 200% premium here, something has to justify that price, and as far as I can tell...nothing has.
 <div>
 
-<img class="wp-image-2053 alignnone" title="Mitch Albom" src="/uploads/Mitch-Albom.png" alt="" width="550" height="97" /><img class="wp-image-2051 alignnone" title="Five People you meet in heaven" src="/uploads/Five-People-you-meet-in-heaven.jpg" alt="" width="550" height="316" />
+![](/uploads/Mitch-Albom.png "Mitch Albom")![](/uploads/Five-People-you-meet-in-heaven.jpg "Five People you meet in heaven")
 <h2><strong>Conclusion</strong></h2>
 I'd not buy books from Maxis just yet, they're still trying out this ebuuk thing, and I'd wait on the side till the sort things out.
 

@@ -1,5 +1,6 @@
 +++
 title = "Preventing a DDOS is not going to be easy"
+slug = "preventing-a-ddos-is-not-going-to-be-easy"
 date = "2016-11-02T20:56:42"
 draft = false
 tags = ['DDOS', 'StarHub']

@@ -1,5 +1,6 @@
 +++
 title = "Proton has a Volvo like obsession with SAFETY? NO."
+slug = "proton-has-a-volvo-like-obsession-with-safety-no"
 date = "2013-12-17T11:14:47"
 draft = false
 categories = ['Misc']

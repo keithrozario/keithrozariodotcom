@@ -1,11 +1,12 @@
 +++
 title = "LTE in Malaysia has No iPhone5 support"
+slug = "iphone-5-4g-lte-malaysia-maxis"
 date = "2012-12-13T23:40:13"
 draft = false
 categories = ['Malaysia']
 +++
 
-<center><a href="/uploads/iPhone-5-LTE-Malaysia.jpg"><img class="size-medium wp-image-2982 alignnone" title="iPhone-5-LTE-Malaysia" src="/uploads/iPhone-5-LTE-Malaysia-300x300.jpg" alt="iPhone 5 no LTE support from Maxis Malaysia" width="300" height="300" /></a></center>Breaking news. That new iPhone that you lined up overnight for outside KLCC--won't have LTE support, and quite possibly--never will!!
+<center><a href="/uploads/iPhone-5-LTE-Malaysia.jpg">![iPhone 5 no LTE support from Maxis Malaysia](/uploads/iPhone-5-LTE-Malaysia-300x300.jpg "iPhone-5-LTE-Malaysia")</a></center>Breaking news. That new iPhone that you lined up overnight for outside KLCC--won't have LTE support, and quite possibly--never will!!
 
 So before you plonk down your dough on the next big thing, you might want to consider how you'd feel if within 6 months everybody else on your block had next generation 4G speeds--except you!
 

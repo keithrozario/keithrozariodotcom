@@ -1,5 +1,6 @@
 +++
 title = "Drifting vs. Deliberately improving"
+slug = "drifting-vs-deliberately-improving"
 date = "2021-11-07T17:28:07"
 draft = false
 categories = ['Misc']

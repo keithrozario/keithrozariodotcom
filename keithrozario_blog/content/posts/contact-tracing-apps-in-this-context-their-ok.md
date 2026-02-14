@@ -1,12 +1,13 @@
 +++
 title = "Contact Tracing Apps: they're OK."
+slug = "contact-tracing-apps-in-this-context-their-ok"
 date = "2020-05-10T16:46:28"
 draft = false
 categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++
 
 <!-- wp:image {"align":"center","id":7074,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/Screen-Shot-2020-05-10-at-10.56.10-AM.png" alt="" class="wp-image-7074"/></figure></div>
+![](/uploads/Screen-Shot-2020-05-10-at-10.56.10-AM.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -150,7 +151,7 @@ categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 <!-- /wp:list -->
 
 <!-- wp:image {"id":7073,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/Comparison.001.jpeg" alt="" class="wp-image-7073"/></figure>
+![](/uploads/Comparison.001.jpeg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

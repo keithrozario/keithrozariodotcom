@@ -1,5 +1,6 @@
 +++
 title = "Block This!!"
+slug = "block-this"
 date = "2015-08-28T18:15:32"
 draft = false
 categories = ['Copyright and Censorship']
@@ -11,4 +12,4 @@ I cannot then tell you to join Bersih and call for free and fair elections, and 
 
 I also shouldn't post pictures like the one below:
 
-[caption id="attachment_5140" align="aligncenter" width="325"]<a href="/uploads/e204.jpg"><img class="size-large wp-image-5140" src="/uploads/e204-325x500.jpg" alt="Bersih" width="325" height="500" /></a> Bersih[/caption]
+[caption id="attachment_5140" align="aligncenter" width="325"]<a href="/uploads/e204.jpg">![Bersih](/uploads/e204-325x500.jpg)</a> Bersih[/caption]

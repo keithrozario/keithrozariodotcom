@@ -1,5 +1,6 @@
 +++
 title = "How many samples are enough to build the Kidex highway?"
+slug = "how-many-is-enough-kidex-highway-say-no"
 date = "2014-05-18T22:04:10"
 draft = false
 tags = ['Kidex']

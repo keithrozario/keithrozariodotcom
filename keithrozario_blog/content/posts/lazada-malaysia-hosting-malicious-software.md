@@ -1,17 +1,18 @@
 +++
 title = "Google: Lazada.com.my Malaysia is hosting Malware"
+slug = "lazada-malaysia-hosting-malicious-software"
 date = "2012-08-08T13:57:11"
 draft = false
 categories = ['Malaysia']
 +++
 
-<center><a href="/uploads/lazada_malware_waning.jpg"><img class="wp-image-2685 alignnone" title="lazada_malware_waning" src="/uploads/lazada_malware_waning.jpg" alt="Lazada Infected by Malware Warning from Google" width="550" height="260" /></a></center>
+<center><a href="/uploads/lazada_malware_waning.jpg">![Lazada Infected by Malware Warning from Google](/uploads/lazada_malware_waning.jpg "lazada_malware_waning")</a></center>
 <h5><em>Lazada.com.my contains malware. Your computer might catch a virus if you visit this site. Google has found malicious software may be installed on your computer if you proceed.</em></h5>
 WOW, Lazada Malaysia apparently has been infected with some rather nasty infection. My version of Google Chrome prompted this when I tried to visit the site today. Hope everything is alright over there in Lazada headquarters.
 
 In fact, Google is populating it on their search results as well, must be a rather nasty one:
 
-<center><a href="/uploads/Lazada_malware_google_search.png"><img class="size-full wp-image-2686 alignnone" style="border: 2px solid black;" title="Lazada_malware_google_search" src="/uploads/Lazada_malware_google_search.png" alt="" width="532" height="213" /></a></center>&nbsp;
+<center><a href="/uploads/Lazada_malware_google_search.png">![](/uploads/Lazada_malware_google_search.png "Lazada_malware_google_search")</a></center> 
 
 It can get really nasty trying to disinfect a site. Good luck to the guys over at Lazada, what's more worrying if Lazada actually carried credit card and personal data, I wonder if they secured it thoroughly and whether this breach could point to something even more serious over at Lazada headquarters.
 
@@ -47,4 +48,4 @@ Would someone from Lazada help me understand what went wrong here?
 
 To view the full Google Safe Browsing Diagnostic page for Lazada.com.my, enlarge the image below:
 
-<center><a href="/uploads/Google-Safe-Browsing-diagnostic-page-for-www.lazada.com_.my_.png"><img class="alignnone  wp-image-2694" title="Google Safe Browsing diagnostic page for www.lazada.com.my" src="/uploads/Google-Safe-Browsing-diagnostic-page-for-www.lazada.com_.my_.png" alt="Google Safe Browsing diagnostic page for www.lazada.com.my" width="550" height="250" /></a></center>
+<center><a href="/uploads/Google-Safe-Browsing-diagnostic-page-for-www.lazada.com_.my_.png">![Google Safe Browsing diagnostic page for www.lazada.com.my](/uploads/Google-Safe-Browsing-diagnostic-page-for-www.lazada.com_.my_.png "Google Safe Browsing diagnostic page for www.lazada.com.my")</a></center>

@@ -1,12 +1,13 @@
 +++
 title = "What the Jetsons can teach us about predicting the future"
+slug = "jetsons-perdicting-future"
 date = "2011-11-23T14:43:26"
 draft = false
 tags = ['Prediction']
 categories = ['Blog', 'Cloud Computing']
 +++
 
-<a title="Predicting the future" href="http://www.keithrozario.com/2011/11/jetsons-perdicting-future.html/jetsonslogo640x480" rel="attachment wp-att-1430" target="_blank"><img class="alignleft size-full wp-image-1430" title="Jetsonslogo640x480" src="/uploads/Jetsonslogo640x480.jpg" alt="" width="300" height="224" /></a>Day 3 of my 30 challenge to blog everyday, and I'm already running of ideas and places to blog. I'm now in the waiting room of a my car workshop waiting as the foreman changes the tyres on my car. A couple of years ago, working in these environments would be unthinkable, you could either go to the workshop or work from the office, you couldn't do both, but now...I can.
+<a title="Predicting the future" href="http://www.keithrozario.com/2011/11/jetsons-perdicting-future.html/jetsonslogo640x480" rel="attachment wp-att-1430" target="_blank">![](/uploads/Jetsonslogo640x480.jpg "Jetsonslogo640x480")</a>Day 3 of my 30 challenge to blog everyday, and I'm already running of ideas and places to blog. I'm now in the waiting room of a my car workshop waiting as the foreman changes the tyres on my car. A couple of years ago, working in these environments would be unthinkable, you could either go to the workshop or work from the office, you couldn't do both, but now...I can.
 
 A couple of years before that, everyone was bunkered down with wired connection that made silly noises when connecting, in the good ol' days we used to call that dial-up, rewind just a tad-bit more and you'd reach a age where you had to wired up to make a phone call. No cellphones and if you wanted to contact someone you'd have to have their 7 digit phone number and a pay phone to make that call from. Sounds a lot different from what we have today, but it's true.<!--more-->
 

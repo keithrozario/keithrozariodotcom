@@ -1,5 +1,6 @@
 +++
 title = "Being Terrified: The price of terrorism"
+slug = "being-terrified-the-price-of-terrorism"
 date = "2016-02-08T18:58:35"
 draft = false
 categories = ['CyberLaw', 'Malaysia', 'Security &amp; Privacy']

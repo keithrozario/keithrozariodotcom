@@ -1,5 +1,6 @@
 +++
 title = "Full Disk Encryption with the keys inside"
+slug = "full-disk-encryption-with-the-keys-inside"
 date = "2016-04-09T12:52:55"
 draft = false
 tags = ['EMV', 'Iphone']
@@ -40,7 +41,7 @@ This is very similar to the Truecrypt and Bitlocker approach disk-encryption, wi
 
 Hence a long alphanumeric password is acceptable for laptop use, but not iPhone use.
 
-<a href="/uploads/Apple-Encryption-Keys.png" rel="attachment wp-att-5628"><img class="size-full wp-image-5628 aligncenter" src="/uploads/Apple-Encryption-Keys.png" alt="Apple-Encryption-Keys" width="521" height="198" /></a>
+<a href="/uploads/Apple-Encryption-Keys.png" rel="attachment wp-att-5628">![Apple-Encryption-Keys](/uploads/Apple-Encryption-Keys.png)</a>
 <h2>The problem with physical access</h2>
 For a long time in computer security, we've always lived under the assumption that if the attacker has gained physical access to the computer in question, <span style="text-decoration: underline;">all bets are off</span>. Apple is working hard to ensure that this assumption will no longer hold true for the next iteration of iOS, and are putting that assumption to a serious test.
 
@@ -50,7 +51,7 @@ Last year, I wrote a piece about how <a href="https://www.keithrozario.com/2015/
 
 When you insert (or as the British say 'dip' ) you card into a card terminal, the card authenticates itself to the terminal by providing it two chained certificates, one that belongs to the issuing bank, and another that is card specific. The terminal uses a root certificate provided by the card scheme (Visa, Mastercard, JCB..etc) to verify these card-provided certificates. Finally the terminal challenges the card to prove that it has the private key corresponding to the card specific certificate.
 
-<a href="/uploads/Card-Bank-Key.png" rel="attachment wp-att-5631"><img class="aligncenter wp-image-5631" src="/uploads/Card-Bank-Key.png" alt="Card-Bank-Key" width="550" height="316" /></a>
+<a href="/uploads/Card-Bank-Key.png" rel="attachment wp-att-5631">![Card-Bank-Key](/uploads/Card-Bank-Key.png)</a>
 
 It's all very complex, but it's worked so far, because no one (at least officially) has figured out how to obtain the secret key from the card--but many have figured out easier ways to circumvent the protection.
 

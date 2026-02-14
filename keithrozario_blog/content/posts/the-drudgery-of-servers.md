@@ -1,5 +1,6 @@
 +++
 title = "The Drudgery of Servers"
+slug = "the-drudgery-of-servers"
 date = "2020-08-08T12:13:56"
 draft = false
 categories = ['Misc']
@@ -18,7 +19,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7290,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/Wordpress-Stack.png" alt="" class="wp-image-7290"/></figure></div>
+![](/uploads/Wordpress-Stack.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -26,7 +27,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7291,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/Wordpress-Stack-full.png" alt="" class="wp-image-7291"/></figure></div>
+![](/uploads/Wordpress-Stack-full.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -38,7 +39,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7293} -->
-<div class="wp-block-image"><figure class="aligncenter"><img src="/uploads/Screen-Shot-2020-06-26-at-9.09.45-PM.png" alt="" class="wp-image-7293"/></figure></div>
+![](/uploads/Screen-Shot-2020-06-26-at-9.09.45-PM.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -1,12 +1,13 @@
 +++
 title = "What Challenge 13 taught me about LLMs."
+slug = "what-challenge-13-thought-me-about-llms"
 date = "2025-03-02T17:32:37"
 draft = false
 categories = ['Misc']
 +++
 
 <!-- wp:image {"id":7868,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="/uploads/image-7-619x500.png" alt="" class="wp-image-7868"/></figure>
+![](/uploads/image-7-619x500.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -218,7 +219,7 @@ Prize: X=8400, Y=5400</code></pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7867,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="/uploads/4617759902_d62819c715_w.jpg" alt="" class="wp-image-7867"/><figcaption class="wp-element-caption">https://www.flickr.com/photos/jdhancock/4617759902</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full">![](/uploads/4617759902_d62819c715_w.jpg)<figcaption class="wp-element-caption">https://www.flickr.com/photos/jdhancock/4617759902</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -272,11 +273,11 @@ Prize: X=8400, Y=5400</code></pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>System 1 is responsible for quick judgments and decisions based on patterns and experiences.&nbsp; .&nbsp; It's responsible for automatic activities like detecting hostility in a voice, reading words on billboards, and driving a car on an empty road.&nbsp;</p>
+<p>System 1 is responsible for quick judgments and decisions based on patterns and experiences.  .  It's responsible for automatic activities like detecting hostility in a voice, reading words on billboards, and driving a car on an empty road. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>System 2 is slower, more deliberate, and more logical.&nbsp;It's responsible for complex problem-solving and analytical tasks.&nbsp; It's responsible for seeking new or missing information, making decisions, and logical and skeptical thinking.&nbsp;</p>
+<p>System 2 is slower, more deliberate, and more logical. It's responsible for complex problem-solving and analytical tasks.  It's responsible for seeking new or missing information, making decisions, and logical and skeptical thinking. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -365,7 +366,7 @@ Prize: X=8400, Y=5400</code></pre>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Each connection is represented as two computer names joined by a hyphen (e.g.,&nbsp;<code>kh-tc</code>)</li>
+<li>Each connection is represented as two computer names joined by a hyphen (e.g., <code>kh-tc</code>)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->

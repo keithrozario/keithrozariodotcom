@@ -1,5 +1,6 @@
 +++
 title = "Everything wrong with TalkingPoint's \"Cybersecurity\" episode"
+slug = "everything-wrong-with-talkingpoints-cybersecurity-episode"
 date = "2017-04-19T23:50:46"
 draft = false
 categories = ['Security &amp; Privacy', 'Singapore']
@@ -21,7 +22,7 @@ In 2010, Singapore's retail <a href="http://www.enterpriseinnovation.net/articl
 
 Cybercrime is a problem, but not one that is wildly out of proportion to the other issues society is facing.<!--more-->
 <h2>Problem 2: Hacking with just a phone number</h2>
-<a href="/uploads/Downloading-an-Apk.png"><img class="aligncenter wp-image-6020 size-full" src="/uploads/Downloading-an-Apk.png" alt="" width="552" height="327" /></a>
+<a href="/uploads/Downloading-an-Apk.png">![](/uploads/Downloading-an-Apk.png)</a>
 
 Channel News Asia headline their article with <a href="http://www.channelnewsasia.com/news/singapore/your-phone-number-is-all-a-hacker-needs-to-track-you-steal-your/3673268.html">"Your phone number is all a hacker needs to track you, steal your info"</a>, which isn't true.
 <ol>
@@ -42,7 +43,7 @@ Normal people in society, have no idea how technology works. Headlines like thes
 
 Instead, we should prompt people to not root their phones, not click on suspicious links and for the LOVE OF GOD, don't download software onto your phones from outside the approved stores--DON'T!!
 <h2>Problem 3: WiFi sniffing</h2>
-<a href="/uploads/salesforce-logon.png"><img class="alignleft wp-image-6019" src="/uploads/salesforce-logon.png" alt="" width="300" height="156" /></a>Then we move onto unsecured WiFi.
+<a href="/uploads/salesforce-logon.png">![](/uploads/salesforce-logon.png)</a>Then we move onto unsecured WiFi.
 
 But the shows confuses unsecured WiFi with keyloggers. I'm not sure how connecting to a public WiFi installs a keylogger onto your device, but the segment starts with un-secured WiFi but quickly demo's a keylogger on the phone.
 

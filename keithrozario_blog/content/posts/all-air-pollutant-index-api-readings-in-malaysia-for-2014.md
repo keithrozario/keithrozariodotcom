@@ -1,5 +1,6 @@
 +++
 title = "All Air Pollutant Index (API) readings in Malaysia for 2014"
+slug = "all-air-pollutant-index-api-readings-in-malaysia-for-2014"
 date = "2015-02-08T00:24:16"
 draft = false
 categories = ['Malaysia', 'Misc']
@@ -12,7 +13,7 @@ The data has been updated to include all API readings up to 01-Sept-2015, and th
 To get all the readings by region in a single delimited file, click this <span style="color: #0000ff;"><a style="color: #0000ff;" href="https://www.dropbox.com/s/6p65oyupycti32b/ReadingsByRegion%28SG%26MY%29.zip?dl=0">link</a></span>, I apologize for the messiness of the data and the files, I should tidy them up by the end of the month. Contact me directly for anything specific.
 
 Keith</blockquote>
-<a href="/uploads/8679939937_79ac83f81c_z.jpg"><img class="size-full wp-image-4752 aligncenter" src="/uploads/8679939937_79ac83f81c_z.jpg" alt="Haze Malaysia" width="640" height="427" /></a>
+<a href="/uploads/8679939937_79ac83f81c_z.jpg">![Haze Malaysia](/uploads/8679939937_79ac83f81c_z.jpg)</a>
 
 Once again, your friendly neighbourhood techie has used this powers for the good of the country.
 

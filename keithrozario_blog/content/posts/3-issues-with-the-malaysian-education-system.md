@@ -1,5 +1,6 @@
 +++
 title = "3 issues with the Malaysian education system"
+slug = "3-issues-with-the-malaysian-education-system"
 date = "2013-12-14T10:52:12"
 draft = false
 categories = ['Malaysia']

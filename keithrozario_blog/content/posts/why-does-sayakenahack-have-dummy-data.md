@@ -1,12 +1,13 @@
 +++
 title = "Why does SayaKenaHack have dummy data?"
+slug = "why-does-sayakenahack-have-dummy-data"
 date = "2017-11-15T00:49:17"
 draft = false
 tags = ['sayakenahack']
 categories = ["Keith's Favorite Post", 'Malaysia']
 +++
 
-<a href="/uploads/image2017-11-15_0-10-6.png"><img class="size-full wp-image-6099 aligncenter" src="/uploads/image2017-11-15_0-10-6.png" alt="" width="590" height="442" /></a>
+<a href="/uploads/image2017-11-15_0-10-6.png">![](/uploads/image2017-11-15_0-10-6.png)</a>
 
 Why does <em>sayakenahack</em> have dummy data? If I enter "123456" and "112233445566" I still get results.
 
@@ -72,6 +73,6 @@ This blog runs at a nett loss every year :), but that's OK. Because Malaysians n
 
 I code for fun (not profit), and I definitely don't phish.
 <h2>TL;DR</h2>
-<a href="/uploads/image2017-11-14_21-53-21.png"><img class="alignnone size-full wp-image-6101" src="/uploads/image2017-11-14_21-53-21.png" alt="" width="270" height="261" /></a>
+<a href="/uploads/image2017-11-14_21-53-21.png">![](/uploads/image2017-11-14_21-53-21.png)</a>
 
-<a href="/uploads/image2017-11-14_22-2-48.png"><img class="alignnone wp-image-6103" src="/uploads/image2017-11-14_22-2-48.png" alt="" width="271" height="404" /></a>
+<a href="/uploads/image2017-11-14_22-2-48.png">![](/uploads/image2017-11-14_22-2-48.png)</a>

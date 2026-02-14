@@ -1,11 +1,12 @@
 +++
 title = "First I deleted my most popular tweet -- then I deleted 2000 more."
+slug = "i-deleted-a-tweet-with-2000-retweets-then-i-deleted-2000-more"
 date = "2018-04-22T19:39:38"
 draft = false
 categories = ['Misc']
 +++
 
-<a href="/uploads/undi-tweet-edit.jpg"><img class="alignleft wp-image-6382" src="/uploads/undi-tweet-edit.jpg" alt="" width="300" height="413" /></a>Two weeks ago, I <a href="/uploads/undi-tweet.jpg">rage-tweeted</a> something regarding Malaysian politics that got a lot more viral than I liked (I've censored out the profanity for various reasons, most notably, there are teenagers who read this blog). It was a pointless collection of 200 characters, that somehow resonated with people enough to be shared across social media. Obviously, since it was me, the tweet was filled with a small collection of profanities, and laced with just the right amount of emotive content :)
+<a href="/uploads/undi-tweet-edit.jpg">![](/uploads/undi-tweet-edit.jpg)</a>Two weeks ago, I <a href="/uploads/undi-tweet.jpg">rage-tweeted</a> something regarding Malaysian politics that got a lot more viral than I liked (I've censored out the profanity for various reasons, most notably, there are teenagers who read this blog). It was a pointless collection of 200 characters, that somehow resonated with people enough to be shared across social media. Obviously, since it was me, the tweet was filled with a small collection of profanities, and laced with just the right amount of emotive content :)
 
 But then things started getting bad.
 

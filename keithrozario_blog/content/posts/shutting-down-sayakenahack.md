@@ -1,5 +1,6 @@
 +++
 title = "Shutting down sayakenahack"
+slug = "shutting-down-sayakenahack"
 date = "2018-12-21T16:29:06"
 draft = false
 categories = ['Misc']

@@ -1,12 +1,13 @@
 +++
 title = "Scary Scary Privacy Concerns Online"
+slug = "privacy-concerns-mozilla-collusion"
 date = "2012-05-20T15:40:39"
 draft = false
 tags = ['Mozilla']
 categories = ['CyberLaw', 'Security &amp; Privacy']
 +++
 
-<a href="/uploads/All.jpg"><img class="alignleft size-medium wp-image-2161" title="All" src="/uploads/All-300x225.jpg" alt="" width="300" height="225" /></a>
+<a href="/uploads/All.jpg">![](/uploads/All-300x225.jpg "All")</a>
 
 Would you get freaked out if I told that from just 1 hour of internet browsing, your information could be shared with nearly 70 organizations, including advertisers who use it to target ads to you. Would you be angered if this information were sold to other 3rd parties including insurance providers and even governments to build profiles of you on their systems. Would you be annoyed that the internet which promised to be a bastion of democracy and anonymity, isn't all it was cracked up to be? Well read on...
 
@@ -29,4 +30,4 @@ Personally I downloaded Collusion for Chrome, which is built on the same princip
 7) A couple other blogs.</blockquote>
 What I got was the ridiculously scary image above, in fact from just one website (malaysiakini.com), my information was sent to nearly 24 different websites including a whole host of advertisers:
 
-<center><a href="/uploads/Malaysiakini.jpg"><img class="wp-image-2160 alignnone" title="Malaysiakini" src="/uploads/Malaysiakini.jpg" alt="" width="550" height="412" /></a></center>It's time we got serious about privacy, because sooner or later, somebody may find out your daughter is pregnant before you do, and I'm not joking.
+<center><a href="/uploads/Malaysiakini.jpg">![](/uploads/Malaysiakini.jpg "Malaysiakini")</a></center>It's time we got serious about privacy, because sooner or later, somebody may find out your daughter is pregnant before you do, and I'm not joking.

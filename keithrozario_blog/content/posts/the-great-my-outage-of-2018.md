@@ -1,12 +1,13 @@
 +++
 title = "The GREAT .my outage of 2018"
+slug = "the-great-my-outage-of-2018"
 date = "2018-06-23T11:22:30"
 draft = false
 tags = ['DNSSEC', 'MYNIC']
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++
 
-[caption id="attachment_6436" align="aligncenter" width="550"]<a href="/uploads/DNSKEY-Fail.jpg"><img class="wp-image-6436" src="/uploads/DNSKEY-Fail.jpg" alt=".my DNSKEY Failure" width="550" height="386" /></a> Boy, that's a lot of RED![/caption]
+[caption id="attachment_6436" align="aligncenter" width="550"]<a href="/uploads/DNSKEY-Fail.jpg">![.my DNSKEY Failure](/uploads/DNSKEY-Fail.jpg)</a> Boy, that's a lot of RED![/caption]
 
 Last week, MyNic suffered a massive outage taking out any website that had a <code>.my</code> domain, including local banks like maybank2u.com.my and even government websites hosted on <code>.gov.my</code>.
 

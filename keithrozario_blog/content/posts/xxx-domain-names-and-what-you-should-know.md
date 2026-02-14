@@ -1,11 +1,12 @@
 +++
 title = "Domain Names: .xxx domain and what you should know"
+slug = "xxx-domain-names-and-what-you-should-know"
 date = "2011-10-26T17:33:21"
 draft = false
 categories = ['Blog', 'Misc']
 +++
 
-<a title="Protect your brand from becoming an xxx domain" href="http://www.keithrozario.com/2011/10/xxx-domain-names-and-what-you-should-know.html/logo2" rel="attachment wp-att-1341" target="_blank"><img class="alignleft size-full wp-image-1341" title="logo2" src="/uploads/logo2.png" alt="" width="217" height="141" /></a>The internet Corporation for assigned Names and Numbers (more affectionately known as evil ICANN) has recently announced a new .xxx domain specifically for adult content online. Basically a safe place we can store porn on the internet away from our children. What's interesting though, is that a .xxx domain are by definition associated with pornography and smut, that certain corporations and even people would not want to be a part of. For instance, I'm quite sure everyone's lining up for www.BillClinton.xxx but Bill Clinton may not be too happy about it. So in light of this rather special domain name, comes a very special process that involves ensuring regular tax-paying adult content providers can bid for domain names they want, while allowing the rest of us to also work towards preventing others from getting our names tarnished with an .xxx post-fix.
+<a title="Protect your brand from becoming an xxx domain" href="http://www.keithrozario.com/2011/10/xxx-domain-names-and-what-you-should-know.html/logo2" rel="attachment wp-att-1341" target="_blank">![](/uploads/logo2.png "logo2")</a>The internet Corporation for assigned Names and Numbers (more affectionately known as evil ICANN) has recently announced a new .xxx domain specifically for adult content online. Basically a safe place we can store porn on the internet away from our children. What's interesting though, is that a .xxx domain are by definition associated with pornography and smut, that certain corporations and even people would not want to be a part of. For instance, I'm quite sure everyone's lining up for www.BillClinton.xxx but Bill Clinton may not be too happy about it. So in light of this rather special domain name, comes a very special process that involves ensuring regular tax-paying adult content providers can bid for domain names they want, while allowing the rest of us to also work towards preventing others from getting our names tarnished with an .xxx post-fix.
 
 So can we work on preventing my name from being associated with pornography?<!--more-->
 

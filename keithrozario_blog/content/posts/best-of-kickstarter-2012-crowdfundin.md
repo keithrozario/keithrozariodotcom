@@ -1,11 +1,12 @@
 +++
 title = "Crowdfunding : Best of Kickstarter 2012"
+slug = "best-of-kickstarter-2012-crowdfundin"
 date = "2013-04-08T07:00:07"
 draft = false
 categories = ['Crowdsourcing']
 +++
 
-<a href="/uploads/The-Best-of-Kickstarter-2012-—-Kickstarter.png"><img class="aligncenter size-full wp-image-3275" title="The Best of Kickstarter 2012 — Kickstarter" src="/uploads/The-Best-of-Kickstarter-2012-—-Kickstarter.png" alt="Number of Successful Kickstarter Projects in 2012" width="525" height="402" /></a>
+<a href="/uploads/The-Best-of-Kickstarter-2012-—-Kickstarter.png">![Number of Successful Kickstarter Projects in 2012](/uploads/The-Best-of-Kickstarter-2012-—-Kickstarter.png "The Best of Kickstarter 2012 — Kickstarter")</a>
 
 Crowdfunding is exploding, and kickstarter is exploding with it.
 

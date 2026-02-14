@@ -1,5 +1,6 @@
 +++
 title = "Android TV boxes"
+slug = "android-tv-boxes"
 date = "2019-02-04T10:20:45"
 draft = false
 categories = ['Misc']

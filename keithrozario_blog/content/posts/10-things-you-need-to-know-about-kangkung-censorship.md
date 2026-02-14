@@ -1,5 +1,6 @@
 +++
 title = "10 Things you need to know about kangkung censorship"
+slug = "10-things-you-need-to-know-about-kangkung-censorship"
 date = "2014-01-17T22:54:38"
 draft = false
 categories = ['Copyright and Censorship', 'Malaysia']

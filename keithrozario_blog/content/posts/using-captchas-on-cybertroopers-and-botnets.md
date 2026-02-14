@@ -1,5 +1,6 @@
 +++
 title = "Using Captchas on cybertroopers and botnets"
+slug = "using-captchas-on-cybertroopers-and-botnets"
 date = "2013-07-11T08:00:01"
 draft = false
 categories = ['Copyright and Censorship', 'Crowdsourcing', 'Malaysia']
@@ -11,7 +12,7 @@ So in theory, the IP address could have belonged to a shared cybercafe where eve
 
 That of course, begs the question--how can you fix this. Well the answer to these automated scripts has been around for quite sometime now, its called a <a title="Why ReCaptcha works: The 4 requirements of Crowdsourcing" href="http://www.keithrozario.com/2011/12/recaptcha-4-requirements-crowdsourcing.html">CAPTCHA</a> and it looks like this:
 
-<a href="/uploads/What-is-reCAPTCHA-.png"><img class="aligncenter size-full wp-image-3616" alt="What is CAPTCHA" src="/uploads/What-is-reCAPTCHA-.png" width="465" height="148" /></a>
+<a href="/uploads/What-is-reCAPTCHA-.png">![What is CAPTCHA](/uploads/What-is-reCAPTCHA-.png)</a>
 
 You've seen this before, a Captcha is a simple test of human-ness,
 

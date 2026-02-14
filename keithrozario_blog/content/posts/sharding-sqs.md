@@ -1,12 +1,13 @@
 +++
 title = "Sharding SQS"
+slug = "sharding-sqs"
 date = "2020-05-10T00:01:17"
 draft = false
 categories = ['Serverless']
 +++
 
 <!-- wp:image {"id":7067,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/architecture_new.png" alt="" class="wp-image-7067"/></figure>
+![](/uploads/architecture_new.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -54,7 +55,7 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7068,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/prompt_results_new.png" alt="" class="wp-image-7068"/></figure>
+![](/uploads/prompt_results_new.png)
 <!-- /wp:image -->
 
 <!-- wp:heading -->

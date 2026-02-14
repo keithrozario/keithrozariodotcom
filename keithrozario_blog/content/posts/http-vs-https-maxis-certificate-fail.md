@@ -1,5 +1,6 @@
 +++
 title = "HTTP vs. HTTPs : Why SSL and TLS are important"
+slug = "http-vs-https-maxis-certificate-fail"
 date = "2012-08-06T12:24:33"
 draft = false
 tags = ['Maxis']
@@ -8,7 +9,7 @@ categories = ['Malaysia', 'Misc']
 
 I was looking for some detail on Maxis Fibre to Home service until I came across this while trying to to access the Maxis Customer Forum online:
 
-<center><a href="/uploads/Maxis_SSL_Fail.png"><img class="alignnone  wp-image-2657" title="Maxis_SSL_Fail" src="/uploads/Maxis_SSL_Fail.png" alt="" width="550" height="193" /></a></center>In the early days of the internet, all the data flowing through was done in plaintext, this meant that everything flowing on the internet was fair-game for anyone to hijack and view. It was akin to sending postcards all around, all the post-men and intermediaries could view the entire contents of your messages because it was out there in the open, no need to open sealed envelopes. So everything from your letters to your uncle Bob or your resume for a new job or even your most intimate personal letters could only be sent via postcard--anyone could read it.
+<center><a href="/uploads/Maxis_SSL_Fail.png">![](/uploads/Maxis_SSL_Fail.png "Maxis_SSL_Fail")</a></center>In the early days of the internet, all the data flowing through was done in plaintext, this meant that everything flowing on the internet was fair-game for anyone to hijack and view. It was akin to sending postcards all around, all the post-men and intermediaries could view the entire contents of your messages because it was out there in the open, no need to open sealed envelopes. So everything from your letters to your uncle Bob or your resume for a new job or even your most intimate personal letters could only be sent via postcard--anyone could read it.
 
 There was a strong requirement however to design a mechanism to encrypt data flowing through the internet, because unless you could encrypt data, personal and credit information couldn't (or rather shouldn't) have been trasmitted across the internet. So it was important that someone somewhere figure out how data on the internet could be encrypted to enable things like online shopping, social networking, even simple email. So sometime in the mid-90s Netscape (the default browser at the time was Netscape Navigator), took up the gauntlet and invented SSL.
 
@@ -42,4 +43,4 @@ This has since changed, and Maxis have tried now to revert to the original certi
 
 To be fair, you don't really need SSL for a public forum, particularly one like Maxis, but you never really know. Like I said this could be harmless, but it does pose some serious questions about how seriously the largest telco in Malaysia is taking it's security practices.
 
-<center><a href="/uploads/Maxis_SSL_cert_expired.png"><img class="alignnone  wp-image-2658" title="Maxis_SSL_cert_expired" src="/uploads/Maxis_SSL_cert_expired.png" alt="" width="550" height="193" /></a></center>
+<center><a href="/uploads/Maxis_SSL_cert_expired.png">![](/uploads/Maxis_SSL_cert_expired.png "Maxis_SSL_cert_expired")</a></center>

@@ -1,12 +1,13 @@
 +++
 title = "How come the ads you see look like your previous searches?"
+slug = "how-come-the-ads-you-see-look-like-your-previous-searches"
 date = "2012-05-03T10:38:19"
 draft = false
 tags = ['Google']
 categories = ['Misc', 'Security &amp; Privacy']
 +++
 
-<a href="/uploads/GoogleTracks1.png"><img class="alignleft size-medium wp-image-2107" title="GoogleTracks" src="/uploads/GoogleTracks1-300x136.png" alt="" width="300" height="136" /></a>Ever wonder how come the ads you see on Facebook or Malaysiakini reflect the searches you just recently made. Ever felt freaked out about it, there really is nothing to freak out about, unless of course you're worried that a Multi-Billion dollar company may be keeping information about your searches and sharing them with ad sites that build profiles to uniquely identify you. Or that your personal search isn't really private data, yet it can reveal very private details about yourself including your religious beliefs, sexual inclinations, medical conditions and even credit rating.
+<a href="/uploads/GoogleTracks1.png">![](/uploads/GoogleTracks1-300x136.png "GoogleTracks")</a>Ever wonder how come the ads you see on Facebook or Malaysiakini reflect the searches you just recently made. Ever felt freaked out about it, there really is nothing to freak out about, unless of course you're worried that a Multi-Billion dollar company may be keeping information about your searches and sharing them with ad sites that build profiles to uniquely identify you. Or that your personal search isn't really private data, yet it can reveal very private details about yourself including your religious beliefs, sexual inclinations, medical conditions and even credit rating.
 
 This is a blog about technology, but as of late it's becoming increasingly difficult to focus only on technology without looking into copyright, censorship and privacy. I can't blog about technology while ignoring these aspects, anymore than financial analyst you look at Apple ignore the technology around their products.<!--more-->
 

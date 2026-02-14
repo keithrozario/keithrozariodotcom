@@ -1,12 +1,13 @@
 +++
 title = "SEO Tips for Malaysian Bloggers"
+slug = "seo-tips-for-malaysian-bloggers"
 date = "2012-10-05T19:03:45"
 draft = false
 tags = ['Google']
 categories = ['Blog', 'Malaysia']
 +++
 
-<center><a href="/uploads/4362886799_f965f5ae9f.jpg"><img class="alignnone size-full wp-image-2833" title="SEO_Malaysia" src="/uploads/4362886799_f965f5ae9f.jpg" alt="" width="500" height="174" /></a></center>A lot of my search traffic comes from Google, in July I had slightly more than 8,000 visits to my site with just over 6,000 of those coming just from Google. So it made a lot of sense for me to look into some Search Engine Optimization to help boost those numbers. In September, I had more than 10,000 visits with more 8,o00 from Google, which of course begs the question who are the lovely people giving me 2,000 hits/month without going through Google.?
+<center><a href="/uploads/4362886799_f965f5ae9f.jpg">![](/uploads/4362886799_f965f5ae9f.jpg "SEO_Malaysia")</a></center>A lot of my search traffic comes from Google, in July I had slightly more than 8,000 visits to my site with just over 6,000 of those coming just from Google. So it made a lot of sense for me to look into some Search Engine Optimization to help boost those numbers. In September, I had more than 10,000 visits with more 8,o00 from Google, which of course begs the question who are the lovely people giving me 2,000 hits/month without going through Google.?
 <h2>What is Search Engine Optimization?</h2>
 Search Engine Optimization or more commonly know by it's acronym SEO, is the process of optimizing your site so that search engines like Google know exactly what is on your site, what topics you're writing about and what keywords are present in a page. This allows the search engine to display your site as a result for people searching for topics and keywords most related to your articles.
 
@@ -30,7 +31,7 @@ You should never do this, people don't like being lied to, and <strong>Google do
 
 Another misconception people have is that because content is free on the internet, you're allowed to do these sorts of tricks online. It isn't, people may not be spending money, but they're spending their time to visit your site. Tricks like these only prove you don't care about other peoples time.
 <h2>Where to get real info on SEO</h2>
-<img class="alignleft size-full wp-image-2834" title="rsz_1rsz_google_webmasters___youtube" src="/uploads/rsz_1rsz_google_webmasters___youtube.png" alt="Google Webmaster Help Youtube Page" width="368" height="197" />The SEO world is full of snake oil salesmen, who sometimes have no idea what they're talking about. A lot of SEO sites online are just full of crap, charging upwards of Rm10,000 to guarantee results. Like all other guaranteed results, they should be avoided like the black plague.
+![Google Webmaster Help Youtube Page](/uploads/rsz_1rsz_google_webmasters___youtube.png "rsz_1rsz_google_webmasters___youtube")The SEO world is full of snake oil salesmen, who sometimes have no idea what they're talking about. A lot of SEO sites online are just full of crap, charging upwards of Rm10,000 to guarantee results. Like all other guaranteed results, they should be avoided like the black plague.
 
 So instead, I turned to Google to help me out with my SEO and I found a great Youtube Channel for GoogleWebmasters, this is Google telling you how best to Optimize your site so Google can search through it.
 

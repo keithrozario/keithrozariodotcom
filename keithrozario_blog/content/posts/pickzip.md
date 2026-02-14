@@ -1,12 +1,13 @@
 +++
 title = "Copy your Facebook photo albums with Pick&Zip"
+slug = "pickzip"
 date = "2011-08-02T09:42:02"
 draft = false
 tags = ['Facebook']
 categories = ['Social Media']
 +++
 
-<a title="Pick&amp;Zip" href="http://www.keithrozario.com/2011/08/pickzip.html"><img class="size-full wp-image-1149 alignleft" title="PickNZip" src="/uploads/PickNZip.jpg" alt="" width="335" height="86" /></a><a title="Pick N Zip" href="http://www.picknzip.com" target="_blank">Pick&amp;Zip</a> is an amazing app that allows you to copy over your entire Facebook photo albums all at once in <span style="text-decoration: underline;">one zip file</span>. The application even allows you to view ALL the photos you're tagged in and download those as well, especially apt if you're looking to migrate this stuff to Google+. It also act as a great picture viewer for all your photos on Facebook.
+<a title="Pick&amp;Zip" href="http://www.keithrozario.com/2011/08/pickzip.html">![](/uploads/PickNZip.jpg "PickNZip")</a><a title="Pick N Zip" href="http://www.picknzip.com" target="_blank">Pick&amp;Zip</a> is an amazing app that allows you to copy over your entire Facebook photo albums all at once in <span style="text-decoration: underline;">one zip file</span>. The application even allows you to view ALL the photos you're tagged in and download those as well, especially apt if you're looking to migrate this stuff to Google+. It also act as a great picture viewer for all your photos on Facebook.
 
 <!--more-->Using Pick &amp; Zip couldn't be easier:
 

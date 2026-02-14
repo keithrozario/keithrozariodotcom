@@ -1,11 +1,12 @@
 +++
 title = "What is an IP address : Part 2"
+slug = "what-is-an-ip-address-part-2"
 date = "2013-09-22T21:39:55"
 draft = false
 categories = ['WhatisIT']
 +++
 
-<p style="text-align: center;"><a href="/uploads/2652428181_1a9aa9d06e.jpg"><img class="aligncenter size-full wp-image-4062" alt="IP address on an envelope" src="/uploads/2652428181_1a9aa9d06e.jpg" width="500" height="285" /></a></p>
+<p style="text-align: center;"><a href="/uploads/2652428181_1a9aa9d06e.jpg">![IP address on an envelope](/uploads/2652428181_1a9aa9d06e.jpg)</a></p>
 Information flows around the internet in chunks, with chunk of data very much like a letter in an envelope. Just like how there's a special place on the back on an envelope for you to write the address of the receiver, there's a special place in every 'chunk' for you to write the address of the receiving computer. These 'chunks' of data are called IP packets, and the addresses are called IP addresses.<!--more-->
 <h2>But what is an IP address?</h2>
 Well just like everything else in the digital world, and IP address is a long string of 1's and 0's, a string of <strong>B</strong>inary dig<strong>ITS</strong>--or<strong> BITS.</strong>

@@ -1,12 +1,13 @@
 +++
 title = "WTF is a bitcoin?"
+slug = "wtf-is-a-bitcoin"
 date = "2014-04-27T11:21:00"
 draft = false
 tags = ['BitCoin']
 categories = ['Security &amp; Privacy', 'WhatisIT']
 +++
 
-<a href="/uploads/download.jpg"><img class="aligncenter" alt="WTF is BitCoin" src="/uploads/download.jpg" width="225" height="225" /></a>
+<a href="/uploads/download.jpg">![WTF is BitCoin](/uploads/download.jpg)</a>
 
 WTF is a bitcoin? There's much ado over the digital currency and many people struggle to understand what it is. In fact, even I haven't fully grasped the fundamental nature of how it works--but then again I don't know how the banking and fiat currency system work, yet I still use it.
 
@@ -45,4 +46,4 @@ BitCoin is pretty cool as tech-geek, but whether it'll be able to supercede Cash
 
 *This is a long list of post that I've brought out of 'hibernation' or permanent death. These were post that were left half-done for a long time, and I just posted them (in some cases half-done).
 
-&nbsp;
+ 

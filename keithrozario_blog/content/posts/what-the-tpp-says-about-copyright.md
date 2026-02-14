@@ -1,5 +1,6 @@
 +++
 title = "What the TPP says about copyright"
+slug = "what-the-tpp-says-about-copyright"
 date = "2013-06-17T07:00:44"
 draft = false
 tags = ['TPP']

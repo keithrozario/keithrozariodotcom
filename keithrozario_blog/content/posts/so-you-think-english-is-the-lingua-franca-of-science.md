@@ -1,11 +1,12 @@
 +++
 title = "So you think English is the lingua-franca of Science..."
+slug = "so-you-think-english-is-the-lingua-franca-of-science"
 date = "2015-12-15T08:00:23"
 draft = false
 categories = ["Keith's Favorite Post", 'Malaysia', 'Science']
 +++
 
-<a href="/uploads/4788073408_9a86eee920.jpg" rel="attachment wp-att-1641"><img class="alignleft wp-image-1641 size-medium" src="/uploads/4788073408_9a86eee920-300x199.jpg" alt="Nanoscience center" width="300" height="199" /></a>I get annoyed when parent associations insist that the Government needs to teach science and maths in English. They argue that because English is the lingua-franca of science, teaching science in English will help students learn more effectively without needing them to translate scientific terms from the vernacular. They add that teaching Science and Maths in English is a great way to improve the standard of English in schools.
+<a href="/uploads/4788073408_9a86eee920.jpg" rel="attachment wp-att-1641">![Nanoscience center](/uploads/4788073408_9a86eee920-300x199.jpg)</a>I get annoyed when parent associations insist that the Government needs to teach science and maths in English. They argue that because English is the lingua-franca of science, teaching science in English will help students learn more effectively without needing them to translate scientific terms from the vernacular. They add that teaching Science and Maths in English is a great way to improve the standard of English in schools.
 
 It would great if those points were true, but they're not.
 <h2>English as the Lingua franca of Science?</h2>
@@ -21,7 +22,7 @@ The point is, that if these ancient text were translated into English at some po
 
 When you say Lingua-franca of science, in the context of what children actually learn in primary and secondary school--it isn't English.<!--more-->
 <h2>Scientific Terms in English</h2>
-[caption id="attachment_5347" align="alignright" width="300"]<a href="/uploads/hyponatremia_final.jpg" rel="attachment wp-att-5347"><img class="wp-image-5347 size-medium" src="/uploads/hyponatremia_final-300x300.jpg" alt="hyponatremia_final" width="300" height="300" /></a> Hyponatremia isn't English.[/caption]
+[caption id="attachment_5347" align="alignright" width="300"]<a href="/uploads/hyponatremia_final.jpg" rel="attachment wp-att-5347">![hyponatremia_final](/uploads/hyponatremia_final-300x300.jpg)</a> Hyponatremia isn't English.[/caption]
 
 But Keith you shout..., the terms are all in English, and learning Science in English is the only way we avoid the confusion of the different terms.
 
@@ -57,7 +58,7 @@ Finally we come to point of improving English.
 
 Fine, I understand we have an English problem, and a communication problem (two different things). But my point is that we should teach science in the science classroom and leave English to the English classroom, not try to conflate the teaching of science and maths with something else and wonder how come we're not doing so well at it.
 <h2>Maths in English</h2>
-<img class="alignleft wp-image-5348 size-full" src="/uploads/count.png" alt="count" width="264" height="198" />By the way, I've not touched maths yet.
+![count](/uploads/count.png)By the way, I've not touched maths yet.
 
 Take for example the numbers 11 and 12. In a decimal system these would have names like one-teen and two-teen. Instead they keep their <a href="https://en.wikipedia.org/wiki/Duodecimal">dozenal origins</a> which make no sense in our decimal dominated world.What does eleven and twelve mean anyway?
 

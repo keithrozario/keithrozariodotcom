@@ -1,12 +1,13 @@
 +++
 title = "The miners dilemma - Bitcoin sabotage can be profitable"
+slug = "bitcoin-miners-dilema-sabotage-profitable"
 date = "2016-02-27T12:07:32"
 draft = false
 tags = ['BitCoin']
 categories = ["Keith's Favorite Post", 'Security &amp; Privacy']
 +++
 
-<a href="/uploads/black-dice.jpg" rel="attachment wp-att-5546"><img class="size-full wp-image-5546 alignleft" src="/uploads/black-dice.jpg" alt="black dice" width="240" height="167" /></a>Imagine a small village of a 100 people.
+<a href="/uploads/black-dice.jpg" rel="attachment wp-att-5546">![black dice](/uploads/black-dice.jpg)</a>Imagine a small village of a 100 people.
 
 One day,  a sorcerer shows up,  and grants all the villagers magical 1000-sided dice, which are purely random and can only be thrown at a fixed rate of 1 throw per second (no faster &amp; no slower).
 
@@ -20,7 +21,7 @@ Eventually the village ends up with 2 pools of 50 villagers each. The pools e
 
 So far so good.
 <h2>The Crooked Pool attacks</h2>
-<img class="size-full wp-image-5547 alignright" src="/uploads/crooks.jpg" alt="crooks" width="240" height="180" />However, one of these pools (called the crooked pool), starts to act all dick-dastardly. They send 25 of their members to infiltrate the other 'honest' pool. These infiltrators will roll their dice, but never claim announce their winnings to the sorcerer, even if they roll the magical number. Essentially these <strong>infiltrators</strong> become dead-weight on the honest pool, rolling dice choosing to never win. The remaining 25 members in the crooked pool will continue rolling and trying to win.
+![crooks](/uploads/crooks.jpg)However, one of these pools (called the crooked pool), starts to act all dick-dastardly. They send 25 of their members to infiltrate the other 'honest' pool. These infiltrators will roll their dice, but never claim announce their winnings to the sorcerer, even if they roll the magical number. Essentially these <strong>infiltrators</strong> become dead-weight on the honest pool, rolling dice choosing to never win. The remaining 25 members in the crooked pool will continue rolling and trying to win.
 
 At first this seems illogical, why would a pool intentionally give up half it's resources to sabotage another? How could discarding winnings actually benefit anyone? Does it even profit the crooks?
 

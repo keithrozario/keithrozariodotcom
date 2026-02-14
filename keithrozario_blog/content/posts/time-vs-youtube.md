@@ -1,5 +1,6 @@
 +++
 title = "Time vs. YouTube"
+slug = "time-vs-youtube"
 date = "2020-11-03T08:08:40"
 draft = false
 categories = ['Misc']

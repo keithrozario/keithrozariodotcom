@@ -1,12 +1,13 @@
 +++
 title = "F-Secure hackathon result"
+slug = "f-secure-hackathon-malaysia-result"
 date = "2013-04-28T07:00:41"
 draft = false
 tags = ['F-Secure']
 categories = ['Malaysia', 'Misc']
 +++
 
-<center><a href="/uploads/FSecure_Hackathon_Malaysia_winner.jpg"><img class="alignnone  wp-image-3357" title="FSecure_Hackathon_Malaysia_winner" src="/uploads/FSecure_Hackathon_Malaysia_winner-300x250.jpg" alt="F-Secure Hackathon Malaysia Winner" width="400" height="325" /></a></center>F-Secure recently had a Hackathon in Malaysia, with the grand prize being a dinner with Miko Hyppönen. Miko is sort of like the Mick Jagger of Computer Security, Miko also  made international news in 2011<span style="font-size: 11px;">,</span> when he tracked down and visited the authors of the first PC virus in history, <a title="Brain (computer virus)" href="http://en.wikipedia.org/wiki/Brain_(computer_virus)">Brain.A</a>. Hyppönen produced a documentary of the event. The documentary was published on <a title="YouTube" href="http://en.wikipedia.org/wiki/YouTube">YouTube</a>.
+<center><a href="/uploads/FSecure_Hackathon_Malaysia_winner.jpg">![F-Secure Hackathon Malaysia Winner](/uploads/FSecure_Hackathon_Malaysia_winner-300x250.jpg "FSecure_Hackathon_Malaysia_winner")</a></center>F-Secure recently had a Hackathon in Malaysia, with the grand prize being a dinner with Miko Hyppönen. Miko is sort of like the Mick Jagger of Computer Security, Miko also  made international news in 2011<span style="font-size: 11px;">,</span> when he tracked down and visited the authors of the first PC virus in history, <a title="Brain (computer virus)" href="http://en.wikipedia.org/wiki/Brain_(computer_virus)">Brain.A</a>. Hyppönen produced a documentary of the event. The documentary was published on <a title="YouTube" href="http://en.wikipedia.org/wiki/YouTube">YouTube</a>.
 
 The winner of the Hackathon was Tan Kok Boon (pic) who stole the spotlight with his groundbreaking application which allows users to monitor and prevent threats using F-Secure’s World Map Interface. Tan won the award for ‘ The Most Innovative Application’ and the award for ‘The Best Overall Performance’. Also notice from the picture, what device was the winner of the Hackathon using to code? It's a MAC!
 

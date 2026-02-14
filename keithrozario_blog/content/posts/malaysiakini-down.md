@@ -1,11 +1,12 @@
 +++
 title = "Malaysiakini down!"
+slug = "malaysiakini-down"
 date = "2012-04-27T18:36:29"
 draft = false
 categories = ['CyberLaw', 'Malaysia']
 +++
 
-<center><a href="/uploads/Malaysiakini.png"><img class="alignnone size-full wp-image-2094" title="Malaysiakini" src="/uploads/Malaysiakini.png" alt="" width="428" height="401" /></a></center><em><span style="color: #888888;">*Update: Malaysiakini have confirmed the update on their facebook page, looks like you need to look for other sources of Bersih 3.0  news, this could take a while. It's also note-worthy that 10 people 'like' this on facebook, obviously over-looking the fact that nobody should 'like' this.</span></em>
+<center><a href="/uploads/Malaysiakini.png">![](/uploads/Malaysiakini.png "Malaysiakini")</a></center><em><span style="color: #888888;">*Update: Malaysiakini have confirmed the update on their facebook page, looks like you need to look for other sources of Bersih 3.0  news, this could take a while. It's also note-worthy that 10 people 'like' this on facebook, obviously over-looking the fact that nobody should 'like' this.</span></em>
 
 With barely 12 hours to go before Bersih 3.0 starts to swing into action, Malaysiakini servers appear to be down. I was trying to logon online to check the news only to notice that I couldn't access the site, PINGs to the site seem to time out as well. Could this be a repeat of when Malaysiakini went offline in the run up to the Sarawak elections? Plus, I know this doesn't affect me, because as a Google Chrome user I know <a title="http://lifehacker.com/5590582/google-chrome-tells-you-when-sites-are-down-for-other-users" href="http://lifehacker.com/5590582/google-chrome-tells-you-when-sites-are-down-for-other-users" target="_blank">when other users are also experiencing problems accessing a site</a>.
 

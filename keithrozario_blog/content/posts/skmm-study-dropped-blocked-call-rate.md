@@ -1,12 +1,13 @@
 +++
 title = "SKMM Study: The Best and Worst Telco in KL"
+slug = "skmm-study-dropped-blocked-call-rate"
 date = "2012-12-24T08:00:45"
 draft = false
 tags = ['Celcom', 'Digi', 'Maxis']
 categories = ["Keith's Favorite Post", 'Malaysia']
 +++
 
-<p style="text-align: center;"><a href="/uploads/Dropped_calls.jpg"><img class="aligncenter  wp-image-3021" title="Dropped_calls" src="/uploads/Dropped_calls.jpg" alt="" width="333" height="300" /></a></p>
+<p style="text-align: center;"><a href="/uploads/Dropped_calls.jpg">![](/uploads/Dropped_calls.jpg "Dropped_calls")</a></p>
 Who doesn't absolutely hate that feeling you get when a call gets drop, or for some reason you just can't seem to make a phone call on your network. Recently an elderly couple in America died while trying to phone for help-<a title="9 drop calls causes couple to die" href="http://news.cnet.com/8301-17852_3-57433007-71/after-nine-dropped-cell-phone-calls-for-help-couple-dies/" target="_blank">-they had 9 drop calls in succession</a>, which just goes to show just how important communications are in our time.
 
 <a title="Dropped Call Rates Malaysian Telco" href="http://www.malaysianwireless.com/2012/12/digi-highest-dropped-call-rate-kl-mcmc/#more-14946" target="_blank">Malaysian wireless reports</a> on an SKMM study done in the first half of 2012 to compare dropped and block call rates for the 3 major telcos in Malaysia. At the moment it's still unclear why neither YES or uMobile have been studied but the study is a move in the right direction towards providing concrete data on call quality for Malaysians to make inform decision about the telco. Incidentally, SKMM also offer a<a title="SKMM Dropped Call Form" href="https://docs.google.com/spreadsheet/viewform?fromEmail=true&amp;formkey=dE5sLU8zQU9EWEJQellXSkVUc1Frd2c6MQ" target="_blank"> form you can fill if you've experienced a dropped call</a>--for some unknown reason the form is hosted on Google Docs, one can only think SKMM didn't want to fork out cash to host the form  on their own servers.
@@ -40,7 +41,7 @@ Blocked call means a call is not connected after call attempt due to unavailabil
 
 So the best telco based on these definitions is the one with the lowest DCR and BCR.  A high BCR means calls don't get connected in the first place, and a high DCR means calls get disconnected once they're connected. A good telco should strive for the lowest possible numbers on these 2 parameters. While the study was conducted nationally in each and every state, I thought KL would be a good place to dissect the data and provide a benchmark for the nation, if you'd like to know how your telco fared in your home state, head on over to <a title="Malaysian Wireless: Dropped call by state" href="http://www.malaysianwireless.com/2012/12/digi-highest-dropped-call-rate-kl-mcmc/#more-14946" target="_blank">Malaysian wireless who have all the details broken down by state</a>.<!--more-->
 <h2>The Dropped Call Rate in Kuala Lumpur 2012</h2>
-<a href="/uploads/Drop_call_rate_Malaysia_KL_telco.png"><img class="aligncenter size-medium wp-image-3019" title="Drop_call_rate_Malaysia_KL_telco" src="/uploads/Drop_call_rate_Malaysia_KL_telco-300x194.png" alt="Drop Call Rates of Malaysian Telcos in KL" width="300" height="194" /></a>
+<a href="/uploads/Drop_call_rate_Malaysia_KL_telco.png">![Drop Call Rates of Malaysian Telcos in KL](/uploads/Drop_call_rate_Malaysia_KL_telco-300x194.png "Drop_call_rate_Malaysia_KL_telco")</a>
 
 For drop calls, Digi leads the pack (which isn't a good thing), while Maxis does best. So while they've received a lot of <a title="iPhone 5 scratch gate" href="http://www.liewcf.com/maxis-iphone-5-scratch-warranty-11536/" target="_blank">flak for the iPhone 5 services</a>, based on the DCR--Maxis is the best telco in Malaysia (or at least in KL).
 
@@ -48,7 +49,7 @@ It's also interesting to note, that while Digi records the highest percentage of
 
 Digi does twice as bad as Maxis, but it still only translates to 2 drop calls for every 100 calls made.
 <h2>The Blocked Call Rate in Kuala Lumpur 2012</h2>
-<a href="/uploads/Blocked_call_rate_KL_Telco.png"><img class="aligncenter size-medium wp-image-3020" title="Blocked_call_rate_KL_Telco" src="/uploads/Blocked_call_rate_KL_Telco-300x184.png" alt="Blocked call rate in KL by Telco" width="300" height="184" /></a>
+<a href="/uploads/Blocked_call_rate_KL_Telco.png">![Blocked call rate in KL by Telco](/uploads/Blocked_call_rate_KL_Telco-300x184.png "Blocked_call_rate_KL_Telco")</a>
 
 The Blocked call rates in KL are a bit different though. Here Celcom leads the pack by a far margin (leading isn't good in this case). Maxis is once again the best telco for the BCR, and once again does nearly twice as well as Digi. In terms of Blocked and Dropped calls--the data from the SKMM suggest-- Maxis is the best telco in KL doing twice as well as Digi in both the BCR and DCR categories.
 

@@ -1,12 +1,13 @@
 +++
 title = "Instagram Camera: Coolest thing EVER!!"
+slug = "instagram-socialmatic-camera-indiegogo-crowdfund-malaysia"
 date = "2012-07-02T17:31:21"
 draft = false
 tags = ['Facebook', 'Instagram']
 categories = ['Crowdsourcing', 'Design', 'Social Media']
 +++
 
-<a href="/uploads/20120510021018-03_Socialmatic_08.jpg"><img class="alignleft size-medium wp-image-2388" title="20120510021018-03_Socialmatic_08" src="/uploads/20120510021018-03_Socialmatic_08-300x200.jpg" alt="" width="300" height="200" /></a>A couple of weeks back, I wrote about a <a title="CPU Wars: Why didn’t I think of this #damnit" href="http://www.keithrozario.com/2012/06/cpu-wars-why-didnt-i-think-of-this-damnit.html" target="_blank">cool card game based on Computer processes</a>, in hindsight the only thing that post proved was that I'm a geek. The card game was funded through a crowdfunded initiative, and that was really what made it cool.
+<a href="/uploads/20120510021018-03_Socialmatic_08.jpg">![](/uploads/20120510021018-03_Socialmatic_08-300x200.jpg "20120510021018-03_Socialmatic_08")</a>A couple of weeks back, I wrote about a <a title="CPU Wars: Why didn’t I think of this #damnit" href="http://www.keithrozario.com/2012/06/cpu-wars-why-didnt-i-think-of-this-damnit.html" target="_blank">cool card game based on Computer processes</a>, in hindsight the only thing that post proved was that I'm a geek. The card game was funded through a crowdfunded initiative, and that was really what made it cool.
 
 The instagram camera is cool on its own, and the fact that it's currently  being crowdsourced through <a title="indiegogo" href="http://www.indiegogo.com/" target="_blank">Indiegogo</a> (a website similar to <a title="Igor Presnyakov succeeds in getting kickstart-ed" href="http://www.keithrozario.com/2012/03/igor-presnyakov-succeeds-in-getting-kickstart-ed.html">Kickstarter</a>) makes the cool factor--<strong> cucumber</strong> cool.
 
@@ -42,6 +43,6 @@ On a side note, if Facebook do lay the smack down on this project <strong>before
 
 If Facebook really wanted to be nasty, they'd wait for all the development work to be done and then start litigation after a successful prototype had been built (and all the money had been spent). If Facebook wanted to be smart, they'd let this go and sign a deal with the creator after the concept was proven and everything including build quality and market research was clearer. Let's see how Mr. Zuckerberg would approach this.
 
-<a href="/uploads/images2.jpg"><img class="alignnone size-full wp-image-2389" title="images" src="/uploads/images2.jpg" alt="" width="266" height="190" /></a>
+<a href="/uploads/images2.jpg">![](/uploads/images2.jpg "images")</a>
 
-<a href="/uploads/images-2.jpg"><img class="alignnone size-full wp-image-2391" title="images (2)" src="/uploads/images-2.jpg" alt="" width="247" height="204" /></a>
+<a href="/uploads/images-2.jpg">![](/uploads/images-2.jpg "images (2)")</a>

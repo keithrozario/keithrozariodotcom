@@ -1,12 +1,13 @@
 +++
 title = "How to bypass your office internet filters"
+slug = "how-to-bypass-your-office-filters"
 date = "2011-07-21T01:14:52"
 draft = false
 tags = ['Application']
 categories = ['Blog']
 +++
 
-<a title="Glype " href="http://www.keithrozario.com/2011/07/how-to-bypass-%E2%80%A6office-filters.htm" target="_blank"><img class="alignleft size-full wp-image-1103" title="glype" src="/uploads/glype.jpg" alt="" width="254" height="95" /></a>Ever get tired of your office network administrator blocking youtube or facebook? Wished you could surf and get your daily dose of facebook and blogs from your office? Well there are many ways around this...most straightforward would be using a web-based proxy service like <a title="Hide My Ass" href="http://www.hidemyass.com" target="_blank">hidemyass .com</a> or <a title="Proxy4Free" href="http://www.proxy4free.com" target="_blank">proxy4free.com</a>. However, contrary to general opinion, your network administrators aren't lazy(or stupid!). If you know about these proxies they probably know about it as well, so they've probably have a whole loooong list of sites categorized as 'proxies' that are completely blocked from access. So how do you access those web-sites your administrators have deemed...unworthy?
+<a title="Glype " href="http://www.keithrozario.com/2011/07/how-to-bypass-%E2%80%A6office-filters.htm" target="_blank">![](/uploads/glype.jpg "glype")</a>Ever get tired of your office network administrator blocking youtube or facebook? Wished you could surf and get your daily dose of facebook and blogs from your office? Well there are many ways around this...most straightforward would be using a web-based proxy service like <a title="Hide My Ass" href="http://www.hidemyass.com" target="_blank">hidemyass .com</a> or <a title="Proxy4Free" href="http://www.proxy4free.com" target="_blank">proxy4free.com</a>. However, contrary to general opinion, your network administrators aren't lazy(or stupid!). If you know about these proxies they probably know about it as well, so they've probably have a whole loooong list of sites categorized as 'proxies' that are completely blocked from access. So how do you access those web-sites your administrators have deemed...unworthy?
 
 The solution is  simple. Host your own proxy. This too can be blocked, but if you work in a fairly large company your own little private proxy is unlikely to generate enough traffic to warrant investigation and ultimately be blocked. So if I hosted my proxy on<strong> http://proxy.keithrozario.com</strong> its unlikely the traffic it generates would warrant anyone looking into it and eventually blocking it.So you have to strike a balance, surfing too much via proxy will arouse suspicion, too little and it defeats the purpose.
 

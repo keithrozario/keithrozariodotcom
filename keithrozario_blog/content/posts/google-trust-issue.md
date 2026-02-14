@@ -1,5 +1,6 @@
 +++
 title = "Google Trust Issue"
+slug = "google-trust-issue"
 date = "2012-04-20T11:26:54"
 draft = false
 tags = ['Google']
@@ -18,5 +19,5 @@ A reader nicely pointed me to this wonderful infographic that I'd thought I'd sh
 
 Infographic courtesy of backgroundcheck.org via <a title="http://muhammadsaleem.com" href="http://muhammadsaleem.com" target="_blank">Muhammad Saleem</a>
 
-<a href="http://www.backgroundcheck.org/can-i-trust-google"><img alt="Mother, Can I Trust Google?" src="https://s3.amazonaws.com/infographics/Trust-Google-800.png" width="500" border="0" /></a>
+<a href="http://www.backgroundcheck.org/can-i-trust-google">![Mother, Can I Trust Google?](https://s3.amazonaws.com/infographics/Trust-Google-800.png)</a>
 Hosted by: <a href="http://www.backgroundcheck.org/blog">Online Background Check Guide</a>

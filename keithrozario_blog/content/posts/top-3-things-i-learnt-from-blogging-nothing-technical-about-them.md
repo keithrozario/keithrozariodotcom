@@ -1,12 +1,13 @@
 +++
 title = "Top 3 things I learnt from Blogging: Nothing technical about them"
+slug = "top-3-things-i-learnt-from-blogging-nothing-technical-about-them"
 date = "2011-07-22T11:10:40"
 draft = false
 tags = ['Blog', 'wordpress']
 categories = ['Blog']
 +++
 
-<a title="Blogging" href="http://www.keithrozario.com/2011/07/what-i-learnt-from-blogging.html"><img class="alignleft size-full wp-image-1113" title="Riding a bike" src="/uploads/276439738_33326e5d16_m.jpg" alt="" width="157" height="188" /></a>These past few weeks has been hectic, I've been moving into my new house which inevitably involved talking to a lot of contractors/plumbers/repairmen and I had a very busy go-live period for my project. (Go-Live refers to the point of an IT project when it successfully becomes available to the users). To top it off I upgraded my blog from wordpress 3.1.1 to 3.2 and the upgrade wasn't as smooth as I thought it would be.
+<a title="Blogging" href="http://www.keithrozario.com/2011/07/what-i-learnt-from-blogging.html">![](/uploads/276439738_33326e5d16_m.jpg "Riding a bike")</a>These past few weeks has been hectic, I've been moving into my new house which inevitably involved talking to a lot of contractors/plumbers/repairmen and I had a very busy go-live period for my project. (Go-Live refers to the point of an IT project when it successfully becomes available to the users). To top it off I upgraded my blog from wordpress 3.1.1 to 3.2 and the upgrade wasn't as smooth as I thought it would be.
 
 Reflecting on my blogging and my goal to reach 1000 hits/month, I think there's a lot I learnt from this blogging experience so far from a technical perspective (setting up a website/installing a database..etc etc), but there's a whole lot more I learnt about other things as well. Here's the top 3 things I learnt from blogging that have nothing to do with programming.<!--more-->
 <h2><strong>Blogging is hard.</strong></h2>
@@ -34,4 +35,4 @@ Overall, I'm happy to report that 3.5 months into this project I've manage to wo
 
 <em><span style="color: #888888;">Photo from Flickr: <a title="Learning to ride a bike" href="http://www.flickr.com/photos/seandreilinger/276439738/sizes/s/in/photostream/" target="_blank">http://www.flickr.com/photos/seandreilinger/276439738/sizes/s/in/photostream/</a></span></em>
 
-&nbsp;
+ 

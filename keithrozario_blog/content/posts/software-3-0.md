@@ -1,5 +1,6 @@
 +++
 title = "Software 3.0"
+slug = "software-3-0"
 date = "2025-08-11T09:31:48"
 draft = false
 categories = ['Misc']

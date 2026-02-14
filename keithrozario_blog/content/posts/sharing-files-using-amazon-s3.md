@@ -1,12 +1,13 @@
 +++
 title = "Sharing Files using Amazon S3"
+slug = "sharing-files-using-amazon-s3"
 date = "2011-10-27T15:43:46"
 draft = false
 tags = ['Amazon', 'S3']
 categories = ['Blog', 'Cloud Computing', 'Cloud Storage']
 +++
 
-<a title="S3" href="http://www.keithrozario.com/2011/10/sharing-files-using-amazon-s3.html/amazon_s3_thumb2" rel="attachment wp-att-1346"><img class="alignleft size-full wp-image-1346" title="amazon_s3_thumb2" src="/uploads/amazon_s3_thumb2.jpg" alt="" width="236" height="131" /></a>There are a couple of ways you can share files on the web for free, for instance you can create a <a title="Creating a site to share those pesky LARGE files" href="http://www.keithrozario.com/2011/06/creating-a-site-to-share-those-pesky-large-files.html">website to share your files</a> (although that depends on whether you have a hosting plan) or you use websites like <a title="Best File Sharing Website" href="http://www.keithrozario.com/2011/09/best-file-sharing-website.html">minus.com</a> to share it (but they have limits to the file size etc etc). For sharing large files like your wedding photos, may require you fork out a bit of cash to truly have unlimited downloads and good connectivity.
+<a title="S3" href="http://www.keithrozario.com/2011/10/sharing-files-using-amazon-s3.html/amazon_s3_thumb2" rel="attachment wp-att-1346">![](/uploads/amazon_s3_thumb2.jpg "amazon_s3_thumb2")</a>There are a couple of ways you can share files on the web for free, for instance you can create a <a title="Creating a site to share those pesky LARGE files" href="http://www.keithrozario.com/2011/06/creating-a-site-to-share-those-pesky-large-files.html">website to share your files</a> (although that depends on whether you have a hosting plan) or you use websites like <a title="Best File Sharing Website" href="http://www.keithrozario.com/2011/09/best-file-sharing-website.html">minus.com</a> to share it (but they have limits to the file size etc etc). For sharing large files like your wedding photos, may require you fork out a bit of cash to truly have unlimited downloads and good connectivity.
 
 If you've got a large 1GB file for example you're hoping to send out to a bunch of friends and colleagues, your best bet may be Amazons Simple Storage Service (S3). The reason why I like S3, is that just like everything else with Amazon it's a pay as you use model, which means there are no monthly fix fees and the moment your files stop becoming the flavor of the month, you'll stop paying bandwidth for it. Plus I'm applying for a job at Amazon and hopefully this scores me some points :)<!--more-->
 

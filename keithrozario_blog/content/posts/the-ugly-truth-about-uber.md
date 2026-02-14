@@ -1,11 +1,12 @@
 +++
 title = "The ugly truth about Uber"
+slug = "the-ugly-truth-about-uber"
 date = "2016-05-21T09:07:02"
 draft = false
 categories = ['Misc']
 +++
 
-<img class="aligncenter wp-image-5695" src="/uploads/uber-750x500.jpg" alt="MADRID, SPAIN - OCTOBER 14:  In this photo illustration the new smart phone taxi app 'Uber' shows how to select a pick up location at Atocha Station on October 14, 2014 in Madrid, Spain. 'Uber' application started to operate in Madrid last September despite Taxi drivers claim it is an illegal activity and its drivers currently operate without a license. 'Uber' is an American based company which is quickly expanding to some of the main cities from around the world.  (Photo by Pablo Blazquez Dominguez/Getty Images)" width="550" height="367" />Two weeks ago, I took my first ever Uber ride, and here's what I think is The Good, the bad and the ugly of Uber.
+![MADRID, SPAIN - OCTOBER 14:  In this photo illustration the new smart phone taxi app ](/uploads/uber-750x500.jpg)Two weeks ago, I took my first ever Uber ride, and here's what I think is The Good, the bad and the ugly of Uber.
 <h2>The Good</h2>
 The app worked perfectly out of the box, it was intuitive, and the drivers that fetched me from (and to) the Toyota service center were courteous and friendly. What was even more shocking was the price--Uber is freaking cheap.
 
@@ -45,7 +46,7 @@ A poor man driving a 15-year old Proton Iswara is not going to have an Uber oppo
 
 In some ways, Uber is an sequestered community or tech-savvy 30-something urbanites, and that's a bad thing. But wait till you see what comes next.
 
-&nbsp;
+ 
 <h2>The Ugly</h2>
 If you're waiting for the part where I reprimand the Taxi drivers--that's not the point on the post.
 

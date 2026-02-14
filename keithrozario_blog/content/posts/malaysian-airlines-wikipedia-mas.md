@@ -1,12 +1,13 @@
 +++
 title = "Is MAS updating it's own Wikipedia page?"
+slug = "malaysian-airlines-wikipedia-mas"
 date = "2012-07-19T04:26:32"
 draft = false
 tags = ['Wikipedia']
 categories = ['Big Data', 'Crowdsourcing']
 +++
 
-<a title="9M-MPL Boeing 747-400 MAS by markyharky, on Flickr" href="http://www.flickr.com/photos/markyharky/7510596294/"><img class="alignleft" src="http://farm8.staticflickr.com/7267/7510596294_e1c737c963_n.jpg" alt="9M-MPL Boeing 747-400 MAS" width="320" height="213" /></a>Continuing my series on bigdata and Google bigquery, I've decided to share a rather interesting snippet of information regarding our very own Malaysian Airlines and their wikipedia page.
+<a title="9M-MPL Boeing 747-400 MAS by markyharky, on Flickr" href="http://www.flickr.com/photos/markyharky/7510596294/">![9M-MPL Boeing 747-400 MAS](http://farm8.staticflickr.com/7267/7510596294_e1c737c963_n.jpg)</a>Continuing my series on bigdata and Google bigquery, I've decided to share a rather interesting snippet of information regarding our very own Malaysian Airlines and their wikipedia page.
 
 First, just to illustrate how important Wikipedia is in general, the <a title="Malaysian Airlines Wikipedia Traffic" href="http://stats.grok.se/en/latest/Malaysia_Airlines" target="_blank">Malaysian Airlines Wikipedia page gets roughly 30,000 hits per month</a>. That's just one page of Wikipedia getting more hits than my entire website, I can't tell you how frustrated that makes me.
 

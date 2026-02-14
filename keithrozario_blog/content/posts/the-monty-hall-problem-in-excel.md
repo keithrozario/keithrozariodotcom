@@ -1,12 +1,13 @@
 +++
 title = "The Monty Hall Problem in Excel"
+slug = "the-monty-hall-problem-in-excel"
 date = "2014-06-07T17:06:05"
 draft = false
 tags = ['MontyHallExcel']
 categories = ['Misc', 'Science']
 +++
 
-<img class="aligncenter wp-image-4396" src="/uploads/Monty_Hall_Problem_Excel-1024x489.png" alt="Monty Hall Problem Excel" width="550" height="263" />
+![Monty Hall Problem Excel](/uploads/Monty_Hall_Problem_Excel-1024x489.png)
 
 I remember this problem from watching an episode of numbers. You're a contestant on a game show--and you're given 3 doors to choose from.
 

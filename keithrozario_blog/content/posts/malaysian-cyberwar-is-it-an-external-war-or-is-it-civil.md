@@ -1,11 +1,12 @@
 +++
 title = "Malaysian Cyberwar: Is it an external war or is it civil"
+slug = "malaysian-cyberwar-is-it-an-external-war-or-is-it-civil"
 date = "2013-03-18T00:00:41"
 draft = false
 categories = ['CyberLaw', 'Malaysia', 'Security &amp; Privacy']
 +++
 
-<center><a href="/uploads/Cyber-War-Malaysia-PH.jpg"><img title="Cyber-War-Malaysia-PH" src="/uploads/Cyber-War-Malaysia-PH.jpg" alt="The Cyber War between Malaysia and Philippines" width="500" height="375" /></a></center>A really piece written by <a href="http://www.digitalnewsasia.com/insights/malaysia-philippines-cyberwar-time-for-our-agencies-to-step-up#" data-action="profile" data-user="30123397">Asohan Aryaduray</a> on DigitalNewsAsia some time back talked about how the<a title="Cyberwar Malaysia Philippines" href="http://www.digitalnewsasia.com/insights/malaysia-philippines-cyberwar-time-for-our-agencies-to-step-up" target="_blank"> CyberWar between Malaysia and the Philippines was going on</a>, and how he wanted government agencies to step up the security of our digital assets (or at least start the discussion). Asohan claims that Malaysia perhaps has <em>"the most number of government and quasi-government agencies looking into cyber-security for a country this size; it is time for them to put their heads together and harden the nation’s cyber-defenses." </em>
+<center><a href="/uploads/Cyber-War-Malaysia-PH.jpg">![The Cyber War between Malaysia and Philippines](/uploads/Cyber-War-Malaysia-PH.jpg "Cyber-War-Malaysia-PH")</a></center>A really piece written by <a href="http://www.digitalnewsasia.com/insights/malaysia-philippines-cyberwar-time-for-our-agencies-to-step-up#" data-action="profile" data-user="30123397">Asohan Aryaduray</a> on DigitalNewsAsia some time back talked about how the<a title="Cyberwar Malaysia Philippines" href="http://www.digitalnewsasia.com/insights/malaysia-philippines-cyberwar-time-for-our-agencies-to-step-up" target="_blank"> CyberWar between Malaysia and the Philippines was going on</a>, and how he wanted government agencies to step up the security of our digital assets (or at least start the discussion). Asohan claims that Malaysia perhaps has <em>"the most number of government and quasi-government agencies looking into cyber-security for a country this size; it is time for them to put their heads together and harden the nation’s cyber-defenses." </em>
 
 He ends with a rather poignant phrase: <em>It’s war, gentlemen, and it’s time our agencies got cracking.</em>
 

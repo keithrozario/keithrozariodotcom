@@ -1,11 +1,12 @@
 +++
 title = "Streamyx forced ads (202.71.99.194)"
+slug = "streamyx-forced-ads-202-71-99-194"
 date = "2014-12-18T18:31:31"
 draft = false
 categories = ['Security &amp; Privacy']
 +++
 
-<a href="/uploads/streamyx-forced-ads.png"><img class="wp-image-4665 aligncenter" src="/uploads/streamyx-forced-ads.png" alt="Streamyx forced ads" width="550" height="296" /></a>
+<a href="/uploads/streamyx-forced-ads.png">![Streamyx forced ads](/uploads/streamyx-forced-ads.png)</a>
 
 A couple of days back, I was at my in-laws doing some browsing on their PC. Now my in-laws have a Windows XP laptop, that isn't secured, which is fine because as far as I can tell, I'm the only one that uses it. Most of them now go to their phones or tablets for internet access--nobody uses PCs anymore!!
 

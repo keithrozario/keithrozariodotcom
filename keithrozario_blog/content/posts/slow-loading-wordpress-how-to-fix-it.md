@@ -1,12 +1,13 @@
 +++
 title = "Slow Loading Wordpress: How to fix it"
+slug = "slow-loading-wordpress-how-to-fix-it"
 date = "2011-06-21T14:57:51"
 draft = false
 tags = ['Firebug', 'wordpress']
 categories = ['Blog']
 +++
 
-<a title="Slow Loading Wordpress" rel="attachment wp-att-969" href="http://www.keithrozario.com/2011/06/slow-loading-wordpress-how-to-fix-it.html/2668411239_9c8d7b2342" target="_blank"><img class="alignleft size-thumbnail wp-image-969" title="http://www.flickr.com/photos/fatboyke/2668411239/sizes/m/in/photostream/" src="/uploads/2668411239_9c8d7b2342-150x99.jpg" alt="http://www.flickr.com/photos/fatboyke/2668411239/sizes/m/in/photostream/" width="150" height="99" /></a>I have a problem with my wordpress site, it was just too slow. It was taking me 20-30 seconds to load the page, initially I thought it was nearlyfreespeech, and was contemplating moving the blog to dreamhost (<em>both of whom happen to be amazing webhost by the way</em>).
+<a title="Slow Loading Wordpress" rel="attachment wp-att-969" href="http://www.keithrozario.com/2011/06/slow-loading-wordpress-how-to-fix-it.html/2668411239_9c8d7b2342" target="_blank">![http://www.flickr.com/photos/fatboyke/2668411239/sizes/m/in/photostream/](/uploads/2668411239_9c8d7b2342-150x99.jpg "http://www.flickr.com/photos/fatboyke/2668411239/sizes/m/in/photostream/")</a>I have a problem with my wordpress site, it was just too slow. It was taking me 20-30 seconds to load the page, initially I thought it was nearlyfreespeech, and was contemplating moving the blog to dreamhost (<em>both of whom happen to be amazing webhost by the way</em>).
 
 The reason I thought it was a host problem because my browser kept displaying <em><span style="color: #888888;">'waiting for keithrozario.nfshost.com'</span></em> while the waiting, so I assumed that it was their servers response time. That however was too presumptuous on my part, and it took me a while to get to the bottom of things, but I finally figured it out.
 
@@ -14,7 +15,7 @@ I used a nifty little Firefox plugin called firebug. <!--more-->I've used firebu
 
 So armed with firebug I booted up firefox and loaded my page. Lo and Behold, the answer was staring me right in the face:
 
-<a rel="attachment wp-att-970" href="http://www.keithrozario.com/2011/06/slow-loading-wordpress-how-to-fix-it.html/imghover-js"><img class="size-large wp-image-970 alignnone" title="imghover.js" src="/uploads/imghover.js-1024x342.jpg" alt="" width="1024" height="342" /></a>
+<a rel="attachment wp-att-970" href="http://www.keithrozario.com/2011/06/slow-loading-wordpress-how-to-fix-it.html/imghover-js">![](/uploads/imghover.js-1024x342.jpg "imghover.js")</a>
 
 You see that line with the red font that says imghover.js, and how the timeline for that particular element stretches to 21.9s. That means that my page had a javascript (.js file) that took 21.9 seconds to load, obviously that's a problem.
 

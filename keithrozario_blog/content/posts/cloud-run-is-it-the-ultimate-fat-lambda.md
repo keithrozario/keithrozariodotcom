@@ -1,12 +1,13 @@
 +++
 title = "Cloud Run -- is it the ultimate Fat lambda?"
+slug = "cloud-run-is-it-the-ultimate-fat-lambda"
 date = "2019-11-18T22:39:07"
 draft = false
 categories = ['Serverless']
 +++
 
 <!-- wp:image {"id":6835,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/GoogleCloudRun.jpg" alt="" class="wp-image-6835"/></figure>
+![](/uploads/GoogleCloudRun.jpg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -194,7 +195,7 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6827,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/Screenshot-2019-11-18-at-9.35.16-PM.png" alt="" class="wp-image-6827"/></figure>
+![](/uploads/Screenshot-2019-11-18-at-9.35.16-PM.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -226,7 +227,7 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6826,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/Screenshot-2019-11-18-at-12.30.16-AM.png" alt="" class="wp-image-6826"/></figure>
+![](/uploads/Screenshot-2019-11-18-at-12.30.16-AM.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

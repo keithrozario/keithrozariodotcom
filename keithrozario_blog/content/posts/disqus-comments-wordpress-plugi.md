@@ -1,12 +1,13 @@
 +++
 title = "Disqus: The best comments plugin for Wordpress there is"
+slug = "disqus-comments-wordpress-plugi"
 date = "2011-04-20T16:52:31"
 draft = false
 tags = ['Blog Features', 'Comments', 'Disqus']
 categories = ['Blog']
 +++
 
-<a href="/uploads/disqus-logo.png"><img class="alignleft size-full wp-image-124" title="disqus-logo" src="/uploads/disqus-logo-e1303318252857.png" alt="" width="111" height="26" /></a> The one thing I hated in Composito (my wordpress theme) was the ugly looking comment box. Thankfully however, I found this great plugin called Disqus.
+<a href="/uploads/disqus-logo.png">![](/uploads/disqus-logo-e1303318252857.png "disqus-logo")</a> The one thing I hated in Composito (my wordpress theme) was the ugly looking comment box. Thankfully however, I found this great plugin called Disqus.
 
 <!--more-->Disqus adds extra functionality to your blog comments, including the ability to login with facebook/twitter/openID and Yahoo. It also allows for avatar display on the comments. I always felt these logons were more likely to get people to comment, only wish they had linkedIn installed as well.
 

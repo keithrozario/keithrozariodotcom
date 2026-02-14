@@ -1,12 +1,13 @@
 +++
 title = "WPWebHost : Wordpress Hosting in Malaysia from Exabytes"
+slug = "wpwebhost-wordpress-hosting-malaysia-exabyte"
 date = "2012-09-19T12:10:04"
 draft = false
 tags = ['Exabytes', 'WPWebHost']
 categories = ['Blog', 'Malaysia']
 +++
 
-<center><a href="/uploads/WPWebHost-Logo.jpg"><img class="alignnone  wp-image-2757" title="WPWebHost-Logo" src="/uploads/WPWebHost-Logo.jpg" alt="" width="550" height="150" /></a></center>You may have noticed that my site recently got a spanking new design. Don't get me wrong, I loved my previous wordpress theme (<a title="Compositio By Design Disease" href="http://designdisease.com/compositio-wordpress-theme/" target="_blank">compositio by Design Disease</a>) and my previous web host (the ever awesome, <a title="Nearlyfreespeech" href="http://www.nearlyfreespeech.net" target="_blank">nearlyfreespeech</a>), but there were 2 real compelling reasons for me to switch web host.
+<center><a href="/uploads/WPWebHost-Logo.jpg">![](/uploads/WPWebHost-Logo.jpg "WPWebHost-Logo")</a></center>You may have noticed that my site recently got a spanking new design. Don't get me wrong, I loved my previous wordpress theme (<a title="Compositio By Design Disease" href="http://designdisease.com/compositio-wordpress-theme/" target="_blank">compositio by Design Disease</a>) and my previous web host (the ever awesome, <a title="Nearlyfreespeech" href="http://www.nearlyfreespeech.net" target="_blank">nearlyfreespeech</a>), but there were 2 real compelling reasons for me to switch web host.
 
 First, maintaining wordpress was taking a lot of time, this included the usual backups and updates and that was eating into time I could have spent researching other stuff or just plain blogging. Secondly, the site had grown both in size and visits, previously I received my first notch up the Google Page Rank, and now I'm a Page Rank 1 site (woo hoo!!). The additional traffic and storage cost were increasing to the point where it made more sense to have a fixed cost monthly payment than worry about the topping up my account (that being said, it would have still been cheaper to host on Nearlyfreespeech).
 

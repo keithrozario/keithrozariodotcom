@@ -1,5 +1,6 @@
 +++
 title = "More security theatre"
+slug = "more-security-theatre"
 date = "2016-07-24T15:31:36"
 draft = false
 categories = ['Security &amp; Privacy']

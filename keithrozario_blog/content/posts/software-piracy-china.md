@@ -1,12 +1,13 @@
 +++
 title = "Software piracy in China : Can the Yankees really complain?"
+slug = "software-piracy-china"
 date = "2012-10-21T09:00:40"
 draft = false
 tags = ['Microsoft']
 categories = ['Copyright and Censorship', 'CyberLaw', "Keith's Favorite Post"]
 +++
 
-<center><a href="/uploads/Yankee-Pirates-software-piracy.jpg"><img class=" wp-image-2883 alignnone" title="Yankee-Pirates-software-piracy" alt="" src="/uploads/Yankee-Pirates-software-piracy.jpg" width="300" height="300" /></a></center>Did you know the term <a title="The Pirates Delimma : Etyymology of Yankee" href="http://thepiratesdilemma.com/the-tao-of-pirates/etymology-of-a-yankee" target="_blank">'Yankee' is thought to be derived from the Dutch name <em>Janke</em>, which means “little Jan” or “little John,” a nickname that can be traced back to the 1680s, when it was used as a slang term for pirates</a>. Yes, you heard that right, the Americans were regarded by the Europeans as Pirates. At least that's what Matt Mason, author of <a title="The Pirates Dilemma" href="http://thepiratesdilemma.com/" target="_blank">The Pirates Dilemma</a> suggest.
+<center><a href="/uploads/Yankee-Pirates-software-piracy.jpg">![](/uploads/Yankee-Pirates-software-piracy.jpg "Yankee-Pirates-software-piracy")</a></center>Did you know the term <a title="The Pirates Delimma : Etyymology of Yankee" href="http://thepiratesdilemma.com/the-tao-of-pirates/etymology-of-a-yankee" target="_blank">'Yankee' is thought to be derived from the Dutch name <em>Janke</em>, which means “little Jan” or “little John,” a nickname that can be traced back to the 1680s, when it was used as a slang term for pirates</a>. Yes, you heard that right, the Americans were regarded by the Europeans as Pirates. At least that's what Matt Mason, author of <a title="The Pirates Dilemma" href="http://thepiratesdilemma.com/" target="_blank">The Pirates Dilemma</a> suggest.
 
 Matt isn't just an author of a book, but also the Executive Marketing Director of BitTorrent, so when he says something--I listen. Things like:
 [box icon="chat"]
@@ -20,7 +21,7 @@ Consider a very specific example of the 'drop down' menu in the iOS. When I boug
 <h2>Windows and Piracy</h2>
 Way back in 2009, <a title="Linux bigger competitor than Apple" href="http://www.osnews.com/story/21035/Ballmer_Linux_Bigger_Competitor_than_Apple" target="_blank">Steve Ballmer presented this little tid-bit of information to the world</a>:
 
-<center><a href="/uploads/OS-market-share-2009.png"><img title="OS-market-share-2009" alt="Operating System Market Share in 2009" src="/uploads/OS-market-share-2009.png" width="566" height="430" /></a></center>Microsoft proudly proclaimed that it's biggest competitor in the OS space wasn't Apple or even Linux--it was piracy.<img title="More..." alt="" src="http://keithrozario.net/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif" />
+<center><a href="/uploads/OS-market-share-2009.png">![Operating System Market Share in 2009](/uploads/OS-market-share-2009.png "OS-market-share-2009")</a></center>Microsoft proudly proclaimed that it's biggest competitor in the OS space wasn't Apple or even Linux--it was piracy.![](http://keithrozario.net/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif "More...")
 
 From the data that Steve Ballmer presented it was hard to argue against. In fact more people were using unlicensed Windows products than Apple and Linux combined. This perfectly illustrated the sheer dominance of Microsoft in the OS space back in 2009--so how then did this dominance fade away so quickly?
 

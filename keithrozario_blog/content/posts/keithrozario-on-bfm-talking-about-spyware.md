@@ -1,16 +1,17 @@
 +++
 title = "Keith's on BFM Talking about spyware--again!!"
+slug = "keithrozario-on-bfm-talking-about-spyware"
 date = "2016-02-10T12:05:17"
 draft = false
 tags = ['Spyware']
 categories = ['Copyright and Censorship', "Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++
 
-<a href="/uploads/rsz_img_20151016_173613.jpg" rel="attachment wp-att-5319"><img class="size-full wp-image-5319 aligncenter" src="/uploads/rsz_img_20151016_173613.jpg" alt="Keith_on_BFM_Tech_Talk" width="550" height="408" /></a>Today, <a href="http://www.bfm.my/tech-talk-are-we-being-spied-keith-rozario.html">I was on BFM</a> talking about Hacking Team, the audio for which is below, and more comments and thoughts below that.
+<a href="/uploads/rsz_img_20151016_173613.jpg" rel="attachment wp-att-5319">![Keith_on_BFM_Tech_Talk](/uploads/rsz_img_20151016_173613.jpg)</a>Today, <a href="http://www.bfm.my/tech-talk-are-we-being-spied-keith-rozario.html">I was on BFM</a> talking about Hacking Team, the audio for which is below, and more comments and thoughts below that.
 
-<audio preload="" controls="controls"><source src="https://s3-ap-southeast-1.amazonaws.com/tech-talk/2016.02.10-TT-Keith-Spyware.mp3" type="audio/mp3" />Your browser does not support native audio, but you can <a href="http://s3-ap-southeast-1.amazonaws.com/tech-talk/2016.02.10-TT-Keith-Spyware.mp3">download this MP3</a> to listen on your device.&nbsp;
+<audio preload="" controls="controls"><source src="https://s3-ap-southeast-1.amazonaws.com/tech-talk/2016.02.10-TT-Keith-Spyware.mp3" type="audio/mp3" />Your browser does not support native audio, but you can <a href="http://s3-ap-southeast-1.amazonaws.com/tech-talk/2016.02.10-TT-Keith-Spyware.mp3">download this MP3</a> to listen on your device. 
 
-&nbsp;
+ 
 
 </audio>
 
@@ -64,4 +65,4 @@ Hence, surveillance doesn't help because there is nothing to surveli. There are
 </ol>
 Or visit <a href="https://www.keithrozario.com/tag/spyware" target="_blank">https://www.keithrozario.com/tag/spyware</a> for all my post relating to spyware :)
 
-&nbsp;
+ 

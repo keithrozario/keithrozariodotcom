@@ -1,12 +1,13 @@
 +++
 title = "More reasons Copyright sucks"
+slug = "more-reasons-copyright-sucks"
 date = "2012-02-22T09:07:13"
 draft = false
 tags = ['copyright laws']
 categories = ['Copyright and Censorship', 'CyberLaw', 'Misc']
 +++
 
-<a href="/uploads/3762597413_d820da2d19.jpg"><img class="size-full wp-image-1834 aligncenter" title="3762597413_d820da2d19" src="/uploads/3762597413_d820da2d19.jpg" alt="" width="500" height="357" /></a>
+<a href="/uploads/3762597413_d820da2d19.jpg">![](/uploads/3762597413_d820da2d19.jpg "3762597413_d820da2d19")</a>
 
 Now for an artist to copyright a song or a piece of work, for that artist to then legally make a living of is fine.
 

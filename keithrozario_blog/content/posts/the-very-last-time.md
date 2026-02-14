@@ -1,5 +1,6 @@
 +++
 title = "The very Last time"
+slug = "the-very-last-time"
 date = "2021-01-01T17:39:19"
 draft = false
 categories = ['Misc']

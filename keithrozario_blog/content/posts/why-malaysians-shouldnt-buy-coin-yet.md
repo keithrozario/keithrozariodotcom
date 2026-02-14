@@ -1,5 +1,6 @@
 +++
 title = "Why Malaysians shouldn't buy Coin--yet"
+slug = "why-malaysians-shouldnt-buy-coin-yet"
 date = "2013-11-30T11:20:10"
 draft = false
 tags = ['Coin', 'EMV', 'Malaysia']

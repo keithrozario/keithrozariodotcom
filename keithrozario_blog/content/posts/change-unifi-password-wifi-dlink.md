@@ -1,5 +1,6 @@
 +++
 title = "How to change your Unifi password"
+slug = "change-unifi-password-wifi-dlink"
 date = "2012-07-14T23:00:56"
 draft = false
 categories = ['Malaysia', 'Misc']
@@ -9,7 +10,7 @@ Now It's quite clear from a previous post I did how about easy it was to <a titl
 
 Let's take a look at how to change your unifi password, or how to find it in case you've forgotten.
 <h2>Step 1: Login to your router</h2>
-<center><a href="/uploads/rsz_1step_1_login_dlink_dir615.png"><img class="size-medium wp-image-2526 alignnone" title="rsz_1step_1_login_dlink_dir615" src="/uploads/rsz_1step_1_login_dlink_dir615-300x148.png" alt="" width="300" height="148" /></a></center>
+<center><a href="/uploads/rsz_1step_1_login_dlink_dir615.png">![](/uploads/rsz_1step_1_login_dlink_dir615-300x148.png "rsz_1step_1_login_dlink_dir615")</a></center>
 First you'll need to login to your router. For this open up Internet Explorer or Firefox or Chrome to access the internet. Then instead of typing something like http://www.google.com in the address bar to visit google, type <a title="DLink Dir615 Router" href="http://192.168.0.1" target="_blank">http://192.168.0.1 </a>in the address bar to visit your routers web server. Your router actually has a webpage that allows you configure you, but this web page is only visible from within your home network so don't worry.
 
 You can just click the <a title="Unifi Router Logon" href="http://192.168.0.1" target="_blank">link here</a> to take your there as well.
@@ -27,11 +28,11 @@ Password : h566UniFi</p>
 Password : telekom</blockquote></p>
 <!--more-->
 <h2>Step 2: Access the Wireless setup configuration on your router</h2>
-<center><a href="/uploads/rsz_step_2_wireless_setup.png"><img class="alignnone size-full wp-image-2523" title="step_2_wireless_setup" src="/uploads/rsz_step_2_wireless_setup.png" alt="" width="485" height="213" /></a></center>Once you've logged onto your router, visit the Wireless Setup menu (click the Wireless Setup button on the right menu)
+<center><a href="/uploads/rsz_step_2_wireless_setup.png">![](/uploads/rsz_step_2_wireless_setup.png "step_2_wireless_setup")</a></center>Once you've logged onto your router, visit the Wireless Setup menu (click the Wireless Setup button on the right menu)
 <h2>Step 3: Manual Wireless Configuration</h2>
-<center><a href="/uploads/rsz_step_3_manual_wireless_connection_setup_dlink-dir615.png"><img class="alignnone size-full wp-image-2524" title="rsz_step_3_manual_wireless_connection_setup_dlink-dir615" src="/uploads/rsz_step_3_manual_wireless_connection_setup_dlink-dir615.png" alt="" width="427" height="247" /></a></center>Once there, look for the Manual Wireless Connnection Setup and click that. This will take you to a manual configuration page for your Wi-Fi settings.
+<center><a href="/uploads/rsz_step_3_manual_wireless_connection_setup_dlink-dir615.png">![](/uploads/rsz_step_3_manual_wireless_connection_setup_dlink-dir615.png "rsz_step_3_manual_wireless_connection_setup_dlink-dir615")</a></center>Once there, look for the Manual Wireless Connnection Setup and click that. This will take you to a manual configuration page for your Wi-Fi settings.
 <h2>Step 4: Change the Password</h2>
-<center> <a href="/uploads/rsz_step4_network_key_dlink_dir615.png"><img class="alignnone size-full wp-image-2525" title="rsz_step4_network_key_dlink_dir615" src="/uploads/rsz_step4_network_key_dlink_dir615.png" alt="" width="388" height="172" /></a></center>&nbsp;
+<center> <a href="/uploads/rsz_step4_network_key_dlink_dir615.png">![](/uploads/rsz_step4_network_key_dlink_dir615.png "rsz_step4_network_key_dlink_dir615")</a></center> 
 
 Now browse to the bottom of the page and look for where the WPA/WPA2 Network Key is, you want to change your Password here to something other than the default 8 digits given by Unifi. Incidentally, this is also a way to determine the current password for wifi networks. It'll only work for the standard Dlink dir-615 router, but the general principle is still the same for other routers, you just to search around a bit more once in the administrator panel.
 <h2>Password tips</h2>

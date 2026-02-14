@@ -1,5 +1,6 @@
 +++
 title = "Just buy McDonalds"
+slug = "just-buy-mcdonalds"
 date = "2016-07-23T08:00:01"
 draft = false
 categories = ['Misc']

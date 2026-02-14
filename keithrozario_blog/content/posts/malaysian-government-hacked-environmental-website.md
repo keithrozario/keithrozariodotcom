@@ -1,11 +1,12 @@
 +++
 title = "Malaysian Government Hacked Environmental website?"
+slug = "malaysian-government-hacked-environmental-website"
 date = "2014-11-08T15:06:36"
 draft = false
 categories = ['Copyright and Censorship', 'Malaysia', 'Security &amp; Privacy']
 +++
 
-<img class="wp-image-4051 aligncenter" src="/uploads/Slide2.jpg" alt="How IP addressing works" width="550" height="309" />
+![How IP addressing works](/uploads/Slide2.jpg)
 
 <span style="color: #000000;">Environment News Service, an environmental focused news website this week accused Malaysian government hackers of attacking it after it ran a story implicating Sarawak governor Tun Abdul Taib Mahmud of corruption and graft. As a result, the site was down for 2-hours, before the site manage to re-gain control.</span>
 

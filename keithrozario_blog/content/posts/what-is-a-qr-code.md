@@ -1,12 +1,13 @@
 +++
 title = "What is a QR Code"
+slug = "what-is-a-qr-code"
 date = "2011-04-22T16:35:59"
 draft = false
 tags = ['New Stuff']
 categories = ['Blog', 'Design']
 +++
 
-<a href="/uploads/QR.png"><img class="size-full wp-image-133 alignleft" title="QR Code" src="/uploads/QR.png" alt="My QR Code with my contacts" width="150" height="150" /></a>
+<a href="/uploads/QR.png">![My QR Code with my contacts](/uploads/QR.png "QR Code")</a>
 
 Ever wonder what that funny looking Barcode thing on newspaper ads and beer cans is? Well it's called a QR code and it's a fad that catching on. Just like a barcode that encapsulates information into lines of varying size--remember that thing cashiers scan at the checkout aisle? A QR code is exactly like a bar-code but in 2 Dimensions rather than just 1.
 

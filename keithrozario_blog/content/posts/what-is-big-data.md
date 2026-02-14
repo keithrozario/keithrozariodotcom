@@ -1,12 +1,13 @@
 +++
 title = "What is big data"
+slug = "what-is-big-data"
 date = "2012-07-16T07:00:13"
 draft = false
 tags = ['Apache', 'Google', 'Hadoop', 'SAP']
 categories = ['Big Data', 'Misc']
 +++
 
-<center><a href="/uploads/big-data.jpg"><img class="alignnone size-full wp-image-2560" title="big-data" src="/uploads/big-data.jpg" alt="big-data-getting-bigger" width="500" height="367" /></a></center>It's obvious that people have gotten bigger these past few decades, what's less obvious is how data has grown bigger in the past few years. In fact, 90% of the digital data we have today, was created in the last 2 years. Put another way, in 2010 we had just 10% of the digital data we have today.
+<center><a href="/uploads/big-data.jpg">![big-data-getting-bigger](/uploads/big-data.jpg "big-data")</a></center>It's obvious that people have gotten bigger these past few decades, what's less obvious is how data has grown bigger in the past few years. In fact, 90% of the digital data we have today, was created in the last 2 years. Put another way, in 2010 we had just 10% of the digital data we have today.
 
 In 2011, an estimated 1.2 TRILLION Gigabytes of data was created. That's roughly 200GB for every man women and child in the world--In just one year. That's every person in the world watching almost 300 feature length films every day, and this is the average.
 

@@ -1,12 +1,13 @@
 +++
 title = "Sub-domains on your site"
+slug = "sub-domains-on-your-post"
 date = "2011-05-10T07:38:39"
 draft = false
 tags = ['Blog Features', 'NearlyFreeSpeech']
 categories = ['Blog']
 +++
 
-<a rel="attachment wp-att-665" href="http://www.keithrozario.com/2011/05/sub-domains-on-your-post.html/324448335_9d6bbb87a0_m" target="_blank"><img class="alignleft size-full wp-image-665" title="Subdomain Graffiti" src="/uploads/324448335_9d6bbb87a0_m.jpg" alt="" width="240" height="196" /></a>Subdomains are a tricky thing. In laymans terms all it means is to have something else in place of the 'www' in your web address. So for example:
+<a rel="attachment wp-att-665" href="http://www.keithrozario.com/2011/05/sub-domains-on-your-post.html/324448335_9d6bbb87a0_m" target="_blank">![](/uploads/324448335_9d6bbb87a0_m.jpg "Subdomain Graffiti")</a>Subdomains are a tricky thing. In laymans terms all it means is to have something else in place of the 'www' in your web address. So for example:
 
 <span style="color: #993300;"><strong>http://www.keithrozario.com </strong></span>&lt;- This is my domain
 

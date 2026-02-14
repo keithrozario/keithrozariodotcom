@@ -1,5 +1,6 @@
 +++
 title = "Cyberbullying in Malaysia"
+slug = "cyberbullying-in-malaysia"
 date = "2012-10-16T07:00:11"
 draft = false
 categories = ['CyberLaw', 'Malaysia', 'Misc']

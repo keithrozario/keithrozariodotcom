@@ -1,5 +1,6 @@
 +++
 title = "Malaysiakini twitter account hacked"
+slug = "malaysiakini-twitter-account-hacked"
 date = "2013-04-28T15:17:32"
 draft = false
 tags = ['Malaysiakini']
@@ -10,7 +11,7 @@ categories = ['CyberLaw', 'Malaysia']
 <blockquote class="twitter-tweet">Sorry for inconvenience! let us manage your twitter account from now on,Untuk semua , For All, Wei Ren Ren, Ellowrukkum - SarkasSiber
 
 — malaysiakini.com (@malaysiakini) <a href="https://twitter.com/malaysiakini/status/328125545361580032">April 27, 2013</a></blockquote>
-&nbsp;
+ 
 
 </center>In what appears to be an escalating amount of cyber-attacks on the online web portal, Malaysiakini reported that they're twitter account has been hacked by a group calling itself Sarkas-Siber.
 

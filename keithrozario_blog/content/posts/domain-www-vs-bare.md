@@ -1,12 +1,13 @@
 +++
 title = "Domain Registration (www vs. bare domain)"
+slug = "domain-www-vs-bare"
 date = "2011-04-24T15:31:39"
 draft = false
 tags = ['NearlyFreeSpeech', 'wordpress']
 categories = ['Blog']
 +++
 
-<a href="/uploads/logo.gif"><img class="alignleft size-full wp-image-144" title="logo" src="/uploads/logo.gif" alt="" width="278" height="80" /></a> As you probably know by now, I host my blog on NearlyFreeSpeech.net, they are easily the best host out there, why?
+<a href="/uploads/logo.gif">![](/uploads/logo.gif "logo")</a> As you probably know by now, I host my blog on NearlyFreeSpeech.net, they are easily the best host out there, why?
 
 They AREEEE CHEEEEAP!! <!--more-->I mean <strong>dirt</strong> earth cheap, they make Dreamhost and Bluehost look like Louis Vuitton. How do they do it? They don't support you, Nearlyfreespeech doesn't have wannabe handholding software like cPanel, they don't support you and if you've got a question you have to pay to ask them. That's right...PAY to ASK them. They sell support points, that you buy and then redeem in the form a support question.
 

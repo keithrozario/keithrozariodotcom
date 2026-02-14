@@ -1,5 +1,6 @@
 +++
 title = "LinkedIn Passwords comprimised: How to change it"
+slug = "linkedin-password-how-to-change-hack"
 date = "2012-06-07T09:45:25"
 draft = false
 tags = ['LinkedIn']
@@ -14,7 +15,7 @@ All compromised accounts will no longer have their old passwords working, and 
 
 Next, even though you don't 'really' need to, I'd strongly suggest you change your password by following these 2 simple steps. You can click on the picture to expand it.
 
-<img class="size-medium wp-image-2250 alignleft" title="ChangeLinkedInpassword" src="/uploads/ChangeLinkedInpassword-300x129.jpg" alt="" width="300" height="129" />
+![](/uploads/ChangeLinkedInpassword-300x129.jpg "ChangeLinkedInpassword")
 <div>
 
 Step 1: Click on the Name in the upper right hand corner of your screen, and then in the drop down box that pops out, click 'settings'. (the red circle in the picture below)Step 2: Click on the Change Password (the purple circle)--and you're done!

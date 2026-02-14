@@ -1,5 +1,6 @@
 +++
 title = "Why do computers like to calculate Pi?"
+slug = "why-do-computers-like-to-calculate-pi"
 date = "2014-05-25T21:23:26"
 draft = false
 tags = ['benchmark', 'Pi', 'supercomputer']

@@ -1,11 +1,12 @@
 +++
 title = "CheDet on Censorship"
+slug = "chedet-on-censorship"
 date = "2014-08-04T20:00:04"
 draft = false
 categories = ['Copyright and Censorship', 'CyberLaw']
 +++
 
-<a href="/uploads/3110643778_0de66a611c_z.jpg"><img class="alignleft wp-image-4517" src="/uploads/3110643778_0de66a611c_z.jpg" alt="Tun Dr. M" width="300" height="450" /></a>Tun Dr. Mahathir now says he's change his mind about internet censorship. To quote him <em>"Not knowing the power of the Internet, I promised that we (speaking as the Prime Minister of Malaysia) would not censor it. But today I have changed my mind."</em>
+<a href="/uploads/3110643778_0de66a611c_z.jpg">![Tun Dr. M](/uploads/3110643778_0de66a611c_z.jpg)</a>Tun Dr. Mahathir now says he's change his mind about internet censorship. To quote him <em>"Not knowing the power of the Internet, I promised that we (speaking as the Prime Minister of Malaysia) would not censor it. But today I have changed my mind."</em>
 
 Of course, everyone has a right to change their mind--but in this case Tun went from being absolutely spot-on (the internet doesn't need censorship) to dead wrong.
 

@@ -1,11 +1,12 @@
 +++
 title = ".my domains hacked: Why SSL is more important than ever"
+slug = "my-domains-hacked-why-ssl-is-more-important-than-ever"
 date = "2013-07-02T15:34:29"
 draft = false
 categories = ['Security &amp; Privacy']
 +++
 
-<a href="/uploads/MYNIC_HACKED.png"><img class="size-full wp-image-3914 alignleft" style="margin-right: 10px; margin-bottom: 10px;" alt="MYNIC_HACKED" src="/uploads/MYNIC_HACKED.png" width="268" height="102" /></a>MyNic is the organization responsible for managing the .my Top Level Domain, which means every website address that ends with a .my is under their administration. These centralized control centers act as giant targets for hackers, but for the most part, they're protected better than Fort Knox--or they should be.
+<a href="/uploads/MYNIC_HACKED.png">![MYNIC_HACKED](/uploads/MYNIC_HACKED.png)</a>MyNic is the organization responsible for managing the .my Top Level Domain, which means every website address that ends with a .my is under their administration. These centralized control centers act as giant targets for hackers, but for the most part, they're protected better than Fort Knox--or they should be.
 
 Yesterday, a hacker going by the name Tiger-M@te successfully manage to hijack the .my addresses of popular websites belonging to Google, Microsoft, Dell and even Kaspersky (an Anti-Virus company). Instead of being presented with the usual webpage, visitors who entered urls like www.google.my, or www.skype.my were redirected to a static page with the word <span style="color: #ff0000;">HACKED</span> emblazoned in big red letters.
 
@@ -25,4 +26,4 @@ I was absolutely SHOCKED to find out that bloody MYEG doesn't have SSL enabled o
 
 Finally, the conspiracy theorist have looked at the <a title="Source code of hacked page" href="http://pastebin.com/kS3GCEE0" target="_blank">source code of the hacked page</a>, and noticed that some of script used on the page was written in bahasa...stragerer and strangerer.
 
-&nbsp;
+ 

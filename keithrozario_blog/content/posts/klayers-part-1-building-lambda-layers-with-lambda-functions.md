@@ -1,5 +1,6 @@
 +++
 title = "Klayers Part 1: Building Lambda Layers with Lambda Functions"
+slug = "klayers-part-1-building-lambda-layers-with-lambda-functions"
 date = "2019-08-18T22:17:30"
 draft = false
 categories = ['Serverless']
@@ -18,7 +19,7 @@ categories = ['Serverless']
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":6771,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/pypi.png" alt="" class="wp-image-6771"/></figure>
+![](/uploads/pypi.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

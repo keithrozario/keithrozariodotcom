@@ -1,5 +1,6 @@
 +++
 title = "Evidence Act Technological Misconceptions: A response to Rocky and Fatimah"
+slug = "evidence-act-114a-technological-misconceptions"
 date = "2012-08-15T12:56:16"
 draft = false
 categories = ['Copyright and Censorship', 'CyberLaw', "Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']

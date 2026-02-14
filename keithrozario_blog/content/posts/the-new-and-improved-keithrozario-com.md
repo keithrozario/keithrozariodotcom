@@ -1,11 +1,12 @@
 +++
 title = "The new and improved keithRozario.com"
+slug = "the-new-and-improved-keithrozario-com"
 date = "2015-03-27T16:07:21"
 draft = false
 categories = ['Misc']
 +++
 
-<p style="text-align: justify;"><img class="aligncenter wp-image-4854 size-full" src="/uploads/sunrise-new.jpg" alt="New Website" width="640" height="427" /></p>
+<p style="text-align: justify;">![New Website](/uploads/sunrise-new.jpg)</p>
 Welcome!!
 <p style="text-align: justify;">keithRozario.com has a new look, and I can hardly contain my excitement.</p>
 <p style="text-align: justify;">The blog still retains all its previous content and more glorious content will be on its way, for now take a moment to savour the brand new theme which hopefully is cleaner and easier on the eyes than my previous blogs design. Also enjoy my complementary TLS connection (notice the httpS connection instead of just http) which means you now have a fully encrypted tunnel from your browser all the way to my new server in Singapore, and to round things up, the blog should be much faster now that its hosted it's own dedicated server.</p>
@@ -19,6 +20,6 @@ Welcome!!
 <p style="text-align: justify;">So I got got an account at <a title="Digital Ocean" href="http://www.digitalocean.com" target="_blank">DigitalOcean.com</a>,  they're a pretty decent cloud provider currently making waves in the cloud computing arena <em>(see what I did the puns there)</em>. They're cheaper than Amazon, and products are more clearer and cleanly priced, if you wonder what clean pricing is, just try to figure out how much hosting on Amazon will cost you, and then you'll know.</p>
 <p style="text-align: justify;">Spinning up an Ubuntu Instance of Wordpress on DigitalOcean took me less than 60 seconds, but migrating all the stuff from my older blog, and fixing all the errors and issues that were piling up since I started this blog took much longer.</p>
 <p style="text-align: justify;">Let this be a lesson to you bloggers, avoid using short-codes, and avoid installing too many plugins on your website. Less is better, and ultimately a lot of plugin related features aren't needed anyway.</p>
-<a href="/uploads/DO_Logo_Vertical_Blue-75e0d68b.png"><img class="  wp-image-4853 alignleft" src="/uploads/DO_Logo_Vertical_Blue-75e0d68b.png" alt="DigitalOcean" width="321" height="203" /></a>
+<a href="/uploads/DO_Logo_Vertical_Blue-75e0d68b.png">![DigitalOcean](/uploads/DO_Logo_Vertical_Blue-75e0d68b.png)</a>
 <p style="text-align: justify;">In any case, for $5/month, I get to host my website on my on server, which has <strong>1 CPU Core</strong>, <strong>512MB of RAM</strong> and <strong>20GB of SSD</strong> space--you could opt for more power by jumping to $10/month, but my blog with 30,000 unique visitors a month is getting by just fine on this small machine. Plus since the resources all belong to me, I get better performance than my time with WPWebHost where I was a shared server.</p>
 <p style="text-align: justify;">In a future post, I'd show you how to setup the SSL on digitalocean the 'proper' way. For now though, thanks for stopping by, and you have any bugs/comments on the new design, fire away in the comments below.</p>

@@ -1,12 +1,13 @@
 +++
 title = "Interactive Shell on a Lambda Function"
+slug = "interactive-shell-on-a-lambda-function"
 date = "2019-08-25T21:54:26"
 draft = false
 categories = ['Security &amp; Privacy', 'Serverless']
 +++
 
 <!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/revshell_on_lambda.gif" alt=""/></figure>
+![](/uploads/revshell_on_lambda.gif)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -74,7 +75,7 @@ categories = ['Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6776,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/reverse_shell.png" alt="" class="wp-image-6776"/></figure>
+![](/uploads/reverse_shell.png)
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -110,7 +111,7 @@ categories = ['Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6777,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/Screenshot-2019-08-25-at-9.35.57-PM.png" alt="" class="wp-image-6777"/></figure>
+![](/uploads/Screenshot-2019-08-25-at-9.35.57-PM.png)
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -126,7 +127,7 @@ categories = ['Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/revshell_on_lambda.gif" alt=""/></figure>
+![](/uploads/revshell_on_lambda.gif)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

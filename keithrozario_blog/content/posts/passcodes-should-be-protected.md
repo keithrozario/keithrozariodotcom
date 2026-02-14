@@ -1,11 +1,12 @@
 +++
 title = "Passcodes should be protected"
+slug = "passcodes-should-be-protected"
 date = "2016-05-14T11:28:20"
 draft = false
 categories = ['CyberLaw', 'Security &amp; Privacy']
 +++
 
-<a href="/uploads/Diverse_torture_instruments.jpg"><img class="alignleft wp-image-5684" src="/uploads/Diverse_torture_instruments.jpg" alt="Diverse_torture_instruments" width="300" height="382" /></a>Some people are fans of medieval torture, and who can blame them. There's just something about the sadistic treatment of people that makes us both want to watch with a bowl of popcorn in our hands, yet at the same time turn away in disgust and discomfort.
+<a href="/uploads/Diverse_torture_instruments.jpg">![Diverse_torture_instruments](/uploads/Diverse_torture_instruments.jpg)</a>Some people are fans of medieval torture, and who can blame them. There's just something about the sadistic treatment of people that makes us both want to watch with a bowl of popcorn in our hands, yet at the same time turn away in disgust and discomfort.
 
 How else do you explain the popularity of shows like Saw?
 

@@ -1,12 +1,13 @@
 +++
 title = "Missing .SO files in Lambda functions"
+slug = "missing-so-files-in-lambda-functions"
 date = "2021-08-09T11:14:28"
 draft = false
 categories = ['Misc']
 +++
 
 <!-- wp:image {"id":7512,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/Screen-Shot-2021-08-09-at-11.13.54-AM-820x237.png" alt="" class="wp-image-7512"/></figure>
+![](/uploads/Screen-Shot-2021-08-09-at-11.13.54-AM-820x237.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -76,7 +77,7 @@ bash-4.2# pip install opencv-python-headless</code></pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7502,"sizeSlug":"large","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/Screen-Shot-2021-08-08-at-4.26.53-PM-820x78.png" alt="" class="wp-image-7502"/></figure></div>
+![](/uploads/Screen-Shot-2021-08-08-at-4.26.53-PM-820x78.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -92,7 +93,7 @@ bash-4.2# pip install opencv-python-headless</code></pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7504,"sizeSlug":"large","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/Screen-Shot-2021-08-08-at-4.30.14-PM-445x500.png" alt="" class="wp-image-7504"/></figure></div>
+![](/uploads/Screen-Shot-2021-08-08-at-4.30.14-PM-445x500.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -112,7 +113,7 @@ bash-4.2# pip install opencv-python-headless</code></pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7506,"sizeSlug":"large","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/Screen-Shot-2021-08-08-at-4.36.58-PM-820x76.png" alt="" class="wp-image-7506"/></figure></div>
+![](/uploads/Screen-Shot-2021-08-08-at-4.36.58-PM-820x76.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -128,7 +129,7 @@ bash-4.2# pip install opencv-python-headless</code></pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7507,"sizeSlug":"full","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-full"><img src="/uploads/Screen-Shot-2021-08-08-at-4.40.10-PM.png" alt="" class="wp-image-7507"/></figure></div>
+![](/uploads/Screen-Shot-2021-08-08-at-4.40.10-PM.png)
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -152,7 +153,7 @@ bash-4.2# pip install opencv-python-headless</code></pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7508,"sizeSlug":"large","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/Screen-Shot-2021-08-08-at-4.47.17-PM-562x500.png" alt="" class="wp-image-7508"/></figure></div>
+![](/uploads/Screen-Shot-2021-08-08-at-4.47.17-PM-562x500.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

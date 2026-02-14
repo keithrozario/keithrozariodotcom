@@ -1,11 +1,12 @@
 +++
 title = "Should an IP address be used to Identify someone?"
+slug = "ip-address-uniquely-identify-law"
 date = "2015-04-29T11:00:29"
 draft = false
 categories = ['CyberLaw', 'Malaysia']
 +++
 
-<a href="/uploads/Slide2.jpg"><img class=" size-large wp-image-4051 aligncenter" src="/uploads/Slide2-1024x576.jpg" alt="How IP addressing works" width="820" height="461" /></a>Recently a court in Malaysia ruled that the newly amended evidence act could presume an IP address would uniquely identify a user of a network, and in the case of an Internet IP address, enough to tie an IP to the individual subscriber. In other words if the authorities ever found out that 'your' IP address was behind a post, then you'd have to prove it wasn't you rather than they having to prove it was.
+<a href="/uploads/Slide2.jpg">![How IP addressing works](/uploads/Slide2-1024x576.jpg)</a>Recently a court in Malaysia ruled that the newly amended evidence act could presume an IP address would uniquely identify a user of a network, and in the case of an Internet IP address, enough to tie an IP to the individual subscriber. In other words if the authorities ever found out that 'your' IP address was behind a post, then you'd have to prove it wasn't you rather than they having to prove it was.
 <blockquote>In <strong>Tong Seak Kan &amp; Anor v Loke Ah Kin &amp; Anor [2014] 6 CLJ 904</strong>, the Plaintiffs initiated an action for cyberspace defamation against the 1st Defendant.   In tracing the perpetrator, who had posted defamatory statements on two Google Blogspot websites, the Plaintiffs filed an action called <strong>a John Doe action in the Superior Court of California</strong>.   In compliance with the court order, <strong>Google traced the blogs to two IP (Internet Protocol) addresses which were revealed by Telekom Malaysia Bhd to be IP addresses belonging to the 1st Defendant’s account</strong>.
 <p style="text-align: right;"><a href="https://www.digitalnewsasia.com/insights/bread-kaya-malaysian-cyberlaw-cases-in-2014" target="_blank">Bread &amp; Kaya: Malaysian cyberlaw cases in 2014</a></p>
 </blockquote>
@@ -29,7 +30,7 @@ An IP address of your device has to be unique on the network it's on, but the q
 
 Your computer is connected to your router, and is part of a much smaller network we call the Local Area Network or LAN <em>(no it wasn't invented by a Hokkien guy, it's just an unfortunate coincidence). </em>A LAN usually consist of the devices in a home network, like your phone, iPads, laptops...etc. Your IP address on your laptop only has to be unique among the other devices connected in your home. (it's the blue circle in the picture below).
 
-<img class="aligncenter wp-image-4982" src="/uploads/Slide12-820x461.jpg" alt="IP Address LAN/WAN 1" width="550" height="309" />
+![IP Address LAN/WAN 1](/uploads/Slide12-820x461.jpg)
 
 Your router on the other hand is connected to the outer internet, we call this the Wide Area Network or WAN <em>(describing the network now, not the Chef)</em>. It's the only device in your home directly connected to the internet, and hence the it's the only device that actually needs an <span style="text-decoration: underline;">internet IP address</span>. It's the red circle in the picture above.
 
@@ -39,7 +40,7 @@ To an external party like Google, or keithRozario.com <em>(heard it's a great we
 
 The consequences of this is that if someone were to hack your WiFi (quite trivial for a skilled attacker) they'd get into your LAN, they can then post defamatory statements on your behalf and get you in trouble. And since there really is No bloody way to prove your WiFi was hacked, you'd be holding the proverbial short end of the stick, or to quote a more technical term--being absolutely screwed!
 
-<img class="aligncenter wp-image-4983" src="/uploads/Slide22.jpg" alt="Slide2" width="550" height="309" />
+![Slide2](/uploads/Slide22.jpg)
 
 There is no way you would have a 'fair trial', if you had to prove your router was hacked, since there's no technical way prove that, most home routers don't have sufficient logging capability, or diagnostics to even hint of a potential hack, and even if the logs managed to prove that an 'unknown' device logged on at a particular time, what difference would that make? Couldn't you have bought a cheap laptop, connected to the network, post the defamatory article and then throw the laptop away. You see how absurd it is to force a normal person to prove their router was hacked---heck even I couldn't do it, let alone the tech-phobic community.
 

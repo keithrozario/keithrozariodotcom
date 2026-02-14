@@ -1,14 +1,15 @@
 +++
 title = "Installing Joomla on your Nearlyfreespeech site"
+slug = "installing-joomla-on-your-nearlyfreespeech-site"
 date = "2011-05-01T00:19:29"
 draft = false
 tags = ['Joomla']
 categories = ['Blog']
 +++
 
-<a href="http://www.keithrozario.com/2011/05/installing-joomla-on-your-nearlyfreespeech-site.html/logo-2" rel="attachment wp-att-638"><img class="alignleft size-thumbnail wp-image-638" title="logo" src="/uploads/logo-150x29.png" alt="Joomla" width="150" height="29" /></a> Joomla is a content management system that is customized for building actual sites. Wordpress is similar to Joomla with the exception that it's VERY VERY tailored to blogs. Of course I'm still new to most of this, but you can read up more by searching online:
+<a href="http://www.keithrozario.com/2011/05/installing-joomla-on-your-nearlyfreespeech-site.html/logo-2" rel="attachment wp-att-638">![Joomla](/uploads/logo-150x29.png "logo")</a> Joomla is a content management system that is customized for building actual sites. Wordpress is similar to Joomla with the exception that it's VERY VERY tailored to blogs. Of course I'm still new to most of this, but you can read up more by searching online:
 
-&nbsp;
+ 
 
 So how do you install Joomla on nearlyfreespeech, surprisingly it's VERY easy. Follow these steps.<!--more-->
 

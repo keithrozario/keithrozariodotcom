@@ -1,5 +1,6 @@
 +++
 title = "Internet Censorship won't work in Malaysia"
+slug = "internet-censorship-wont-work-malaysia"
 date = "2013-07-26T17:01:10"
 draft = false
 categories = ['Copyright and Censorship', "Keith's Favorite Post"]

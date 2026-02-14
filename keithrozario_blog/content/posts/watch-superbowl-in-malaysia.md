@@ -1,5 +1,6 @@
 +++
 title = "Watch SuperBowl in Malaysia"
+slug = "watch-superbowl-in-malaysia"
 date = "2015-01-28T13:55:11"
 draft = false
 categories = ['Misc']

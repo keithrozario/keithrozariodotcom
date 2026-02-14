@@ -1,11 +1,12 @@
 +++
 title = "The internet is killing newspapers and how we can change that"
+slug = "newspapers-and-the-internet"
 date = "2011-11-26T23:27:27"
 draft = false
 categories = ['Misc', 'Social Media']
 +++
 
-<a title="Newspapers and the internet" href="http://www.keithrozario.com/2011/11/newspapers-and-the-internet.html/448380904_03cd2e6823" rel="attachment wp-att-1450" target="_blank"><img class="alignleft size-medium wp-image-1450" title="448380904_03cd2e6823" src="/uploads/448380904_03cd2e6823-300x225.jpg" alt="" width="300" height="225" /></a>On day 4 of my <a title="Why you should Blog everyday: Because Talent is over-rated" href="http://www.keithrozario.com/2011/11/blog-everyday-talent-is-overrated.html" target="_blank">30-day challenge</a> to blog everyday, and I'm already running out of stuff to say. However, as with most things, inspiration seems to spring out when it is most required. I'm sitting in front of TV, watching BBC Dateline and one of the panel members is Henry Chu, the Los Angeles Times bureau chief in London.
+<a title="Newspapers and the internet" href="http://www.keithrozario.com/2011/11/newspapers-and-the-internet.html/448380904_03cd2e6823" rel="attachment wp-att-1450" target="_blank">![](/uploads/448380904_03cd2e6823-300x225.jpg "448380904_03cd2e6823")</a>On day 4 of my <a title="Why you should Blog everyday: Because Talent is over-rated" href="http://www.keithrozario.com/2011/11/blog-everyday-talent-is-overrated.html" target="_blank">30-day challenge</a> to blog everyday, and I'm already running out of stuff to say. However, as with most things, inspiration seems to spring out when it is most required. I'm sitting in front of TV, watching BBC Dateline and one of the panel members is Henry Chu, the Los Angeles Times bureau chief in London.
 
 The topic of the discussion was something along the lines of "Are newspapers going out of date, and what is the future of newspapers?". Henry answered in a rather poignant way, circulation of newspapers throughout the world including the Los Angeles Times is decreasing, but the irony is that while circulation is decreasing, readership has increased. So think about it, less people are buying the newspapers but more people are reading it, and the newspapers have actually become a lot more interactive. For instance content of the LA Times is now not only being read by people outside of Los Angeles (or even the US) but actually being commented on by people from Australia and Malaysia.
 

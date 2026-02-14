@@ -1,5 +1,6 @@
 +++
 title = "Should Science Teachers be Paid more"
+slug = "should-science-teachers-be-paid-more"
 date = "2013-02-05T07:00:36"
 draft = false
 categories = ['Science']

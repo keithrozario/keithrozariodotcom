@@ -1,12 +1,13 @@
 +++
 title = "DAP lodges report with MCMC over blocked sites"
+slug = "dap-blocked-sites-tm-bluecoat-packetshaper-arbor-network"
 date = "2013-05-23T07:00:31"
 draft = false
 tags = ['Arbor', 'Bluecoat', 'Maxis', 'TM', 'Unifi']
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia']
 +++
 
-<p style="text-align: center;"><a href="/uploads/blue_coat_packetshaper.png"><img class="aligncenter" alt="Blue Coat packetshaper" src="/uploads/blue_coat_packetshaper.png" width="550" height="220" /></a></p>
+<p style="text-align: center;"><a href="/uploads/blue_coat_packetshaper.png">![Blue Coat packetshaper](/uploads/blue_coat_packetshaper.png)</a></p>
 Two days ago, the Democratic Action Party (DAP) lodge a report to the MCMC on an 'internet blockade' targeting DAP related political websites that was allegedly being carried out by Telekom Malaysia (TM). As you may know TM is the largest ISP in Malaysia, and if TM suddenly blocks a website--a large chunk of the Malaysian public are automatically denied access to it.
 
 The DAP IT manager (<span style="color: #888888;"><em>didn't know the DAP had an IT team now did ya?</em></span>), in his press statement said that :

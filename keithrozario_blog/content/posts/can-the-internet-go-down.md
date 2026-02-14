@@ -1,5 +1,6 @@
 +++
 title = "Can the internet go down?"
+slug = "can-the-internet-go-down"
 date = "2013-04-09T07:00:18"
 draft = false
 categories = ['Misc']

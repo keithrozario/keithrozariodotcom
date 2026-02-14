@@ -1,11 +1,12 @@
 +++
 title = "Why my people will never be Ministers"
+slug = "why-my-people-will-never-be-ministers"
 date = "2018-07-03T00:29:59"
 draft = false
 categories = ['Misc']
 +++
 
-<a href="/uploads/img-49621.jpg"><img class="wp-image-6442 alignleft" src="/uploads/img-49621.jpg" alt="" width="300" height="400" /></a>As Malaysians woke up today, to a brand new cabinet of Ministers, many have already begun expressing their dissatisfaction on the lineup. I know better than to wade into these politically charged discussions -- but I will point out that my people have long been overlooked for Ministerial positions.
+<a href="/uploads/img-49621.jpg">![](/uploads/img-49621.jpg)</a>As Malaysians woke up today, to a brand new cabinet of Ministers, many have already begun expressing their dissatisfaction on the lineup. I know better than to wade into these politically charged discussions -- but I will point out that my people have long been overlooked for Ministerial positions.
 
 Who are<em> 'my people'</em> you ask...
 

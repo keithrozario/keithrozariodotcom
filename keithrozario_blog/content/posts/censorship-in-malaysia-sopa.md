@@ -1,12 +1,13 @@
 +++
 title = "Censorship in Malaysia: SOPA told through Malaysian Eyes"
+slug = "censorship-in-malaysia-sopa"
 date = "2012-01-24T10:15:53"
 draft = false
 tags = ['Censorship', 'SOPA']
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia', 'Misc']
 +++
 
-<a title="Censorship in Malaysia" href="http://www.keithrozario.com/2012/01/censorship-in-malaysia-sopa.html "><img class="alignleft size-medium wp-image-1715" title="6728069627_2da38e152d" src="/uploads/6728069627_2da38e152d-300x300.jpg" alt="" width="300" height="300" /></a>There's been a recent surge of Anti-SOPA and Anti-PIPA sentiment over in the Unites States, Wikipedia blacked out it's entire webpage and Google, Twitter and Facebook all joined in the fray. I've even received multiple emails from the Mozilla foundation on how to combat SOPA and recent a congratulatory cum Thank you note from Mozilla for joining the fight. Make no mistake, SOPA isn't dead, it's just been shelved for the time being, get ready people round2 starts soon.
+<a title="Censorship in Malaysia" href="http://www.keithrozario.com/2012/01/censorship-in-malaysia-sopa.html ">![](/uploads/6728069627_2da38e152d-300x300.jpg "6728069627_2da38e152d")</a>There's been a recent surge of Anti-SOPA and Anti-PIPA sentiment over in the Unites States, Wikipedia blacked out it's entire webpage and Google, Twitter and Facebook all joined in the fray. I've even received multiple emails from the Mozilla foundation on how to combat SOPA and recent a congratulatory cum Thank you note from Mozilla for joining the fight. Make no mistake, SOPA isn't dead, it's just been shelved for the time being, get ready people round2 starts soon.
 
 In Malaysia though there has been little reporting on the issue, while some local blogs did mention SOPA, and a few newspapers briefly covered it, not much has been discussed on either of the laws. It's typical of the Malaysian media to report less on matters that actually matter, and more on frivolous material like <a title="Unity is Priceless" href="http://www.nst.com.my/top-news/unity-is-priceless-pm-1.36262" target="_blank">this article from the New Straits Times</a> that read "Unity is Priceless: PM". Really? Cause the rest of us thought Unity was worth around about Rm2.75 . I mean apart from pointing out the obvious, the article has absolutely no content, apart from the big picture with the "We Love the PM" nonsense.
 
@@ -51,13 +52,13 @@ The only person missing here is someone from Facebook, but you get the picture. 
 Now if you don't believe me, I have proof that it's at least censoring the mainstream media.
 
 This is a <a title="SOPA" href="http://www.smh.com.au/technology/technology-news/wikipedia-and-google-protest-us-net-bills-20120118-1q6ac.html" target="_blank">report from the AFP</a> (taken from the Sydney Morning Herald) on SOPA, and snippet of that report refers to the open letter pasted above:
-<blockquote><img class="size-full wp-image-1710 aligncenter" title="Wikipedia and Google protest US net bills" src="/uploads/Wikipedia-and-Google-protest-US-net-bills.png" alt="" width="431" height="92" /></blockquote>
+<blockquote>![](/uploads/Wikipedia-and-Google-protest-US-net-bills.png "Wikipedia and Google protest US net bills")</blockquote>
 However, in the copy of The Star dated January 19th, page 52, I saw the following:
 
-<img class="wp-image-1713 aligncenter" title="SOPA_In_The_Star" src="/uploads/SOPA_In_The_Star-1024x282.jpg" alt="" width="614" height="169" />
+![](/uploads/SOPA_In_The_Star-1024x282.jpg "SOPA_In_The_Star")
 
 Conveniently the paper chose to ignore Malaysia on the list of governments censoring the internet. This requires further investigation, for now though I'm thankful I stopped reading the Main Stream Media years ago...looks like you should too.
 
 This picture taken from a facebook posting of a friend says it all:
 
-<img class="wp-image-1714 aligncenter" title="SOPA_STart" src="/uploads/SOPA_STart.jpg" alt="" width="550" height="526" />
+![](/uploads/SOPA_STart.jpg "SOPA_STart")

@@ -1,11 +1,12 @@
 +++
 title = "Is it Root-er or Rao-ter : The age old question for the pronunciation of the word router"
+slug = "rao-ter-root-ter"
 date = "2014-03-03T22:15:20"
 draft = false
 categories = ['CyberLaw', 'Science']
 +++
 
-<p style="text-align: center;"><a href="/uploads/dir-615.jpg"><img class="aligncenter  wp-image-2359" title="Rao-ter or Root-er : Pronunciation" alt="dir-615" src="/uploads/dir-615.jpg" width="500" height="335" /></a></p>
+<p style="text-align: center;"><a href="/uploads/dir-615.jpg">![dir-615](/uploads/dir-615.jpg "Rao-ter or Root-er : Pronunciation")</a></p>
 
 
 Here's an age old question, is it pronounced router (as in rao-ter) or is it router (as in root-er).

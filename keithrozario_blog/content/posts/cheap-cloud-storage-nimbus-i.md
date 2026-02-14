@@ -1,12 +1,13 @@
 +++
 title = "REALLY cheap Cloud Storage"
+slug = "cheap-cloud-storage-nimbus-i"
 date = "2012-05-31T15:24:37"
 draft = false
 tags = ['Nimbus.IO']
 categories = ['Cloud Computing', 'Cloud Storage']
 +++
 
-<center><a href="/uploads/Nimbus.IO_.png"><img class="alignnone  wp-image-2198" title="Nimbus.IO" src="/uploads/Nimbus.IO_.png" alt="" width="550" height="152" /></a></center>
+<center><a href="/uploads/Nimbus.IO_.png">![](/uploads/Nimbus.IO_.png "Nimbus.IO")</a></center>
 Cloud Storage seems to the in thing these days. With the launch of Google Drive, my previous post on <a title="Creating a site to share those pesky LARGE files" href="http://www.keithrozario.com/2011/06/creating-a-site-to-share-those-pesky-large-files.html" target="_blank">how to create a site to share large files</a> seem a bit irrelevant, and with the even hotter news that <a title="Microsoft and Google target Amazon" href="http://gigaom.com/cloud/scoop-google-microsoft-both-targeting-amazon-with-new-clouds/" target="_blank">Google and Microsoft may launch their own IaaS initiatives to compete with Amazon</a> it looks a foregone conclusion that cloud storage will become ridiculously cheap in the years to come. So cheap in fact, it may make the large Hard Disk in your home seem as irrelevant as my post.
 
 Now, although Cloud Storage is cheap and can only get cheaper, I am -- by all accounts-- the cheapest cheap skate I know, and I'm always ready to try a new deal even when the new deal is just $0.03 less than the old deal.<!--more-->

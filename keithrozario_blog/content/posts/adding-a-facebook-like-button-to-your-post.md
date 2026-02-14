@@ -1,12 +1,13 @@
 +++
 title = "Adding a facebook Like Button to your post"
+slug = "adding-a-facebook-like-button-to-your-post"
 date = "2011-05-08T09:18:19"
 draft = false
 tags = ['Blog Features', 'Facebook']
 categories = ['Blog']
 +++
 
-Adding fa<a rel="attachment wp-att-652" href="http://www.keithrozario.com/2011/05/adding-a-facebook-like-button-to-your-post.html/facebook_like_by_socialmouths_2"><img class="size-thumbnail wp-image-652 alignleft" title="facebook_like_by_socialmouths_2" src="/uploads/facebook_like_by_socialmouths_2-150x137.png" alt="Facebook Like" width="150" height="137" /></a>cebook like buttons are tricky things. It used to be I'd need to install a new plugin to have these facebook like buttons. For instance I use to use DiggDigg, which is a pretty good plugin for wordpress. However, for the initiated a code version that I could stick anywhere in my post seemed a lot more flexible to me.
+Adding fa<a rel="attachment wp-att-652" href="http://www.keithrozario.com/2011/05/adding-a-facebook-like-button-to-your-post.html/facebook_like_by_socialmouths_2">![Facebook Like](/uploads/facebook_like_by_socialmouths_2-150x137.png "facebook_like_by_socialmouths_2")</a>cebook like buttons are tricky things. It used to be I'd need to install a new plugin to have these facebook like buttons. For instance I use to use DiggDigg, which is a pretty good plugin for wordpress. However, for the initiated a code version that I could stick anywhere in my post seemed a lot more flexible to me.
 
 So how does it work. Simple.<!--more-->
 

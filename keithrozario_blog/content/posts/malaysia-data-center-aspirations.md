@@ -1,5 +1,6 @@
 +++
 title = "Malaysia Data Center aspirations"
+slug = "malaysia-data-center-aspirations"
 date = "2013-05-01T07:00:53"
 draft = false
 categories = ['Cloud Computing', 'Malaysia']

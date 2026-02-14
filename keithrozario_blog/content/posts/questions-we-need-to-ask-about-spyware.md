@@ -1,5 +1,6 @@
 +++
 title = "Questions we need to ask about spyware"
+slug = "questions-we-need-to-ask-about-spyware"
 date = "2016-01-11T08:01:57"
 draft = false
 tags = ['Spyware']
@@ -16,9 +17,9 @@ Installing spyware on a laptop or smartphone is far more intrusive than a regula
 
 The MACC act, that governs the powers of the commission, specifically state that a the Public Prosecutor or Commissioner of the MACC can authorize the interception of communications if they 'consider' that the specific communication might help in an ongoing investigation. However, spyware from hacking team isn't really 'intercepting' communications, because what is being communicated through the Internet is usually encrypted, Hacking team circumvents this by capturing the data before it is encrypted and then sends that captured data in a separate communication back to its control servers. Strictly speaking, this isn't interception, its <a href="https://en.wikipedia.org/wiki/Shoulder_surfing_%28computer_security%29">shoulder surfing</a> on steroids.
 
-<a href="/uploads/Slide1.png" rel="attachment wp-att-5391"><img class="aligncenter wp-image-5391" src="/uploads/Slide1.png" alt="Hacking Team Interception" width="549" height="309" /></a>More worrying, is that the spyware might take screen shots of diary entries and notes that the victim never intended to communicate with anyone, or draft e-mail entries that they later delete are also captured by this spyware.  Obviously this falls into a different category than simple 'interception', but I'm not done yet.
+<a href="/uploads/Slide1.png" rel="attachment wp-att-5391">![Hacking Team Interception](/uploads/Slide1.png)</a>More worrying, is that the spyware might take screen shots of diary entries and notes that the victim never intended to communicate with anyone, or draft e-mail entries that they later delete are also captured by this spyware.  Obviously this falls into a different category than simple 'interception', but I'm not done yet.
 
-<img class="aligncenter wp-image-5392" src="/uploads/Slide2.png" alt="Slide2" width="549" height="309" /><!--more-->
+![Slide2](/uploads/Slide2.png)<!--more-->
 
 Hacking Team proudly proclaim that their software can remotely trigger the webcams and microphones on laptops to begin recording, essentially placing a spy at the homes of their victims to listen in on private conversations that were never intended for anyone outside the home. It may also violate the privacy of the household that the infected smartphone or laptop happens to be in, and could be used to determine far more intimate details of innocent bystanders including <a href="https://www.law.cornell.edu/supct/html/99-8508.ZO.html">"the hour each night the lady of the house takes her daily sauna and bath"</a>, far exceeding what is reasonably needed for a criminal investigation.
 
@@ -55,4 +56,4 @@ As a final bit, here is what the Malaysian Criminal Procedure code states:
 (4)     A certificate by the Public Prosecutor or the officer of the Commission of the rank of Commissioner or above as authorized by the Public Prosecutor stating that the action taken by an officer of the Commission in pursuance of subsection (1) had been authorized by him under that subsection shall be conclusive evidence that it had been so authorized, and such certificate shall be admissible in evidence without proof of signature thereof.
 (5)     No person shall be under any duty, obligation or liability, or be in any manner compelled, to disclose in any proceedings the procedure, method, manner or means, or any matter related thereto, of anything done under paragraph (1)(a), (b) or (c).
 (6)     For the purpose of this section, “postal article” has the same meaning as in the Postal Services Act 1991 [Act 465].</blockquote>
-&nbsp;
+ 

@@ -1,11 +1,12 @@
 +++
 title = "Yes.my : A review of Malaysias 4G broadband"
+slug = "ytl-yes-4g-review-mobile-internet"
 date = "2011-08-17T11:51:19"
 draft = false
 categories = ['Malaysia', 'Misc']
 +++
 
-<a title="Yes Review" href="http://www.keithrozario.com/2011/08/yesreview.html"><img class="size-full wp-image-1164 alignleft" title="Yes" src="/uploads/Yes.jpg" alt="" width="348" height="200" /></a>I'm going a bit off tangent today and focus on Malaysias latest 4G broadband. Recently I moved house and my new area didn't yet have UniFi, so to avoid locking myself down to contracts I decided to go for a pre-paid wireless service offered by YTL called Yes.
+<a title="Yes Review" href="http://www.keithrozario.com/2011/08/yesreview.html">![](/uploads/Yes.jpg "Yes")</a>I'm going a bit off tangent today and focus on Malaysias latest 4G broadband. Recently I moved house and my new area didn't yet have UniFi, so to avoid locking myself down to contracts I decided to go for a pre-paid wireless service offered by YTL called Yes.
 
 Initially I was a bit skeptical on the performance of yes, but it did have some things going for it. Firstly it was prepaid meaning I could terminate the usage anytime without incurring any fines. Secondly it was wireless so no wiring for my new house, and finally it a usage based thing, so if I was bit-torrenting then I could get pretty high mileage from just RM30.<!--more-->
 
@@ -15,7 +16,7 @@ That said however, installation was a breeze, and was up and running in no time.
 
 In my housing area the reception is pretty decent, anywhere from 3- 5 bars, so I'm guessing that's good, and if you want a speed report, hows this:
 
-<img class="aligncenter size-full wp-image-1163" title="firefoxdownload" src="/uploads/firefoxdownload.jpg" alt="" width="394" height="84" />
+![](/uploads/firefoxdownload.jpg "firefoxdownload")
 
 This was just one of the many downloads I got with speeds consistently above 350KB/sec. Now I don't know about you, but even my office network isn't this fast (and just at 3 bar reception mind you)
 

@@ -1,12 +1,13 @@
 +++
 title = "Happy Birthday Wordpress!! Why Khairy won't be the next PM"
+slug = "happy-birthday-wordpress"
 date = "2012-05-28T15:17:52"
 draft = false
 tags = ['wordpress']
 categories = ['Blog', 'Misc']
 +++
 
-<a href="http://s.wordpress.org/about/images/logos/wordpress-logo-notext-rgb.png"><img class="alignleft" src="http://s.wordpress.org/about/images/logos/wordpress-logo-notext-rgb.png" alt="" width="300" height="300" /></a> Everyone who knows me, knows that I'm a passionate fan of 3 things.
+<a href="http://s.wordpress.org/about/images/logos/wordpress-logo-notext-rgb.png">![](http://s.wordpress.org/about/images/logos/wordpress-logo-notext-rgb.png)</a> Everyone who knows me, knows that I'm a passionate fan of 3 things.
 
 Manchester United.
 
@@ -52,7 +53,7 @@ In case you're wondering most of Malaysias most popular blogs are powered by wor
 
 Which of course brings us to the question...who <strong>doesn't</strong> host their blog using wordpress. Well if you're one of those blogging on some other platform, guess whose company you'd be in-- <a title="http://www.rembau.net.my" href="http://www.rembau.net.my" target="_blank">rembau.net.my</a>
 
-<a href="/uploads/Is-it-WordPress-_Khairy.png"><img class="size-full wp-image-2201 aligncenter" title="Is it WordPress _Khairy" src="/uploads/Is-it-WordPress-_Khairy.png" alt="" width="528" height="182" /></a>
+<a href="/uploads/Is-it-WordPress-_Khairy.png">![](/uploads/Is-it-WordPress-_Khairy.png "Is it WordPress _Khairy")</a>
 
 For those of you who don't know...well Rembau.net.my belongs to <strong>'formerly'</strong> up and coming Pemuda Umno Chief Khairy Jamaludin. So while a former Prime Minister, Current Prime Minister and --for all accounts at least-- future prime minister have their blogs hosted on Wordpress, Khairy chose not to.
 

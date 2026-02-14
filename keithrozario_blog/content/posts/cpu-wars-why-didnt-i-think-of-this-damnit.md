@@ -1,11 +1,12 @@
 +++
 title = "CPU Wars: Why didn't I think of this #damnit"
+slug = "cpu-wars-why-didnt-i-think-of-this-damnit"
 date = "2012-06-03T08:24:41"
 draft = false
 categories = ['Misc']
 +++
 
-<center><a href="/uploads/AMDvs.PowerPC.jpg"><img class="alignnone size-medium wp-image-2210" title="AMDvs.PowerPC" src="/uploads/AMDvs.PowerPC-300x168.jpg" alt="" width="300" height="168" /></a></center>I remember playing with a plane cards and car cards. It's a deck of cards where they list out certain specific traits of airplanes or cars like speed, weight, acceleration etc etc. The objective of the game was to get all the cards in the deck by trumping the other based on a trait called out.
+<center><a href="/uploads/AMDvs.PowerPC.jpg">![](/uploads/AMDvs.PowerPC-300x168.jpg "AMDvs.PowerPC")</a></center>I remember playing with a plane cards and car cards. It's a deck of cards where they list out certain specific traits of airplanes or cars like speed, weight, acceleration etc etc. The objective of the game was to get all the cards in the deck by trumping the other based on a trait called out.
 
 This little kickstarter project though, took that particular game play and layered on it a CPUs. Here's the cool story:
 <div>

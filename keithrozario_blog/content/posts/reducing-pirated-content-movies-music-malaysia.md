@@ -1,12 +1,13 @@
 +++
 title = "Netflix accounts for 32% of internet traffic : What it means for pirated content in Malaysia"
+slug = "reducing-pirated-content-movies-music-malaysia"
 date = "2012-06-11T22:14:11"
 draft = false
 tags = ['Netflix']
 categories = ['Copyright and Censorship', 'Malaysia']
 +++
 
-<a href="/uploads/318462-facebook-netflix.jpg"><img class="alignleft size-full wp-image-2280" title="318462-facebook-netflix" src="/uploads/318462-facebook-netflix.jpg" alt="" width="275" height="275" /></a>Maternity leave has long been plaguing womens career, women would usually take an extended leave and risk falling behind their male counterparts. As an extension to this, employers were also hesitant to hire women (particularly pregnant women) since it meant a legally mandated leave of absence that their male colleagues would never take.
+<a href="/uploads/318462-facebook-netflix.jpg">![](/uploads/318462-facebook-netflix.jpg "318462-facebook-netflix")</a>Maternity leave has long been plaguing womens career, women would usually take an extended leave and risk falling behind their male counterparts. As an extension to this, employers were also hesitant to hire women (particularly pregnant women) since it meant a legally mandated leave of absence that their male colleagues would never take.
 
 Governments have tried to stem this discrimination by passing various enactments preventing employers from discriminating against women and even providing incentives to employers to promote women within their organizations. These changes however--never really worked.
 

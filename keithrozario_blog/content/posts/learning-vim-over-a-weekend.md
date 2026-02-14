@@ -1,12 +1,13 @@
 +++
 title = "Learning VIM over a Weekend"
+slug = "learning-vim-over-a-weekend"
 date = "2021-06-06T18:18:59"
 draft = false
 categories = ['Misc']
 +++
 
 <!-- wp:image {"align":"center","id":7472,"sizeSlug":"large","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/Screenshot-2021-06-05-at-3.55.28-PM.png" alt="" class="wp-image-7472"/></figure></div>
+![](/uploads/Screenshot-2021-06-05-at-3.55.28-PM.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -74,7 +75,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7471,"sizeSlug":"large","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/Screenshot-2021-06-06-at-2.07.10-PM.png" alt="" class="wp-image-7471"/></figure></div>
+![](/uploads/Screenshot-2021-06-06-at-2.07.10-PM.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -86,7 +87,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7473,"sizeSlug":"large","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/Screenshot-2021-06-06-at-5.58.07-PM-413x500.png" alt="" class="wp-image-7473"/></figure></div>
+![](/uploads/Screenshot-2021-06-06-at-5.58.07-PM-413x500.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -118,5 +119,5 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7475,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/Screenshot-2021-06-06-at-6.16.26-PM-820x157.png" alt="" class="wp-image-7475"/></figure>
+![](/uploads/Screenshot-2021-06-06-at-6.16.26-PM-820x157.png)
 <!-- /wp:image -->

@@ -1,11 +1,12 @@
 +++
 title = "Let's put the evidence act into action"
+slug = "gopinanth-jayaratnam-evidence-act-114a"
 date = "2012-09-28T22:30:44"
 draft = false
 categories = ['CyberLaw', 'Malaysia']
 +++
 
-<a href="/uploads/Gopinath-Jayaratnam.png"><img class="alignleft size-medium wp-image-2801" style="margin-left: 5px; margin-right: 5px;" title="Gopinath Jayaratnam" src="/uploads/Gopinath-Jayaratnam-300x289.png" alt="" width="300" height="289" /></a>So let's say someone in Malaysia actually was stupid enough to post something insulting Islam and it's Prophet on his Facebook page as a status message. Then let's say that same person claimed that his Facebook page was hacked.
+<a href="/uploads/Gopinath-Jayaratnam.png">![](/uploads/Gopinath-Jayaratnam-300x289.png "Gopinath Jayaratnam")</a>So let's say someone in Malaysia actually was stupid enough to post something insulting Islam and it's Prophet on his Facebook page as a status message. Then let's say that same person claimed that his Facebook page was hacked.
 
 Finally, we say there's a huge backlash against this person on the internet, so even though the comment was deleted from Facebook, it has been screenshot-ed so many times, it's now permanently etched online.
 

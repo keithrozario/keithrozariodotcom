@@ -1,5 +1,6 @@
 +++
 title = "Keith's Adventures in DynamoDB Land"
+slug = "keiths-adventures-in-dynamodb-land"
 date = "2020-06-28T23:22:56"
 draft = false
 categories = ['Misc']
@@ -50,7 +51,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7231,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="/uploads/data-model.png"><img src="/uploads/data-model-820x174.png" alt="" class="wp-image-7231"/></a></figure>
+<figure class="wp-block-image size-large"><a href="/uploads/data-model.png">![](/uploads/data-model-820x174.png)</a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -90,7 +91,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7224,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/Screen-Shot-2020-06-27-at-8.07.37-PM-820x173.png" alt="" class="wp-image-7224"/></figure>
+![](/uploads/Screen-Shot-2020-06-27-at-8.07.37-PM-820x173.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -118,7 +119,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7226,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="/uploads/Screen-Shot-2020-06-27-at-9.41.52-PM.png"><img src="/uploads/Screen-Shot-2020-06-27-at-9.41.52-PM-820x237.png" alt="" class="wp-image-7226"/></a></figure>
+<figure class="wp-block-image size-large"><a href="/uploads/Screen-Shot-2020-06-27-at-9.41.52-PM.png">![](/uploads/Screen-Shot-2020-06-27-at-9.41.52-PM-820x237.png)</a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -126,7 +127,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7245,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/before-after-2-820x427.png" alt="" class="wp-image-7245"/></figure>
+![](/uploads/before-after-2-820x427.png)
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -146,7 +147,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7229,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="/uploads/Screen-Shot-2020-06-27-at-10.00.42-PM.png"><img src="/uploads/Screen-Shot-2020-06-27-at-10.00.42-PM-820x239.png" alt="" class="wp-image-7229"/></a></figure>
+<figure class="wp-block-image size-large"><a href="/uploads/Screen-Shot-2020-06-27-at-10.00.42-PM.png">![](/uploads/Screen-Shot-2020-06-27-at-10.00.42-PM-820x239.png)</a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -178,7 +179,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7230,"sizeSlug":"large","linkDestination":"media"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="/uploads/Screen-Shot-2020-06-27-at-10.20.09-PM.png"><img src="/uploads/Screen-Shot-2020-06-27-at-10.20.09-PM-637x500.png" alt="" class="wp-image-7230"/></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="/uploads/Screen-Shot-2020-06-27-at-10.20.09-PM.png">![](/uploads/Screen-Shot-2020-06-27-at-10.20.09-PM-637x500.png)</a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -210,7 +211,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7232,"sizeSlug":"large","linkDestination":"media"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="/uploads/dynamoDB-stream.png"><img src="/uploads/dynamoDB-stream.png" alt="" class="wp-image-7232"/></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="/uploads/dynamoDB-stream.png">![](/uploads/dynamoDB-stream.png)</a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -222,7 +223,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7249,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/delete_layer-654x500.png" alt="" class="wp-image-7249"/></figure>
+![](/uploads/delete_layer-654x500.png)
 <!-- /wp:image -->
 
 <!-- wp:heading -->

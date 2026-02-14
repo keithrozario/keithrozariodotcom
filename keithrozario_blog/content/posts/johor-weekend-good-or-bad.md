@@ -1,5 +1,6 @@
 +++
 title = "Johor Weekend: Good or bad?"
+slug = "johor-weekend-good-or-bad"
 date = "2013-11-25T10:04:20"
 draft = false
 categories = ['Misc']
@@ -9,7 +10,7 @@ Over the weekend, I saw the following tweet from the star, which I attributed to
 <blockquote class="twitter-tweet" lang="en">Friday and Saturday are weekend rest days for Johor from Jan 1. What's your view? <a href="https://twitter.com/search?q=%23Johornewweekend&amp;src=hash">#Johornewweekend</a>
 
 — The Star (@staronline) <a href="https://twitter.com/staronline/statuses/404100803939409920">November 23, 2013</a></blockquote>
-&nbsp;
+ 
 
 Surely, a state like Johor that was trying to attract investment for the Iskandar region from companies like Frost and Sullivan, would not make such a catastrophic error. Alas, upon further checking, I found the information to be true.
 

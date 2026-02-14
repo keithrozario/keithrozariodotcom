@@ -1,5 +1,6 @@
 +++
 title = "MySejahtera privacy concerns"
+slug = "mysejahtera-privacy-concerns"
 date = "2020-12-06T17:35:16"
 draft = false
 categories = ['Misc']

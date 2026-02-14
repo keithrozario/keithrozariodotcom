@@ -1,11 +1,12 @@
 +++
 title = "Secure Apache configuration for Wordpress & SSL"
+slug = "secure-apache-configuration-wordpress-ssl"
 date = "2015-03-30T20:00:47"
 draft = false
 categories = ['Blog', 'Security &amp; Privacy']
 +++
 
-[caption id="attachment_4859" align="alignleft" width="256"]<a href="/uploads/images5.jpg"><img class="size-full wp-image-4859" src="/uploads/images5.jpg" alt="Apache runs nearly 50% of all active websites" width="256" height="176" /></a> Apache runs nearly 50% of all active websites[/caption]
+[caption id="attachment_4859" align="alignleft" width="256"]<a href="/uploads/images5.jpg">![Apache runs nearly 50% of all active websites](/uploads/images5.jpg)</a> Apache runs nearly 50% of all active websites[/caption]
 
 Recently I moved the hosting for keithRozario.com from a regular hosted platform called WPWebhost to my own Virtual machine on digitalOcean. The results have been great, but the migration process was a bit tedious and took some effort.
 

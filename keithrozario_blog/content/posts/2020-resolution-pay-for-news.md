@@ -1,12 +1,13 @@
 +++
 title = "My 2020 resolution: Pay for news!"
+slug = "2020-resolution-pay-for-news"
 date = "2020-01-01T16:54:02"
 draft = false
 categories = ['Misc']
 +++
 
 <!-- wp:image {"id":6874,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/world-news-free-illustration.jpg" alt="" class="wp-image-6874"/></figure>
+![](/uploads/world-news-free-illustration.jpg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -106,7 +107,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":6868,"width":261,"height":450,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="/uploads/EJawSWkU4AAR9sk.jpg" alt="" class="wp-image-6868" width="261" height="450"/></figure></div>
+![](/uploads/EJawSWkU4AAR9sk.jpg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

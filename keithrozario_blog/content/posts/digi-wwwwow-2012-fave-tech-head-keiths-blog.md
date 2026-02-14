@@ -1,5 +1,6 @@
 +++
 title = "What I learnt from winning the DigiWWWOW awards"
+slug = "digi-wwwwow-2012-fave-tech-head-keiths-blog"
 date = "2012-07-09T08:00:02"
 draft = false
 tags = ['Digi', 'Lowyat']
@@ -8,7 +9,7 @@ categories = ['Blog', "Keith's Favorite Post", 'Malaysia']
 
 [blackbirdpie url="https://twitter.com/DiGi_Telco/status/211447275891855361"]
 
-<a href="/uploads/7361427756_d84e0dfab3_z.jpg"><img class="alignleft size-medium wp-image-2419" title="7361427756_d84e0dfab3_z" alt="" src="/uploads/7361427756_d84e0dfab3_z-300x199.jpg" width="300" height="199" /></a>Exactly one month ago, I was honored to be awarded the DigiWWWOW awards Fave tech Head award. It was truly unexpected and I continue to feel grateful for it. For those of you who don't know what the DigiWWWOW awards is, it's basically like the Grammy Awards for Malaysian blogs, so instead of singers and producers being awarded gold statues, the DigiWWWOW awards present bloggers a cool looking glass plaque with our title on it. My award is currently sitting on my bookshelf between an Optimus Prime Model and a yellow Ferrari car.
+<a href="/uploads/7361427756_d84e0dfab3_z.jpg">![](/uploads/7361427756_d84e0dfab3_z-300x199.jpg "7361427756_d84e0dfab3_z")</a>Exactly one month ago, I was honored to be awarded the DigiWWWOW awards Fave tech Head award. It was truly unexpected and I continue to feel grateful for it. For those of you who don't know what the DigiWWWOW awards is, it's basically like the Grammy Awards for Malaysian blogs, so instead of singers and producers being awarded gold statues, the DigiWWWOW awards present bloggers a cool looking glass plaque with our title on it. My award is currently sitting on my bookshelf between an Optimus Prime Model and a yellow Ferrari car.
 
 Just like the grammys as well, there are many categories, 15 categories to be exact-- quite substantial prizes, so it was pretty cool to receive one.
 

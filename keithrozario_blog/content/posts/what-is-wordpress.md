@@ -1,11 +1,12 @@
 +++
 title = "What is wordpress?"
+slug = "what-is-wordpress"
 date = "2012-07-21T04:00:57"
 draft = false
 categories = ['Blog']
 +++
 
-<center><a href="http://www.keithrozario.com/2012/07/what-is-wordpress.html"><img class="alignnone size-full wp-image-2498" title="wordpress-logo" src="/uploads/wordpress-logo.png" alt="" width="498" height="113" /></a></center>I'm a really big fan of 3 things, Manchester United, AC/DC and Wordpress!!
+<center><a href="http://www.keithrozario.com/2012/07/what-is-wordpress.html">![](/uploads/wordpress-logo.png "wordpress-logo")</a></center>I'm a really big fan of 3 things, Manchester United, AC/DC and Wordpress!!
 
 Wordpress is awesome, but as awesome as it is, a lot of people don't really know what it is.
 

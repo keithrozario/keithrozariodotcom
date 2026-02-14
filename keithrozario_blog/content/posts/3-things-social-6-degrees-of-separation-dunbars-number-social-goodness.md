@@ -1,12 +1,13 @@
 +++
 title = "3 Things Social: 6 Degrees Of Separation, Dunbars Number, Social Goodness"
+slug = "3-things-social-6-degrees-of-separation-dunbars-number-social-goodness"
 date = "2011-09-28T13:39:20"
 draft = false
 tags = ['Techless Tuesday']
 categories = ['Misc']
 +++
 
-<a href="http://www.keithrozario.com/2011/09/3-things-social-6-degrees-of-separation-dunbars-number-social-goodness.html"><img class="alignleft size-full wp-image-1235" title="6053172545_9796373021_m" src="/uploads/6053172545_9796373021_m.jpg" alt="" width="240" height="180" /></a>In the broad spectrum of the animal kingdom where you have the Lone Predator on one end and the Hyper-Connected Ants on the other , Humans are surprisingly much closer to the Ants than we are to that solitary Puma trolling the Jungles of Peru (although it may be a lot more interesting to be a puma). Humans are built (or even programmed) to be with other humans, to share our thoughts and emotions and to connect on a emotional level with others. It helps us build bonds and survive, but also has massive physiological effects on our bodies and mind.
+<a href="http://www.keithrozario.com/2011/09/3-things-social-6-degrees-of-separation-dunbars-number-social-goodness.html">![](/uploads/6053172545_9796373021_m.jpg "6053172545_9796373021_m")</a>In the broad spectrum of the animal kingdom where you have the Lone Predator on one end and the Hyper-Connected Ants on the other , Humans are surprisingly much closer to the Ants than we are to that solitary Puma trolling the Jungles of Peru (although it may be a lot more interesting to be a puma). Humans are built (or even programmed) to be with other humans, to share our thoughts and emotions and to connect on a emotional level with others. It helps us build bonds and survive, but also has massive physiological effects on our bodies and mind.
 
 In an amazing book by Nicholas Christakis and James Fowler that dealt with surprising power of social networks, aptly titled <strong>Connected </strong>addressed this particular drive by humans to connect with others. The book was a best-seller and even made it to Oprahs Fall Reading Guide (which means it has to be really good if Oprahs reading it).<!--more-->
 

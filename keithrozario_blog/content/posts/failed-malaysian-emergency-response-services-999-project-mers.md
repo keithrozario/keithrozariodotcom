@@ -1,5 +1,6 @@
 +++
 title = "Why it failed: Malaysian Emergency Response Services 999  Project (MERS 999)"
+slug = "failed-malaysian-emergency-response-services-999-project-mers"
 date = "2013-12-31T15:09:26"
 draft = false
 categories = ['Malaysia']

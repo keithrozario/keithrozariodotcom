@@ -1,12 +1,13 @@
 +++
 title = "Stopping my Addiction"
+slug = "social-media-addiction"
 date = "2020-10-17T12:38:44"
 draft = false
 categories = ['Misc']
 +++
 
 <!-- wp:image {"align":"left","id":7343,"width":313,"height":470,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img src="/uploads/pexels-ketut-subiyanto-4353620-333x500.jpg" alt="" class="wp-image-7343" width="313" height="470"/></figure></div>
+![](/uploads/pexels-ketut-subiyanto-4353620-333x500.jpg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

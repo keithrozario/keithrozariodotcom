@@ -1,12 +1,13 @@
 +++
 title = "How to Port Forward your Unifi Dlink Dir-615 router"
+slug = "port-forwarding-unifi-dlink-dir-615"
 date = "2012-09-01T16:56:30"
 draft = false
 tags = ['dlink', 'foscam', 'Unifi']
 categories = ['Malaysia']
 +++
 
-<a href="/uploads/dir-615.jpg"><img class="  wp-image-2359 alignleft" src="/uploads/dir-615.jpg" alt="dir-615" width="354" height="237" /></a>Port Forwarding is a really simple concept, but a very important step you need to take if you want to remotely access the devices you have at home. For instance, if you have a Unifi connection connected to an always on desktop and you wanted to Remotely access your windows machine, you'd need to perform port forwarding on your router.
+<a href="/uploads/dir-615.jpg">![dir-615](/uploads/dir-615.jpg)</a>Port Forwarding is a really simple concept, but a very important step you need to take if you want to remotely access the devices you have at home. For instance, if you have a Unifi connection connected to an always on desktop and you wanted to Remotely access your windows machine, you'd need to perform port forwarding on your router.
 
 Similarly if you've just installed a new IP camera in your home, and want to access the camera while you're on the road you'll need to perform port forwarding on your router.
 
@@ -48,11 +49,11 @@ So how do we configure this on my Dlink DIR-615 router?
 <h2>How to Port Forward your Dlink Dir-615 Router</h2>
 Step 1: Logon to your router and click the Advanced tab
 
-<center><a href="/uploads/Port-forward-step-1.png"><img class=" size-full wp-image-4874 aligncenter" src="/uploads/Port-forward-step-1.png" alt="Port Forwarding Setup DLINK" width="838" height="535" /></a></center>Step 2: Configure the Port Forwarding
+<center><a href="/uploads/Port-forward-step-1.png">![Port Forwarding Setup DLINK](/uploads/Port-forward-step-1.png)</a></center>Step 2: Configure the Port Forwarding
 
-&nbsp;
+ 
 
-[caption id="attachment_4873" align="aligncenter" width="542"]<a href="/uploads/Port-forward-step-2.png"><img class="size-full wp-image-4873" src="/uploads/Port-forward-step-2.png" alt="Port Fowarding Setup TM Unifi Dlink" width="542" height="112" /></a> Port forwards <strong>FROM</strong> port 1234 <strong>TO</strong> port 80 on 192.168.0.103[/caption]
+[caption id="attachment_4873" align="aligncenter" width="542"]<a href="/uploads/Port-forward-step-2.png">![Port Fowarding Setup TM Unifi Dlink](/uploads/Port-forward-step-2.png)</a> Port forwards <strong>FROM</strong> port 1234 <strong>TO</strong> port 80 on 192.168.0.103[/caption]
 
 1. Entering the Name of the rule (don't worry too much about this), I named it <strong>camera</strong> for the purpose of this exercise.
 

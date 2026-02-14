@@ -1,5 +1,6 @@
 +++
 title = "The technological effects of SOSMA and POTA"
+slug = "the-technological-effects-of-sosma-and-pota"
 date = "2015-05-21T22:52:32"
 draft = false
 tags = ['Spyware']

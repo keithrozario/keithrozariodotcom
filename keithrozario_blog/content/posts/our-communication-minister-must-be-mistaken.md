@@ -1,5 +1,6 @@
 +++
 title = "Our Communication Minister must be mistaken"
+slug = "our-communication-minister-must-be-mistaken"
 date = "2015-08-18T23:17:23"
 draft = false
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia', 'Social Media']

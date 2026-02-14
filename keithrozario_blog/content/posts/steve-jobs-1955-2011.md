@@ -1,12 +1,13 @@
 +++
 title = "Steve Jobs 1955-2011"
+slug = "steve-jobs-1955-2011"
 date = "2011-10-06T08:49:51"
 draft = false
 tags = ['Apple']
 categories = ['Misc']
 +++
 
-<a href="http://www.apple.com/stevejobs/"><img class="size-medium wp-image-1258 aligncenter" title="Steve_Jobs" src="/uploads/Steve_Jobs-300x188.png" alt="" width="301" height="188" /></a>
+<a href="http://www.apple.com/stevejobs/">![](/uploads/Steve_Jobs-300x188.png "Steve_Jobs")</a>
 
 Apple has lost a visionary and creative genius, and the world has lost an amazing human being....<!--more-->
 

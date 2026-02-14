@@ -1,5 +1,6 @@
 +++
 title = "One Visa files suit against TM : Is it a Human Rights abuse?"
+slug = "one-visa-files-suit-against-tm-is-it-a-human-rights-abuse"
 date = "2012-09-26T22:00:16"
 draft = false
 tags = ['One Visa', 'TM']
@@ -18,7 +19,7 @@ I'm obviously<a title="Did an email to the CEO really help restore my Unifi serv
 
 What does this have to technology? Everything.
 <h2>UN declaration that Broadband is a Basic Human Right</h2>
-<a href="/uploads/internet-access-basic-human-right.jpg"><img class="alignleft" style="margin: 5px 10px;" title="internet-access-basic-human-right" src="/uploads/internet-access-basic-human-right.jpg" alt="Internet Access is a Basic Human Right" width="270" height="368" /></a><a title="Broadband is a Human Right" href="http://www.forbes.com/sites/randalllane/2011/11/15/the-united-nations-says-broadband-is-basic-human-right/" target="_blank" rel="noopener">The United Nations has declared that broadband connectivity is a 'Human Right'</a>, and not just the dial-up stuff or sms. We're talking about a full-blown broadband connection to access every nook and cranny of the internet from every nook and cranny of the world. The declaration was made late last year, by an agency of the UN called the International Telecommunication Union (ITU), which counts people like Carlos Slim Helu, Cisco’s John Chambers and Nobel Peace Prize winner Muhammed Yunus as members. Of course it has to be pointed out that Carlos Slim and John Chambers could indirectly profit from the rise in internet connectivity to the masses. Leave that as it may, the basic premise is sound, broadband connectivity to the internet is (and should be) a basic Human Right. <em><span style="color: #888888;">(It might also be equally important to point out that I'm not ITU biggest fan either, to me their a threat to the internet rather than a promoter of it--but we'll leave that for another post)</span></em>
+<a href="/uploads/internet-access-basic-human-right.jpg">![Internet Access is a Basic Human Right](/uploads/internet-access-basic-human-right.jpg "internet-access-basic-human-right")</a><a title="Broadband is a Human Right" href="http://www.forbes.com/sites/randalllane/2011/11/15/the-united-nations-says-broadband-is-basic-human-right/" target="_blank" rel="noopener">The United Nations has declared that broadband connectivity is a 'Human Right'</a>, and not just the dial-up stuff or sms. We're talking about a full-blown broadband connection to access every nook and cranny of the internet from every nook and cranny of the world. The declaration was made late last year, by an agency of the UN called the International Telecommunication Union (ITU), which counts people like Carlos Slim Helu, Cisco’s John Chambers and Nobel Peace Prize winner Muhammed Yunus as members. Of course it has to be pointed out that Carlos Slim and John Chambers could indirectly profit from the rise in internet connectivity to the masses. Leave that as it may, the basic premise is sound, broadband connectivity to the internet is (and should be) a basic Human Right. <em><span style="color: #888888;">(It might also be equally important to point out that I'm not ITU biggest fan either, to me their a threat to the internet rather than a promoter of it--but we'll leave that for another post)</span></em>
 
 Back home in Malaysia, we have services like MyEG and E-Filing for taxes which is part of the government strategy to move more government services online, fully leveraging on the scale that the internet can offer. You can't offer these online services without having a proper framework to provide Malaysian Citizens (even non-Citizens) with some basic telecommunications infrastructure. No point talking about E-filing if 50% of your population can't access it because they have no internet communication.
 
@@ -37,4 +38,4 @@ I couldn't much details about this on the internet, but from this <a href="/uplo
 <div>RM15,000.00.</div>
 <div></div>
 <div>TM has duly complied with the above judgment. OVSB did not file any appeal within the period prescribed by the law. The Directors, based on legal advice, are of the view that the legal suit has ended.</div></blockquote>
-&nbsp;
+ 

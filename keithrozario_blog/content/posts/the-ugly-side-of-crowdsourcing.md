@@ -1,11 +1,12 @@
 +++
 title = "The Ugly side of crowdsourcing"
+slug = "the-ugly-side-of-crowdsourcing"
 date = "2011-11-17T18:11:27"
 draft = false
 categories = ['Crowdsourcing', 'Design', 'Social Media']
 +++
 
-<a title="Ugly Side of Crowdsourcing" href="http://www.keithrozario.com/2011/11/the-ugly-side-of-crowdsourcing.html/194563606_35789d4d04_o" rel="attachment wp-att-1398" target="_blank"><img class="alignleft size-medium wp-image-1398" title="194563606_35789d4d04_o" src="/uploads/194563606_35789d4d04_o-300x145.jpg" alt="" width="300" height="145" /></a>Crowdsourcing seems to the buzz these days, with LG crowdsourcing a cellphone design off crowdsourcing website crowdspring and starbucks receiving more than 17,000 coffee ideas of the web from their crowdsourcing platform <a title="My StarBucks Idea" href="http://mystarbucksidea.force.com/">mystarbucksidea.com</a>. However, as with all new trends there are detractors and with crowdsourcing the number of detractors seems to be growing each day.
+<a title="Ugly Side of Crowdsourcing" href="http://www.keithrozario.com/2011/11/the-ugly-side-of-crowdsourcing.html/194563606_35789d4d04_o" rel="attachment wp-att-1398" target="_blank">![](/uploads/194563606_35789d4d04_o-300x145.jpg "194563606_35789d4d04_o")</a>Crowdsourcing seems to the buzz these days, with LG crowdsourcing a cellphone design off crowdsourcing website crowdspring and starbucks receiving more than 17,000 coffee ideas of the web from their crowdsourcing platform <a title="My StarBucks Idea" href="http://mystarbucksidea.force.com/">mystarbucksidea.com</a>. However, as with all new trends there are detractors and with crowdsourcing the number of detractors seems to be growing each day.
 
 Previously I blogged about the wide spectrum of crowdsourcing , from the low end and mundane on Amazons Mechanical Turk, to the high end and niche Crowdspring. However, when a detractor to the term includes <a title="Jimmy Wales on Crowdsourcing" href="http://www.crowdsourcing.org/video/the-next-web-interviews-wikipedia-founder-jimmy-wales-/7979" target="_blank">wikipedia founder Jimmy Wales</a>, then it's time to study this a bit more in depth. So what is the ugly side of crowdsourcing and what does it strike a nerve with Jimmy Wales...and just about every designer I know.<!--more-->
 

@@ -1,5 +1,6 @@
 +++
 title = "The new media is powerless"
+slug = "the-new-media-is-powerless"
 date = "2016-04-30T16:23:16"
 draft = false
 categories = ['Misc']
@@ -47,7 +48,7 @@ The Malay Mail report 6 month ago, that quoted your's truly exposing t<a href="h
 
 If you were a purely rational news editor of a media outlet, where would spend your journalistic resources? On covering a multi-million dollar mega-shrimp project that would affect thousands of poverty stricken farmers, or on a goat that looks like a human if viewed from a certain angle. It's an easy decision if the latter get 1,900 Facebook likes, and the former gets 1 <em>(yes, just one)</em>.
 
-<a href="/uploads/comparison2.png"><img class="aligncenter wp-image-5661" src="/uploads/comparison2.png" alt="comparison2" width="550" height="152" /></a>
+<a href="/uploads/comparison2.png">![comparison2](/uploads/comparison2.png)</a>
 
 In many ways, the media gives you what you want--and what you want is less Pakistani terrorism and more Kim Kardashian.
 

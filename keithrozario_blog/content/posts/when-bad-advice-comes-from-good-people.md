@@ -1,5 +1,6 @@
 +++
 title = "When bad advice comes from good people"
+slug = "when-bad-advice-comes-from-good-people"
 date = "2016-04-07T19:48:41"
 draft = false
 categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
@@ -47,4 +48,4 @@ So is there any light at the end of the tunnel--well yes and no. The good news a
 
 The take-away is that if you truly want to be secure you need to arm yourself with the proper skills, and before you can learn to do a spinning heel kick, you need to learn how to wax-on wax-off.
 
-&nbsp;
+ 

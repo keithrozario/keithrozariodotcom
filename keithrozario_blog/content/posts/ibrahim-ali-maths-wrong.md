@@ -1,13 +1,14 @@
 +++
 title = "Ibrahim Ali gets his maths wrong"
+slug = "ibrahim-ali-maths-wrong"
 date = "2013-09-20T16:45:42"
 draft = false
 categories = ['Science']
 +++
 
-<a href="/uploads/ibrahimali_2012_330_220_100.jpg"><img class="aligncenter size-full wp-image-4097" alt="ibrahimali_calculator_rosak" src="/uploads/ibrahimali_2012_330_220_100.jpg" width="330" height="220" /></a>
+<a href="/uploads/ibrahimali_2012_330_220_100.jpg">![ibrahimali_calculator_rosak](/uploads/ibrahimali_2012_330_220_100.jpg)</a>
 
-&nbsp;
+ 
 
 There's something terribly wrong, when a politician can't get his million, billions and trillions correct. <a title="Malaysian Insider Ibrahim Ali Rm1.4 Trillion" href="http://www.themalaysianinsider.com/malaysia/article/stop-tppa-or-new-bumi-agenda-will-be-destroyed-perkasa-tells-najib" target="_blank">This</a> Malaysian Insider story has quoted my favorite bigot as saying:
 

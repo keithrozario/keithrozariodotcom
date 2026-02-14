@@ -1,11 +1,12 @@
 +++
 title = "What is PRISM?"
+slug = "what-is-prism"
 date = "2013-06-17T08:00:08"
 draft = false
 categories = ['Copyright and Censorship', 'CyberLaw', "Keith's Favorite Post", 'Security &amp; Privacy']
 +++
 
-<a href="/uploads/images3.jpg"><img class="size-full wp-image-3685 alignleft" style="margin-right: 15px; margin-bottom: 10px;" alt="Prism controversy" src="/uploads/images3.jpg" width="275" height="183" /></a>There's a controversy brewing in the land of the free, one that will have implications for Americans, but also Malaysians and nearly every citizen of the world. We may look back at the moment Mr. Snowden leaked controversial (and ugly) slides about a program called 'PRISM' as the start of a pivotal moment in internet history, a moment where we either begun a massive campaign to prevent illegal and unethical government wiretaps or a moment where we let governments turn the internet into a police state.
+<a href="/uploads/images3.jpg">![Prism controversy](/uploads/images3.jpg)</a>There's a controversy brewing in the land of the free, one that will have implications for Americans, but also Malaysians and nearly every citizen of the world. We may look back at the moment Mr. Snowden leaked controversial (and ugly) slides about a program called 'PRISM' as the start of a pivotal moment in internet history, a moment where we either begun a massive campaign to prevent illegal and unethical government wiretaps or a moment where we let governments turn the internet into a police state.
 <h2>So let's recap what happened.</h2>
 First, the Guardian newspaper broke a story on how the US Government had 'direct' access to the servers of the tech giants of the Silicon valley including Google, Youtube, Yahoo, Apple and Facebook. In short, the report claimed US Government had direct access to the emails, personal details and chat sessions of everything stored on in massive datacenters of the social networks that the tech giants ran.
 

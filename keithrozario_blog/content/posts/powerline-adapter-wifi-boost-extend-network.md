@@ -1,11 +1,12 @@
 +++
 title = "Powerline adapter for better networking at home"
+slug = "powerline-adapter-wifi-boost-extend-network"
 date = "2014-06-17T09:00:30"
 draft = false
 categories = ['Misc']
 +++
 
-<a href="/uploads/AV500-Gigabit-Powerline-Adapter-TL-PA511.png"><img class="aligncenter wp-image-4438" src="/uploads/AV500-Gigabit-Powerline-Adapter-TL-PA511.png" alt="AV500 Gigabit Powerline Adapter TL PA511" width="550" height="244" /></a>A popular question I get, is how to boost a WiFi signal. Folks struggle to get good WiFi connections on the 2nd (or 3rd) floors of their homes because the routers they have don't pump enough  'juice' to go around. This is particularly true for those that work from home, having poor WiFi while trying to have a teleconference-- just sucks. While other applications like YouTube and Facebook could use buffering or caching, a real-time conversation with someone over skype relies on good connectivity all the way from one party to the other, and it doesn't matter if you have Unifi 20Mbps, if your WiFi is laggy.
+<a href="/uploads/AV500-Gigabit-Powerline-Adapter-TL-PA511.png">![AV500 Gigabit Powerline Adapter TL PA511](/uploads/AV500-Gigabit-Powerline-Adapter-TL-PA511.png)</a>A popular question I get, is how to boost a WiFi signal. Folks struggle to get good WiFi connections on the 2nd (or 3rd) floors of their homes because the routers they have don't pump enough  'juice' to go around. This is particularly true for those that work from home, having poor WiFi while trying to have a teleconference-- just sucks. While other applications like YouTube and Facebook could use buffering or caching, a real-time conversation with someone over skype relies on good connectivity all the way from one party to the other, and it doesn't matter if you have Unifi 20Mbps, if your WiFi is laggy.
 
 I thought I could fix this <a title="Asus N12 HP: The best Unifi replacement router?" href="http://www.keithrozario.com/2013/08/asus-unifi-rt-n12-hp.html">by buying a more powerful router</a>--but that didn't work. The signal strength increased, but the quality was still below par.
 
@@ -23,7 +24,7 @@ I won't even described how to set it up here, because it really was a press of b
 
 One last thing, get a Powerline adapter with AC-Passthru, which allows you to use the wall socket for your electrical appliances even with the Adapter. Some adapters don't come with AC-Passthru, which means you can't use the AC socket once you're connected. That just sucks.
 
-<a href="/uploads/Passthru.jpg"><img class="aligncenter wp-image-4427" src="/uploads/Passthru.jpg" alt="Powerline Adapter passthru" width="550" height="392" /></a>
+<a href="/uploads/Passthru.jpg">![Powerline Adapter passthru](/uploads/Passthru.jpg)</a>
 <h2>The Quality of a Powerline Adapter</h2>
 The quality of a powerline connection is dependent on two things:
 
@@ -45,16 +46,16 @@ At a distance of 10 feet from the router, both WiFi and Powerlines perform equal
 
 While the power socket itself is just 10ft from the router--the wiring for the powerline connection will need to travel from the input to the fusebox and then to the output, which could be 50ft for all I knew.And if the input and output sockets are on different phases you'll lose a couple of dB on top of that. So over close distances, WiFi is actually better, but how did it do when my laptop was upstairs?
 
-<a href="/uploads/Powerline-vs.-WiFi-10ft.png"><img class="aligncenter wp-image-4434" src="/uploads/Powerline-vs.-WiFi-10ft.png" alt="Powerline vs. WiFi 10ft" width="550" height="298" /></a><a href="/uploads/Powerline-vs.-WiFi-10ft.png">
+<a href="/uploads/Powerline-vs.-WiFi-10ft.png">![Powerline vs. WiFi 10ft](/uploads/Powerline-vs.-WiFi-10ft.png)</a><a href="/uploads/Powerline-vs.-WiFi-10ft.png">
 </a>
 <h2>Powerline vs. WiFi (2nd floor)</h2>
 Here's where the powerline adapter really shines, because the powerline experiences less degradation over distance, the gap between WiFi and Powerline grows bigger with every meter you put between yourself and the router. So while the WiFi quality dropped significantly when I moved the laptop upstairs, the Powerline connection didn't. Resulting in almost identical speeds whether you were 10ft away from your router, or 100ft.
 
-<img class="aligncenter wp-image-4435" src="/uploads/Powerline-vs.-WiFi-100ft.png" alt="Powerline vs. WiFi 100ft" width="550" height="364" />
+![Powerline vs. WiFi 100ft](/uploads/Powerline-vs.-WiFi-100ft.png)
 <h2>Powerline vs. Ethernet</h2>
 Just to give you a flavor of how quick Ethernet is, I did a test where I hooked up my laptop to the router directly via an Ethernet cable. The results show the absolute maximum speed of the router, which helps put the Powerline numbers into perspective. As expected, since my router only supported IEEE 802.3u, the fastest connection possible was 100Mbps, and my real world results were about 93% of the theoretical maximum.
 
-<img class="wp-image-4410 size-medium aligncenter" src="/uploads/LAN-Speed-Test-routerdirect2-284x300.png" alt="LAN Speed Test-routerdirect(2)" width="284" height="300" />
+![LAN Speed Test-routerdirect(2)](/uploads/LAN-Speed-Test-routerdirect2-284x300.png)
 
 What this means is that a powerline connection through at least 100ft of wiring can maintain nearly 75% of the theoretical maximum speed of your router. Which is really good. I wonder if I had a Gigabit capable router what my speeds could be?
 

@@ -1,5 +1,6 @@
 +++
 title = "code.org : All kids should learn to code"
+slug = "code-org-all-kids-should-learn-to-code"
 date = "2013-03-02T16:26:41"
 draft = false
 categories = ['Malaysia']

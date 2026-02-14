@@ -1,5 +1,6 @@
 +++
 title = "Setting up a Dlink DDNS for your Unifi Router"
+slug = "setting-up-dlink-ddns-unifi-router"
 date = "2012-09-22T22:47:55"
 draft = false
 tags = ['dlink', 'Unifi']
@@ -26,46 +27,46 @@ categories = ['Malaysia']
 <h2 style="text-align: justify;">Step 2:  Proceed to the Maintenance Menu</h2>
 <p style="text-align: justify;">There's a special Menu on the DLink router that has access to the settings for the Dynamic DNS services, the router supports many services including dyndns, but for the purpose of this example we'll use the DlinkDDNS.</p>
 
-<center><a href="/uploads/DlinkDDNS_Maintaneance.png"><img class="alignnone  wp-image-2768" title="Dlink_DDNS_Maintenance" src="/uploads/DlinkDDNS_Maintaneance.png" alt="Dlink_DDNS_Maintenance" width="550" height="346" /></a></center>
+<center><a href="/uploads/DlinkDDNS_Maintaneance.png">![Dlink_DDNS_Maintenance](/uploads/DlinkDDNS_Maintaneance.png "Dlink_DDNS_Maintenance")</a></center>
 <h2 style="text-align: justify;">Step 2.1 : Proceed to the DDNS Menu</h2>
 <p style="text-align: justify;">Then proceed to the DDNS setting page from the left menu bar:</p>
 
-<center><a href="/uploads/Dlink_DDNS_Settings.png"><img class="alignnone  wp-image-2769" title="Dlink_DDNS_Settings" src="/uploads/Dlink_DDNS_Settings.png" alt="DLink DDNS Setting Page (DIR-615)" width="550" height="280" /></a></center>
+<center><a href="/uploads/Dlink_DDNS_Settings.png">![DLink DDNS Setting Page (DIR-615)](/uploads/Dlink_DDNS_Settings.png "Dlink_DDNS_Settings")</a></center>
 <h2 style="text-align: justify;">Step 3 : Signup to DlinkDDNS by clicking on the link in the browser</h2>
 <p style="text-align: justify;">Clicking on the link in the browser window will take you to the DlinkDDNS website. Here you can signup for the free service.</p>
 
-<center><a href="/uploads/Dlink_DDNS_Signup.png"><img class="alignnone  wp-image-2770" title="Dlink_DDNS_Signup" src="/uploads/Dlink_DDNS_Signup.png" alt="Dlink DDNS Signup Page (DIR-615)" width="550" height="338" /></a></center>
+<center><a href="/uploads/Dlink_DDNS_Signup.png">![Dlink DDNS Signup Page (DIR-615)](/uploads/Dlink_DDNS_Signup.png "Dlink_DDNS_Signup")</a></center>
 <h2 style="text-align: justify;">Step 4 : Click Get Started</h2>
 <p style="text-align: justify;">Pretty self-explanatory.</p>
 
-<center><a href="/uploads/rsz_dlink_ddns_getting_started.jpg"><img class="alignnone size-full wp-image-2772" title="dlink_ddns_getting_started" src="/uploads/rsz_dlink_ddns_getting_started.jpg" alt="Dlink DDNS Getting Started" width="329" height="198" /></a></center>
+<center><a href="/uploads/rsz_dlink_ddns_getting_started.jpg">![Dlink DDNS Getting Started](/uploads/rsz_dlink_ddns_getting_started.jpg "dlink_ddns_getting_started")</a></center>
 <h2 style="text-align: justify;">Step 5 : Enter sign in Details</h2>
 <p style="text-align: justify;">For the purpose of this example, I'll be using an account called keithtest1234. Remember your username and password here, as we'll be entering them into the router later.</p>
 
-<center><a href="/uploads/Dlink_DDNS_Registration.png"><img class="alignnone  wp-image-2774" title="Dlink_DDNS_Registration" src="/uploads/Dlink_DDNS_Registration.png" alt="Dlink DDNS Registration Process" width="550" height="394" /></a></center>
+<center><a href="/uploads/Dlink_DDNS_Registration.png">![Dlink DDNS Registration Process](/uploads/Dlink_DDNS_Registration.png "Dlink_DDNS_Registration")</a></center>
 <h2 style="text-align: justify;">Step 6 : Activate account</h2>
 <p style="text-align: justify;">Once you're done. Dlink Will send you an email to the email account you entered in Step 4. Just click on the confirmation link for the activation URL and you should be done.</p>
 <p style="text-align: justify;">Remember, sometimes these emails get incorrectly marked as Spam, if you don't receive anything in 30 minutes, check your spam box.</p>
 
-<center><a href="/uploads/confirmation_email-2.png"><img class="alignnone  wp-image-2775" style="border: 2px solid black;" title="Confirmation Email Dlink DDNS" src="/uploads/confirmation_email-2.png" alt="Dlink DDNS confirmation email" width="540" height="382" /></a></center>
+<center><a href="/uploads/confirmation_email-2.png">![Dlink DDNS confirmation email](/uploads/confirmation_email-2.png "Confirmation Email Dlink DDNS")</a></center>
 <h2 style="text-align: justify;">Step 7 : Create a Host on DlinkDDNS</h2>
 <p style="text-align: justify;">Now logon onto your already activated account on <a title="Dlink DDNS" href="https://www.dlinkddns.com" target="_blank">DlinkDDNS</a>, and click on the Add Host button. This will be your DNS entry for your home network from now on.</p>
 <p style="text-align: justify;">Be sure to use a unique name, however you may also want to be sure it's not an easy URL. This will be the URL of your home network, which may include access to stuff like your IP cameras and NAS devices. You will protect these with passwords, but it's also a good idea to obfuscate the url as well. So something like <em>keithrozarioshouseinklang.dlinkddns.com</em> may be a bit too much information, and would open yourself up to other attacks.</p>
 
-<center><a href="/uploads/D-Link-Dynamic-DNS-Add-Host_2.png"><img class="alignnone  wp-image-2778" title="D Link Dynamic DNS   Add Host_2" src="/uploads/D-Link-Dynamic-DNS-Add-Host_2.png" alt="DLINK Dynamic DNS Add Host Instructions (New IP Address)" width="550" height="250" /></a></center>
+<center><a href="/uploads/D-Link-Dynamic-DNS-Add-Host_2.png">![DLINK Dynamic DNS Add Host Instructions (New IP Address)](/uploads/D-Link-Dynamic-DNS-Add-Host_2.png "D Link Dynamic DNS   Add Host_2")</a></center>
 <p style="text-align: justify;">Once you've added that you should see something like this</p>
 
-<center><a href="/uploads/rsz_dlink_ddns_added_host-11.png"><img class="alignnone size-full wp-image-2779" title="rsz_dlink_ddns_added_host (1)" src="/uploads/rsz_dlink_ddns_added_host-11.png" alt="" width="300" height="146" /></a></center>
+<center><a href="/uploads/rsz_dlink_ddns_added_host-11.png">![](/uploads/rsz_dlink_ddns_added_host-11.png "rsz_dlink_ddns_added_host (1)")</a></center>
 <h2 style="text-align: justify;">Step 8: Enter host details on Dlink router</h2>
 <p style="text-align: justify;">Here is where you want to enter the details from step 7 onto the router. Head over to Maintaneance-&gt; Dynamic DNS, and enter the information below.</p>
 <p style="text-align: justify;">Remember to use the username and password from step 5, together with the host information from step 7. Select DlinkDDNS from the drop down, and finally test the connection. If everything went well you'll see a "Test Successful" message when done.</p>
 
-<center><a href="/uploads/step_6_confirmation-1.png"><img class="alignnone  wp-image-2773" title="DDNS Account Testing Confirmation" src="/uploads/step_6_confirmation-1.png" alt="Entering Correct Information onto DIR 615 router for Dlink DDNS" width="550" height="225" /></a></center>
+<center><a href="/uploads/step_6_confirmation-1.png">![Entering Correct Information onto DIR 615 router for Dlink DDNS](/uploads/step_6_confirmation-1.png "DDNS Account Testing Confirmation")</a></center>
 <p style="text-align: justify;"></p>
 
 <h2 style="text-align: justify;">Step 9: Save your settings</h2>
 <p style="text-align: justify;">Thanks to commented Joseph Ting, who highlighted that I missed one step in this tutorial. Once you've successfully tested out your settings, make sure you save your settings, so that they take effect, otherwise you'll have to reset everything again (doh!).</p>
-<p style="text-align: justify;"><a href="/uploads/D-LINK-SYSTEMS-INC-WIRELESS-ROUTER-HOME.png"><img class="aligncenter  wp-image-3919" src="/uploads/D-LINK-SYSTEMS-INC-WIRELESS-ROUTER-HOME.png" alt="Save_Settings_DLINK_DDNS_UNIFI" width="550" height="425" /></a></p>
+<p style="text-align: justify;"><a href="/uploads/D-LINK-SYSTEMS-INC-WIRELESS-ROUTER-HOME.png">![Save_Settings_DLINK_DDNS_UNIFI](/uploads/D-LINK-SYSTEMS-INC-WIRELESS-ROUTER-HOME.png)</a></p>
 
 <h2 style="text-align: justify;">Conclusion</h2>
 <p style="text-align: justify;">Just like all my other tutorials, I try to make them very specific so that it's easy for you. However, because it's so specific the instructions may not be exactly as required, particularly if you have a different router or the same router with a different firmware. Exercise common sense, and don't be afraid to ask questions in the comments. I always love comments and try to respond whenever possible--there are no stupid questions, just stupid answers--and you'll find no stupid answers here.</p>

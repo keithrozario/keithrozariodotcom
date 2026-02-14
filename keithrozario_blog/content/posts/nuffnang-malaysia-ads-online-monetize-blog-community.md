@@ -1,11 +1,12 @@
 +++
 title = "I'm officially on Nuffnang"
+slug = "nuffnang-malaysia-ads-online-monetize-blog-community"
 date = "2012-07-07T23:32:42"
 draft = false
 categories = ['Blog', 'Malaysia']
 +++
 
-<a href="/uploads/nuffnang.jpg"><img class="alignleft size-medium wp-image-2430" title="nuffnang" src="/uploads/nuffnang-300x233.jpg" alt="" width="300" height="233" /></a>If you didn't already know, there's something on the sidebar of this site, something that hasn't been there before. Something that I'm not particularly happy to put on my site-- it is -- an Advertisement!!! <strong><span style="color: #888888;">(gasp!)</span></strong>
+<a href="/uploads/nuffnang.jpg">![](/uploads/nuffnang-300x233.jpg "nuffnang")</a>If you didn't already know, there's something on the sidebar of this site, something that hasn't been there before. Something that I'm not particularly happy to put on my site-- it is -- an Advertisement!!! <strong><span style="color: #888888;">(gasp!)</span></strong>
 
 To be more specific it's a nuffnang add, about 10 lines of javascript code that will for the next couple of months display ads to visitors of this sites. I'm not too familiar with ads, but from what I gather I have little control over who will display ads on this site, and that's the part I'm not particularly happy with. Aside from the usual "No alcohol" and "No tobacco" options, I couldn't really control who I would not like to advertise on my site.
 

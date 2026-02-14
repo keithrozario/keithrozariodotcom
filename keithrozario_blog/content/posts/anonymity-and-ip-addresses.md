@@ -1,11 +1,12 @@
 +++
 title = "Anonymity and IP addresses"
+slug = "anonymity-and-ip-addresses"
 date = "2016-08-23T08:00:24"
 draft = false
 categories = ['Copyright and Censorship', 'Security &amp; Privacy', 'Singapore']
 +++
 
-<a href="/uploads/anonymous_guy_fawkes.jpg"><img class="size-full wp-image-2909 aligncenter" src="/uploads/anonymous_guy_fawkes.jpg" alt="anonymous_guy_fawkes" width="500" height="332" /></a>
+<a href="/uploads/anonymous_guy_fawkes.jpg">![anonymous_guy_fawkes](/uploads/anonymous_guy_fawkes.jpg)</a>
 
 This week, I'll put the final touches on my move from Malaysia to Singapore.
 
@@ -61,7 +62,7 @@ Here's some points to help along with that.
 
 <strong>Point 1:</strong> The IP address of a connection is tied to the internet connection and not to the end-device. Meaning if you have a connection at home, and all 4 of your family members connected to YouTube at the same time, YouTube would see the same IP address for all 4 devices. No difference. So if only one of you were hosting illegal content or all 4 of you were going it, there'd be no visible difference on the network pattern. Is it reasonable to assume that just because I own the account, that I was sharing the content? How do you know it wasn't my 16-year old daughter, or 61-year old mother-in-law?
 
-<img class="aligncenter wp-image-4982" src="/uploads/Slide12-820x461.jpg" alt="IP Address LAN/WAN 1" width="550" height="309" />
+![IP Address LAN/WAN 1](/uploads/Slide12-820x461.jpg)
 
 <strong>Point 2:</strong> If someone hacked into your router, the hacker would have the same IP address as yourself. Meaning, you could be held liable even though you were a victim of  a hack. And since most home routers have no logging functionality--there'd be no way to prove your innocence.
 

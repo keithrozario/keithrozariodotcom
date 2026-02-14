@@ -1,5 +1,6 @@
 +++
 title = "Saying No."
+slug = "work-life-balance-slows-careers"
 date = "2025-08-10T10:34:12"
 draft = false
 categories = ['Misc']

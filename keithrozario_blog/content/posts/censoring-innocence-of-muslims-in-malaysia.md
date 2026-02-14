@@ -1,11 +1,12 @@
 +++
 title = "Censoring Innocence of Muslims in Malaysia"
+slug = "censoring-innocence-of-muslims-in-malaysia"
 date = "2012-09-17T15:21:38"
 draft = false
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia']
 +++
 
-<center><a href="/uploads/Innocence-of-Muslims-Muhammad-Movie-FULL-HD-YouTube.png"><img class="alignnone  wp-image-2744" title="Innocence of Muslims   Muhammad Movie   FULL HD   YouTube" src="/uploads/Innocence-of-Muslims-Muhammad-Movie-FULL-HD-YouTube.png" alt="" width="550" height="400" /></a></center>The Malaysian government has requested that Google take down the video Innocence of Muslims, and Google has since complied. As of today, anyone trying to access the clip from a Malaysian IP address would see a screen that reads "This content is not available in your country due to a legal complaint. Sorry about that."
+<center><a href="/uploads/Innocence-of-Muslims-Muhammad-Movie-FULL-HD-YouTube.png">![](/uploads/Innocence-of-Muslims-Muhammad-Movie-FULL-HD-YouTube.png "Innocence of Muslims   Muhammad Movie   FULL HD   YouTube")</a></center>The Malaysian government has requested that Google take down the video Innocence of Muslims, and Google has since complied. As of today, anyone trying to access the clip from a Malaysian IP address would see a screen that reads "This content is not available in your country due to a legal complaint. Sorry about that."
 
 The clip is most definitely offensive, and demeaning but what is quite obviously isn't is--serious. The first thing anyone notices from the clip is that it's of low quality, there are multiple versions of <a title="Malaysian Gangnam" href="http://www.youtube.com/results?search_query=gangnam+malaysia&amp;oq=gangnam+malaysia&amp;gs_l=youtube.3...15117.16004.0.16133.9.9.0.0.0.0.101.542.7j2.9.0...0.0...1ac.1.OBWxuJr7ncM" target="_blank">Malaysian Gangnam style </a>that are made with far higher quality than the clip, yet this one particular clip has managed to create such an uproar that people have killed for it. I'm not defending the clip, or opposing it.
 

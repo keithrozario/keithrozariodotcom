@@ -1,5 +1,6 @@
 +++
 title = "Telekom Malaysia is censoring the internet prior to GE13"
+slug = "telekom-malaysia-t-is-censoring-the-internet-prior-to-ge13"
 date = "2013-05-02T10:17:35"
 draft = false
 tags = ['Unifi']

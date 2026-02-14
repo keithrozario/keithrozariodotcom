@@ -1,12 +1,13 @@
 +++
 title = "My experience with AWS Certified Security - Specialty"
+slug = "my-experience-with-aws-certified-security-specialty"
 date = "2020-03-28T08:49:08"
 draft = false
 categories = ['Cloud Computing', "Keith's Favorite Post", 'Security &amp; Privacy', 'Serverless']
 +++
 
 <!-- wp:image {"align":"center","id":7007,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/aws-certified-logo_color-horz_360x60.jpg" alt="" class="wp-image-7007"/></figure></div>
+![](/uploads/aws-certified-logo_color-horz_360x60.jpg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -106,7 +107,7 @@ categories = ['Cloud Computing', "Keith's Favorite Post", 'Security &amp; Privac
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"center","id":7010,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/Terraform.png" alt="" class="wp-image-7010"/></figure></div>
+![](/uploads/Terraform.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -150,7 +151,7 @@ categories = ['Cloud Computing', "Keith's Favorite Post", 'Security &amp; Privac
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"center","id":7029,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/6876694340_01a10c613b_c.jpg" alt="" class="wp-image-7029"/></figure></div>
+![](/uploads/6876694340_01a10c613b_c.jpg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -200,7 +201,7 @@ categories = ['Cloud Computing', "Keith's Favorite Post", 'Security &amp; Privac
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":7030,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/19893436479_462a12ab31_c.jpg" alt="" class="wp-image-7030"/></figure>
+![](/uploads/19893436479_462a12ab31_c.jpg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -256,7 +257,7 @@ categories = ['Cloud Computing', "Keith's Favorite Post", 'Security &amp; Privac
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":7032,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/6394785643_fafa2f3926_c.jpg" alt="" class="wp-image-7032"/></figure>
+![](/uploads/6394785643_fafa2f3926_c.jpg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -320,7 +321,7 @@ categories = ['Cloud Computing', "Keith's Favorite Post", 'Security &amp; Privac
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"center","id":6770,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/AWS-Lambda_dark-bg.png" alt="" class="wp-image-6770"/></figure></div>
+![](/uploads/AWS-Lambda_dark-bg.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -352,7 +353,7 @@ categories = ['Cloud Computing', "Keith's Favorite Post", 'Security &amp; Privac
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":7031,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/41145631035_0ceb85138e_c.jpg" alt="" class="wp-image-7031"/></figure>
+![](/uploads/41145631035_0ceb85138e_c.jpg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

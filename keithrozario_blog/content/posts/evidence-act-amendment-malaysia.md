@@ -1,12 +1,13 @@
 +++
 title = "Black Day for Malaysians : New Evidence Bill Takes effect today"
+slug = "evidence-act-amendment-malaysia"
 date = "2012-06-01T05:00:38"
 draft = false
 tags = ['Malaysian Laws']
 categories = ['Copyright and Censorship', 'CyberLaw', "Keith's Favorite Post", 'Malaysia']
 +++
 
-<center><a href="/uploads/Black.jpg"><img class="alignnone  wp-image-2214" title="Black" alt="" src="/uploads/Black-300x75.jpg" width="550" height="200" /></a></center>Today marks a crucial point in the crusade against freedom on the internet in Malaysia. We've had SOPA in the US, ACTA in Europe and the TPP has brought the fight closer to our borders. Today in a brilliant tactical move by the enemy of Freedom,  Malaysians will be subjected to an amended evidence act that would shift the burden of proof from the accuser to the accused. It is a black day indeed, and the words John Fogerty ring in my ears--I see a bad moon rising.<!--more-->
+<center><a href="/uploads/Black.jpg">![](/uploads/Black-300x75.jpg "Black")</a></center>Today marks a crucial point in the crusade against freedom on the internet in Malaysia. We've had SOPA in the US, ACTA in Europe and the TPP has brought the fight closer to our borders. Today in a brilliant tactical move by the enemy of Freedom,  Malaysians will be subjected to an amended evidence act that would shift the burden of proof from the accuser to the accused. It is a black day indeed, and the words John Fogerty ring in my ears--I see a bad moon rising.<!--more-->
 <h2>Why the need to amend the act?</h2>
 The Malaysian government would have you believe that there's a huge amount of slanderous articles floating on the internet and these articles are hard to track down. The truth is they're impossible to track down, provided the authors took the necessary steps, and rely on the good-will of companies like twitter and Google.
 

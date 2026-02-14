@@ -1,5 +1,6 @@
 +++
 title = "Youtube Video flagged as inappropriate"
+slug = "youtube-video-flagged-as-inappropriate"
 date = "2014-06-26T08:00:37"
 draft = false
 tags = ['Youtube']
@@ -62,6 +63,6 @@ I have no power over Youtube, and nowhere to plead my case. In fact there were m
 
 However, Youtube may be the biggest player on the block, but certainly not the only player, and I've moved the video to Vimeo instead. Here's the video embedded below, if you think if was mis-leading or not, please let me know. I've got nothing to work with from Google.
 
-<center><iframe src="//player.vimeo.com/video/98848750" width="500" height="281" frameborder="0" allowfullscreen="allowfullscreen"></iframe><a href="http://vimeo.com/98848750">Hacking Unifi Dlink routers using Shodan</a> from <a href="http://vimeo.com/user29391644">Keith Rozario</a> on <a href="https://vimeo.com">Vimeo</a>.</center>&nbsp;
+<center><iframe src="//player.vimeo.com/video/98848750" width="500" height="281" frameborder="0" allowfullscreen="allowfullscreen"></iframe><a href="http://vimeo.com/98848750">Hacking Unifi Dlink routers using Shodan</a> from <a href="http://vimeo.com/user29391644">Keith Rozario</a> on <a href="https://vimeo.com">Vimeo</a>.</center> 
 
-&nbsp;
+ 

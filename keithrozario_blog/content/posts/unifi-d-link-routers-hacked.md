@@ -1,5 +1,6 @@
 +++
 title = "Unifi D-Link Routers are now officially completely hacked"
+slug = "unifi-d-link-routers-hacked"
 date = "2013-12-07T09:56:17"
 draft = false
 categories = ['Malaysia']
@@ -20,8 +21,8 @@ The hack is so simple, it requires no additional tools other your browser and qu
 </blockquote>
 
 Where XXXXX is the router IP address, and YYYY is the port on which it's operating on. Then the router will miraculously display it's security credentials to you, and you're good to go. Using Shodan, I've verified that this works with nearly every firmware <em>(pictures are blurry, click to open the full image)</em>
-<p style="text-align: center;"><a href="/uploads/7.13-firmware.png"><img class="aligncenter  wp-image-4165" style="border: 1px solid black;" alt="7.13 firmware" src="/uploads/7.13-firmware.png" width="550" height="350" /></a></p>
-<p style="text-align: center;"><a href="/uploads/7.17-firmware.png"><img class="aligncenter  wp-image-4164" style="border: 1px solid black;" alt="7.17 firmware" src="/uploads/7.17-firmware.png" width="550" height="350" /></a></p>
+<p style="text-align: center;"><a href="/uploads/7.13-firmware.png">![7.13 firmware](/uploads/7.13-firmware.png)</a></p>
+<p style="text-align: center;"><a href="/uploads/7.17-firmware.png">![7.17 firmware](/uploads/7.17-firmware.png)</a></p>
 D-Link have yet to release a patch for this, and the guy that published the bug didn't really follow the rules. Usually D-Link should be alerted of such a bug and given time to fix it before the vulnerability is published.
 
 However, since literally hundreds of thousands of Malaysian households are now susceptible to this attack, you need to know. More importantly, there's nothing you can do about it with your current router firmware. No counter-measure is possible, it's like living in a house where the door won't lock, or the gate won't close--how will you sleep at night?

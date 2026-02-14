@@ -1,5 +1,6 @@
 +++
 title = "#PotongSteam"
+slug = "potongsteam"
 date = "2017-09-20T12:59:48"
 draft = false
 categories = ['Copyright and Censorship', 'Misc']

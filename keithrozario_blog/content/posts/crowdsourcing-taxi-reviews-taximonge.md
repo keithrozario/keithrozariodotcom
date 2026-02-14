@@ -1,12 +1,13 @@
 +++
 title = "Crowdsourcing Taxi Reviews"
+slug = "crowdsourcing-taxi-reviews-taximonge"
 date = "2012-05-25T20:15:35"
 draft = false
 tags = ['Crowdsourcing']
 categories = ['Crowdsourcing']
 +++
 
-<a href="/uploads/TaxiMonger-Logo.png"><img class="alignleft size-medium wp-image-2185" title="TaxiMonger Logo" src="/uploads/TaxiMonger-Logo-300x103.png" alt="" width="300" height="103" /></a>One of the stark differences between Malaysia and Singapore (besides the remarkably better food in Malaysia) are the Taxi Drivers. I used to frequently go to Singapore for business trips and for just about everywhere I went, I chose the taxi, either a friend would help book a comfort cab via their iPhone app, or I'd just call the hotline to book one. I've never once been turned down by a Taxi Driver, and I've never once had a driver negotiate the price with me. There it was all meters, it was all on the up and up.
+<a href="/uploads/TaxiMonger-Logo.png">![](/uploads/TaxiMonger-Logo-300x103.png "TaxiMonger Logo")</a>One of the stark differences between Malaysia and Singapore (besides the remarkably better food in Malaysia) are the Taxi Drivers. I used to frequently go to Singapore for business trips and for just about everywhere I went, I chose the taxi, either a friend would help book a comfort cab via their iPhone app, or I'd just call the hotline to book one. I've never once been turned down by a Taxi Driver, and I've never once had a driver negotiate the price with me. There it was all meters, it was all on the up and up.
 
 In Malaysia however, the situation couldn't be anymore different, and so its good to see someone (other than the government or Taxi company) trying to help solve the problem by using a smartphone application to crowdsource taxi reviews. On the face of it, the idea is brilliant, have people write reviews of taxis and then collate that data online. It makes it so that 'bad' taxi drivers get penalized and 'good' taxi drivers are rewarded.<!--more-->
 
@@ -18,7 +19,7 @@ Also, the number of reviews is also quite low, so they really haven't reached th
 
 It'll also be interesting to see if the Taxi Companies and authorities take reports on Taxi Monger seriously, for instance consider the review below:
 
-<a href="/uploads/TaxiMonger-Book-and-Review-Taxi.png"><img class="size-full wp-image-2184 alignnone" title="TaxiMonger   Book and Review Taxi" src="/uploads/TaxiMonger-Book-and-Review-Taxi.png" alt="" width="631" height="182" /></a>
+<a href="/uploads/TaxiMonger-Book-and-Review-Taxi.png">![](/uploads/TaxiMonger-Book-and-Review-Taxi.png "TaxiMonger   Book and Review Taxi")</a>
 
 I wonder if anyone would follow up on the case, or what the mechanism would be like.
 

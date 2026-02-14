@@ -1,5 +1,6 @@
 +++
 title = "Lucking out on life"
+slug = "lucking-out-on-life"
 date = "2021-04-11T18:35:06"
 draft = false
 categories = ['Misc']
@@ -30,7 +31,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":7438,"sizeSlug":"large","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="alignleft size-large"><img src="/uploads/Wolf3D200.jpg" alt="" class="wp-image-7438"/></figure></div>
+![](/uploads/Wolf3D200.jpg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -54,7 +55,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7436,"sizeSlug":"large","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/born_into_it-1-333x500.jpg" alt="" class="wp-image-7436"/></figure></div>
+![](/uploads/born_into_it-1-333x500.jpg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -98,7 +99,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7439,"sizeSlug":"large","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/47e3a084f393afd380b2a0a90c5e64c9-667x500.jpg" alt="" class="wp-image-7439"/></figure></div>
+![](/uploads/47e3a084f393afd380b2a0a90c5e64c9-667x500.jpg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -178,7 +179,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image -->
-<figure class="wp-block-image"><img src="/uploads/2020/10/resize_VVS-RQAM_MBFC2020-2445-Sep2020HI-e1601519532618.jpg" alt="Marina Bay Financial Centre | MBFC"/></figure>
+![Marina Bay Financial Centre | MBFC](/uploads/2020/10/resize_VVS-RQAM_MBFC2020-2445-Sep2020HI-e1601519532618.jpg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -1,12 +1,13 @@
 +++
 title = "4 Reasons you need an RSS feed"
+slug = "4-reasons-you-need-an-rss-feed"
 date = "2012-04-12T14:49:43"
 draft = false
 tags = ['Google', 'Jobs', 'Jobstreet', 'RSS', 'twitter']
 categories = ['Blog', 'Malaysia', 'Misc']
 +++
 
-<a href="/uploads/128px-Feed-icon.svg_.png"><img class="alignleft size-full wp-image-1965" style="margin-right: 64px; margin-left: 64px;" title="128px-Feed-icon.svg" src="/uploads/128px-Feed-icon.svg_.png" alt="" width="128" height="128" /></a>If you don't know what RSS is, prepare to have your mind blown. If you've never used RSS, chances are you're still bookmarking your favorite websites and blogs and visiting them on a regular basis <span style="text-decoration: underline;">painfully one at a time</span>. RSS feeds allow you to magically consolidate all the content you read online, into one platform where you can get your daily dose of information all at one go.
+<a href="/uploads/128px-Feed-icon.svg_.png">![](/uploads/128px-Feed-icon.svg_.png "128px-Feed-icon.svg")</a>If you don't know what RSS is, prepare to have your mind blown. If you've never used RSS, chances are you're still bookmarking your favorite websites and blogs and visiting them on a regular basis <span style="text-decoration: underline;">painfully one at a time</span>. RSS feeds allow you to magically consolidate all the content you read online, into one platform where you can get your daily dose of information all at one go.
 
 RSS stands for <em>really simple syndication</em>, and it was designed as a simple way for web authors to syndicate their content across the internet. Conversely (and more importantly), it also provides a way for web users to consolidate all their favorites blogs, searches and forum threads onto one single platform.
 
@@ -28,7 +29,7 @@ Once you've setup an RSS readers for the hundreds of blogs you follow, you can e
 
 About 90% of people use RSS readers for just this purpose, but right now you can get syndicated content direct to your RSS readers from a whole host of other provider.
 <h2>Using RSS to find Jobs.</h2>
-<a href="/uploads/Get-Jobs-By-RSS.png"><img class="alignleft size-full wp-image-1964" title="Get Jobs By RSS" src="/uploads/Get-Jobs-By-RSS.png" alt="" width="223" height="190" /></a>Jobstreet has a really neat feature that allows you to save your job search as an RSS feed, what this does is that it allows you to get up to date job postings from Job street directly to your RSS reader without having to visit the Jobstreet.com website.
+<a href="/uploads/Get-Jobs-By-RSS.png">![](/uploads/Get-Jobs-By-RSS.png "Get Jobs By RSS")</a>Jobstreet has a really neat feature that allows you to save your job search as an RSS feed, what this does is that it allows you to get up to date job postings from Job street directly to your RSS reader without having to visit the Jobstreet.com website.
 
 Whenever you search for a job on jobstreet, pay attention to the box on the upper right hand of your screen (inset left). You'll see a Get jobs by RSS, this is the RSS feed for your specific search including both job description, location, salary..etc etc. It really is a nifty feature, and now I view at least 5-10 job postings daily without ever having to visit jobstreet or wait for the weekly email notification.
 
@@ -36,7 +37,7 @@ It also acts as a repository to store all the jobs form the past month without h
 
 <a title="Monster RSS Feeds" href="http://jobsearch.monster.com.my/category/rss_index.html" target="_blank">Monster also has RSS feeds</a>, but already in pre-defined categories like IT or Marketing.
 <h2>Using RSS to follow forum threads.</h2>
-<a href="/uploads/RSS-Feed-Lowyat.png"><img class="alignleft size-medium wp-image-1963" title="RSS Feed Lowyat" src="/uploads/RSS-Feed-Lowyat-300x87.png" alt="" width="300" height="87" /></a>Lowyat.net is arguably the most visited forum website in Malaysia. It has a very very high participation rate and nearly every Malaysian has gone there at one time or another to get information on something.
+<a href="/uploads/RSS-Feed-Lowyat.png">![](/uploads/RSS-Feed-Lowyat-300x87.png "RSS Feed Lowyat")</a>Lowyat.net is arguably the most visited forum website in Malaysia. It has a very very high participation rate and nearly every Malaysian has gone there at one time or another to get information on something.
 
 Lowyat offers RSS feeds to every single thread on the forum, so if you start a thread to ask for help on a PC setup for example, you can just subscribe to the RSS feed of the thread and view all the replies almost instantaneously on your RSS reader, negating the need to go to Lowyat till you need to post something. This is absolutely amazing.
 

@@ -1,12 +1,13 @@
 +++
 title = "When Lightning strikes the Cloud: Amazon Outage"
+slug = "google-cloud-amazon-outage-hurricane"
 date = "2012-07-12T04:00:43"
 draft = false
 tags = ['Amazon', 'Google', 'Heroku', 'Instagram', 'Netflix']
 categories = ['Cloud Computing']
 +++
 
-<a href="/uploads/Lightning_Hits_The_Cloud.jpg"><img class="alignleft size-medium wp-image-2405" title="Lightning_Hits_The_Cloud" src="/uploads/Lightning_Hits_The_Cloud-300x246.jpg" alt="" width="300" height="246" /></a>Google recently announced their Amazon EC2 killer, the <a title="Google Compute Engine" href="http://cloud.google.com/pricing/compute-engine.html" target="_blank">Google Compute Engine </a>or GCE. Google wasn't messing around and went straight for the Amazon jugular releasing 4 instance types all of which appear cheaper than their Amazon counterparts. That being said the price comparison was done solely on the basis on a on-demand Amazon instance types--Amazons most expensive prices, if you compare for the Reserved instances, then prices become more competitive.
+<a href="/uploads/Lightning_Hits_The_Cloud.jpg">![](/uploads/Lightning_Hits_The_Cloud-300x246.jpg "Lightning_Hits_The_Cloud")</a>Google recently announced their Amazon EC2 killer, the <a title="Google Compute Engine" href="http://cloud.google.com/pricing/compute-engine.html" target="_blank">Google Compute Engine </a>or GCE. Google wasn't messing around and went straight for the Amazon jugular releasing 4 instance types all of which appear cheaper than their Amazon counterparts. That being said the price comparison was done solely on the basis on a on-demand Amazon instance types--Amazons most expensive prices, if you compare for the Reserved instances, then prices become more competitive.
 
 It's exciting to finally see a Juggernaut big enough to take on Amazon in terms of price and scale. This is all around good news for everyone, especially since <a title="Cisco: Exposing the Cloud Value Chain" href="http://www.cisco.com/web/about/ac79/docs/sp/Cloud-Value-Chain-ExposedL.pdf" target="_blank">this report from Cisco</a> estimates that revenues from IaaS providers are not only high right now, but will continue to grow over the next 5 years. There's a lot of room at the IaaS space, and Google just wants to wet their beak here as well.
 

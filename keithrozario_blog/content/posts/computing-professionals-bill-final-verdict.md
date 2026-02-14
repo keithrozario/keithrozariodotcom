@@ -1,12 +1,13 @@
 +++
 title = "Computing Professionals Bill: Final Verdict"
+slug = "computing-professionals-bill-final-verdict"
 date = "2011-12-21T22:46:02"
 draft = false
 tags = ['Computing Professionals Bill 2011']
 categories = ['CyberLaw', 'Malaysia', 'Misc']
 +++
 
-<a href="http://www.keithrozario.com/2011/12/computing-professionals-bill-final-verdict.html"><img class="alignleft size-medium wp-image-1602" title="SimonSinek_read" src="/uploads/SimonSinek_read-148x300.png" alt="" width="148" height="300" /></a>In what I hope is my last post about this ridiculous bill, I hope to ask and answer an important question I'm surprised no one has asked yet...
+<a href="http://www.keithrozario.com/2011/12/computing-professionals-bill-final-verdict.html">![](/uploads/SimonSinek_read-148x300.png "SimonSinek_read")</a>In what I hope is my last post about this ridiculous bill, I hope to ask and answer an important question I'm surprised no one has asked yet...
 <h3>Why do we need such a bill?</h3>
 In essence do we need to raise standards, or provide assurance to employers regarding hired professionals. I believe the answer is NO. It all stems from a brilliant book I read "start with Why" by Simon Sinek, and you catch his amazing TedTalk <a title="Simon Sinek" href="http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action.html" target="_blank">here</a>. He goes on to say, that if you mess up the WHY of any action, no one will follow you, because <em>"People don't buy what you do, they buy Why you do it"</em>
 

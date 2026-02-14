@@ -1,5 +1,6 @@
 +++
 title = "Censorship and Freedom"
+slug = "censorship-and-freedom"
 date = "2015-05-21T22:52:04"
 draft = false
 categories = ['Copyright and Censorship']

@@ -1,5 +1,6 @@
 +++
 title = "Copyright&Censorship"
+slug = "copyright-censorship-malaysia"
 date = "2012-01-10T18:13:39"
 draft = false
 +++

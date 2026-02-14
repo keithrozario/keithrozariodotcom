@@ -1,12 +1,13 @@
 +++
 title = "Making the world safe for Technology"
+slug = "keeping-the-world-safe-for-technology"
 date = "2016-04-23T16:12:49"
 draft = false
 tags = ['FBI']
 categories = ['Security &amp; Privacy']
 +++
 
-<a href="/uploads/quote-to-make-the-world-safe-for-democracy-woodrow-wilson-67-97-51.jpg"><img class="aligncenter wp-image-5653" src="/uploads/quote-to-make-the-world-safe-for-democracy-woodrow-wilson-67-97-51.jpg" alt="quote-to-make-the-world-safe-for-democracy-woodrow-wilson-67-97-51" width="550" height="259" /></a>On April 2nd, 1917, the President of the United States of America addressed an extraordinary session in congress, asking them to authorize America to declare war against the central powers in World War 1.
+<a href="/uploads/quote-to-make-the-world-safe-for-democracy-woodrow-wilson-67-97-51.jpg">![quote-to-make-the-world-safe-for-democracy-woodrow-wilson-67-97-51](/uploads/quote-to-make-the-world-safe-for-democracy-woodrow-wilson-67-97-51.jpg)</a>On April 2nd, 1917, the President of the United States of America addressed an extraordinary session in congress, asking them to authorize America to declare war against the central powers in World War 1.
 
 Across the Atlantic, the European continent had been devastated by nearly 3 years of bloody conflict. Regardless of who started the war, President Wilson was sure the war was at it's tail end and he knew that if America stayed a neutral observer any longer, it might not get a seat at the table to discuss peace terms.
 
@@ -52,7 +53,7 @@ America is making the world the safe--and sometimes the villains aren't crazy di
 
 Obviously the FBI aren't angels, but when Comey and Co. push the boundaries of what US law permits them to do, they're bound to end up on the wrong side every once in a while.
 
-That is expected.<a href="/uploads/Blank-Flowchart-New-Page-1.png"><img class="aligncenter wp-image-5652 size-full" src="/uploads/Blank-Flowchart-New-Page-1.png" alt="Blank Flowchart - New Page" width="560" height="400" /></a>
+That is expected.<a href="/uploads/Blank-Flowchart-New-Page-1.png">![Blank Flowchart - New Page](/uploads/Blank-Flowchart-New-Page-1.png)</a>
 
 Congress and the US President draws a box around which the FBI can operate. Think of a crayon drawing with the FBI in the middle and a box surrounding, it everything outside the box is a no-no, but the boundary , where the line is drawn is a 'grey' area that could go either way.
 

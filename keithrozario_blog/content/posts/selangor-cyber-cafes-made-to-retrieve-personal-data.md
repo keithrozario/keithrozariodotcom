@@ -1,11 +1,12 @@
 +++
 title = "Selangor Cyber Cafes made to retrieve personal data"
+slug = "selangor-cyber-cafes-made-to-retrieve-personal-data"
 date = "2013-01-01T18:15:09"
 draft = false
 categories = ['CyberLaw', 'Malaysia']
 +++
 
-<p style="text-align: center;"><a href="/uploads/4199675334_66c3e3d61d_z.jpg"><img class=" wp-image-1538 aligncenter" title="Head in Hands" src="/uploads/4199675334_66c3e3d61d_z.jpg" alt="Cybercafe operators made to retrieve MyKad information" width="550" height="380" /></a></p>
+<p style="text-align: center;"><a href="/uploads/4199675334_66c3e3d61d_z.jpg">![Cybercafe operators made to retrieve MyKad information](/uploads/4199675334_66c3e3d61d_z.jpg "Head in Hands")</a></p>
 <a title="selangor-cyber-cafes-to-register-patrons-mykad-information" href="http://www.goldfries.com/tech-news/selangor-cyber-cafes-to-register-patrons-mykad-information/" target="_blank">Goldfries today reports</a> that Selangor Cyber Cafes were given new regulations to make them 'healthier'. Among the new regulations put in place were:
 <blockquote>
 

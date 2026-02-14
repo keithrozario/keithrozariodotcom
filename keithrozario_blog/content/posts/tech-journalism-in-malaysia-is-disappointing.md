@@ -1,11 +1,12 @@
 +++
 title = "Tech Journalism in Malaysia is disappointing"
+slug = "tech-journalism-in-malaysia-is-disappointing"
 date = "2015-04-21T02:08:12"
 draft = false
 categories = ['Misc']
 +++
 
-<a href="/uploads/GOOGLEHACKED-M.png"><img class=" size-full wp-image-4971 aligncenter" src="/uploads/GOOGLEHACKED-M.png" alt="GOOGLEHACKED-M" width="650" height="360" /></a>Last week visitors browsing to Google's Malaysia website were greeted with a big bold image stating the website was hacked. The media had a field day proudly proclaiming that Google's website was hacked, because that was exactly what the page they visited said....Google Hacked!!
+<a href="/uploads/GOOGLEHACKED-M.png">![GOOGLEHACKED-M](/uploads/GOOGLEHACKED-M.png)</a>Last week visitors browsing to Google's Malaysia website were greeted with a big bold image stating the website was hacked. The media had a field day proudly proclaiming that Google's website was hacked, because that was exactly what the page they visited said....Google Hacked!!
 
 Only, Google <span style="text-decoration: underline;"><strong>wasn't</strong></span> hacked.
 

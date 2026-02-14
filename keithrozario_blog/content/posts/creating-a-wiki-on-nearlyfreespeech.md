@@ -1,12 +1,13 @@
 +++
 title = "Creating a wiki on Nearlyfreespeech"
+slug = "creating-a-wiki-on-nearlyfreespeech"
 date = "2011-05-25T14:51:41"
 draft = false
 tags = ['Blog Features', 'NearlyFreeSpeech', 'PHP', 'wiki']
 categories = ['Blog']
 +++
 
-<a href="/uploads/Mediawiki_setup.jpg" target="_blank" rel="attachment wp-att-757"><img class="alignnone wp-image-757 size-full" title="Mediawiki_setup" src="/uploads/Mediawiki_setup.jpg" alt="" width="276" height="239" /></a>Wikipedia isn't the only Wiki around. A wiki is a generic term us geeks use to describe <em>"A website that allows collaborative editing of its content and structure by its users"</em>
+<a href="/uploads/Mediawiki_setup.jpg" target="_blank" rel="attachment wp-att-757">![](/uploads/Mediawiki_setup.jpg "Mediawiki_setup")</a>Wikipedia isn't the only Wiki around. A wiki is a generic term us geeks use to describe <em>"A website that allows collaborative editing of its content and structure by its users"</em>
 
 Now wasn't that a mouthful.
 
@@ -26,15 +27,15 @@ For this example, I'm going to be using my domain (www.keithrozario.com), and I'
 <h3><span style="color: #3366ff;">Step 2: Download Mediawiki</span></h3>
 Sub-domains take time to setup, so while that's being setup, head on over to <a title="Media Wiki Download" href="http://www.mediawiki.org/wiki/Download" target="_blank">www.mediawiki.org</a> to download the latest media wiki. Be sure to download the zip file (it's easier to install).
 <h3><span style="color: #3366ff;">Step 3: Copy the mediawiki folder into your main folder via sFTP</span></h3>
-<a href="http://www.keithrozario.com/2011/05/creating-a-wiki-on-nearlyfreespeech.html/mediawiki_sftp_download" rel="attachment wp-att-758"><img class="aligncenter size-full wp-image-758" title="Mediawiki_sftp_download" src="/uploads/Mediawiki_sftp_download.jpg" alt="" width="480" height="110" /></a>
+<a href="http://www.keithrozario.com/2011/05/creating-a-wiki-on-nearlyfreespeech.html/mediawiki_sftp_download" rel="attachment wp-att-758">![](/uploads/Mediawiki_sftp_download.jpg "Mediawiki_sftp_download")</a>
 <h3><span style="color: #3366ff;">Step 4: Unzip the folder using SSH</span></h3>
 You'll need to unzip the package, most of us with windows would need to download 7-Zip to unzip this on your PC, and that would be a pain and a chore. A simpler version would be login to your SSH and run the following command
 
-<img src="file:///C:/Users/KEITH-%7E1.ROZ/AppData/Local/Temp/moz-screenshot-2.png" alt="" /><strong>tar -zxvf *</strong>
+![](file:///C:/Users/KEITH-%7E1.ROZ/AppData/Local/Temp/moz-screenshot-2.png)<strong>tar -zxvf *</strong>
 
 <address>*The tar commands unzips the file, and the -zxvf are various options I generally use. The important bit is the *, I use that to unzip ALL files in the directory, but seeing as how there will be only file in the folder (if you followed the instructions), it's good enough. To be doubly sure replace the * at the end of the command to the actually file name of the media wiki downloaded.</address>By then your FTP will look like this:
 
-<a href="http://www.keithrozario.com/2011/05/creating-a-wiki-on-nearlyfreespeech.html/mediawiki_sftp_unzip" rel="attachment wp-att-760"><img class="aligncenter size-full wp-image-760" title="Mediawiki_sftp_unzip" src="/uploads/Mediawiki_sftp_unzip.jpg" alt="" width="482" height="102" /></a>
+<a href="http://www.keithrozario.com/2011/05/creating-a-wiki-on-nearlyfreespeech.html/mediawiki_sftp_unzip" rel="attachment wp-att-760">![](/uploads/Mediawiki_sftp_unzip.jpg "Mediawiki_sftp_unzip")</a>
 
 Before moving to step 7, you'll need to setup your permissions correctly. Login to your SSH again and run the following command from the main prompt:
 
@@ -43,7 +44,7 @@ Before moving to step 7, you'll need to setup your permissions correctly. Login 
 <address>*This command sets the config subfolder to all writable, something that needs to be done for the installation to proceed. We'll reset it back to safer permission once we're done with the install. Another way is to use WinSCP and set the permission by right-clicking the file and modifying permissions</address>
 <h3><span style="color: #3366ff;">Step 5: Tidy stuff up (optional)</span></h3>
 To make things easier I've renamed the mediawiki1.16-5 to simply 'wiki' and deleted the zip file for tidiness. So in the end what I get is:
-<h6><a href="http://www.keithrozario.com/2011/05/creating-a-wiki-on-nearlyfreespeech.html/mediawiki_sftp_tidied_up" rel="attachment wp-att-759"><img class="aligncenter size-full wp-image-759" title="Mediawiki_sftp_tidied_up" src="/uploads/Mediawiki_sftp_tidied_up.jpg" alt="" width="482" height="102" /></a><span style="color: #999999;">*to save yourself a full bunch of trouble, unpack the '/wiki' folder out into the root directory, this will save you on step 11</span></h6>
+<h6><a href="http://www.keithrozario.com/2011/05/creating-a-wiki-on-nearlyfreespeech.html/mediawiki_sftp_tidied_up" rel="attachment wp-att-759">![](/uploads/Mediawiki_sftp_tidied_up.jpg "Mediawiki_sftp_tidied_up")</a><span style="color: #999999;">*to save yourself a full bunch of trouble, unpack the '/wiki' folder out into the root directory, this will save you on step 11</span></h6>
 <h3><span style="color: #3366ff;">Step 6: Create a Database</span></h3>
 From your nearlyfreespeech menu, look for the MYSQL options, (it's right next to support), then select your db process (create one if you haven't already). The select 'Create new Database' from the side menu.
 
@@ -53,12 +54,12 @@ Then click create now.
 <h3><span style="color: #3366ff;">Step 7 : Logon to the your wiki page and set it up.</span></h3>
 Browse to <strong><em>http://wiki.keithrozario.com/wiki </em></strong>and you'll see something like this:\
 
-[caption id="attachment_757" align="aligncenter" width="276"]<a href="http://www.keithrozario.com/2011/05/creating-a-wiki-on-nearlyfreespeech.html/mediawiki_setup" rel="attachment wp-att-757"><img class="size-full wp-image-757" title="Mediawiki_setup" src="/uploads/Mediawiki_setup.jpg" alt="" width="276" height="239" /></a> Media Wiki setup page[/caption]
+[caption id="attachment_757" align="aligncenter" width="276"]<a href="http://www.keithrozario.com/2011/05/creating-a-wiki-on-nearlyfreespeech.html/mediawiki_setup" rel="attachment wp-att-757">![](/uploads/Mediawiki_setup.jpg "Mediawiki_setup")</a> Media Wiki setup page[/caption]
 <h3><span style="color: #3366ff;">Step 8 : Enter the related info</span></h3>
 Most of this is easy, except the DB related stuff. For DB related stuff, use the following:
 Firstly go to the mysql option of your nearlyfreespeech control panel. Then look for the name of your mysql instance, an example here:
 
-[caption id="attachment_755" align="aligncenter" width="388"]<a href="http://www.keithrozario.com/2011/05/creating-a-wiki-on-nearlyfreespeech.html/mediawiki_mysql_info" rel="attachment wp-att-755"><img class="size-full wp-image-755" title="Mediawiki_mysql_info" src="/uploads/Mediawiki_mysql_info.jpg" alt="" width="388" height="239" /></a> Name intentionally blank out and changed to test.db[/caption]
+[caption id="attachment_755" align="aligncenter" width="388"]<a href="http://www.keithrozario.com/2011/05/creating-a-wiki-on-nearlyfreespeech.html/mediawiki_mysql_info" rel="attachment wp-att-755">![](/uploads/Mediawiki_mysql_info.jpg "Mediawiki_mysql_info")</a> Name intentionally blank out and changed to test.db[/caption]
 <p style="text-align: center;">Then enter the information into the database information part of the page:</p>
 
 <blockquote>Database host: <strong>localhost</strong>
@@ -86,4 +87,4 @@ Now this post was written for nearlyfreespeech users, who are generally more sav
 
 So basically Dreamhost reduces your MediaWiki installation from a 11 (or 10) step process to just 3 steps. Steps 8,9 and 10. That's the difference between Dreamhost and Nearlyfreespeech.
 
-&nbsp;
+ 

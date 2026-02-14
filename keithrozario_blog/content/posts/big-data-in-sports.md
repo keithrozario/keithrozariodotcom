@@ -1,5 +1,6 @@
 +++
 title = "Big data in sports"
+slug = "big-data-in-sports"
 date = "2013-02-23T07:00:00"
 draft = false
 categories = ['Misc']

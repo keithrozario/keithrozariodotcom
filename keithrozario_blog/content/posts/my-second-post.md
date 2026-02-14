@@ -1,5 +1,6 @@
 +++
 title = "My Second Post"
+slug = "my-second-post"
 date = "2011-04-16T10:24:35"
 draft = false
 tags = ['Blog']

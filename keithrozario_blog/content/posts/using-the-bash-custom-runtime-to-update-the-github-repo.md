@@ -1,12 +1,13 @@
 +++
 title = "Updating a GitHub repo from a Lambda Function using Bash!"
+slug = "using-the-bash-custom-runtime-to-update-the-github-repo"
 date = "2019-09-09T23:14:24"
 draft = false
 categories = ['Serverless']
 +++
 
 <!-- wp:image {"id":6791,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/Screenshot-2019-09-09-at-11.10.52-PM.png" alt="" class="wp-image-6791"/></figure>
+![](/uploads/Screenshot-2019-09-09-at-11.10.52-PM.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -102,7 +103,7 @@ categories = ['Serverless']
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":6796,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/Screenshot-2019-09-09-at-11.21.48-PM.png" alt="" class="wp-image-6796"/></figure>
+![](/uploads/Screenshot-2019-09-09-at-11.21.48-PM.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -210,5 +211,5 @@ created just to store the encrypted SSH Key.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6790,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/Screenshot-2019-09-09-at-11.04.00-PM.png" alt="" class="wp-image-6790"/></figure>
+![](/uploads/Screenshot-2019-09-09-at-11.04.00-PM.png)
 <!-- /wp:image -->

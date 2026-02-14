@@ -1,5 +1,6 @@
 +++
 title = "Security Headers for Gov-TLS-Audit"
+slug = "security-headers-gov-tls-audit"
 date = "2018-07-08T22:00:56"
 draft = false
 tags = ['GovTLS', 'Malaysian Government']
@@ -16,7 +17,7 @@ I was shocked to find out that Gov-TLS-Audit had no security headers at all! I a
 
 So unsurprisingly, a newly created cloudfront distribution, using the reference AWS implementation, fails miserably when it comes to security headers.
 
-<a href="/uploads/step_1_F.jpg"><img class="alignnone size-full wp-image-6445" src="/uploads/step_1_F.jpg" alt="" width="1058" height="218" /></a>
+<a href="/uploads/step_1_F.jpg">![](/uploads/step_1_F.jpg)</a>
 
 I guess the reason is that HTTP headers are very site-dependant. Had Cloudfront done it automatically, it might have broken a majority of sites And implementing headers is one thing, but fixing the underlying problem is another -- totally bigger problem.
 
@@ -79,7 +80,7 @@ Block everything by default unless explicitly mentioned here. Not all fields abo
 
 Now how to add these headers to the page?
 <h2>Lambda@Edge to insert http headers</h2>
-<a href="/uploads/lambda@Edge.png"><img class="wp-image-6450 aligncenter" src="/uploads/lambda@Edge.png" alt="" width="550" height="195" /></a>The only way (I know off) to insert http headers into a S3-based website on AWS, is via the use of CloudFront + Lambda@Edge. You need CloudFront for custom domains with TLS anyway, and now you need an additional Lambda@Edge implementation to inject those http headers into the user response.
+<a href="/uploads/lambda@Edge.png">![](/uploads/lambda@Edge.png)</a>The only way (I know off) to insert http headers into a S3-based website on AWS, is via the use of CloudFront + Lambda@Edge. You need CloudFront for custom domains with TLS anyway, and now you need an additional Lambda@Edge implementation to inject those http headers into the user response.
 
 Amazon allow you to run Lambda@Edge at 4 possible points in time during a user request. The seemingly obvious place to inject them would be just before a response is sent to the user (viewer-response), but this is expensive as we'd need to run the Lambda functions at every user response.
 
@@ -88,9 +89,9 @@ The better place to run them is at origin-response, i.e. after CloudFront has re
 In the end, this is the JavaScript function that injects the headers into my site:
 <script src="https://gist.github.com/keithrozario/ce9454de89e2e4c11e8a55a2180e664b.js"></script>
 
-&nbsp;
+ 
 <h2>Testing your CSP</h2>
-<a href="/uploads/using_burp.jpg"><img class="aligncenter wp-image-6447" src="/uploads/using_burp.jpg" alt="" width="550" height="114" /></a>However, origin-response is a pain to test, because any change to the CSP, requires that you redeploy the lambda@Edge functions (which aren't to deploy as their non-edge siblings), then wait for it to propagate across all edges <strong>and</strong> invalidate the cache. That's a lot of steps to test.
+<a href="/uploads/using_burp.jpg">![](/uploads/using_burp.jpg)</a>However, origin-response is a pain to test, because any change to the CSP, requires that you redeploy the lambda@Edge functions (which aren't to deploy as their non-edge siblings), then wait for it to propagate across all edges <strong>and</strong> invalidate the cache. That's a lot of steps to test.
 
 Instead, I found, running unit test with <a href="https://portswigger.net/burp">BurpSuite</a> to be easier. I initially considered spinning up an Apache webserver just to do this, but that would also require cert generation etc. BurpSuite also requires cert generation, but the process is pretty straightforward as the tool generates them for you already.
 
@@ -98,13 +99,13 @@ I found that by simply running a proxy, you can add a CSP http header to the res
 
 This allows you to quickly fine-tune your CSP, to get it out of 'unit-test' mode. This won't work if you've got 100's of pages to test with, but works pretty well for something like govScan.info, which only has a handful of pages.
 <h2>Deploying Lambda@Edge</h2>
-<a href="/uploads/implement_lambda@Edge.jpg"><img class="aligncenter wp-image-6449" src="/uploads/implement_lambda@Edge.jpg" alt="" width="550" height="138" /></a>Once you're OK with the CSP, and pretty confident if won't break. Create a Lambda@Edge function (remember it has to be in us-east-1/N.Virginia), and associate it with the CloudFront behavior.
+<a href="/uploads/implement_lambda@Edge.jpg">![](/uploads/implement_lambda@Edge.jpg)</a>Once you're OK with the CSP, and pretty confident if won't break. Create a Lambda@Edge function (remember it has to be in us-east-1/N.Virginia), and associate it with the CloudFront behavior.
 
 Now, here's the tricky part, Lamdba@Edge requires a specific version of your function. Unlike regular lambda's that can reference <code>$Latest</code>, Lambda@Edge requires that you publish a version of the function, and use the published version.
 
 Once you have a version of the function, you can then associate it with a CloudFront behavior -- remember, the function is associated with the CloudFront Behavior, not CloudFront distribution. A behavior is a path specific parameter, that specifies which origin CloudFront should reference, e.g. I have a behavior for <code>/api/v2</code> that sends traffic to an API Gateway, and a <code>/files</code> behavior that redirects traffic to an S3 bucket, and finally a <code>*</code> with takes all other traffic to a html file hosted on a separate S3 bucket.
 
-<a href="/uploads/cache_behavior.jpg"><img class="alignnone size-full wp-image-6448" src="/uploads/cache_behavior.jpg" alt="" width="638" height="204" /></a>
+<a href="/uploads/cache_behavior.jpg">![](/uploads/cache_behavior.jpg)</a>
 
 For the purpose of this exercise, I only embed the security headers for the site (and not the API) -- the API Gateway can use it's own lambda functions to provide the headers.
 
@@ -118,13 +119,13 @@ By first deleting the trigger old lambda function -- and then creating a new ver
 
 Hence, try to test as much as possible using BurpSuite, and use this as a last minute tidy up.
 
-<a href="/uploads/Deleting_Old_lambda.jpg"><img class="alignnone size-full wp-image-6451" src="/uploads/Deleting_Old_lambda.jpg" alt="" width="1192" height="452" /></a>
+<a href="/uploads/Deleting_Old_lambda.jpg">![](/uploads/Deleting_Old_lambda.jpg)</a>
 <h2>Results:</h2>
-Once all was done, and a couple iterative re-test, here's what I got.<a href="/uploads/scan_A.jpg"><img class="alignnone size-full wp-image-6453" src="/uploads/scan_A.jpg" alt="" width="1100" height="263" /></a>
+Once all was done, and a couple iterative re-test, here's what I got.<a href="/uploads/scan_A.jpg">![](/uploads/scan_A.jpg)</a>
 
 And of course, a few more tweaks (like <code>base-uri</code> and <code>frame-ancestors</code>) got me this on Mozilla's observatory -- which had no recommended changes for me <strong>(whoop!)</strong>
 
-<a href="/uploads/scan_latest.jpg"><img class="alignnone size-full wp-image-6452" src="/uploads/scan_latest.jpg" alt="" width="1194" height="453" /></a>
+<a href="/uploads/scan_latest.jpg">![](/uploads/scan_latest.jpg)</a>
 
 Not bad for a weekend's work.
 <h2>Conclusion</h2>

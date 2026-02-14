@@ -1,12 +1,13 @@
 +++
 title = "Tricubes gets new RM6million contract"
+slug = "tricubes-get-new-contract"
 date = "2012-01-04T13:21:33"
 draft = false
 tags = ['Tricubes']
 categories = ['Malaysia', 'Misc']
 +++
 
-Sounds surprising and <a href="/uploads/tricubes-300x202.jpg"><img class="alignleft  wp-image-1654" title="tricubes-300x202" src="/uploads/tricubes-300x202.jpg" alt="" width="300" height="202" /></a>quite convenient, that a company that reports a loss of Rm17 million, goes on to report that they have a lifeline, in the form of  a Rm6 million dollar contract from the police to "<em>maintain the Royal Malaysian Police’s (PDRM) mobile systems for</em><em> two years starting January 1</em>".
+Sounds surprising and <a href="/uploads/tricubes-300x202.jpg">![](/uploads/tricubes-300x202.jpg "tricubes-300x202")</a>quite convenient, that a company that reports a loss of Rm17 million, goes on to report that they have a lifeline, in the form of  a Rm6 million dollar contract from the police to "<em>maintain the Royal Malaysian Police’s (PDRM) mobile systems for</em><em> two years starting January 1</em>".
 
 Quoting <a title="Tricube lands Rm6 million dollar deal" href="http://www.themalaysianinsider.com/business/article/tricubes-lands-rm6m-deal-to-manage-pdrms-mobile-systems/" target="_blank">this </a>Malaysian Insider Report :
 

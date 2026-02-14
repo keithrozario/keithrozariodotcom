@@ -1,11 +1,12 @@
 +++
 title = "Is Dowloading a banned ebook illegal?"
+slug = "downloading-irshad-manji-ebook-illegal-malaysian-law"
 date = "2012-06-22T10:00:02"
 draft = false
 categories = ['Copyright and Censorship', 'CyberLaw', "Keith's Favorite Post", 'Malaysia']
 +++
 
-<a href="/uploads/Banned_Books.jpg"><img class="alignleft size-full wp-image-2345" title="Banned_Books" src="/uploads/Banned_Books.jpg" alt="" width="320" height="240" /></a>Let's get straight to the point, the latest case where the Federal Territory Islamic Affairs Department (Jawi) is prosecuting a store manager is both disgusting and without merit. Not only is she just a Manager carrying out here duties--t<em>hereby making the bookstore liable instead of her</em>, but the raid on the bookstore was carried out BEFORE the book was banned by the Home Ministry. So here in Malaysia, not only will the Government be able to persecute you in a guilty until proven innocent manner, but apparently government agencies can persecute for possession of a book before it is banned.
+<a href="/uploads/Banned_Books.jpg">![](/uploads/Banned_Books.jpg "Banned_Books")</a>Let's get straight to the point, the latest case where the Federal Territory Islamic Affairs Department (Jawi) is prosecuting a store manager is both disgusting and without merit. Not only is she just a Manager carrying out here duties--t<em>hereby making the bookstore liable instead of her</em>, but the raid on the bookstore was carried out BEFORE the book was banned by the Home Ministry. So here in Malaysia, not only will the Government be able to persecute you in a guilty until proven innocent manner, but apparently government agencies can persecute for possession of a book before it is banned.
 
 However, politics aside, let's talk technology!!
 
@@ -59,7 +60,7 @@ The BoG is a 10 point document, and point number 7 states in no uncertain terms 
 
 Let's call this particular point of contention the Bill of Guarantees point 7, or as a more hip acronym the <strong>BoG.7</strong> .
 <h2>The Contradiction</h2>
-<a href="/uploads/Contradiction.jpg"><img class="alignright size-full wp-image-2346" style="margin-left: 15px;" title="Contradiction" src="/uploads/Contradiction.jpg" alt="" width="158" height="240" /></a>So here's where it gets interesting, if I download an ebook via the internet would that constitute something that could be protected by BoG.7?
+<a href="/uploads/Contradiction.jpg">![](/uploads/Contradiction.jpg "Contradiction")</a>So here's where it gets interesting, if I download an ebook via the internet would that constitute something that could be protected by BoG.7?
 
 How then do we harmonize these two seemingly contradictory laws, on the one hand the home ministry can ban literally <strong>anything</strong> of written form and on the other hand the government has promised not to censor the internet? Isn't the internet also of written form and shouldn't it be outside of the scope of the Printing and Publications act?
 

@@ -1,12 +1,13 @@
 +++
 title = "Access Keys in AWS Lambda"
+slug = "access-keys-in-aws-lambda"
 date = "2020-06-14T17:55:51"
 draft = false
 categories = ["Keith's Favorite Post", 'Security &amp; Privacy', 'Serverless']
 +++
 
 <!-- wp:image {"align":"center","id":7164,"linkDestination":"media"} -->
-<div class="wp-block-image"><figure class="aligncenter"><a href="/uploads/lambda-sts.png"><img src="/uploads/lambda-sts.png" alt="" class="wp-image-7164"/></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><a href="/uploads/lambda-sts.png">![](/uploads/lambda-sts.png)</a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -74,7 +75,7 @@ categories = ["Keith's Favorite Post", 'Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7150,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="/uploads/cold-start.png"><img src="/uploads/cold-start.png" alt="" class="wp-image-7150"/></a><figcaption>Inspired by: https://www.twitch.tv/videos/647501563?t=00h07m51s</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="/uploads/cold-start.png">![](/uploads/cold-start.png)</a><figcaption>Inspired by: https://www.twitch.tv/videos/647501563?t=00h07m51s</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -86,7 +87,7 @@ categories = ["Keith's Favorite Post", 'Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7151,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="/uploads/cold-start-full.png"><img src="/uploads/cold-start-full.png" alt="" class="wp-image-7151"/></a></figure>
+<figure class="wp-block-image size-large"><a href="/uploads/cold-start-full.png">![](/uploads/cold-start-full.png)</a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -94,7 +95,7 @@ categories = ["Keith's Favorite Post", 'Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7158,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="/uploads/assume-role-3.png"><img src="/uploads/assume-role-3.png" alt="" class="wp-image-7158"/></a></figure>
+<figure class="wp-block-image size-large"><a href="/uploads/assume-role-3.png">![](/uploads/assume-role-3.png)</a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -102,7 +103,7 @@ categories = ["Keith's Favorite Post", 'Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7159,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="/uploads/CreateLogStream-1.png"><img src="/uploads/CreateLogStream-1.png" alt="" class="wp-image-7159"/></a></figure>
+<figure class="wp-block-image size-large"><a href="/uploads/CreateLogStream-1.png">![](/uploads/CreateLogStream-1.png)</a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -114,7 +115,7 @@ categories = ["Keith's Favorite Post", 'Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7160,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="/uploads/ListBuckets-1.png"><img src="/uploads/ListBuckets-1.png" alt="" class="wp-image-7160"/></a></figure>
+<figure class="wp-block-image size-large"><a href="/uploads/ListBuckets-1.png">![](/uploads/ListBuckets-1.png)</a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -162,7 +163,7 @@ categories = ["Keith's Favorite Post", 'Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7165,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="/uploads/ip-accesskey.png"><img src="/uploads/ip-accesskey.png" alt="" class="wp-image-7165"/></a></figure>
+<figure class="wp-block-image size-large"><a href="/uploads/ip-accesskey.png">![](/uploads/ip-accesskey.png)</a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -210,7 +211,7 @@ categories = ["Keith's Favorite Post", 'Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7161,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="/uploads/ListBuckets_CLI.png"><img src="/uploads/ListBuckets_CLI.png" alt="" class="wp-image-7161"/></a></figure>
+<figure class="wp-block-image size-large"><a href="/uploads/ListBuckets_CLI.png">![](/uploads/ListBuckets_CLI.png)</a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -246,7 +247,7 @@ categories = ["Keith's Favorite Post", 'Security &amp; Privacy', 'Serverless']
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"center","id":7167,"sizeSlug":"large","linkDestination":"media"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="/uploads/revoke_keys.png"><img src="/uploads/revoke_keys.png" alt="" class="wp-image-7167"/></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="/uploads/revoke_keys.png">![](/uploads/revoke_keys.png)</a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -286,7 +287,7 @@ categories = ["Keith's Favorite Post", 'Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7163,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="/uploads/serverless-role.png"><img src="/uploads/serverless-role.png" alt="" class="wp-image-7163"/></a></figure>
+<figure class="wp-block-image size-large"><a href="/uploads/serverless-role.png">![](/uploads/serverless-role.png)</a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

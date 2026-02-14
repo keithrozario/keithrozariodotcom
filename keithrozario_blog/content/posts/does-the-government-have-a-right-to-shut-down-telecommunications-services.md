@@ -1,11 +1,12 @@
 +++
 title = "Does the government have a right to shut down telecommunications services?"
+slug = "does-the-government-have-a-right-to-shut-down-telecommunications-services"
 date = "2012-11-30T13:58:29"
 draft = false
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia']
 +++
 
-<a href="/uploads/no_service.jpg"><img class="alignleft size-medium wp-image-2974" title="Disconnecting Mobile Phone Service" src="/uploads/no_service-300x225.jpg" alt="" width="300" height="225" /></a><a title="Press.Tv" href="http://www.presstv.ir/detail/2012/11/23/274133/pakistan-suspends-mobile-phone-services/" target="_blank">Press.Tv reports that</a> Pakistan has suspended mobile phone services in several major cities to prevent terror attacks on minority Shia groups as they celebrate the holy month of Muharram. The rationale behind the suspension is that the terrorist use mobile phone services to detonate bombs and as a result the suspension of mobile phone services would help prevent such attacks. Meanwhile, Ihsanullah Ihsan, a spokesman for the militants' umbrella group, the Tehrik-e Taliban Pakistan (TTP), has claimed that suspending mobile phone services will not hold them back from carrying out their deadly attacks against the Shia Muslims.
+<a href="/uploads/no_service.jpg">![](/uploads/no_service-300x225.jpg "Disconnecting Mobile Phone Service")</a><a title="Press.Tv" href="http://www.presstv.ir/detail/2012/11/23/274133/pakistan-suspends-mobile-phone-services/" target="_blank">Press.Tv reports that</a> Pakistan has suspended mobile phone services in several major cities to prevent terror attacks on minority Shia groups as they celebrate the holy month of Muharram. The rationale behind the suspension is that the terrorist use mobile phone services to detonate bombs and as a result the suspension of mobile phone services would help prevent such attacks. Meanwhile, Ihsanullah Ihsan, a spokesman for the militants' umbrella group, the Tehrik-e Taliban Pakistan (TTP), has claimed that suspending mobile phone services will not hold them back from carrying out their deadly attacks against the Shia Muslims.
 
 This is ultimately a case of the government having too much power, the real threat of terrorist using bombs somehow resulted in a <strong>government issued</strong> communications blackout throughout the country--which does little to prevent the terrorist who are hell bent on killing.
 
@@ -37,7 +38,7 @@ Within a few days of Hitler's rise to power in 1933, his chief of propaganda, Jo
 
 It is only against a backdrop where freedom of speech is curtailed that genocide is made possible. In the last 3 instances where the world has witness genocide--we always witness the curtailing of the universal right to free speech FIRST and THEN the genocide. After all those who advocate against freedom of speech, usually advocate strong government powers with regards to curtailing speech, and if the government itself is implicit in genocide--what's the point?
 <h2>Malaysian perspective</h2>
-<a href="/uploads/Bersih3.0_Communication_Shutdown.jpg"><img class="alignright size-medium wp-image-2976" title="Bersih3.0_Communication_Shutdown" src="/uploads/Bersih3.0_Communication_Shutdown-300x199.jpg" alt="Bersih 3.0 Communication Shutdown" width="300" height="199" /></a>I often wonder, how May 13th 1969 would have been different for Malaysia if we had implemented freedom of speech. Could we have staved off the blood shed--or would there have been MORE? The answer isn't as straightforward as one might think--partly because like many other Malaysia I am a bit confused as to what really went down on that fateful day. I wish I knew more, but more importantly I wish I knew the truth.
+<a href="/uploads/Bersih3.0_Communication_Shutdown.jpg">![Bersih 3.0 Communication Shutdown](/uploads/Bersih3.0_Communication_Shutdown-300x199.jpg "Bersih3.0_Communication_Shutdown")</a>I often wonder, how May 13th 1969 would have been different for Malaysia if we had implemented freedom of speech. Could we have staved off the blood shed--or would there have been MORE? The answer isn't as straightforward as one might think--partly because like many other Malaysia I am a bit confused as to what really went down on that fateful day. I wish I knew more, but more importantly I wish I knew the truth.
 
 Consider also the suspicions among the opposition parties that the Government was implicit in the shutting down of mobile communication services in KL during the Bersih 3.0 rally.
 

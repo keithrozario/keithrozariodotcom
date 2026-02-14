@@ -1,5 +1,6 @@
 +++
 title = "Good, fast, or Cheap?"
+slug = "good-fast-or-cheap"
 date = "2025-07-23T12:59:06"
 draft = false
 categories = ['Misc']
@@ -42,7 +43,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":8052,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/image-8-820x388.png" alt="" class="wp-image-8052"/></figure>
+![](/uploads/image-8-820x388.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

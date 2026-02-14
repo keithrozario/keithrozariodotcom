@@ -1,12 +1,13 @@
 +++
 title = "Local broadband speeds slower than Cambodia: Why it doesn't matter"
+slug = "malaysia-broadband-slow-cambodia-ookla"
 date = "2014-05-12T23:02:53"
 draft = false
 tags = ['MalaysiaBroadband']
 categories = ['Malaysia']
 +++
 
-<p style="text-align: center;"><a href="/uploads/Broadband_speed_klang_malaysia.png"><img class="aligncenter  wp-image-4328" title="Broadband speeds in Malaysia" alt="Broadband_speed_klang_malaysia" src="/uploads/Broadband_speed_klang_malaysia.png" width="551" height="255" /></a> <a href="/uploads/BR1M-Barisan-Nasional.png">
+<p style="text-align: center;"><a href="/uploads/Broadband_speed_klang_malaysia.png">![Broadband_speed_klang_malaysia](/uploads/Broadband_speed_klang_malaysia.png "Broadband speeds in Malaysia")</a> <a href="/uploads/BR1M-Barisan-Nasional.png">
 </a></p>
 I drive a Prius--it's a magnificent car, and if you think otherwise just ask me about the mileage.
 
@@ -30,7 +31,7 @@ Most people complain about the availability of broadband rather than the speed. 
 
 Sure, speeds will be a problem in 3-5 years, and we should think of them, but for the short-term we got the speed issue settled.
 
-<a href="/uploads/Download-Speed-in-Malaysia-Net-Index-from-Ookla.png"><img class="aligncenter" alt="Download Speed in Malaysia   Net Index from Ookla" src="/uploads/Download-Speed-in-Malaysia-Net-Index-from-Ookla.png" width="550" height="230" /></a>
+<a href="/uploads/Download-Speed-in-Malaysia-Net-Index-from-Ookla.png">![Download Speed in Malaysia   Net Index from Ookla](/uploads/Download-Speed-in-Malaysia-Net-Index-from-Ookla.png)</a>
 <h2>2. Latency</h2>
 Building on the car analogy, I will admit my Prius is slow. It accelerates slowly, doing 0-100kmph in over 10 seconds.
 

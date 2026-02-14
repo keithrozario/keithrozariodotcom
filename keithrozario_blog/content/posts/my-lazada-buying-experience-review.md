@@ -1,11 +1,12 @@
 +++
 title = "My Lazada buying experience"
+slug = "my-lazada-buying-experience-review"
 date = "2013-08-24T08:00:26"
 draft = false
 categories = ['Malaysia', 'Misc']
 +++
 
-<a href="/uploads/lazada.png"><img class="size-full wp-image-1972 alignleft" style="margin-right: 20px;" alt="lazada" src="/uploads/lazada.png" width="218" height="287" /></a>About a year back, I wrote about how excited I was that Lazada was finally coming to Malaysian shores, however I never really got around to buying anything from Lazada until recently. As you know, I was in the market for a new Unifi router and after some online shopping I decided to settle for a Asus router from Lazada, not only was the price cheaper, Lazada promised free delivery and even an RM10 discount if I subscribed to the newsletter.
+<a href="/uploads/lazada.png">![lazada](/uploads/lazada.png)</a>About a year back, I wrote about how excited I was that Lazada was finally coming to Malaysian shores, however I never really got around to buying anything from Lazada until recently. As you know, I was in the market for a new Unifi router and after some online shopping I decided to settle for a Asus router from Lazada, not only was the price cheaper, Lazada promised free delivery and even an RM10 discount if I subscribed to the newsletter.
 
 So I created and account, subscribed to the newsletter and purchase an Asus router from the website--thinking all I had to do was sit and wait, and the router would be at my doorstep within 3 days.
 
@@ -20,7 +21,7 @@ After checking around on the lowyat forums and a few sellers, I noticed that the
 This time I used my regular credit card (rather than my debit card) to make the purchase, and everything seem fine.
 
 Soon I got a confirmation--but of course the confirmation was a bit wonky, check out below and see if you spot the mistake?
-<p style="text-align: center;"><a href="/uploads/Lazada_shipment.png"><img class="aligncenter  wp-image-4007" alt="Lazada_shipment" src="/uploads/Lazada_shipment.png" width="449" height="271" /></a></p>
+<p style="text-align: center;"><a href="/uploads/Lazada_shipment.png">![Lazada_shipment](/uploads/Lazada_shipment.png)</a></p>
 To be fair, this was due to the fact, that I bundled a few more accessories with the purchase, but the fact that Lazada couldn't properly issue an invoice was a bit dis-concerting to say the least. These were people I was handing over my Credit Card information too.
 
 The one thing I was happy with, was that they sms-ed me the tracking number, which I appreciated. It allowed me to easily track the parcel without having to open up my emails.
@@ -39,7 +40,7 @@ Alas, 12 o' clock arrived and no delivery was in sight. Calling GDex again, and 
 
 This isn't Lazada's problem, a similar package from another online retailer that was shipped on the 31st of July, took 4 days to reach me. The conclusion is that if Lazada truly cared about their customer experience, they would switch their courier, because Gdex basically sucks.
 
-<a href="/uploads/GD-Express-Sdn-Bhd-Specialist-In-Carrier-Service.png"><img class="aligncenter size-full wp-image-4008" alt="GD Express Sdn Bhd   Specialist In Carrier Service" src="/uploads/GD-Express-Sdn-Bhd-Specialist-In-Carrier-Service.png" width="569" height="144" /></a>
+<a href="/uploads/GD-Express-Sdn-Bhd-Specialist-In-Carrier-Service.png">![GD Express Sdn Bhd   Specialist In Carrier Service](/uploads/GD-Express-Sdn-Bhd-Specialist-In-Carrier-Service.png)</a>
 
 To put things in perspective, I ordered a fitbit from Amazon, and they shipped in <a title="Amazon Shipping to Malaysia" href="http://www.keithrozario.com/2013/01/amazon-shipping-to-malaysia.html">from Allentown, USA to Malaysia in 3 days</a> (one the week of Christmas)! So there is no excuse for GDex take 3 days to ship something locally.
 

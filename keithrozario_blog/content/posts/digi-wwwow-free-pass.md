@@ -1,5 +1,6 @@
 +++
 title = "Get 2 passes to the Digi WWWOW awards"
+slug = "digi-wwwow-free-pass"
 date = "2012-06-08T16:23:03"
 draft = false
 categories = ['Misc']
@@ -21,4 +22,4 @@ As the first (and only) participant of the competition, Mr. Shakir Ameer is the 
 
 Congratulations to Shakir, I've already contacted him. To the rest of the Digi WWWOW nominees, see you guys there.
 
-&nbsp;
+ 

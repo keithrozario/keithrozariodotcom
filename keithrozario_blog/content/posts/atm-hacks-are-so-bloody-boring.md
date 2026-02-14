@@ -1,11 +1,12 @@
 +++
 title = "ATM Hacks are so bloody boring"
+slug = "atm-hacks-are-so-bloody-boring"
 date = "2014-10-01T22:31:11"
 draft = false
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++
 
-<img class="wp-image-4594 aligncenter" src="/uploads/10710694_10152497851406888_323063805424206601_n.jpg" alt="KLIA computer infected with Virus" width="550" height="309" />Last week, while I was flying from KL to London, I noticed a strange anomaly on the screen of the boarding gate at KLIA. Closer inspection revealed that it was an anti-virus warning that signaled the computer had been infected by a Virus (almost 2 days ago!!). As a techie, I quickly deduced 3 things from the screen.
+![KLIA computer infected with Virus](/uploads/10710694_10152497851406888_323063805424206601_n.jpg)Last week, while I was flying from KL to London, I noticed a strange anomaly on the screen of the boarding gate at KLIA. Closer inspection revealed that it was an anti-virus warning that signaled the computer had been infected by a Virus (almost 2 days ago!!). As a techie, I quickly deduced 3 things from the screen.
 
 <strong>One</strong>, the computer was running Windows, and probably an outdated version of Windows.
 <strong>Two</strong>, the computer had been infected with <a title="conficker" href="https://en.wikipedia.org/wiki/Conficker" target="_blank">Conficker</a>--<a title="Conficker Worm" href="http://www.symantec.com/connect/articles/killing-conficker-how-eradicate-w32downadup-good" target="_blank">Conficker was a pretty infamous threat, back in 2008</a>!! And yet, here we are, at Malaysia's most prestigious airport, and we have a computer infected by a virus that pre-dates the iPhone 3G.
@@ -26,7 +27,7 @@ First of all, ATM cash is cold hard cash--which may sound appealing, but that's 
 Secondly, these involved physical machines, the criminals had to go to the ATMs to withdraw the money and expose their faces. Digital hackers that broke into Target, PF Changs and Home Depot have yet to been photographed let alone caught.
 
 Finally, there's no way the criminals can automate this, they're required to go to each individual ATM and perform the Hack themselves. And now that Police are on their trail, it's likely the Police have staked out the ATMs and the gang is likely to be laying low. So really the total damage these guys caused is probably is probably the reported Rm2-RM3 million--that's boring.
-<h2><img class="size-full wp-image-4593 alignleft" src="/uploads/Latin_American_ATM_robbers-police-300914.jpg" alt="Latin_American_ATM_robbers-police-300914" width="360" height="334" />Not a big deal</h2>
+<h2>![Latin_American_ATM_robbers-police-300914](/uploads/Latin_American_ATM_robbers-police-300914.jpg)Not a big deal</h2>
 If you've worked in the IT department of a bank, Rm3 Million is a medium sized IT project--<a title="CIMB Core banking upgrade" href="http://www.thesundaily.my/news/962182" target="_blank">CIMB's core banking system upgrade cost them nearly RM1.1 BILLION</a>, what's a few million here and there. You might even argue that it cost less than actually updating these ATMs. So what's the big deal?
 
 It's a victimless crime (unless you consider banks and insurance companies 'victims'). Yes, the police computer crimes unit is on top of it, but really, what are they going to do.

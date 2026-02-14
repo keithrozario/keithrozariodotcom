@@ -1,12 +1,13 @@
 +++
 title = "Using Terraform and Serverless Framework"
+slug = "using-terraform-and-serverless-framework"
 date = "2019-03-03T19:10:54"
 draft = false
 categories = ['Cloud Computing', 'Serverless']
 +++
 
 <!-- wp:image {"id":6691} -->
-<figure class="wp-block-image"><img src="/uploads/800px-Guaricano-Bambini.jpeg" alt="" class="wp-image-6691"/><figcaption>Image from <a href="https://en.wikipedia.org/wiki/Holding_hands#/media/File:Guaricano-Bambini.JPG">wikicommons</a>.</figcaption></figure>
+![](/uploads/800px-Guaricano-Bambini.jpeg)<figcaption>Image from <a href="https://en.wikipedia.org/wiki/Holding_hands#/media/File:Guaricano-Bambini.JPG">wikicommons</a>.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -46,7 +47,7 @@ categories = ['Cloud Computing', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6696} -->
-<figure class="wp-block-image"><img src="/uploads/TerraformAndServerless1.png" alt="" class="wp-image-6696"/></figure>
+<figure class="wp-block-image">![](/uploads/TerraformAndServerless1.png)
 <!-- /wp:image -->
 
 <!-- wp:more -->

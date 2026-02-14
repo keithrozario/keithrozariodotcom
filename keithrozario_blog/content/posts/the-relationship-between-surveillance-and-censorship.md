@@ -1,11 +1,12 @@
 +++
 title = "The relationship between surveillance and censorship"
+slug = "the-relationship-between-surveillance-and-censorship"
 date = "2016-03-27T16:01:30"
 draft = false
 categories = ['Misc']
 +++
 
-<a href="/uploads/314989744_5b5a852b47_z.jpg" rel="attachment wp-att-4940"><img class="alignleft wp-image-4940 size-medium" src="/uploads/314989744_5b5a852b47_z-300x200.jpg" alt="Spying Program" width="300" height="200" /></a>In the online world, surveillance and censorship are two sides of the same coin, you can't have one without the other.
+<a href="/uploads/314989744_5b5a852b47_z.jpg" rel="attachment wp-att-4940">![Spying Program](/uploads/314989744_5b5a852b47_z-300x200.jpg)</a>In the online world, surveillance and censorship are two sides of the same coin, you can't have one without the other.
 
 When the government moots a 'blogger registration' act , we automatically infer it to be part of a wider censorship initiative, an attempt to control the narrative by subtlety telling bloggers <em>"we know who you are, so watch what you say".</em>
 

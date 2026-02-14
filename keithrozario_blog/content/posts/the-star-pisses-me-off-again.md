@@ -1,5 +1,6 @@
 +++
 title = "The Star pisses me off--again."
+slug = "the-star-pisses-me-off-again"
 date = "2013-08-28T22:02:00"
 draft = false
 categories = ['Science']

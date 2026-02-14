@@ -1,5 +1,6 @@
 +++
 title = "Identity in a Post-Breach world (draft)"
+slug = "identity-in-a-post-breach-world"
 date = "2017-12-02T10:20:47"
 draft = false
 categories = ['Misc']

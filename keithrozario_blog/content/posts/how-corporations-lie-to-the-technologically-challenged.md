@@ -1,11 +1,12 @@
 +++
 title = "How corporations lie to the technologically challenged"
+slug = "how-corporations-lie-to-the-technologically-challenged"
 date = "2015-09-28T11:50:39"
 draft = false
 categories = ['CyberLaw', 'Malaysia', 'Security &amp; Privacy']
 +++
 
-<a href="/uploads/wpid-wp-1442992521638-1.jpeg"><img class="wp-image-5184 aligncenter" src="/uploads/wpid-wp-1442992521638-1-300x170.jpeg" alt="wpid-wp-1442992521638 (1)" width="550" height="311" /></a>Two weeks ago, Lowyat.net published a <a href="http://www.lowyat.net/2015/74092/can-you-break-these-codes/">'challenge'</a> to their readers, one that would supposedly pay a cool RM100,000 to the winner.All you had to do was decrypt an AES-256 encoded blob of code (more accurately referred to as ciphertext).
+<a href="/uploads/wpid-wp-1442992521638-1.jpeg">![wpid-wp-1442992521638 (1)](/uploads/wpid-wp-1442992521638-1-300x170.jpeg)</a>Two weeks ago, Lowyat.net published a <a href="http://www.lowyat.net/2015/74092/can-you-break-these-codes/">'challenge'</a> to their readers, one that would supposedly pay a cool RM100,000 to the winner.All you had to do was decrypt an AES-256 encoded blob of code (more accurately referred to as ciphertext).
 
 As expected, no one won.
 
@@ -34,7 +35,7 @@ Plus if you really are serious about security, you'd have a website with TLS enc
 
 Finally of course, we need to talk about Government spying. Zipit is an application provided by Celcom, a local telecommunications provider. If you're afraid of the Government spying on you, then this is the last application you want to use, because all the Government has to do is ask Celcom for your communications and Celcom are compelled under <a href="https://www.keithrozario.com/2015/05/the-technological-effects-of-sosma-and-pota.html">SOSMA</a> to provide it to them.
 <h2>Secure messaging apps</h2>
-<img class="wp-image-5188 aligncenter" src="/uploads/Secure-Messaging-Scorecard-Electronic-Frontier-Foundation-820x312.png" alt="Secure Messaging Scorecard Electronic Frontier Foundation" width="550" height="209" />
+![Secure Messaging Scorecard Electronic Frontier Foundation](/uploads/Secure-Messaging-Scorecard-Electronic-Frontier-Foundation-820x312.png)
 
 If you really wanted to message your friends securely and safely, the two applications I recommend is <a href="https://telegram.org/">telegram </a>(with the secret chat functionality) and <a href="https://whispersystems.org/">textsecure</a>, both of these apps score full-marks on the <a href="https://www.eff.org/secure-messaging-scorecard">EFF's secure messaging scorecard</a>. They're free, and don't mislead you into thinking their apps are secure just because they use 'military-grade aes-256' encryption.
 

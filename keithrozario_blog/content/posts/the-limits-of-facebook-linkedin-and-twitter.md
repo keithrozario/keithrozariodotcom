@@ -1,12 +1,13 @@
 +++
 title = "The limits of Facebook, LinkedIn and Twitter"
+slug = "the-limits-of-facebook-linkedin-and-twitter"
 date = "2011-05-12T16:01:33"
 draft = false
 tags = ['Facebook', 'Google', 'LinkedIn']
 categories = ['Misc']
 +++
 
-<a href="http://www.keithrozario.com/2011/05/taking-things-to-the-limit.html"><img class="alignleft size-thumbnail wp-image-703" title="The limit" src="/uploads/5052070022_73852a658e_o-100x150.jpg" alt="" width="134" height="150" /></a> Facebook has a 5000 Friend limit, meaning you can't have more than 5000 facebook friends, and once you hit this limit Facebook won't let you have any more friends.
+<a href="http://www.keithrozario.com/2011/05/taking-things-to-the-limit.html">![](/uploads/5052070022_73852a658e_o-100x150.jpg "The limit")</a> Facebook has a 5000 Friend limit, meaning you can't have more than 5000 facebook friends, and once you hit this limit Facebook won't let you have any more friends.
 
 Being an excel guru, I knew that older versions of excel had a 65,536 row limit per worksheet. That meant you couldn't store more than 65,536 rows in excel, the geeks among us would recognize 65,536 as a 2 raised to the 16th power, so the number itself suggest it's a system limitation that prevented excel from exceeded 65,536 rows. Facebook on the other hand has a very nice round number of 5000. That suggests that is was  a very careful design consideration to limit the number of friends you have rather than some database limitation. Personally I don't even have 1,000 friends so it's unlikely to bother me, but it did bother quite a number of people who now have turned to fan pages to broadcast their message on facebook.<!--more-->
 
@@ -42,9 +43,9 @@ The topic though, got me wondering what other limits there were on the web:
 
 <span style="font-size: 32px; color: 3300ff;">6,775,235,700</span> - Population of planet earth
 
-&nbsp;
+ 
 <h1 style="text-align: center;">And finally, the big mother load!!</h1>
-&nbsp;
+ 
 
 <span style="font-size: 36px; color: 3300ff;">298,000,000,000</span> - Number of emails sent over the internet.....EVERYDAY!!
 

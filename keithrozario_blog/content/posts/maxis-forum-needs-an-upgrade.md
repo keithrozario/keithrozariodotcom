@@ -1,5 +1,6 @@
 +++
 title = "Maxis Forum needs an upgrade"
+slug = "maxis-forum-needs-an-upgrade"
 date = "2014-12-28T16:36:33"
 draft = false
 tags = ['Maxis']
@@ -8,7 +9,7 @@ categories = ['Malaysia', 'Security &amp; Privacy']
 
 Yesterday I Googled something about maxis that took me to a forum.maxis.com.my link. Unfortunately, Firefox wasn't happy with Maxis, because I got the following screen:
 
-<a href="/uploads/Maxis-forum.png"><img class="size-full wp-image-4690 aligncenter" src="/uploads/Maxis-forum.png" alt="SSL V3 on maxis forum" width="579" height="225" /></a>
+<a href="/uploads/Maxis-forum.png">![SSL V3 on maxis forum](/uploads/Maxis-forum.png)</a>
 
 Firefox is the first of the mainstream browsers to end support of SSLv3, ever since <a title="Poodle Security Vulnerability" href="https://en.wikipedia.org/wiki/POODLE" target="_blank">Poodle</a> was published. For those of you who aren't keeping tabs of security issues--Poodle was a big vulnerability discovered in the 2nd half of 2014, that affected the SSLv3 protocol.
 

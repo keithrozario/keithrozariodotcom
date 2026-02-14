@@ -1,5 +1,6 @@
 +++
 title = "Anonymous downs Israeli web sites to protest web embargo"
+slug = "anonymous-attacks-israel-for-censorshi"
 date = "2012-11-18T23:12:32"
 draft = false
 tags = ['Anonymous', 'Israel']

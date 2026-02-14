@@ -1,5 +1,6 @@
 +++
 title = "2018 in Review"
+slug = "my-year-in-review"
 date = "2018-12-24T16:56:12"
 draft = false
 categories = ['Misc']
@@ -22,7 +23,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6591,"align":"center"} -->
-<div class="wp-block-image"><figure class="aligncenter"><img src="/uploads/PDPA.jpg" alt="" class="wp-image-6591"/><figcaption>Me with the PDPA commissioner</figcaption></figure></div>
+![](/uploads/PDPA.jpg)<figcaption>Me with the PDPA commissioner</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -30,7 +31,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6382,"align":"left","width":185,"height":254} -->
-<div class="wp-block-image"><figure class="alignleft is-resized"><img src="/uploads/undi-tweet-edit.jpg" alt="" class="wp-image-6382" width="185" height="254"/></figure></div>
+<div class="wp-block-image"><figure class="alignleft is-resized">![](/uploads/undi-tweet-edit.jpg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -46,7 +47,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6592} -->
-<figure class="wp-block-image"><img src="/uploads/IMG_5221.jpg" alt="" class="wp-image-6592"/><figcaption>My Presentation at HITB</figcaption></figure>
+![](/uploads/IMG_5221.jpg)<figcaption>My Presentation at HITB</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -62,7 +63,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6598} -->
-<figure class="wp-block-image"><img src="/uploads/parliament.jpg" alt="" class="wp-image-6598"/><figcaption><br></figcaption></figure>
+<figure class="wp-block-image">![](/uploads/parliament.jpg)<figcaption><br></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -74,7 +75,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6597} -->
-<figure class="wp-block-image"><img src="/uploads/John_holmes.jpg" alt="" class="wp-image-6597"/></figure>
+<figure class="wp-block-image">![](/uploads/John_holmes.jpg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

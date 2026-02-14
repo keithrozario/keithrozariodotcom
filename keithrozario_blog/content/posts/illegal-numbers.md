@@ -1,5 +1,6 @@
 +++
 title = "Illegal numbers?"
+slug = "illegal-numbers"
 date = "2013-05-16T07:00:51"
 draft = false
 categories = ['Misc', 'Science']

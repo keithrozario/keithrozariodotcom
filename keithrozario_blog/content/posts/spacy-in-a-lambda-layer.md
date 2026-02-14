@@ -1,12 +1,13 @@
 +++
 title = "Spacy in a Lambda"
+slug = "spacy-in-a-lambda-layer"
 date = "2019-04-22T00:29:34"
 draft = false
 categories = ['AI', 'Singapore']
 +++
 
 <!-- wp:image {"id":6728} -->
-<figure class="wp-block-image"><img src="/uploads/social_default-1d3b50b1eba4c2b06244425ff0c49570.jpg" alt="" class="wp-image-6728"/></figure>
+![](/uploads/social_default-1d3b50b1eba4c2b06244425ff0c49570.jpg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -46,7 +47,7 @@ categories = ['AI', 'Singapore']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6733} -->
-<figure class="wp-block-image"><img src="/uploads/Screenshot-2019-04-22-at-9.54.23-PM.png" alt="" class="wp-image-6733"/></figure>
+![](/uploads/Screenshot-2019-04-22-at-9.54.23-PM.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -70,7 +71,7 @@ categories = ['AI', 'Singapore']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6727} -->
-<figure class="wp-block-image"><img src="/uploads/Screenshot-2019-04-21-at-11.57.32-PM.png" alt="" class="wp-image-6727"/></figure>
+![](/uploads/Screenshot-2019-04-21-at-11.57.32-PM.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -82,7 +83,7 @@ categories = ['AI', 'Singapore']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6726} -->
-<figure class="wp-block-image"><img src="/uploads/Screenshot-2019-04-21-at-11.58.59-PM.png" alt="" class="wp-image-6726"/></figure>
+![](/uploads/Screenshot-2019-04-21-at-11.58.59-PM.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -98,7 +99,7 @@ categories = ['AI', 'Singapore']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6725} -->
-<figure class="wp-block-image"><img src="/uploads/Screenshot-2019-04-22-at-12.10.42-AM.png" alt="" class="wp-image-6725"/></figure>
+![](/uploads/Screenshot-2019-04-22-at-12.10.42-AM.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -1,5 +1,6 @@
 +++
 title = "The problem with Grab"
+slug = "grab-isnt-good"
 date = "2019-02-06T00:12:52"
 draft = false
 categories = ["Keith's Favorite Post", 'Malaysia', 'Science']
@@ -18,7 +19,7 @@ categories = ["Keith's Favorite Post", 'Malaysia', 'Science']
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":6652,"align":"center","width":233,"height":233} -->
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="/uploads/grab.png" alt="" class="wp-image-6652" width="233" height="233"/></figure></div>
+![](/uploads/grab.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -82,7 +83,7 @@ categories = ["Keith's Favorite Post", 'Malaysia', 'Science']
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":6654,"align":"center","width":282,"height":190} -->
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="/uploads/monopoly.jpg" alt="" class="wp-image-6654" width="282" height="190"/></figure></div>
+![](/uploads/monopoly.jpg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -142,7 +143,7 @@ categories = ["Keith's Favorite Post", 'Malaysia', 'Science']
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":6655} -->
-<figure class="wp-block-image"><img src="/uploads/self-driving.jpeg" alt="" class="wp-image-6655"/></figure>
+![](/uploads/self-driving.jpeg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -222,5 +223,5 @@ categories = ["Keith's Favorite Post", 'Malaysia', 'Science']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6656} -->
-<figure class="wp-block-image"><img src="/uploads/landscape-of-human-competence.png" alt="" class="wp-image-6656"/></figure>
+![](/uploads/landscape-of-human-competence.png)
 <!-- /wp:image -->

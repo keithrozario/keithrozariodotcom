@@ -1,11 +1,12 @@
 +++
 title = "My Friends been hacked on Hotmail"
+slug = "my-friends-been-hacked-on-hotmail"
 date = "2011-07-19T10:20:56"
 draft = false
 categories = ['Misc']
 +++
 
-<a title="hacked" href="http://www.keithrozario.com/2011/07/my-friends-bee…ked-on-hotmail.html"><img class="alignleft size-thumbnail wp-image-1081" title="hacked" src="/uploads/hacked-144x150.jpg" alt="Microsoft Hacked" width="144" height="150" /></a>When the web was starting up and I was still using a 14.4kBps line for dial-up I used hotmail as my default web-based email service. Back then it gave out nearly 4MB of storage (wow!), then about 5-6 years later I migrated my email account to Yahoo Mail! as it offered nearly 250MB of storage, finally about 2 years later, I switched to Gmail that offered 2GB of storage, and I haven't maxed it out since (it's nearly 7 years of email now).
+<a title="hacked" href="http://www.keithrozario.com/2011/07/my-friends-bee…ked-on-hotmail.html">![Microsoft Hacked](/uploads/hacked-144x150.jpg "hacked")</a>When the web was starting up and I was still using a 14.4kBps line for dial-up I used hotmail as my default web-based email service. Back then it gave out nearly 4MB of storage (wow!), then about 5-6 years later I migrated my email account to Yahoo Mail! as it offered nearly 250MB of storage, finally about 2 years later, I switched to Gmail that offered 2GB of storage, and I haven't maxed it out since (it's nearly 7 years of email now).
 
 Google went the way of Apple, instead of supplying mediocre storage Google supplied 2GB and made Gmail accounts invite only, which took a while to get viral but it eventually did. Apple did the same thing when they launched the 20GB ipod back when iriver was offering paltry 128MB.<!--more-->
 

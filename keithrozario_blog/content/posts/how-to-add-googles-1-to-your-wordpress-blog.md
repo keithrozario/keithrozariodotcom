@@ -1,18 +1,19 @@
 +++
 title = "How to add Google's +1 to your wordpress blog"
+slug = "how-to-add-googles-1-to-your-wordpress-blog"
 date = "2011-06-06T01:45:33"
 draft = false
 tags = ['Blog', 'Blog Features', 'Google', 'wordpress']
 categories = ['Blog']
 +++
 
-<a rel="attachment wp-att-861" href="http://www.keithrozario.com/2011/06/how-to-add-googles-1-to-your-wordpress-blog.html/google1button"><img class="alignleft size-thumbnail wp-image-861" title="Google+1button" src="/uploads/Google+1button-150x108.jpg" alt="" width="172" height="123" /></a>Google has just hit back at Facebook with the new +1 button. Similar to facebook's like, it's a one-click button to symbolize you 'like' the site. However, that's where the similarity ends:
+<a rel="attachment wp-att-861" href="http://www.keithrozario.com/2011/06/how-to-add-googles-1-to-your-wordpress-blog.html/google1button">![](/uploads/Google+1button-150x108.jpg "Google+1button")</a>Google has just hit back at Facebook with the new +1 button. Similar to facebook's like, it's a one-click button to symbolize you 'like' the site. However, that's where the similarity ends:
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
 <!--more-->1) Facebook Like will post the content to your wall with a link to the site, +1 will not add the content or link to your google buzz feed. It ends up in your google profile...you probably didn't know you had one. But you need to make your +1 feed active in order for people to see it.
 
@@ -43,4 +44,4 @@ In the face of all this, the +1 is probably not as appealing as a Facebook like 
 </ol>
 There you have it, and here's your +1's will look on your google profile, click on the picture to enlarge:
 
-<a rel="attachment wp-att-862" href="http://www.keithrozario.com/2011/06/how-to-add-googles-1-to-your-wordpress-blog.html/google_profiles"><img class="size-medium wp-image-862 aligncenter" title="Google_profiles" src="/uploads/Google_profiles-300x173.jpg" alt="" width="300" height="173" /></a>
+<a rel="attachment wp-att-862" href="http://www.keithrozario.com/2011/06/how-to-add-googles-1-to-your-wordpress-blog.html/google_profiles">![](/uploads/Google_profiles-300x173.jpg "Google_profiles")</a>

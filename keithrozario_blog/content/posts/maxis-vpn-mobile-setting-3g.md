@@ -1,11 +1,12 @@
 +++
 title = "How to enable VPN connectivity on Maxis Mobile"
+slug = "maxis-vpn-mobile-setting-3g"
 date = "2012-07-11T14:37:58"
 draft = false
 categories = ['Malaysia', 'Misc']
 +++
 
-[caption id="attachment_2505" align="aligncenter" width="271"]<a href="/uploads/rsz_maxis-vpn-setting.png"><img class="wp-image-2505 size-full" title="rsz_maxis-vpn-setting" src="/uploads/rsz_maxis-vpn-setting.png" alt="" width="271" height="139" /></a> Maxis VPN Setting[/caption]
+[caption id="attachment_2505" align="aligncenter" width="271"]<a href="/uploads/rsz_maxis-vpn-setting.png">![](/uploads/rsz_maxis-vpn-setting.png "rsz_maxis-vpn-setting")</a> Maxis VPN Setting[/caption]
 
 Just a quick post for a Wednesday, as most of you know I just recently purchased my Samsung Galaxy S3 courtesy of the Maxis One Club. With that S3, I also purchased a RM68/month mobile data plan for 3G.
 

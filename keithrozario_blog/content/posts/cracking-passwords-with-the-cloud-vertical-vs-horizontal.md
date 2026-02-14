@@ -1,12 +1,13 @@
 +++
 title = "Cracking Passwords with the Cloud"
+slug = "cracking-passwords-with-the-cloud-vertical-vs-horizontal"
 date = "2012-08-20T19:56:34"
 draft = false
 tags = ['Accent', 'Amazon']
 categories = ['Cloud Computing']
 +++
 
-<a href="/uploads/Cracking-with-the-cloud.jpg"><img class="alignleft size-medium wp-image-2672" title="Password Cracking with Cloud Computing" src="/uploads/Cracking-with-the-cloud-300x225.jpg" alt="" width="300" height="225" /></a>I  remember my computer security professor telling me that encryption doesn't make it <strong>impossible to decrypt</strong>, but rather <strong>infeasible to decrypt</strong>. Nobody is going to buy a supercomputer to crack your final year thesis, simply because the data isn't worth nearly as much as the cost to crack it--thereby making it infeasible.
+<a href="/uploads/Cracking-with-the-cloud.jpg">![](/uploads/Cracking-with-the-cloud-300x225.jpg "Password Cracking with Cloud Computing")</a>I  remember my computer security professor telling me that encryption doesn't make it <strong>impossible to decrypt</strong>, but rather <strong>infeasible to decrypt</strong>. Nobody is going to buy a supercomputer to crack your final year thesis, simply because the data isn't worth nearly as much as the cost to crack it--thereby making it infeasible.
 
 With cloud computing, however, end-users and regular joes like us, have access to very very powerful machines for a fraction of their actual cost (since we're only renting the machines). Couple that with the high scalability of the cloud , it means that what was previously infeasible, is now a very viable option. In fact what used to be only available to big corporations and governments, now has become available to anyone with a credit card and Amazon account.
 
@@ -46,7 +47,7 @@ First I spin up a Windows instance of the <strong>Quadruple Extra Large Cluster 
 
 Then I install <a title="Accent Zip Password Recovery Tool" href="http://download.cnet.com/Accent-ZIP-Password-Recovery/3000-2092_4-75185227.html" target="_blank">Accent Zip Password Recovery Tool</a>.I choose a pretty simple Zip(96-Bit) encrypted file, and finally I hit Run.
 
-<center><a href="/uploads/ZipLOck.png"><img class="wp-image-2425 alignnone" title="ZipLOck" src="/uploads/ZipLOck.png" alt="" width="550" height="411" /></a></center>And the results are in, I was cracking this file at a rate of<strong> 827 MILLION passwords per second</strong>, and since I used a trial version of the software only 1 of the 2 GPU devices on the cluster were used. Had I used the commercial version, my average speed would have reached the <strong>1.5 Billion mark</strong> -- easily.
+<center><a href="/uploads/ZipLOck.png">![](/uploads/ZipLOck.png "ZipLOck")</a></center>And the results are in, I was cracking this file at a rate of<strong> 827 MILLION passwords per second</strong>, and since I used a trial version of the software only 1 of the 2 GPU devices on the cluster were used. Had I used the commercial version, my average speed would have reached the <strong>1.5 Billion mark</strong> -- easily.
 
 What this means is the 235 million all lower case letter combination, would be cracked in about 0.25 seconds. So if you're wondering how secure an 8 letter password of lower case letters on a Zip algorithm is-- <strong>well it cost me just $2.60 US Dollars and 0.25 seconds of my time.</strong>
 
@@ -75,7 +76,7 @@ Before cloud computing, the only way to do this was to actually BUY 56 different
 
 This is of course a case of Vertical vs. Horizontal, buying more machines from Amazon is a straightforward way to crack a password in a short amount of time, provided you have pockets deep enough to pay Amazon at the end of the month.
 
-<center><a href="/uploads/Vertical-vs.-Horizontal.jpg"><img class="wp-image-2671 alignnone" title="Vertical vs. Horizontal" src="/uploads/Vertical-vs.-Horizontal-1024x576.jpg" alt="" width="550" height="250" /></a></center>
+<center><a href="/uploads/Vertical-vs.-Horizontal.jpg">![](/uploads/Vertical-vs.-Horizontal-1024x576.jpg "Vertical vs. Horizontal")</a></center>
 <h2>How about Scaling against the harder to crack passwords</h2>
 For a real world example, let's take the 53 Trillion combinations for upper and lower case passwords. Now if you protected the password with a AES-256bit password, doing a bit of math leads us to a total cost of <strong> 26,700 machine-hours.</strong>
 

@@ -1,12 +1,13 @@
 +++
 title = "Samsung Galaxy S3: I don't have one"
+slug = "samsung-galaxy-s3-maxis-bad"
 date = "2012-06-04T09:18:45"
 draft = false
 tags = ['Maxis']
 categories = ['Misc']
 +++
 
-<a href="/uploads/maxis-samsung.jpg"><img class=" wp-image-2233 alignleft" title="maxis-samsung" src="/uploads/maxis-samsung.jpg" alt="" width="300" height="424" /></a>First off, let me come clean and say that I'm not really to please with Maxis today. I drove all the way to my local Maxis store on Friday to get an S3 at the offer price of Rm999, the phone was out of stock (which was acceptable for the hype around the phone) but I was told I couldn't even pre-order or book the phone. Meaning, that when if I eventually get the phone -- probably only after this weekend, I would have to pay the regular price of RM1399.
+<a href="/uploads/maxis-samsung.jpg">![](/uploads/maxis-samsung.jpg "maxis-samsung")</a>First off, let me come clean and say that I'm not really to please with Maxis today. I drove all the way to my local Maxis store on Friday to get an S3 at the offer price of Rm999, the phone was out of stock (which was acceptable for the hype around the phone) but I was told I couldn't even pre-order or book the phone. Meaning, that when if I eventually get the phone -- probably only after this weekend, I would have to pay the regular price of RM1399.
 
 Now, I'm fine with time-limited promotions, my beef with Maxis is that they didn't advertise it as such, but rather they advertised it as a "4 days only"  promotion. If the promotion is only on for 4 days, and you know full well you don't have enough physical stock for the 4 days, then it is not a "4 days only" promotion--it's a "<strong>while stocks last</strong>" promotion.
 

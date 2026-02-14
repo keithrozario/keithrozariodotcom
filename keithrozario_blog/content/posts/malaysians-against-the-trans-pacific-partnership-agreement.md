@@ -1,5 +1,6 @@
 +++
 title = "Malaysians Against the Trans-Pacific Partnership Agreement"
+slug = "malaysians-against-the-trans-pacific-partnership-agreement"
 date = "2012-05-19T16:51:57"
 draft = false
 tags = ['TPP']
@@ -8,7 +9,7 @@ categories = ['Copyright and Censorship', "Keith's Favorite Post"]
 
 <blockquote><center>
 To visit the Malaysians against TPP Facebook Page, please click <a title="Malaysians Against TPP" href="https://www.facebook.com/Malaysians.Against.TPP" target="_blank">here</a></center></blockquote>
-<a href="/uploads/373109_150403175084523_1231165892_n.jpg"><img class="alignleft size-full wp-image-2180" title="373109_150403175084523_1231165892_n" src="/uploads/373109_150403175084523_1231165892_n.jpg" alt="" width="180" height="180" /></a>P. Ramlee was arguably the most influential Malaysian Artist to ever lived. His musical talents and acting ability set him head and shoulders apart from most of his contemporaries, or any other Malaysian Artist from whatever generation. So it was unfortunate, that he left in his prime, breathing his last breath on May 29th 1973, at the young age of 44.
+<a href="/uploads/373109_150403175084523_1231165892_n.jpg">![](/uploads/373109_150403175084523_1231165892_n.jpg "373109_150403175084523_1231165892_n")</a>P. Ramlee was arguably the most influential Malaysian Artist to ever lived. His musical talents and acting ability set him head and shoulders apart from most of his contemporaries, or any other Malaysian Artist from whatever generation. So it was unfortunate, that he left in his prime, breathing his last breath on May 29th 1973, at the young age of 44.
 
 His early death however, meant that the clock started ticking early for his works to become public domain. Most people don't know this, but copyrights--unlike diamonds--aren't forever. In Malaysia, the copyright act states that a copyright would expire 50 years after the death of the author/composer, after which the works would forever be in the public domain. This would mean all of P. Ramlees works would be made public domain in the year 2024, fifty years after his death. Works in public domain are not subjected to copyright and thus can we used in any way shape or form without any royalty being paid to the copyright owner--since the copyright no longer exist.<!--more-->
 

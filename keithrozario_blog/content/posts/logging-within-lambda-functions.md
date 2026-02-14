@@ -1,5 +1,6 @@
 +++
 title = "Logging within AWS Lambda Functions (python edition)"
+slug = "logging-within-lambda-functions"
 date = "2020-04-30T19:14:18"
 draft = false
 categories = ['Serverless']
@@ -62,7 +63,7 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7127,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/log_relationships.png" alt="" class="wp-image-7127"/></figure></div>
+![](/uploads/log_relationships.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -70,7 +71,7 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7125,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/log_groups.png" alt="" class="wp-image-7125"/></figure></div>
+![](/uploads/log_groups.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -94,7 +95,7 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7110,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/logger_example.png" alt="" class="wp-image-7110"/></figure></div>
+![](/uploads/logger_example.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -102,7 +103,7 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7118,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/log_output-1.png" alt="" class="wp-image-7118"/></figure></div>
+![](/uploads/log_output-1.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -126,7 +127,7 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7108,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/logging_aws_powertools.png" alt="" class="wp-image-7108"/></figure></div>
+![](/uploads/logging_aws_powertools.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -138,7 +139,7 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7121,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/carbon-2.png" alt="" class="wp-image-7121"/></figure></div>
+![](/uploads/carbon-2.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -178,7 +179,7 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7101,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/Screen-Shot-2020-05-30-at-12.24.23-PM.png" alt="" class="wp-image-7101"/></figure></div>
+![](/uploads/Screen-Shot-2020-05-30-at-12.24.23-PM.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -194,7 +195,7 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7102,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/Screen-Shot-2020-05-30-at-12.26.26-PM.png" alt="" class="wp-image-7102"/></figure></div>
+![](/uploads/Screen-Shot-2020-05-30-at-12.26.26-PM.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -202,7 +203,7 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7103,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/Screen-Shot-2020-05-30-at-12.31.12-PM.png" alt="" class="wp-image-7103"/></figure></div>
+![](/uploads/Screen-Shot-2020-05-30-at-12.31.12-PM.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -238,7 +239,7 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7122,"sizeSlug":"large"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="/uploads/carbon-3.png" alt="" class="wp-image-7122"/></figure></div>
+![](/uploads/carbon-3.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -1,12 +1,13 @@
 +++
 title = "NFC page hacked"
+slug = "nfc-page-hack-malaysia"
 date = "2012-08-03T09:47:29"
 draft = false
 tags = ['NFC']
 categories = ['Malaysia']
 +++
 
-<a href="/uploads/NFC_Logo.png"><img class="size-full wp-image-2640 alignleft" title="NFC_Logo" src="/uploads/NFC_Logo.png" alt="National Feedlot Corporation Logo hacked" width="457" height="199" /></a> The guys over at the NFC can't really catch a break. The National Feedlot Corporation have had a lot of bad luck lately, but I guess when you get an RM250 Million dollar government loan when you're wife is a Government minister--you've probably already had your fair share of good luck.
+<a href="/uploads/NFC_Logo.png">![National Feedlot Corporation Logo hacked](/uploads/NFC_Logo.png "NFC_Logo")</a> The guys over at the NFC can't really catch a break. The National Feedlot Corporation have had a lot of bad luck lately, but I guess when you get an RM250 Million dollar government loan when you're wife is a Government minister--you've probably already had your fair share of good luck.
 
 With the recent arrest of Rafizi Ramli, the up and coming PKR young gun--the SGP Cyber Army decided enough was enough.
 
@@ -30,4 +31,4 @@ In case the Google cache isn't working, then you <a title="NFC Malaysia Hacked b
 
 Here's a short preview:
 
-<center><a href="/uploads/Hacked-by-SGP-Cyber-Army.png"><img title="Hacked by SGP Cyber Army" src="/uploads/Hacked-by-SGP-Cyber-Army.png" alt="" width="550" height="313" /></a></center> Good luck Rafizi--:) Malaysia Boleh!
+<center><a href="/uploads/Hacked-by-SGP-Cyber-Army.png">![](/uploads/Hacked-by-SGP-Cyber-Army.png "Hacked by SGP Cyber Army")</a></center> Good luck Rafizi--:) Malaysia Boleh!

@@ -1,5 +1,6 @@
 +++
 title = "Pitchin.my Crowdfunding success in Teach a Child to Read"
+slug = "malaysian-crowdfunding-success-teach-a-child-to-read-pitchin-my"
 date = "2013-04-22T07:00:13"
 draft = false
 tags = ['kickstarter', 'pitchin.my']
@@ -25,11 +26,11 @@ It is hard to change the life trajectories of children whose paths have been det
 </blockquote>
 
 The project was<strong> successfully f</strong>unded (101% as of now), which means Liew would get slightly more than he initially planned for. More importantly, these rural students will finally be able to access proper reading material thanks to other Malaysians (and probably foreigners as well).
-<p style="text-align: center;"><a href="/uploads/rsz_sponsor_a_child_to_read.png"><img class="aligncenter  wp-image-3366" title="Sponsor_a_child_to_read_Crowdfunded" src="/uploads/rsz_sponsor_a_child_to_read.png" alt="Pitchin.my Sponsor a Child to Read" width="550" height="312" /></a></p>
+<p style="text-align: center;"><a href="/uploads/rsz_sponsor_a_child_to_read.png">![Pitchin.my Sponsor a Child to Read](/uploads/rsz_sponsor_a_child_to_read.png "Sponsor_a_child_to_read_Crowdfunded")</a></p>
 What's more heart-warming is to know, that the list of supporters for the project looks like a fictional put together list from the moral textbooks of yesteryear--every race, every creed and every gender, except this wasn't a fictional story with a moral at the end--this was REAL LIFE and it just goes to show Malaysians will come together to help our fellow Malaysians. A lot of pitchers were also anonymous--well in line with the Malaysia spirit of "not letting the right hand know what the left hand is doing".
 
 Like I said, Malaysians continue to surprise me in untold ways. What's even more surprising is that almost 20 Malaysians gave more than USD100 (which is a pretty hefty sum of cash if you ask me).
 
-<a href="/uploads/rsz_list_of_pitchers.png"><img class="aligncenter size-full wp-image-3367" title="List of Supporters" src="/uploads/rsz_list_of_pitchers.png" alt="List of Supporters" width="351" height="202" /></a>
+<a href="/uploads/rsz_list_of_pitchers.png">![List of Supporters](/uploads/rsz_list_of_pitchers.png "List of Supporters")</a>
 
 Congrats Liew Suet Li--Malaysia needs more people like you!! Get more news on the project from the pitchin website<a title="pitch.in Teach a Child to Read" href="http://pitchin.my/project/17" target="_blank"> here</a>.

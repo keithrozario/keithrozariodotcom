@@ -1,11 +1,12 @@
 +++
 title = "Journalist mixes capital 'M' and little 'm', makes Sabah most energy efficient state by a mile"
+slug = "journalist-mixes-capital-m-and-little-m-makes-sabah-most-energy-efficient-state-by-a-mile"
 date = "2013-09-25T22:22:01"
 draft = false
 categories = ['Science']
 +++
 
-<p style="text-align: center;"><a href="/uploads/Electricity-supply-crippled-in-Sabah-Nation-The-Star-Online.png"><img class="aligncenter  wp-image-4108" alt="Electricity supply crippled in Sabah   Nation   The Star Online" src="/uploads/Electricity-supply-crippled-in-Sabah-Nation-The-Star-Online.png" width="446" height="425" /></a></p>
+<p style="text-align: center;"><a href="/uploads/Electricity-supply-crippled-in-Sabah-Nation-The-Star-Online.png">![Electricity supply crippled in Sabah   Nation   The Star Online](/uploads/Electricity-supply-crippled-in-Sabah-Nation-The-Star-Online.png)</a></p>
 The Star today reported that the entire state of Sabah had its electricity supply 'crippled'. I used inverted commas because the article goes on to say that the reduction was as much as 200mW.
 
 Now, any school child in a reasonably good school is going to tell you 200mW is nothing. 200mW actually translates to just 200 milli-watts, or 0.2 Watts. That's less than 1 Watt!!

@@ -1,18 +1,19 @@
 +++
 title = "Nearlyfreespeech, how much does it really cost? Just $3.60"
+slug = "nearlyfreespeech-cost"
 date = "2011-09-12T01:05:57"
 draft = false
 tags = ['NearlyFreeSpeech', 'wordpress']
 categories = ['Blog']
 +++
 
-<a class="alignleft size-full wp-image-144" title="logo"><img class="alignleft size-full wp-image-144" title="logo" src="/uploads/logo.gif" alt="" width="278" height="80" /></a>
+<a class="alignleft size-full wp-image-144" title="logo">![](/uploads/logo.gif "logo")</a>
 
 For those of you who don't know, I host this blog on an awesome webhost called nearlyfreespeech. It's a different kind of webhost because it doesn't offer fixed price per month packages, but rather a pay-as-you-go model. Now what that means is that you can get your website fully operational for under 1 US dollar (and I'm not kidding), however as your blog grows and you utilize more space and use up more bandwidth you're probably wondering what kind of charges you'd be looking at, and whether it would be better off forking money for unlimited packages from the regular godaddy type host. The answer is NO. Here's my analysis on real-life data from my blog.<!--more-->
 
 So first off a short update on my blog hits, in one word it's embarrassing, in two words it's very embarrassing. However, my personal feelings aside, I have a blog that garners about 380 hits/month, and here's the google analytics data to prove it.
 
-<a href="/uploads/Site_usage.jpg"><img class="alignnone size-full wp-image-1212" title="Site_usage" src="/uploads/Site_usage.jpg" alt="" width="564" height="109" /></a>
+<a href="/uploads/Site_usage.jpg">![](/uploads/Site_usage.jpg "Site_usage")</a>
 
 So now you know what kind of traffic I garner, let's look at the size of my blog. My blog utilizes a theme has about 10 plugins and at least one picture for every post. I also imported my previous blogger content to this one so that's about 8 years of blog post (a total of about 200+ post). All in all, pretty standard stuff and a simple unix command tells me that my wordpress folder is a mere 53MB. Not surprising, most of the content is held up by the pictures, everything else is just text and doesn't take up too much space.
 
@@ -40,6 +41,6 @@ Now if you think you've got a website that can rake it 2000+ hits a month, then 
 
 Here's the final breakdown:
 
-<a href="/uploads/Charges.jpg"><img class="size-full wp-image-1215 aligncenter" title="Charges" src="/uploads/Charges.jpg" alt="" width="313" height="141" /></a>
+<a href="/uploads/Charges.jpg">![](/uploads/Charges.jpg "Charges")</a>
 
 So there you have it , proof that you don't need millions to start a website, just 3.60, some elbow grease and a whole load of curiosity. Enjoy!!

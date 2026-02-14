@@ -1,5 +1,6 @@
 +++
 title = "How SSL works: A presentation on Slideshare"
+slug = "how-ssl-works-powerpoint-slideshar"
 date = "2012-08-10T12:27:51"
 draft = false
 tags = ['Microsoft', 'Slideshare']

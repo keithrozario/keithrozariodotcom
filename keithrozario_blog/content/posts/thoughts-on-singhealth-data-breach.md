@@ -1,12 +1,13 @@
 +++
 title = "Thoughts on SingHealth Data Breach"
+slug = "thoughts-on-singhealth-data-breach"
 date = "2018-08-04T20:56:59"
 draft = false
 tags = ['dataBreach', 'Singapore']
 categories = ['Security &amp; Privacy', 'Singapore']
 +++
 
-<a href="/uploads/data-breach.jpeg"><img class="size-full wp-image-6424 aligncenter" src="/uploads/data-breach.jpeg" alt="" width="325" height="155" /></a>On the 20th of July, Singaporean authorities announced a data breach affecting SingHealth, the country largest healthcare group. The breach impacted 1.5 million people who had used SingHealth services over the last 3 years.
+<a href="/uploads/data-breach.jpeg">![](/uploads/data-breach.jpeg)</a>On the 20th of July, Singaporean authorities announced a data breach affecting SingHealth, the country largest healthcare group. The breach impacted 1.5 million people who had used SingHealth services over the last 3 years.
 
 Oh boy, another data breach with 1.5 million records ... **yawn**.
 

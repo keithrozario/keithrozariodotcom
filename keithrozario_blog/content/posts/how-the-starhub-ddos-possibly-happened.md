@@ -1,12 +1,13 @@
 +++
 title = "How the StarHub DDOS (possibly) happened"
+slug = "how-the-starhub-ddos-possibly-happened"
 date = "2016-10-27T23:46:38"
 draft = false
 tags = ['DDOS', 'Dyn', 'IOT', 'Singapore']
 categories = ['Misc']
 +++
 
-<a href="/uploads/StarHub-DNS-attack-1.jpg"><img class="alignleft wp-image-5873 size-medium" src="/uploads/StarHub-DNS-attack-1-300x225.jpg" alt="starhub-dns-attack" width="300" height="225" /></a>Customers of Singaporean ISP StarHub, suffered two major disruptions to their service over the past week, in what the telco said was a result of a "intentional and likely malicious distributed denial-of-service (DDoS) attacks".
+<a href="/uploads/StarHub-DNS-attack-1.jpg">![starhub-dns-attack](/uploads/StarHub-DNS-attack-1-300x225.jpg)</a>Customers of Singaporean ISP StarHub, suffered two major disruptions to their service over the past week, in what the telco said was a result of a "intentional and likely malicious distributed denial-of-service (DDoS) attacks".
 
 Oh the humanity!!
 
@@ -92,4 +93,4 @@ If anything this was a pretty mild attack, because StarHub could easily respond-
 
 For more of my thoughts on the subject, read yesterday's post here.
 
-&nbsp;
+ 

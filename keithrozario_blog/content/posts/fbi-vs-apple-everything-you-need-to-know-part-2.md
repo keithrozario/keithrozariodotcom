@@ -1,12 +1,13 @@
 +++
 title = "FBI vs. Apple : Everything you need to know part 2"
+slug = "fbi-vs-apple-everything-you-need-to-know-part-2"
 date = "2016-03-07T00:00:04"
 draft = false
 tags = ['Apple', 'Encryption', 'FBI']
 categories = ['CyberLaw', 'Security &amp; Privacy']
 +++
 
-<a href="/uploads/broken-fence.jpg" rel="attachment wp-att-5526"><img class="aligncenter wp-image-5526" src="/uploads/broken-fence-300x201.jpg" alt="broken-fence" width="550" height="368" /></a>
+<a href="/uploads/broken-fence.jpg" rel="attachment wp-att-5526">![broken-fence](/uploads/broken-fence-300x201.jpg)</a>
 
 The Apple vs. FBI story has evolved so much in the past weeks, I thought I needed to write a separate post just on the updates. Admittedly, the story is far more complex and nuanced that I initially presumed, and everyone wants to be part of the conversation.
 
@@ -34,7 +35,7 @@ But maybe there's an ulterior motive here, at the very recently concluded <a hre
 
 An this isn't singularly about the FBI either. The New York A-G is waiting for this case to set precedent before he makes request for the <a href="http://abcnews.go.com/Technology/york-da-access-175-iphones-criminal-cases-due/story?id=37029693">175 iPhones he's hoping to unlock</a> for cases that aren't related to terrorism or ISIS. You can bet he's not the only A-G waiting for the outcome, and it's highly unlikely for the Judge to make her ruling so specific that nobody except the FBI could use it as precedent.
 
-But it's also not just about Apple. The legal precedent set by this case would apply not just to every other iPhone, but possibly every other smartphone, laptop, car or anything else we could squeeze into the definition of a computer. This is about more than Apple, and that's why the tech companies are lining up in support of Mr. Cook, <a href="http://qz.com/631163/32-internet-companies-are-backing-apple-in-its-fight-against-the-fbi/">32  such companies the last I checked.<img class="wp-image-5566 size-large aligncenter" src="/uploads/us-vs.-them-771x500.png" alt="us vs. them" width="604" height="392" /></a>
+But it's also not just about Apple. The legal precedent set by this case would apply not just to every other iPhone, but possibly every other smartphone, laptop, car or anything else we could squeeze into the definition of a computer. This is about more than Apple, and that's why the tech companies are lining up in support of Mr. Cook, <a href="http://qz.com/631163/32-internet-companies-are-backing-apple-in-its-fight-against-the-fbi/">32  such companies the last I checked.![us vs. them](/uploads/us-vs.-them-771x500.png)</a>
 
 But now that we've framed the 'who' , let's frame the 'what'.<!--more-->
 <h2><strong>The 'one' phone</strong></h2>
@@ -156,7 +157,7 @@ As a last note though, this is also the reason why Apple could comply with the p
 
 Google, Facebook and twitter, all of whom have un-encrypted data of their users also regularly comply to court orders for user data. Even Apple can't fully encrypt their iCloud data, simply because if everything were truly encrypted, then a loss of the encryption would permanently render all backups useless. For 99% of Apple customers, losing all data because they lost their password is simply unacceptable--so the FBI can breathe a sigh of relief.
 
-<a href="/uploads/Old-iPhone-vs.-New-iPhone.png" rel="attachment wp-att-5565"><img class="aligncenter wp-image-5565 size-large" src="/uploads/Old-iPhone-vs.-New-iPhone-647x500.png" alt="Old iPhone vs. New iPhone" width="604" height="467" /></a>
+<a href="/uploads/Old-iPhone-vs.-New-iPhone.png" rel="attachment wp-att-5565">![Old iPhone vs. New iPhone](/uploads/Old-iPhone-vs.-New-iPhone-647x500.png)</a>
 <h2>Conclusion</h2>
 I have no one liner conclusion to this story, it simply refuses to be simplified. It is truly a complicated issue of technology and policy that requires sound understanding of both to thoroughly understand. But here's two final points to complete this 3000 word post.
 

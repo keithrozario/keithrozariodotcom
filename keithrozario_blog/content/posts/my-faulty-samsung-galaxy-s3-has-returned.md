@@ -1,12 +1,13 @@
 +++
 title = "My Faulty Samsung Galaxy S3 has returned"
+slug = "my-faulty-samsung-galaxy-s3-has-returned"
 date = "2012-09-05T09:39:41"
 draft = false
 tags = ['Samsung']
 categories = ['Malaysia']
 +++
 
-<center><a href="/uploads/rsz_samsung-galaxy-s3-back-cover_1.jpg"><img class=" wp-image-2736 alignnone" title="rsz_samsung-galaxy-s3-back-cover_1" src="/uploads/rsz_samsung-galaxy-s3-back-cover_1.jpg" alt="" width="550" height="314" /></a></center>Before my recent trip to Australia, my brand new Samsung Galaxy S3 failed on me. The speaker just went *kaput*.
+<center><a href="/uploads/rsz_samsung-galaxy-s3-back-cover_1.jpg">![](/uploads/rsz_samsung-galaxy-s3-back-cover_1.jpg "rsz_samsung-galaxy-s3-back-cover_1")</a></center>Before my recent trip to Australia, my brand new Samsung Galaxy S3 failed on me. The speaker just went *kaput*.
 
 Well not really *kaput*, but there was absolutely no sound coming out of it. Needless to say I was a bit frustrated, annoyed and just downright disappointed. This was an expensive top of the line phone, and it's speakers shouldn't be failing after barely 4 months.
 

@@ -1,5 +1,6 @@
 +++
 title = "Things I read over and OVER again"
+slug = "things-i-read-over-and-over-again"
 date = "2025-02-26T16:29:57"
 draft = false
 +++

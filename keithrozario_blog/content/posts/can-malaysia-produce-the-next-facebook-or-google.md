@@ -1,11 +1,12 @@
 +++
 title = "Can Malaysia produce the next Facebook or Google?"
+slug = "can-malaysia-produce-the-next-facebook-or-google"
 date = "2013-03-10T22:17:21"
 draft = false
 categories = ['Misc']
 +++
 
-<p style="text-align: center;"><a href="/uploads/google-vs-facebook.jpg"><img class="aligncenter  wp-image-3207" title="Can Malaysia produce the next Facebook or Google?" src="/uploads/google-vs-facebook.jpg" alt="" width="550" height="280" /></a></p>
+<p style="text-align: center;"><a href="/uploads/google-vs-facebook.jpg">![](/uploads/google-vs-facebook.jpg "Can Malaysia produce the next Facebook or Google?")</a></p>
 Can Malaysia produce the next Facebook or Google?
 
 The short answer is NO.

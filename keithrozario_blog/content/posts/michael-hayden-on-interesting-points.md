@@ -1,5 +1,6 @@
 +++
 title = "Michael Hayden on interesting points"
+slug = "michael-hayden-on-interesting-points"
 date = "2016-08-25T16:02:39"
 draft = false
 categories = ['Security &amp; Privacy']

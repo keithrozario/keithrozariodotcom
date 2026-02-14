@@ -1,5 +1,6 @@
 +++
 title = "That long post about Data breaches (you never wanted to read!)"
+slug = "that-long-post-about-data-breaches-you-never-wanted-to-read"
 date = "2017-12-20T11:14:03"
 draft = false
 categories = ['Misc']

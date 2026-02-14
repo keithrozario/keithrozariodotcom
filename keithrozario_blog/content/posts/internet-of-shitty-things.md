@@ -1,11 +1,12 @@
 +++
 title = "Internet of shitty things!"
+slug = "internet-of-shitty-things"
 date = "2016-10-24T23:05:27"
 draft = false
 categories = ['AI', 'CyberLaw', 'Security &amp; Privacy']
 +++
 
-<a href="/uploads/b66b95478f.jpg"><img class="alignright wp-image-5861 size-medium" src="/uploads/b66b95478f-300x188.jpg" alt="b66b95478f" width="300" height="188" /></a>Brian Krebs is the most reputable name in CyberSecurity reporting, his <a href="http://www.krebsonsecurity.com">krebsonsecurity</a> website is the best source of 'real' journalism on the subject.
+<a href="/uploads/b66b95478f.jpg">![b66b95478f](/uploads/b66b95478f-300x188.jpg)</a>Brian Krebs is the most reputable name in CyberSecurity reporting, his <a href="http://www.krebsonsecurity.com">krebsonsecurity</a> website is the best source of 'real' journalism on the subject.
 
 But reputation works both ways, the same thing that makes him popular in some circles, makes him unpopular in other. He's had criminal hackers send him <a href="http://www.vice.com/read/i-interviewed-the-fraudster-who-frames-people-for-heroin-possession">heroin in the mail</a> and even have <a href="http://krebsonsecurity.com/2013/03/the-world-has-no-room-for-cowards/">SWAT teams descend on his home with guns all blazing</a> (in a phenomenon called <a href="https://en.wikipedia.org/wiki/Swatting">swatting!</a>). Reporting and exposing underground cyber-criminals comes at a price, you don't piss of darknet crime lords without taking a few hits along the way.
 
@@ -18,7 +19,7 @@ But this DDOS was different, and krebsonsecurity will go down in history as the 
 So what makes this attack so different as to merit it's own class? Well 3 things.
 <!--more-->
 <h2>Why Krebs is different</h2>
-<img class="alignleft wp-image-5860 size-medium" src="/uploads/DDoS-network-map-300x183.jpg" alt="ddos-network-map" width="300" height="183" />First, the size of the DDOS was beyond anything we've seen before. When all the dust settles, Krebs reported that his site experienced <a href="https://krebsonsecurity.com/2016/09/krebsonsecurity-hit-with-record-ddos/">nearly 620Gbps of assault traffic</a>, more than twice the largest attack seen before. I remember back in 2013, when everybody lost their minds over the <a href="https://blog.cloudflare.com/the-ddos-that-almost-broke-the-internet/">90Gbps attack on SpamHaus occured</a>, in just 3 years we've increased that to nearly 7 fold, and it's only going to get bigger.
+![ddos-network-map](/uploads/DDoS-network-map-300x183.jpg)First, the size of the DDOS was beyond anything we've seen before. When all the dust settles, Krebs reported that his site experienced <a href="https://krebsonsecurity.com/2016/09/krebsonsecurity-hit-with-record-ddos/">nearly 620Gbps of assault traffic</a>, more than twice the largest attack seen before. I remember back in 2013, when everybody lost their minds over the <a href="https://blog.cloudflare.com/the-ddos-that-almost-broke-the-internet/">90Gbps attack on SpamHaus occured</a>, in just 3 years we've increased that to nearly 7 fold, and it's only going to get bigger.
 
 As I write this, Dyn was under an attack that was nearly 50% bigger, reaching into the Terabit range. <em>[1 Terabit = 1024 Gigabit]</em>
 
@@ -66,7 +67,7 @@ So what can we do?
 
 This is a fundamental issue with the way the internet works, and a solution to address the problem is way above my pay-grade, but that hasn't stopped me from speculating before---and it's not stopping me now.
 <h2>What's next for IOT devices?</h2>
-<a href="/uploads/IOT-Devices.png"><img class="size-full wp-image-5862 alignleft" src="/uploads/IOT-Devices.png" alt="iot-devices" width="239" height="211" /></a>In the short-term we're going to see these attacks gradually get bigger, and hit more critical servers.
+<a href="/uploads/IOT-Devices.png">![iot-devices](/uploads/IOT-Devices.png)</a>In the short-term we're going to see these attacks gradually get bigger, and hit more critical servers.
 
 In the mid-term we're going to see digital walls erected across what is now a borderless network (well except for China, they already have a wall). At some point, network owners and ISPs are going to block 'offending' IP addresses to limit their exposure to such attacks, and some networks risk losing complete access if there's too much malicious traffic being generated from them. ISPs are going to start cutting out people's internet connection the moment they detect malicious out-going traffic--if you own a DVR that's taking part in a DDOS attack, be prepared to have your Facebook disconnected.
 
@@ -74,7 +75,7 @@ In the long-term, we'll see more government regulation around IOT devices and co
 
 For one, IOT devices are going to have shitty security for the foreseeable future, because at those price points nobody gives a shit. Secondly even the most secure computer deployed by a novice on his home network is going to be easily hacked by a skilled hacker. If banks with security professionals can have their network's compromised, these home network are not going to pose a tall hurdle to skilled hackers.
 
-<a href="/uploads/blog-proton-flx.png"><img class="alignright wp-image-4174 size-full" src="/uploads/blog-proton-flx.png" alt="Proton FLX Crass NCAP" width="334" height="152" /></a>Finally, the long-long-term solution will be, that some responsibility for securing these devices will shift to the end user.There is a shared responsibility between a car manufacturer and the car owner for the safety of the car, both to the occupants and other road users. The same will apply for IOT devices.
+<a href="/uploads/blog-proton-flx.png">![Proton FLX Crass NCAP](/uploads/blog-proton-flx.png)</a>Finally, the long-long-term solution will be, that some responsibility for securing these devices will shift to the end user.There is a shared responsibility between a car manufacturer and the car owner for the safety of the car, both to the occupants and other road users. The same will apply for IOT devices.
 
 If you install and IOT device in your home, and are negligent in securing it, then you'd have to take responsibility when it gets hacked and used for DDOS attack. Similarly if there's a software flaw in the IOT device and the manufacturer refuses to issue a patch, then they'd have to be responsible.
 

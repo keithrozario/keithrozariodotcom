@@ -1,12 +1,13 @@
 +++
 title = "Maxis Fibre to the Home (FFTH) : Why you shouldn't get it"
+slug = "maxis-fibre-to-the-home-ffth-review"
 date = "2012-08-13T08:00:49"
 draft = false
 tags = ['Maxis']
 categories = ['Malaysia']
 +++
 
-<center><a href="/uploads/Maxis_Allows_other_to_access_wifi.png"><img class="alignnone size-full wp-image-2650" title="Maxis Home Terms and Conditions" src="/uploads/Maxis_Allows_other_to_access_wifi.png" alt="" width="537" height="378" /></a></center>Imagine buying a house from a housing developer who insist that even after you've bought the house the developer will be allowed access to your downstairs bathroom. So that even after you've bought the house and moved in and got that nice kitchen cabinet design you've been eye-ing, the developer can still access your downstairs bathroom, no matter what. Worse still, the developer then decides to turn your downstairs bathroom into a public toilet.
+<center><a href="/uploads/Maxis_Allows_other_to_access_wifi.png">![](/uploads/Maxis_Allows_other_to_access_wifi.png "Maxis Home Terms and Conditions")</a></center>Imagine buying a house from a housing developer who insist that even after you've bought the house the developer will be allowed access to your downstairs bathroom. So that even after you've bought the house and moved in and got that nice kitchen cabinet design you've been eye-ing, the developer can still access your downstairs bathroom, no matter what. Worse still, the developer then decides to turn your downstairs bathroom into a public toilet.
 
 Sound crazy right?
 

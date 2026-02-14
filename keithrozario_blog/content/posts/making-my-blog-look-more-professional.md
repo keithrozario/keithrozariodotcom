@@ -1,5 +1,6 @@
 +++
 title = "Making my blog 'look' more professional."
+slug = "making-my-blog-look-more-professional"
 date = "2011-04-17T14:12:11"
 draft = false
 tags = ['Blog Features', 'NearlyFreeSpeech']

@@ -1,5 +1,6 @@
 +++
 title = "Security vs. Liberty : Sometimes it's security and liberty"
+slug = "security-vs-liberty-sometimes-its-security-and-liberty"
 date = "2016-03-20T18:49:44"
 draft = false
 tags = ['FBIvApple']

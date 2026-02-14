@@ -1,12 +1,13 @@
 +++
 title = "Data Coverage Down Under"
+slug = "data-coverage-down-under"
 date = "2012-09-01T09:37:19"
 draft = false
 tags = ['Digi', 'Optus', 'Tune Talk']
 categories = ['Malaysia']
 +++
 
-<img class="size-medium wp-image-2719 alignleft" style="margin-left: 5px; margin-right: 5px;" title="Mount Solitary Australia" src="/uploads/rsz_mountsolitary-300x250.jpg" alt="" width="300" height="250" />I've just come back from a fantastic 2 week long vacation in Australia, and I absolutely loved it. The weather was a bit cold for my Malaysian body (especially in blue mountains), but overall the holiday was a well deserved break from nearly 8 months of non-stop work ;).
+![](/uploads/rsz_mountsolitary-300x250.jpg "Mount Solitary Australia")I've just come back from a fantastic 2 week long vacation in Australia, and I absolutely loved it. The weather was a bit cold for my Malaysian body (especially in blue mountains), but overall the holiday was a well deserved break from nearly 8 months of non-stop work ;).
 
 The one thing I did notice about Australia though, was that data charges were quite exorbitant. I stayed at various Youth Hostel throughout Queensland and NSW and was surprised that they charged nearly AUD7 per day for Wi-Fi connectivity. Needless to say, I wasn't too impressed with shelling out nearly RM25 per day for something I get free from even my local mamak.
 

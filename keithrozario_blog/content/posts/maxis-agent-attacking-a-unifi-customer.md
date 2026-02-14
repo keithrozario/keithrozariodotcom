@@ -1,11 +1,12 @@
 +++
 title = "Maxis agent attacking a Unifi customer?"
+slug = "maxis-agent-attacking-a-unifi-customer"
 date = "2013-08-22T23:13:54"
 draft = false
 categories = ['Malaysia', 'Misc']
 +++
 
-<p style="text-align: center;"><a href="/uploads/Writing-an-email-to-TMs-CEO-about-my-faulty-Unifi.png"><img class="aligncenter  wp-image-4020" alt="Writing an email to TMs CEO about my faulty Unifi" src="/uploads/Writing-an-email-to-TMs-CEO-about-my-faulty-Unifi.png" width="460" height="126" /></a></p>
+<p style="text-align: center;"><a href="/uploads/Writing-an-email-to-TMs-CEO-about-my-faulty-Unifi.png">![Writing an email to TMs CEO about my faulty Unifi](/uploads/Writing-an-email-to-TMs-CEO-about-my-faulty-Unifi.png)</a></p>
 Just yesterday, I received a rather odd comment on my post about a <a title="Tm Ceo restore Unifi" href="http://www.keithrozario.com/2012/02/email-ceo-restore-unifi-services.html#comment-1010183707" target="_blank">Unifi downtime</a>. It read:
 
 [box icon="chat"]

@@ -1,11 +1,12 @@
 +++
 title = "Mobile Phones at Gas Stations : They're Safe"
+slug = "gas-station-mobile-safety"
 date = "2013-02-21T07:00:59"
 draft = false
 categories = ['Science']
 +++
 
-<a href="/uploads/mobile_phone_usage_gas_station.jpg"><img class="aligncenter size-full wp-image-3162" title="mobile_phone_usage_gas_station" src="/uploads/mobile_phone_usage_gas_station.jpg" alt="Cell Phone usage at Petrol Station" width="500" height="500" /></a>Sometimes good intentions lead to bad things, particularly when they're not grounded on rational science. Just like how some still believe that Wi-Fi poses a health hazard and even more common myth of how Mobile phones cause gas station fires.
+<a href="/uploads/mobile_phone_usage_gas_station.jpg">![Cell Phone usage at Petrol Station](/uploads/mobile_phone_usage_gas_station.jpg "mobile_phone_usage_gas_station")</a>Sometimes good intentions lead to bad things, particularly when they're not grounded on rational science. Just like how some still believe that Wi-Fi poses a health hazard and even more common myth of how Mobile phones cause gas station fires.
 
 Now that's a myth that's been around a loooong time.
 

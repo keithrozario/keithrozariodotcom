@@ -1,12 +1,13 @@
 +++
 title = "One year of Blogging on Nearlyfreespeech"
+slug = "one-year-of-blogging-on-nearlyfreespeech"
 date = "2012-04-16T13:00:48"
 draft = false
 tags = ['Analytics', 'Blog', 'Blog Features', 'NearlyFreeSpeech', 'wordpress']
 categories = ['Blog']
 +++
 
-<a href="/uploads/NearlyFreeSpeech.NET-Web-Hosting.png"><img class="alignleft size-medium wp-image-2015" title="NearlyFreeSpeech.NET Web Hosting" src="/uploads/NearlyFreeSpeech.NET-Web-Hosting-300x126.png" alt="" width="300" height="126" /></a>I'm a big fan of <a title="Nearlyfreespeech" href="http://nearlyfreespeech.net" target="_blank">Nearlyfreespeech</a>. I think they're a great webhost, and so far I haven't been proven wrong. Sure their interface is a bit 'simplistic' and they're site looks a bit dated, but overall I like the speed the provide, their infrastructure hasn't failed me and their security hasn't been compromised. The same can't be said about my dreamhost account, for which I happen to pay nearly USD7/month for.
+<a href="/uploads/NearlyFreeSpeech.NET-Web-Hosting.png">![](/uploads/NearlyFreeSpeech.NET-Web-Hosting-300x126.png "NearlyFreeSpeech.NET Web Hosting")</a>I'm a big fan of <a title="Nearlyfreespeech" href="http://nearlyfreespeech.net" target="_blank">Nearlyfreespeech</a>. I think they're a great webhost, and so far I haven't been proven wrong. Sure their interface is a bit 'simplistic' and they're site looks a bit dated, but overall I like the speed the provide, their infrastructure hasn't failed me and their security hasn't been compromised. The same can't be said about my dreamhost account, for which I happen to pay nearly USD7/month for.
 
 The best part about nearlyfreespeech however, is their pricing plan. Unlike other webhost that charge a flat fee per month, nearlyfreespeech charges on a pay as you go model. Basically if you don't start a website, or nobody visits it, you don't pay a thing. While many beginners look on the pricing plan as 'risky' since you could end up paying a lot of money once your site '<em>really starts take off</em>', the real risk beginners should consider is subscribing to a 3-year plan for a blog they'll stop updating past the first 3 months. The real risk is paying these webhost large one-off payments and use no where near the amount of bandwidth or storage to justify the $5-$10 dollar per month price tag...for the next 3 years.<!--more-->
 
@@ -16,7 +17,7 @@ In truth, I worked out how much hosting with nearlyfreespeech really cost in a s
 
 Firstly, let me share the traffic to my blog for the past 4 months. This is a screenshot taken from my Google Analytics account:
 
-<a href="/uploads/GoogleAnalytics.png"><img class="alignnone size-full wp-image-2013" title="GoogleAnalytics" src="/uploads/GoogleAnalytics.png" alt="" width="516" height="348" /></a>
+<a href="/uploads/GoogleAnalytics.png">![](/uploads/GoogleAnalytics.png "GoogleAnalytics")</a>
 
 So from the 01-Jan-2012 till 01-Apr-2012, I've had 5,050 unique visitors who then created 8.147 pageviews. When counting bandwidth cost, it's more accurate to look at pageviews rather than visits because 1 visit could result in a lot of bandwidth particularly if that visit had many pageviews.
 
@@ -24,7 +25,7 @@ This of course isn't much to shout about, but I've always maintained that I'm gr
 
 And for those 8,147 pageviews, I paid nearlyfreespeech:
 
-<a href="/uploads/Nearlyfreespeech-Cost.png"><img class="alignnone  wp-image-2014" title="Nearlyfreespeech Cost" src="/uploads/Nearlyfreespeech-Cost.png" alt="" width="550" height="310" /></a>
+<a href="/uploads/Nearlyfreespeech-Cost.png">![](/uploads/Nearlyfreespeech-Cost.png "Nearlyfreespeech Cost")</a>
 
 Now that $7.66/month looks like a lot, but I'd just renewed my domain for 2 years costing me $18.98. Take the $18.98 out of the equation and count only the first 3 months (April isn't over yet), and we end up with $9.37 for 3 months or a monthly average of $3.12.  That's way lower than what most fixed fee webhost charge you, and definitely cheaper than the $4.95 bluehost charges you for the 36 month contract or the $6.95 per month I'm paying dreamhost.
 

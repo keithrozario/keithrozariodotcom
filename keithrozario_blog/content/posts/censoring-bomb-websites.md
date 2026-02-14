@@ -1,5 +1,6 @@
 +++
 title = "Censoring bomb making websites: NO"
+slug = "censoring-bomb-websites"
 date = "2014-10-14T20:45:33"
 draft = false
 categories = ['Misc']

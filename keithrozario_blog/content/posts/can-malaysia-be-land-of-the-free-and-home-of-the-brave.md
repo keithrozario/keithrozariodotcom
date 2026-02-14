@@ -1,5 +1,6 @@
 +++
 title = "Can Malaysia be Land of the Free and Home of the Brave"
+slug = "can-malaysia-be-land-of-the-free-and-home-of-the-brave"
 date = "2015-01-10T23:57:20"
 draft = false
 categories = ['Security &amp; Privacy']

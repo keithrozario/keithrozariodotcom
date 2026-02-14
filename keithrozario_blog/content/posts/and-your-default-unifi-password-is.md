@@ -1,5 +1,6 @@
 +++
 title = "And your Default Unifi Password is..."
+slug = "and-your-default-unifi-password-is"
 date = "2013-01-07T07:00:40"
 draft = false
 tags = ['Unifi']
@@ -38,4 +39,4 @@ Most iPhones come with good security provided you don't jailbreak or root it. An
 <h2>Conclusion</h2>
 One of the first things you should always do is change your router password the moment you get it. Never leave it as a default. Unfortunately, I'm quite sure most TM installation teams don't do this for their customers, leaving people like the Kopitiams vulnerable to attacks from even the most newbie of hackers.
 
-&nbsp;
+ 

@@ -1,5 +1,6 @@
 +++
 title = "Customer Complaints on Malaysian Telcos -- Disconnected Foreigner"
+slug = "complaint-malaysian-telco"
 date = "2013-01-15T07:00:41"
 draft = false
 tags = ['Maxis', 'Unifi']

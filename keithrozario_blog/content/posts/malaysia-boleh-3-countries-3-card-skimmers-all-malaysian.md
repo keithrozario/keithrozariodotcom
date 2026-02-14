@@ -1,5 +1,6 @@
 +++
 title = "Malaysia boleh: 3 countries, 3 card-skimmers, all Malaysian"
+slug = "malaysia-boleh-3-countries-3-card-skimmers-all-malaysian"
 date = "2014-06-09T20:34:01"
 draft = false
 tags = ['ATM', 'card Skimmer']

@@ -1,5 +1,6 @@
 +++
 title = "Anti-TPP Ideologies?"
+slug = "anti-tpp-ideologies"
 date = "2015-12-19T08:00:52"
 draft = false
 tags = ['TPP']

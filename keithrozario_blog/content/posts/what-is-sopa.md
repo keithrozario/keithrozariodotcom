@@ -1,12 +1,13 @@
 +++
 title = "What is SOPA?"
+slug = "what-is-sopa"
 date = "2011-12-04T22:14:54"
 draft = false
 tags = ['SOPA']
 categories = ['Blog', 'CyberLaw']
 +++
 
-<a title="What is SOPA" href="http://www.keithrozario.com/2011/12/what-is-sopa.html/what-is-sopa" rel="attachment wp-att-1500"><img class="alignright size-medium wp-image-1500" title="what-is-sopa" src="/uploads/what-is-sopa-273x300.png" alt="" width="273" height="300" /></a>A couple of days ago, I stumbled onto a website by mozilla claiming "The internet we know and love is at risk". Now I'm not one to panic but this was some serious stuff here, Mozilla is a company I admire and respect, so if it tells me something serious is going down, I stand up and pay attention.
+<a title="What is SOPA" href="http://www.keithrozario.com/2011/12/what-is-sopa.html/what-is-sopa" rel="attachment wp-att-1500">![](/uploads/what-is-sopa-273x300.png "what-is-sopa")</a>A couple of days ago, I stumbled onto a website by mozilla claiming "The internet we know and love is at risk". Now I'm not one to panic but this was some serious stuff here, Mozilla is a company I admire and respect, so if it tells me something serious is going down, I stand up and pay attention.
 
 Further reading brought on a couple of key points, namely that Mozilla was talking about the new Stop Online Piracy Act (SOPA) that was designed to stop online piracy, but what it would effectively do was make give copyright holders essentially too much control over their copyrighted material. Now copyright holders undoubtedly have legal rights to their work, but giving them the right to shut down YouTube because someone sang their song and posted a video takes that a bit too far.
 
@@ -18,7 +19,7 @@ Unfortunately, I'm not a US-Citizen so I can't join in the calling to US members
 
 A lot of further reading on SOPA is available over at <a title="SOPA" href="http://en.wikipedia.org/wiki/Stop_Online_Piracy_Act#Penalties_for_streaming" target="_blank">wikipedia</a>, but my favorite resource on the really important stuff that matters...Stephen Colbert has some fantastic news on it:
 
-&nbsp;
+ 
 <div style="background-color: #000000; width: 520px;">
 <div style="padding: 4px;">
 

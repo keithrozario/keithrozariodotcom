@@ -1,11 +1,12 @@
 +++
 title = "Hate Speech is defined by private companies"
+slug = "hate-speech-is-defined-by-private-companies"
 date = "2016-03-13T15:55:01"
 draft = false
 categories = ['Copyright and Censorship', 'CyberLaw', 'Social Media']
 +++
 
-<a href="/uploads/FirstAmendment.jpg" rel="attachment wp-att-5585"><img class="size-full wp-image-5585 alignleft" src="/uploads/FirstAmendment.jpg" alt="FirstAmendment" width="300" height="168" /></a>You don't have a right to freedom of speech.
+<a href="/uploads/FirstAmendment.jpg" rel="attachment wp-att-5585">![FirstAmendment](/uploads/FirstAmendment.jpg)</a>You don't have a right to freedom of speech.
 
 Obviously true if you're Malaysian, but even Americans only enjoy a liberty in freedom of speech and not an absolute right.
 
@@ -25,7 +26,7 @@ In other words the government must be able to prove that if the speech were give
 
 To see how high the bar is set, let's consider cases that haven't met this limit, including the recent case of <a href="https://en.wikipedia.org/wiki/Snyder_v._Phelps">Synder vs. Phelps</a>.
 
-In that case, members of the Westboro Baptist Church decided to protest outside the funeral of a dead American soldier, with placards that included the statements such as "You're going to hell" and "God Hates you". The father of the soldier, who was <img class="size-full wp-image-5586 alignright" src="/uploads/westboro-baptist.jpg" alt="westboro-baptist" width="152" height="192" />understandably upset decided to sue the Church and its pastor.
+In that case, members of the Westboro Baptist Church decided to protest outside the funeral of a dead American soldier, with placards that included the statements such as "You're going to hell" and "God Hates you". The father of the soldier, who was ![westboro-baptist](/uploads/westboro-baptist.jpg)understandably upset decided to sue the Church and its pastor.
 
 The case went all the way to the US Supreme court, where in an 8-1 majority decision concluded that  <em>"What Westboro said, in the whole context of how and where it chose to say it, is entitled to 'special protection' under the First Amendment and that protection cannot be overcome by a jury finding that the picketing was outrageous"</em>.
 
@@ -37,7 +38,7 @@ The definition of Hate speech online is found not in the laws of countries, or e
 
 From a Malaysian perspectives, we sometimes rejoice that Facebook doesn't share the wide definition of offensive and seditious content that our government uses. Our freedom of expression is more protected online than on the streets of Malaysia.
 
-&nbsp;
+ 
 
 But some detractors are unhappy that Facebook has <a href="https://www.keithrozario.com/2013/08/mahathir-censored-on-facebook.html">blocked Tun Dr. M's website</a>, with no solid reason. And when you're a company that is mostly male and  predominantly white, you're bound to end up with some problematic 'bias', including the time when Facebook started<a href="http://www.telegraph.co.uk/women/womens-health/11195373/Facebook-removes-mothers-breastfeeding-photo.html"> banning pictures of breastfeeding women because it was deemed 'offensive nudity'.</a>
 

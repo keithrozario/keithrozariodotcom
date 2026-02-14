@@ -1,11 +1,12 @@
 +++
 title = "What's Tumblr"
+slug = "whats-tumblr"
 date = "2011-05-26T01:36:11"
 draft = false
 categories = ['Blog']
 +++
 
-<a rel="attachment wp-att-765" href="http://www.keithrozario.com/2011/05/whats-tumblr.html/tumblr" target="_blank"><img class="alignleft size-thumbnail wp-image-765" title="tumblr" src="/uploads/tumblr-150x150.jpg" alt="" width="150" height="150" /></a>I'm a bit slow to new platforms, (I've just discovered wordpress early last month), but in the battle supremo of the 3 most popular blogging platforms out there, Tumblr does have it's advantages, and they're quite many.<!--more-->
+<a rel="attachment wp-att-765" href="http://www.keithrozario.com/2011/05/whats-tumblr.html/tumblr" target="_blank">![](/uploads/tumblr-150x150.jpg "tumblr")</a>I'm a bit slow to new platforms, (I've just discovered wordpress early last month), but in the battle supremo of the 3 most popular blogging platforms out there, Tumblr does have it's advantages, and they're quite many.<!--more-->
 
 Tumblr is (in my view), a new way of blogging. It integrates well with facebook and twitter and allows users to post individual items separately. So you have a GREAT user interface, that is customized so that you can post photos/videos/audios as separate post.
 

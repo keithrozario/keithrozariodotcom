@@ -1,11 +1,12 @@
 +++
 title = "Kerajaan Malaysian Mengintip Rakyat Malaysia sendiri"
+slug = "kerajaan-barisan-nasional-malaysia-mengintip-rakyat-warganegara-finspy-finfisher"
 date = "2013-05-03T09:30:40"
 draft = false
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia']
 +++
 
-<a href="/uploads/Malaysian_government_spying_on_citizens.jpg"><img class="aligncenter" alt="Big Brother is watching" src="/uploads/Malaysian_government_spying_on_citizens.jpg" width="199" height="254" /></a>
+<a href="/uploads/Malaysian_government_spying_on_citizens.jpg">![Big Brother is watching](/uploads/Malaysian_government_spying_on_citizens.jpg)</a>
 
 Beberapa minggu lalu, saya telah menulis tentang sekeping artikel yang 'tidak bertanggungjawab' oleh Malaysian Insider apabila 'mendakwa' kerajaan Malaysia mengintip rakyat Malaysia - tanpa sebarang bukti. Saya amat kecewa bahawa wartawan tersebut membuat kenyataan tersebut tanpa apa-apa bukti--apabila menulis blog tersebut saya kecewa dan saya marah!
 

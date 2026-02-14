@@ -1,5 +1,6 @@
 +++
 title = "Copy Millions of S3 Objects in minutes"
+slug = "copy-millions-of-objects-in-s3"
 date = "2019-04-16T23:44:02"
 draft = false
 categories = ['Serverless']
@@ -50,7 +51,7 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6705} -->
-<figure class="wp-block-image"><img src="/uploads/s3-71-Architecture.png" alt="" class="wp-image-6705"/></figure>
+![](/uploads/s3-71-Architecture.png)
 <!-- /wp:image -->
 
 <!-- wp:more -->
@@ -122,7 +123,7 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6706} -->
-<figure class="wp-block-image"><img src="/uploads/Screenshot-2019-04-16-at-11.28.55-PM.png" alt="" class="wp-image-6706"/></figure>
+![](/uploads/Screenshot-2019-04-16-at-11.28.55-PM.png)
 <!-- /wp:image -->
 
 <!-- wp:heading -->

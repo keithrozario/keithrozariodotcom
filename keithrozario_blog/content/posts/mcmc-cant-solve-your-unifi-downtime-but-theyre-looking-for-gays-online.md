@@ -1,11 +1,12 @@
 +++
 title = "MCMC can't solve your Unifi downtime but they're looking for Gays online"
+slug = "mcmc-cant-solve-your-unifi-downtime-but-theyre-looking-for-gays-online"
 date = "2012-03-12T23:09:43"
 draft = false
 categories = ['CyberLaw', 'Malaysia']
 +++
 
-<a href="/uploads/4019801997_2bfb5a8d7f.jpg"><img class="alignleft size-medium wp-image-1888" title="4019801997_2bfb5a8d7f" src="/uploads/4019801997_2bfb5a8d7f-300x225.jpg" alt="" width="300" height="225" /></a><a title="Bernama Report" href="http://www.bernama.com.my/bernama/v6/newsgeneral.php?id=651733" target="_blank">Bernama reported</a> today that The Malaysian Communications and Multimedia Commission  (MCMC or the SKMM) together The Malaysian Islamic Development Department (Jakim) would begin "<em>collaborating to monitor lesbian, gay, bisexual and transsexual (LGBT) activities in the country, particularly on the websites.</em>"
+<a href="/uploads/4019801997_2bfb5a8d7f.jpg">![](/uploads/4019801997_2bfb5a8d7f-300x225.jpg "4019801997_2bfb5a8d7f")</a><a title="Bernama Report" href="http://www.bernama.com.my/bernama/v6/newsgeneral.php?id=651733" target="_blank">Bernama reported</a> today that The Malaysian Communications and Multimedia Commission  (MCMC or the SKMM) together The Malaysian Islamic Development Department (Jakim) would begin "<em>collaborating to monitor lesbian, gay, bisexual and transsexual (LGBT) activities in the country, particularly on the websites.</em>"
 
 Apart from the usual gung-ho activity of from Jakim, its Director General  Othman Mustapha said "I<em>f we find that there are things that are unsuitable on the websites, information would be channeled to the committee for action to be taken,</em>"
 

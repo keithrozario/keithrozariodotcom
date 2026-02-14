@@ -1,5 +1,6 @@
 +++
 title = "The Tyranny of Best Practice"
+slug = "the-tyranny-of-best-practice"
 date = "2024-08-12T14:00:45"
 draft = false
 categories = ['Misc']

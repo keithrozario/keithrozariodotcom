@@ -1,5 +1,6 @@
 +++
 title = "Hosting a static website on S3 and Cloudflare"
+slug = "hosting-a-static-website-on-s3-and-cloudflare"
 date = "2018-10-03T23:34:57"
 draft = false
 categories = ['Misc']
@@ -18,7 +19,7 @@ categories = ['Misc']
 <p>The solution looks something like this:</p>
 
 <!-- wp:image {"id":6508} -->
-<figure class="wp-block-image"><img src="/uploads/cloudflare.png" alt="" class="wp-image-6508"/></figure>
+![](/uploads/cloudflare.png)
 <!-- /wp:image -->
 
 <!-- wp:more -->
@@ -38,7 +39,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6509} -->
-<figure class="wp-block-image"><img src="/uploads/Screenshot-2018-10-02-at-10.22.15-AM.png" alt="" class="wp-image-6509"/><figcaption><strong>CNAME Entry in CloudFlare</strong></figcaption></figure>
+<figure class="wp-block-image">![](/uploads/Screenshot-2018-10-02-at-10.22.15-AM.png)<figcaption><strong>CNAME Entry in CloudFlare</strong></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

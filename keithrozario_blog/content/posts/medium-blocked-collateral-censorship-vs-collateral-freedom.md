@@ -1,11 +1,12 @@
 +++
 title = "Medium blocked: Collateral Censorship vs. Collateral Freedom"
+slug = "medium-blocked-collateral-censorship-vs-collateral-freedom"
 date = "2016-01-24T16:53:23"
 draft = false
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia']
 +++
 
-<a href="/uploads/Makluman-Notification-2015-07-19-21-49-53.png" rel="attachment wp-att-5102"><img class="aligncenter wp-image-5102" src="/uploads/Makluman-Notification-2015-07-19-21-49-53.png" alt="Website Blocked" width="550" height="364" /></a>
+<a href="/uploads/Makluman-Notification-2015-07-19-21-49-53.png" rel="attachment wp-att-5102">![Website Blocked](/uploads/Makluman-Notification-2015-07-19-21-49-53.png)</a>
 
 So the buzz around twitter is that <a href="http://medium.com" target="_blank">Medium.com</a> has been blocked by the Malaysian Authorities, and guess what? It's true.
 

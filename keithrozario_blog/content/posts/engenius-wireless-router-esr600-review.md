@@ -1,11 +1,12 @@
 +++
 title = "EnGenius Wireless Router ESR600 Review"
+slug = "engenius-wireless-router-esr600-review"
 date = "2015-07-01T08:00:46"
 draft = false
 categories = ['Misc']
 +++
 
-<img class="  wp-image-5072 alignleft" src="/uploads/dsc00503.jpg" alt="dsc00503" width="347" height="221" />
+![dsc00503](/uploads/dsc00503.jpg)
 
 A couple of weeks back, the guys over at infoversal loaned me a Engenius ESR600 router for a review, at first I was a bit hesitant, but my overall unhappiness with my TP-link router made me think twice. So I gave it a shot, and boy was it worth it.
 
@@ -19,7 +20,7 @@ The other thing I need to mention is that the Engenius User Interface is one of 
 <h2>Features</h2>
 There's a ton of features on most modern routers, even on the lower price points, the ones that are important to me are:
 
-QoS settings <a href="/uploads/EnGenius-Wireless-Router-ESR600.png"><img class=" size-large wp-image-5061 aligncenter" src="/uploads/EnGenius-Wireless-Router-ESR600.png" alt="EnGenius Wireless Router ESR600" width="593" height="478" /></a>QoS (Quality of Service) is a special setting on the router that allows you to select which traffic to prioritize. For example, in my home, I'd like to prioritize my gaming traffic, and my work traffic for when I take teleconference calls. This is very important, otherwise my wife can cause me to lose the game, or experience laggy meetings simply because she's watching korean dramas on her iPad.
+QoS settings <a href="/uploads/EnGenius-Wireless-Router-ESR600.png">![EnGenius Wireless Router ESR600](/uploads/EnGenius-Wireless-Router-ESR600.png)</a>QoS (Quality of Service) is a special setting on the router that allows you to select which traffic to prioritize. For example, in my home, I'd like to prioritize my gaming traffic, and my work traffic for when I take teleconference calls. This is very important, otherwise my wife can cause me to lose the game, or experience laggy meetings simply because she's watching korean dramas on her iPad.
 
 I consider QoS to be an essential feature on a router, and most routers offer this out of the box. However, Engenius offers the feature to set specific machines to higher priority which saves you the trouble of figuring out the specific traffic you're interested in.
 
@@ -35,9 +36,9 @@ The beauty about Asus and Engenius though is that theirs doesn't even require a 
 <h2>Signal Strength and others</h2>
 I was really impressed with the Signal Strength of the Engenius routers. Really good coverage over my entire house over both bands. The only router that provides slightly better coverage was the Asus N12-HP and that had unusually long and powerful antennas, while this is antenna-less.
 
-[caption id="attachment_5062" align="aligncenter" width="542"]<img class="wp-image-5062" src="/uploads/signal-strength.png" alt="signal-strength" width="542" height="99" /> Signal Strength of the Engenius from about 10m away from the first floor of my home.[/caption]
+[caption id="attachment_5062" align="aligncenter" width="542"]![signal-strength](/uploads/signal-strength.png) Signal Strength of the Engenius from about 10m away from the first floor of my home.[/caption]
 
-[caption id="attachment_5060" align="aligncenter" width="431"]<img class="wp-image-5060 size-full" src="/uploads/Encore-1GB-upstairs.png" alt="Encore-1GB-upstairs" width="431" height="449" /> Speed of a 1GB file transfer over Wifi on different floors in the house[/caption]
+[caption id="attachment_5060" align="aligncenter" width="431"]![Encore-1GB-upstairs](/uploads/Encore-1GB-upstairs.png) Speed of a 1GB file transfer over Wifi on different floors in the house[/caption]
 
 Other features that are standard include port-forwarding, port-triggering, guest networks, parental control...etc. Like most routers these days, it also comes with bloat features like IP Camera integration, file sharing etc, but I'd advise against using your router as an internet file-sharing device for multiple security reasons.
 

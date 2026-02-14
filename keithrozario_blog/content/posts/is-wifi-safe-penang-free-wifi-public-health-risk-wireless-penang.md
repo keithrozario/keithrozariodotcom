@@ -1,12 +1,13 @@
 +++
 title = "Are Free Public WiFi initiatives safe? Or do they pose a Health Risk?"
+slug = "is-wifi-safe-penang-free-wifi-public-health-risk-wireless-penang"
 date = "2013-02-15T07:00:51"
 draft = false
 tags = ['WiFi', 'Wireless@Penang']
 categories = ['CyberLaw', 'Malaysia', 'Science']
 +++
 
-<a href="/uploads/free-wifi.jpg"><img class="alignleft size-medium wp-image-3153" title="free-wifi" src="/uploads/free-wifi-300x207.jpg" alt="" width="300" height="207" /></a>Techdirt recently reported on how<a title="Canadian Schools ban Wifi based on Bad Science" href="http://www.techdirt.com/blog/wireless/articles/20130205/03222421885/canadian-schools-ban-wifi-based-bad-science.shtml" target="_blank"> Canadian Schools are Banning WiFi based on bad science</a>, and I was appalled by the complete lack of science we have operating in the minds of these clueless parents. No doubt they're well-intentioned but their complete and utter disregard of the scientific evidence in favour of fearful knee-jerk reactions are actually causing more harm than good for the very children they intend to protect.
+<a href="/uploads/free-wifi.jpg">![](/uploads/free-wifi-300x207.jpg "free-wifi")</a>Techdirt recently reported on how<a title="Canadian Schools ban Wifi based on Bad Science" href="http://www.techdirt.com/blog/wireless/articles/20130205/03222421885/canadian-schools-ban-wifi-based-bad-science.shtml" target="_blank"> Canadian Schools are Banning WiFi based on bad science</a>, and I was appalled by the complete lack of science we have operating in the minds of these clueless parents. No doubt they're well-intentioned but their complete and utter disregard of the scientific evidence in favour of fearful knee-jerk reactions are actually causing more harm than good for the very children they intend to protect.
 
 Of course it doesn't take much research to find out that <a title="WiFi isn't Dangerous" href="http://www.ampedwireless.com/learningcenter/safety.html" target="_blank">WiFi isn't dangerous</a>, and there's <a title="WiFi Health Risk" href="http://www.guardian.co.uk/technology/askjack/2012/sep/27/wi-fi-health-risks" target="_blank">no evidence to show that it is dangerous</a>. In fact, most studies suggest WiFi radiation is so weak, that a year of <a title="A year of Wifi Radiation equals 20 minutes on a cell" href="http://www.techdirt.com/articles/20061212/080748.shtml" target="_blank">WiFi radiation equals to 20 minutes on a cell phone</a>. The most important thing of course is not to fall into the trap of thinking we're 'better safe than sorry' because we already are safe with WiFi and we have enough evidence to suggest what WiFi poses to health risk.
 <h2>Wireless@PENANG : The Health risk of Public WiFi</h2>
@@ -26,7 +27,7 @@ I think it's best to sum with a quote from <a title="Wifi alternative medicine" 
 
 </blockquote>
 
-<a href="/uploads/PenangFreeWifiPhase2.jpg"><img class="alignright size-medium wp-image-3156" title="PenangFreeWifiPhase2" src="/uploads/PenangFreeWifiPhase2-300x213.jpg" alt="" width="300" height="213" /></a>Finally a press release from a politician I can get on board with!!
+<a href="/uploads/PenangFreeWifiPhase2.jpg">![](/uploads/PenangFreeWifiPhase2-300x213.jpg "PenangFreeWifiPhase2")</a>Finally a press release from a politician I can get on board with!!
 
 Firstly, it rightly points to 'various anecdotal reports' because that's all these people have. Somebody grandmother's third cousin was exposed to WiFi and died, or how they 'heard' from someone that WiFi was bad, or even more compelling--'they say' WiFi can cause cancer. I especially love the 'they say' evidence, because it always prompts the question of who is 'they', which usually is not answered, or pointed back to an email they received years ago, and we all know how accurate emails are on science. Or could you just ask your friendly neighbourhood 'alternative' medicine therapist.
 
@@ -42,7 +43,7 @@ Unfortunately, Yes it is. WiFi operates on Microwaves--but they're not harmful. 
 
 However to understand Microwaves we first need to understand electromagnetic radiation.
 <h2>What is Electromagnetic Radiation</h2>
-<a href="/uploads/electromagnetic_spectrum.jpg"><img class="alignleft size-full wp-image-3155" style="margin-right: 20px;" title="electromagnetic_spectrum" src="/uploads/electromagnetic_spectrum.jpg" alt="" width="266" height="190" /></a>People are afraid of electromagnetic 'radiation', not realizing that the human body itself is emitting electromagnetic waves. If you've watched Predator you'd know what I'm talking about. In Predator, Arnie has to fight off an invisible alien that can see him from a distance because the Predator uses Infra-red to see. In fact, if I took a pair of infrared goggles (like the navy seals have), I'd be able to see you through a brick wall. Simply because you're emitting infra red waves.
+<a href="/uploads/electromagnetic_spectrum.jpg">![](/uploads/electromagnetic_spectrum.jpg "electromagnetic_spectrum")</a>People are afraid of electromagnetic 'radiation', not realizing that the human body itself is emitting electromagnetic waves. If you've watched Predator you'd know what I'm talking about. In Predator, Arnie has to fight off an invisible alien that can see him from a distance because the Predator uses Infra-red to see. In fact, if I took a pair of infrared goggles (like the navy seals have), I'd be able to see you through a brick wall. Simply because you're emitting infra red waves.
 
 You see infrared waves and micro waves all belong to the same family--the electromagnetic spectrum and while some waves in the spectrum are harmful like gamma rays and X-rays, most of them aren't. The difference between safe waves like Infra-red waves and the not so safe ones like gamma rays lies in the frequency of the waves, or the amount of oscillations the waves make per second.
 

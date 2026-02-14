@@ -1,11 +1,12 @@
 +++
 title = "Netflix is setting back Piracy and Security"
+slug = "netflix-is-setting-back-piracy-and-security"
 date = "2016-01-28T20:33:58"
 draft = false
 categories = ['Copyright and Censorship', 'Malaysia']
 +++
 
-<a href="/uploads/copying_is_not_piracy.png" rel="attachment wp-att-4524"><img class="aligncenter wp-image-4524" src="/uploads/copying_is_not_piracy.png" alt="copying_is_not_piracy" width="550" height="413" /></a>
+<a href="/uploads/copying_is_not_piracy.png" rel="attachment wp-att-4524">![copying_is_not_piracy](/uploads/copying_is_not_piracy.png)</a>
 
 Malaysian rejoiced last month when Netflix announced that they would be coming to our shores. We were all salivating over the massive amount of content we would finally have access too...except that it wasn't so massive.
 
@@ -49,4 +50,4 @@ In other words, users are going to go back to torrenting, turn of their VPNs, vi
 
 And the Copyright holders only have themselves to blame.
 
-&nbsp;
+ 

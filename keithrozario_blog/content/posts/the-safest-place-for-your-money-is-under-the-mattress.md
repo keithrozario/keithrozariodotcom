@@ -1,11 +1,12 @@
 +++
 title = "The safest place for your money is under the mattress"
+slug = "the-safest-place-for-your-money-is-under-the-mattress"
 date = "2016-09-12T08:38:24"
 draft = false
 categories = ['CyberLaw', "Keith's Favorite Post", 'Security &amp; Privacy', 'Singapore']
 +++
 
-<a href="/uploads/Money-Under-Mattress.jpg"><img class="aligncenter wp-image-5832" src="/uploads/Money-Under-Mattress.jpg" alt="money-under-mattress" width="550" height="366" /></a>
+<a href="/uploads/Money-Under-Mattress.jpg">![money-under-mattress](/uploads/Money-Under-Mattress.jpg)</a>
 
 When I was in school, we joked about people who kept their money under the mattress, that somehow those who didn't use banks were less intelligent than people who did.The general thinking was that smart people kept their money in the bank, where it was safe from theft, fire and flood, while still collecting interest.
 
@@ -23,7 +24,7 @@ There's two types of attack, one where the bank itself is attacked, and another 
 
 When someone walks into a bank  with the threat of violence, and walks out <a href="http://www.straitstimes.com/singapore/suspect-on-the-run-after-30k-bank-robbery-in-holland-village">with $30,000 of the banks cash</a>, the bank absorbs all the loses. After all, that's why your money is in their safe and not under the mattresses.
 
-<a href="/uploads/507d7acb92f46ed8d8779be14e3f2051.jpg"><img class="alignleft wp-image-5833 size-medium" src="/uploads/507d7acb92f46ed8d8779be14e3f2051-300x188.jpg" alt="507d7acb92f46ed8d8779be14e3f2051" width="300" height="188" /></a>But there exist another class of attack--customer impersonation, where the attacker isn't threatening violence or even 'attacking', but trying to fool the bank into believing they are the rightful account holders. In other words, the attacker is trying to impersonate you, to get to <em>your</em> money.
+<a href="/uploads/507d7acb92f46ed8d8779be14e3f2051.jpg">![507d7acb92f46ed8d8779be14e3f2051](/uploads/507d7acb92f46ed8d8779be14e3f2051-300x188.jpg)</a>But there exist another class of attack--customer impersonation, where the attacker isn't threatening violence or even 'attacking', but trying to fool the bank into believing they are the rightful account holders. In other words, the attacker is trying to impersonate you, to get to <em>your</em> money.
 
 And in the digital world, customer impersonation is far more common. Consider the case of ATM fraud.
 
@@ -51,7 +52,7 @@ More importantly, it's also your responsibility to keep your password a secret, 
 
 That's why phishing attacks to steal usernames and passwords are so common (I blogged about one for <a href="https://www.keithrozario.com/2014/10/phishing-by-the-bank-maybank-that-is.html">Maybank</a>, and another for <a href="https://www.keithrozario.com/2014/07/rhb-phishing-scam-details-phishing-scam.html">RHB</a>) So how do banks design their systems to overcome the weakness of passwords?
 <h2>Username and Passwords are not enough</h2>
-<a href="/uploads/2-factor-auth.jpg"><img class="size-full wp-image-5834 alignright" src="/uploads/2-factor-auth.jpg" alt="2-factor-auth" width="315" height="210" /></a>In Malaysia, most banks use sms' to send a One Time Password (OTP) to verify that the person making the online transaction is in possession of a phone number tied to the account. This way, even if a attacker knows the password to your Maybank2u account, they can't move money unless they can get a hold of the OTP (or TAC in Maybank terminology)
+<a href="/uploads/2-factor-auth.jpg">![2-factor-auth](/uploads/2-factor-auth.jpg)</a>In Malaysia, most banks use sms' to send a One Time Password (OTP) to verify that the person making the online transaction is in possession of a phone number tied to the account. This way, even if a attacker knows the password to your Maybank2u account, they can't move money unless they can get a hold of the OTP (or TAC in Maybank terminology)
 
 In cybersecurity jargon, this is 2 Factor authentication, where in order to access funds in your account, the attacker would need to know the Password (something you know), and have possession of the phone (something you have).
 

@@ -1,5 +1,6 @@
 +++
 title = "Overcoming Setbacks = Progress"
+slug = "overcoming-setbacks-progress"
 date = "2025-01-04T10:57:20"
 draft = false
 categories = ['Misc']
@@ -78,7 +79,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7808,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/image-5-501x500.png" alt="" class="wp-image-7808"/></figure>
+![](/uploads/image-5-501x500.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -86,5 +87,5 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7809,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/image-6-363x500.png" alt="" class="wp-image-7809"/></figure>
+![](/uploads/image-6-363x500.png)
 <!-- /wp:image -->

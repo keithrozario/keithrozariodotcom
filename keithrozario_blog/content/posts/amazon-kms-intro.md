@@ -1,5 +1,6 @@
 +++
 title = "Amazon KMS: Intro"
+slug = "amazon-kms-intro"
 date = "2020-01-06T23:41:19"
 draft = false
 categories = ['Security &amp; Privacy', 'Serverless']
@@ -253,7 +254,7 @@ categories = ['Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6900,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/CMK-Component-View.png" alt="" class="wp-image-6900"/></figure>
+![](/uploads/CMK-Component-View.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -285,7 +286,7 @@ categories = ['Security &amp; Privacy', 'Serverless']
 <!-- /wp:list -->
 
 <!-- wp:image {"id":6901,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/rotated.003.jpeg" alt="" class="wp-image-6901"/></figure>
+![](/uploads/rotated.003.jpeg)
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -353,7 +354,7 @@ categories = ['Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6889,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/KeyGeneration_KMS.001.png" alt="" class="wp-image-6889"/></figure>
+![](/uploads/KeyGeneration_KMS.001.png)
 <!-- /wp:image -->
 
 <!-- wp:heading -->

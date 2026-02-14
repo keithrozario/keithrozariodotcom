@@ -1,12 +1,13 @@
 +++
 title = "Why I stopped the Nuffnang Ads on my blog"
+slug = "nuffnang-ads-malaysia-stopped"
 date = "2012-09-20T08:00:13"
 draft = false
 tags = ['Maxis', 'Nuffnang']
 categories = ['Blog', "Keith's Favorite Post", 'Malaysia']
 +++
 
-<a href="/uploads/nuffnang.jpg"><img class="size-medium wp-image-2430 alignleft" title="nuffnang" alt="" src="/uploads/nuffnang-300x233.jpg" width="300" height="233" /></a>About 2 months back, <a title="I’m officially on Nuffnang" href="http://www.keithrozario.com/2012/07/nuffnang-malaysia-ads-online-monetize-blog-community.html">I posted up a nuffnang ad on my blog, and with reasons explaining why I felt the need to advertise</a>. The guys from Nuffnang were pretty stand-up characters and I felt like I could trust them, so I begin to post Nuffnang ads and monitor that over time.
+<a href="/uploads/nuffnang.jpg">![](/uploads/nuffnang-300x233.jpg "nuffnang")</a>About 2 months back, <a title="I’m officially on Nuffnang" href="http://www.keithrozario.com/2012/07/nuffnang-malaysia-ads-online-monetize-blog-community.html">I posted up a nuffnang ad on my blog, and with reasons explaining why I felt the need to advertise</a>. The guys from Nuffnang were pretty stand-up characters and I felt like I could trust them, so I begin to post Nuffnang ads and monitor that over time.
 
 Unfortunately the results haven't been so good, and after some reflection I decided not to port over the nuffnang ads when I migrated the blog over to a new hosting provider. It's important to recognize that your experience with Nuffnang could be different, and I have no doubt that they do contribute significantly to some bloggers, but for me the relationship just wasn't going anywhere and I wasn't really getting any value out of the ads. So when I migrated <a title="WPWebHost : WordPress Hosting in Malaysia from Exabytes" href="http://www.keithrozario.com/2012/09/wpwebhost-wordpress-hosting-malaysia-exabyte.html">my blog from Nearlyfreespeech to WPWebHost</a> I decided not to port over the Nuffnang advertising widget--and here's why?<!--more-->
 <h2>Nuffnang Ads weren't paying that well</h2>
@@ -20,7 +21,7 @@ So obviously the money is to be made in the Cost-Per-Unique-View campaign or the
 <h2>Nuffnang Ad Earnings Breakdown</h2>
 While it is quite embarrassing to break down a number like RM2.75, here's the numbers:
 
-<center><a href="/uploads/Nuffnang-Ads-Malaysia.png"><img title="Nuffnang-Ads-Malaysia" alt="Nuffnang Malaysia Ad Sponsors" src="/uploads/Nuffnang-Ads-Malaysia.png" width="538" height="390" /></a></center>So by far the largest contributor to my blog is Maxis--I wonder how they feel about that. <a title="Maxis Fibre to the Home (FFTH) : Why you shouldn’t get it" href="http://www.keithrozario.com/2012/08/maxis-fibre-to-the-home-ffth-review.html">I'm not exactly Maxis biggest fan</a>, and I have given them a lot of stig for it, but they're contributed Rm1.25 to me. I was thinking of doing a little victory dance over a Maxis Logo, until I realized that my monthly Maxis Bill is well over 100 times that amount. I must also point out, that while I complain about Maxis a lot, I was recently enlightened at how good they're data coverage and I must say they've got their core telecom offering --spot-on perfect.
+<center><a href="/uploads/Nuffnang-Ads-Malaysia.png">![Nuffnang Malaysia Ad Sponsors](/uploads/Nuffnang-Ads-Malaysia.png "Nuffnang-Ads-Malaysia")</a></center>So by far the largest contributor to my blog is Maxis--I wonder how they feel about that. <a title="Maxis Fibre to the Home (FFTH) : Why you shouldn’t get it" href="http://www.keithrozario.com/2012/08/maxis-fibre-to-the-home-ffth-review.html">I'm not exactly Maxis biggest fan</a>, and I have given them a lot of stig for it, but they're contributed Rm1.25 to me. I was thinking of doing a little victory dance over a Maxis Logo, until I realized that my monthly Maxis Bill is well over 100 times that amount. I must also point out, that while I complain about Maxis a lot, I was recently enlightened at how good they're data coverage and I must say they've got their core telecom offering --spot-on perfect.
 
 Following up is the Samsung Galaxy S3 promo, which is good, cause<a title="Finally got my Samsung Galaxy S3" href="http://www.keithrozario.com/2012/06/samsung-galaxy-s3-maxis-999-moc.html"> I'm a huge S3 fan</a>, so it's good that I'm supporting brands I'm happy with. It's worth to point out that these aren't personally choices, but assigned by the nuffnang automatically.
 

@@ -1,5 +1,6 @@
 +++
 title = "Bricks to Brains: The evolution of the cell phone"
+slug = "bricks-to-brains-the-evolution-of-the-cell-phone"
 date = "2013-11-05T20:51:50"
 draft = false
 categories = ['Misc']
@@ -21,5 +22,5 @@ A couple of things that stood out for me were:
 
 <!--more-->
 
-<center><a href="http://www.computersciencedegreehub.com/cell-phone/"><img alt="From Bricks to Brains: The Evolution of the Cell Phone" src="http://ig.computersciencedegreehub.com/evolution.jpg" width="500" border="0" /></a>
+<center><a href="http://www.computersciencedegreehub.com/cell-phone/">![From Bricks to Brains: The Evolution of the Cell Phone](http://ig.computersciencedegreehub.com/evolution.jpg)</a>
 Image compliments of <a href="http://www.computersciencedegreehub.com">Computer Science Degree Hub</a></center>

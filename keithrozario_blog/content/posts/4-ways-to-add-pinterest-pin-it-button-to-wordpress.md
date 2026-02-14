@@ -1,11 +1,12 @@
 +++
 title = "4 ways to add Pinterest 'Pin It' button to Wordpress"
+slug = "4-ways-to-add-pinterest-pin-it-button-to-wordpress"
 date = "2012-02-17T10:02:28"
 draft = false
 categories = ['Blog', 'Social Media']
 +++
 
-<a title="Quotes" href="http://pinterest.com/keithrozario/quotes" target="_blank"><img class="wp-image-1811 alignnone" title="Quotes" src="/uploads/Quotes-1024x410.png" alt="" width="550" height="220" /></a>
+<a title="Quotes" href="http://pinterest.com/keithrozario/quotes" target="_blank">![](/uploads/Quotes-1024x410.png "Quotes")</a>
 
 Pinterest is an awesome social site that let's you 'pin' up interesting articles on boards that other users can view and then continue sharing. It's absolutely amazing, and I'm in love with it. If you're still curious about what Pinterest is or want to snag an invite (it's still invite only btw), then just leave a comment at the bottom of this page and I'll send you an invite as soon as I can. If you don't know what Pinterest is, just head over a board I created from random quotes I saw from other users over here <a href="http://pinterest.com/keithrozario/quotes/">http://pinterest.com/keithrozario/quotes/</a>.<!--more-->
 

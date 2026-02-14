@@ -1,12 +1,13 @@
 +++
 title = "Investigating MYSPPL.com using OSINT"
+slug = "investigating-mysppl-com-using-osint"
 date = "2022-03-08T13:26:26"
 draft = false
 categories = ['Misc']
 +++
 
 <!-- wp:image {"id":7633,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/uploads/image_from_malaysiakini.jpg" alt="" class="wp-image-7633"/></figure>
+![](/uploads/image_from_malaysiakini.jpg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -38,7 +39,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7615,"sizeSlug":"full","linkDestination":"none","className":"is-style-default"} -->
-<figure class="wp-block-image size-full is-style-default"><img src="/uploads/Whois-Domsin-mysppl.png" alt="" class="wp-image-7615"/></figure>
+![](/uploads/Whois-Domsin-mysppl.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -46,7 +47,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7616,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/Cloudflare-hosted-mysppl-744x500.png" alt="" class="wp-image-7616"/></figure>
+![](/uploads/Cloudflare-hosted-mysppl-744x500.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -58,7 +59,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7618,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/Cert-Transparency-1-820x98.png" alt="" class="wp-image-7618"/></figure>
+![](/uploads/Cert-Transparency-1-820x98.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -74,7 +75,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7620,"sizeSlug":"full","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-full"><img src="/uploads/insurance-company.png" alt="" class="wp-image-7620"/></figure></div>
+![](/uploads/insurance-company.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -86,7 +87,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7621,"className":"is-style-default"} -->
-<div class="wp-block-image is-style-default"><figure class="aligncenter"><img src="/uploads/partnsuppluy-526x500.jpg" alt="" class="wp-image-7621"/></figure></div>
+![](/uploads/partnsuppluy-526x500.jpg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -94,7 +95,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7624,"sizeSlug":"full","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-full"><img src="/uploads/whois-history.png" alt="" class="wp-image-7624"/></figure></div>
+![](/uploads/whois-history.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -106,7 +107,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7630,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/uploads/ShahriarB-CTO.png" alt="" class="wp-image-7630"/></figure>
+![](/uploads/ShahriarB-CTO.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -114,7 +115,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7631,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/reverse_whois-733x500.jpg" alt="" class="wp-image-7631"/></figure>
+![](/uploads/reverse_whois-733x500.jpg)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -126,5 +127,5 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7632,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="/uploads/image-1.png" alt="" class="wp-image-7632"/></figure>
+![](/uploads/image-1.png)
 <!-- /wp:image -->

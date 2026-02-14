@@ -1,11 +1,12 @@
 +++
 title = "Study shows Malaysian students can't solve problems"
+slug = "study-shows-malaysian-students-cant-solve-problems"
 date = "2014-04-02T10:31:21"
 draft = false
 categories = ['Science']
 +++
 
-<p style="text-align: center;"><a href="/uploads/PISA-OECD.png"><img class="aligncenter  wp-image-4277" alt="PISA Results" src="/uploads/PISA-OECD.png" width="550" height="550" /></a></p>
+<p style="text-align: center;"><a href="/uploads/PISA-OECD.png">![PISA Results](/uploads/PISA-OECD.png)</a></p>
 The latest PISA 2012 results are out, and it comes with a twist. Instead of testing the usual 'knowledge' of the students, PISA crafted a new exam meant to test the creative problem solving skills of students in various countries.
 
 <a title="Ed Week PISA" href="http://blogs.edweek.org/edweek/inside-school-research/2014/04/pisa_problem_solving.html" target="_blank">Edweek.org</a> further explains:

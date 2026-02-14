@@ -1,12 +1,13 @@
 +++
 title = "Ge.tt gets 350,000 Euros to make your file sharing better"
+slug = "ge-tt-gets-350000-euros-to-make-your-file-sharing-better"
 date = "2012-01-03T09:21:08"
 draft = false
 tags = ['filesharing']
 categories = ['Cloud Computing']
 +++
 
-<a href="/uploads/ge.tt_.png"><img class="alignleft size-medium wp-image-1647" title="ge.tt" src="/uploads/ge.tt_-300x300.png" alt="" width="300" height="300" /></a>File Sharing seems to be the next big thing , with email servers hitting maximum attachment sizes of 50MB pretty often, a lot of professionals are opting for web-based file sharing services. I previously wrote about how much<a title="Doing one thing Right: 6 websites that excel at just one thing." href="http://www.keithrozario.com/2011/06/doing-one-thing-right-6-websites-that-excel-at-just-one-thing.html"> I loved the interface at ge.tt</a>, plus I absolutely adore it's name. With more and more competition out there to share your files, what's a poor danish company to do?
+<a href="/uploads/ge.tt_.png">![](/uploads/ge.tt_-300x300.png "ge.tt")</a>File Sharing seems to be the next big thing , with email servers hitting maximum attachment sizes of 50MB pretty often, a lot of professionals are opting for web-based file sharing services. I previously wrote about how much<a title="Doing one thing Right: 6 websites that excel at just one thing." href="http://www.keithrozario.com/2011/06/doing-one-thing-right-6-websites-that-excel-at-just-one-thing.html"> I loved the interface at ge.tt</a>, plus I absolutely adore it's name. With more and more competition out there to share your files, what's a poor danish company to do?
 
 Venturebeat today reported that <a title="Venture Beat" href="http://venturebeat.com/2011/12/20/ge-tt-gets-455000-to-transfer-your-files-faster/" target="_blank">Ge.tt just got 350,000 euros of funding from skype founder Niklas Zennström</a>, with dropbox currently valued at $5 Billion and box.net being used by about 75% of Fortune 500 companies, is there place for one more file sharing service. I think there's place for a whole lot more.
 
@@ -16,4 +17,4 @@ Other,  interesting names in file-sharing are <a title="yousendit" href="https:
 
 All of this points to a great divergence in thought of how file sharing should really be, I expect more services to prop up and some of those will fail, what's left would be a the designs that actually work and services that people would actually use and eventually pay for. The reality is that anyone can startup a file-sharing website these days by utilizing AWS or something similar, without having to look after the hardware all startups have to worry about is the service itself, and that's where we're seeing the differentiation. No one is advertising their servers or their hardware on these services, they're advertising the service itself, which is great.
 
-&nbsp;
+ 

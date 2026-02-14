@@ -1,11 +1,12 @@
 +++
 title = "Hack TM Unifi: In case you've lost your default password"
+slug = "hack-unifi-default-password"
 date = "2013-08-12T08:00:21"
 draft = false
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++
 
-<a href="/uploads/dir-615.jpg"><img class="aligncenter size-full wp-image-2359" src="/uploads/dir-615.jpg" alt="dir-615" width="500" height="335" /></a>There's a lot of documentation online on how to <a title="Unifi WiFi Hacking tutorial" href="http://godamwifi.blogspot.com/p/tutorial-unifi-hacking.html" target="_blank">hack your neighbours Wi-Fi</a>, but sometimes you need to hack your own system. Usually its because you've change your router password and forgot it completely, leaving you in the cold desolate place we like to call "No router land".
+<a href="/uploads/dir-615.jpg">![dir-615](/uploads/dir-615.jpg)</a>There's a lot of documentation online on how to <a title="Unifi WiFi Hacking tutorial" href="http://godamwifi.blogspot.com/p/tutorial-unifi-hacking.html" target="_blank">hack your neighbours Wi-Fi</a>, but sometimes you need to hack your own system. Usually its because you've change your router password and forgot it completely, leaving you in the cold desolate place we like to call "No router land".
 
 Don't fear though, its actually pretty darn easy to hack your standard Dlink Dir-615 router <em>(pictured above)</em> that came stock with your Unifi subscription. Make no mistake, the router actually has some pretty sleek features, but Telekom Malaysia has a lackadaisical approach to security that makes hacking this router merely google searches away.
 

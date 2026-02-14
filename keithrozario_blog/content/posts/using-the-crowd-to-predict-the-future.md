@@ -1,12 +1,13 @@
 +++
 title = "Using the crowd to predict the future"
+slug = "using-the-crowd-to-predict-the-future"
 date = "2012-02-09T20:45:45"
 draft = false
 tags = ['Crowd-Predicting', 'Crowdsourcing', 'HSX', 'InTrade', 'twitter']
 categories = ['Crowdsourcing', 'Misc']
 +++
 
-<a href="/uploads/4983863106_51fffa1a9f.jpg"><img class="alignleft size-medium wp-image-1776" title="4983863106_51fffa1a9f" src="/uploads/4983863106_51fffa1a9f-300x156.jpg" alt="" width="300" height="156" /></a>I just finished <a title="Crowdsourcing: Jeff Howe" href="http://www.betterworldbooks.com/crowdsourcing-why-the-power-of-the-crowd-is-driving-the-future-of-business-id-9780307396211.aspx" target="_blank">Crowdsourcing by Jeff Howe</a>, the definitive book on crowdsourcing, and although it was written nearly 4 years ago, I was really bowled over by key insights throughout the book. Crowdsourcing is more than just the design work or iStockphoto, there's also an offshoot into the world of <strong>Crowd-predicting</strong>. Utilizing the wisdom of the crowds to predict anything from sports results, Hollywood sales or even Presidential elections, and it appears these prediction markets actually do a pretty good job of predicting the correct outcome. They're not right 100% of the time (then again neither are the experts), but overall the Crowds can --and do--predict with great accuracy.
+<a href="/uploads/4983863106_51fffa1a9f.jpg">![](/uploads/4983863106_51fffa1a9f-300x156.jpg "4983863106_51fffa1a9f")</a>I just finished <a title="Crowdsourcing: Jeff Howe" href="http://www.betterworldbooks.com/crowdsourcing-why-the-power-of-the-crowd-is-driving-the-future-of-business-id-9780307396211.aspx" target="_blank">Crowdsourcing by Jeff Howe</a>, the definitive book on crowdsourcing, and although it was written nearly 4 years ago, I was really bowled over by key insights throughout the book. Crowdsourcing is more than just the design work or iStockphoto, there's also an offshoot into the world of <strong>Crowd-predicting</strong>. Utilizing the wisdom of the crowds to predict anything from sports results, Hollywood sales or even Presidential elections, and it appears these prediction markets actually do a pretty good job of predicting the correct outcome. They're not right 100% of the time (then again neither are the experts), but overall the Crowds can --and do--predict with great accuracy.
 
 The premise of crowd-predicting is simple. Get a whole bunch of people together and then ask them to predict the outcome of a particular event, once each individual prediction comes through you then aggregate that information to get the final result. Proponents of crowd-predicting say this result often beats the 'experts', and they have some data to back it up.<!--more-->
 
@@ -20,7 +21,7 @@ Two things make this remarkably different from the millionaire question, firstly
 
 The question then becomes could we get the amateurs to predict other things, like the presidential elections or Hollywood blockbuster sales?
 <h2>In-Trade &amp; Iowa Electronic Markets</h2>
-<a href="/uploads/2239098608_38125a4788.jpg"><img class=" wp-image-1777 alignleft" title="2239098608_38125a4788" src="/uploads/2239098608_38125a4788.jpg" alt="" width="350" height="183" /></a>
+<a href="/uploads/2239098608_38125a4788.jpg">![](/uploads/2239098608_38125a4788.jpg "2239098608_38125a4788")</a>
 
 The answer is obviously Yes we Can!
 
@@ -44,7 +45,7 @@ While In-Trade isn't exactly bustling with activity, the idea behind it originat
 
 So what's the prediction for Obama winning 2012, well the DEM12_WTA which is the a share in a 'winner-take-all' model of the democratic president winning is $0.58 to the dollar, roughly translating to 58.8% chance, very similar to what In-Trade has. The difference is that the IEM proposes an unnamed democratic nominee while In-trade proposes Obama, and that difference is probably what accounts for the 1.1% differential.
 <h2>Hollywood Stock Exchange &amp; Betfair</h2>
-<a href="/uploads/5921490858_ef9e28cb69_m.jpg"><img class="size-full wp-image-1778 alignright" title="5921490858_ef9e28cb69_m" src="/uploads/5921490858_ef9e28cb69_m.jpg" alt="" width="240" height="160" /></a>However, it doesn't just stop with Presidential elections. The Hollywood stock exchange(HSX), lets you predict the outcome of blockbusters and Academy award winners. In similar fashion users buy and sell bonds in movies and those bonds increase in value as the movie sales increase, so if the movie is a great success the bonds can be cashed in for a higher value than if the movie tanks.
+<a href="/uploads/5921490858_ef9e28cb69_m.jpg">![](/uploads/5921490858_ef9e28cb69_m.jpg "5921490858_ef9e28cb69_m")</a>However, it doesn't just stop with Presidential elections. The Hollywood stock exchange(HSX), lets you predict the outcome of blockbusters and Academy award winners. In similar fashion users buy and sell bonds in movies and those bonds increase in value as the movie sales increase, so if the movie is a great success the bonds can be cashed in for a higher value than if the movie tanks.
 
 There is one difference between HSX and In-Trade. HSX trades in fictitious Hollywood dollars as opposed to In-Trades real money. That being said the predictions are pretty solid.
 

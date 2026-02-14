@@ -1,12 +1,13 @@
 +++
 title = "Wikipedia Blacks out for SOPA and How to workaround it"
+slug = "wikipedia-blacks-out-for-sopa"
 date = "2012-01-18T19:26:21"
 draft = false
 tags = ['PIPA', 'SOPA', 'Wikipedia']
 categories = ['Copyright and Censorship']
 +++
 
-<a href="/uploads/No-Child-Left-Behind-Act-Wikipedia-the-free-encyclopedia.png"><img class="wp-image-1698 aligncenter" title="No Child Left Behind Act   Wikipedia  the free encyclopedia" src="/uploads/No-Child-Left-Behind-Act-Wikipedia-the-free-encyclopedia.png" alt="" width="578" height="267" /></a>
+<a href="/uploads/No-Child-Left-Behind-Act-Wikipedia-the-free-encyclopedia.png">![](/uploads/No-Child-Left-Behind-Act-Wikipedia-the-free-encyclopedia.png "No Child Left Behind Act   Wikipedia  the free encyclopedia")</a>
 
 I've posted a couple of post around SOPA and PIPA, and today there was a protest from one of the most web-traffic websites of all -- WIKIPEDIA.
 

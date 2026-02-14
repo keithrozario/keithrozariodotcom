@@ -1,5 +1,6 @@
 +++
 title = "Gov TLS Audit : Architecture"
+slug = "gov-tls-audit-architecture"
 date = "2018-04-14T00:47:40"
 draft = false
 categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
@@ -23,10 +24,10 @@ On the 'server-side' there are 3 lambda functions, all connected to an API Gatew
 </ul>
 Finally there's a separate S3 bucket to serve the 'website', but that's just a simple html file with some javascript to list all scan files available for download. In the End, it looks something like this (click to enlarge):
 
-<a href="/uploads/GovTLSAudit_Architecture.png"><img class="alignnone size-full wp-image-6360" src="/uploads/GovTLSAudit_Architecture.png" alt="" width="4264" height="3042" /></a>
+<a href="/uploads/GovTLSAudit_Architecture.png">![](/uploads/GovTLSAudit_Architecture.png)</a>
 <!--more-->
 <h2>Let's talk Source Control</h2>
-<a href="/uploads/gitHub.png"><img class="alignleft wp-image-6348 size-full" src="/uploads/gitHub.png" alt="" width="225" height="225" /></a>How do we operationalize something like this? Let's start with source control (you have a source repository don't you?!).
+<a href="/uploads/gitHub.png">![](/uploads/gitHub.png)</a>How do we operationalize something like this? Let's start with source control (you have a source repository don't you?!).
 
 With the exception of a few bash scripts, yaml files and json configurations, everything in GovTLS is in Python. I code all of it using the PyCharm community version, which comes has great GitHub integration. I store everything in a single repo, which means the<span style="text-decoration: underline;"> scanning</span> component (python scripts) and the <span style="text-decoration: underline;">lambda + serverless</span> components all reside in one place. You can view the Repo <a href="https://github.com/keithrozario/Gov-TLS-Audit">here</a>.
 
@@ -57,7 +58,7 @@ All I have to do is:
 
 Great, but let's talk about IAM users because that's important.
 <h2>IAM for Scanning</h2>
-<a href="/uploads/IAM.png"><img class="alignright wp-image-6350" src="/uploads/IAM.png" alt="" width="250" height="250" /></a>As mentioned, the python script relies on getting the AWS API Key from the <strong>~/.aws/credentials</strong> file. On my laptop where I build stuff, this api key is for the root user of the AWS account, which means it has all the privileges on aws. Because I don't want to be adjusting privileges everytime I add a new features, but it doesn't make sense to store this on my running environments, I rarely add new features there.
+<a href="/uploads/IAM.png">![](/uploads/IAM.png)</a>As mentioned, the python script relies on getting the AWS API Key from the <strong>~/.aws/credentials</strong> file. On my laptop where I build stuff, this api key is for the root user of the AWS account, which means it has all the privileges on aws. Because I don't want to be adjusting privileges everytime I add a new features, but it doesn't make sense to store this on my running environments, I rarely add new features there.
 
 If the server is compromised, my root API key could be used to spin up instances for Monero mining or phishing scams etc. So to limit my exposure to these threats I create a non-root IAM user.
 
@@ -68,7 +69,7 @@ No Monero mining on my dime here! The AWS permissions for the IAM user are also 
 Enough Scanning, let's talk the server-side.
 <h2>Deploying Lambda using Serverless</h2>
 <h3>Backing up the DB (why US-WEST-2)</h3>
-<a href="/uploads/On-Demand-Backup.jpg"><img class="aligncenter wp-image-6351" src="/uploads/On-Demand-Backup.jpg" alt="" width="550" height="162" /></a>
+<a href="/uploads/On-Demand-Backup.jpg">![](/uploads/On-Demand-Backup.jpg)</a>
 
 First off, let's address an elephant in the room, why deploy this in US-West-2, when I'm in Malaysia? The latency would be astronomical -- and it is, almost a quarter second (250ms) in additional latency.
 
@@ -78,7 +79,7 @@ When PITR and Continuous backsups do eventually come to Singapore, I'll move the
 
 AWS if you're listening -- put DynamoDB backups to Singapore already!!!
 <h2>Serverless Framework</h2>
-<a href="/uploads/serverless.png"><img class="wp-image-6349 alignleft" src="/uploads/serverless.png" alt="" width="295" height="295" /></a>Now onto Serverless -- the <a href="https://serverless.com/">serverless framework</a> is an amazing tool to automate the deployment of Serverless components like Lambda functions to AWS. In the past, I literally used the console to code &amp; test my lambda functions, which wasn't very good. The console is quite feature rich, but very manual intensive, and hardly operational when we need multiple environments for multiple functions.
+<a href="/uploads/serverless.png">![](/uploads/serverless.png)</a>Now onto Serverless -- the <a href="https://serverless.com/">serverless framework</a> is an amazing tool to automate the deployment of Serverless components like Lambda functions to AWS. In the past, I literally used the console to code &amp; test my lambda functions, which wasn't very good. The console is quite feature rich, but very manual intensive, and hardly operational when we need multiple environments for multiple functions.
 
 With serverless, I still Code and Unit test in PyCharm, but then I deploy to AWS using the framework. It automatically loads the lambdas + API Gateway configuration (also S3 and DynamoDB) and I can deploy multiple stages and environments with just different CLI arguments. Once the code is uploaded I use Shell Scripts to do the regression testing of the functions.
 
@@ -93,7 +94,7 @@ Serverless is great for many reason, but I'll list the key ones here:
  	<li>It keeps all the code in PyCharm and local machine -- which means it stays in the right repo. Previously I would code in the console and manually copy the code out into the Repo.</li>
 </ul>
 <h2>Why 2 CloudFront Distributions?</h2>
-<a href="/uploads/NetworkingContentDelivery_AmazonCloudFront_downloaddistribution_LARGE.png"><img class="wp-image-6352 alignright" src="/uploads/NetworkingContentDelivery_AmazonCloudFront_downloaddistribution_LARGE.png" alt="" width="292" height="303" /></a>Believe me I tried!! And tried!! And tried!!
+<a href="/uploads/NetworkingContentDelivery_AmazonCloudFront_downloaddistribution_LARGE.png">![](/uploads/NetworkingContentDelivery_AmazonCloudFront_downloaddistribution_LARGE.png)</a>Believe me I tried!! And tried!! And tried!!
 
 I spent days trying to figure out what was wrong with my CloudFront(CF) distributions, when I attempted to collapse all of this into just one CF distribution (out of <span style="text-decoration: underline;">gov-tls-audit.sayakenahack.com</span>). For some reason, I kept on getting a cryptic Missing Authentication Token error. I eventually gave up!! (hangs head in shame).
 
@@ -131,4 +132,4 @@ Finally, this was so much fun, and lot less controversial than <a href="https://
 
 To cap things off, I do say so myself, this was a win. Next I need to get back to studying for my OSCP, hence the blog will be on hiatus for next 2-3 months. See you on the other side.
 
-<a href="/uploads/win.jpeg"><img class="size-full wp-image-6353 aligncenter" src="/uploads/win.jpeg" alt="" width="500" height="382" /></a>
+<a href="/uploads/win.jpeg">![](/uploads/win.jpeg)</a>

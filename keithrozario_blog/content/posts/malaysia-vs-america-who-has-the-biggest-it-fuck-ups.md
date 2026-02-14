@@ -1,5 +1,6 @@
 +++
 title = "Malaysia vs. America : Who has the biggest IT fuck-ups?"
+slug = "malaysia-vs-america-who-has-the-biggest-it-fuck-ups"
 date = "2014-10-13T11:17:06"
 draft = false
 categories = ['Misc']
@@ -17,4 +18,4 @@ That being said, governments do what they always do--spend more money. So after 
 
 Only time will tell if this move was right, but what is undoubtedly true at least, is that governments both home and abroad, aren't that wise when it comes to IT spending.
 
-&nbsp;
+ 

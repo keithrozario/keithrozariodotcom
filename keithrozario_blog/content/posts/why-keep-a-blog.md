@@ -1,12 +1,13 @@
 +++
 title = "Why I keep a blog?"
+slug = "why-keep-a-blog"
 date = "2011-11-02T00:35:19"
 draft = false
 tags = ['Blog', 'Personal']
 categories = ['Blog']
 +++
 
-<a href="http://www.keithrozario.com/2011/11/why-keep-a-blog.html/2874078655_c1fe1522f1_m" rel="attachment wp-att-1370"><img class="alignleft size-full wp-image-1370" title="2874078655_c1fe1522f1_m" src="/uploads/2874078655_c1fe1522f1_m.jpg" alt="http://www.flickr.com/photos/drbeachvacation/2874078655/sizes/s/in/photostream/" width="240" height="160" /></a>Previously I shared how I reached my target of<a title="Accomplished: 1000 hits in 30 days" href="http://www.keithrozario.com/2011/10/accomplished.html"> getting 1000 hits/month</a> on my blog. To many that's a pittance of a target, considering some bloggers average that in a day. However, blogging isn't just about getting the hits, to me it was also a period of self-discovery, to truly see what I could do and what could be achieved once the gloves were off, and to be honest I loved every moment of it.
+<a href="http://www.keithrozario.com/2011/11/why-keep-a-blog.html/2874078655_c1fe1522f1_m" rel="attachment wp-att-1370">![http://www.flickr.com/photos/drbeachvacation/2874078655/sizes/s/in/photostream/](/uploads/2874078655_c1fe1522f1_m.jpg "2874078655_c1fe1522f1_m")</a>Previously I shared how I reached my target of<a title="Accomplished: 1000 hits in 30 days" href="http://www.keithrozario.com/2011/10/accomplished.html"> getting 1000 hits/month</a> on my blog. To many that's a pittance of a target, considering some bloggers average that in a day. However, blogging isn't just about getting the hits, to me it was also a period of self-discovery, to truly see what I could do and what could be achieved once the gloves were off, and to be honest I loved every moment of it.
 
 Even though I work in IT for one of the biggest corporations in the world, I felt I couldn't really explore the cool IT stuff I'm so passionate about. I may for a Fortune 500 company that reports profits in the Billions of dollars, but up until last year I was using a laptop that had Windows 2000 installed. That's a 10 year old piece of software (and OS mind you) that I was running, and people say IT moves quickly?? <!--more-->
 

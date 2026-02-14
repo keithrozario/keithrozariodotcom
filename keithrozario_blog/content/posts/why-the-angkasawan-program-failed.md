@@ -1,5 +1,6 @@
 +++
 title = "Why the Angkasawan Program failed"
+slug = "why-the-angkasawan-program-failed"
 date = "2013-11-03T22:49:01"
 draft = false
 categories = ['Science']

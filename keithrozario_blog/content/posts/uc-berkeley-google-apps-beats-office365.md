@@ -1,12 +1,13 @@
 +++
 title = "UC Berkeley says it: Google Apps beats Office365, but not by much"
+slug = "uc-berkeley-google-apps-beats-office365"
 date = "2012-01-09T23:08:48"
 draft = false
 tags = ['Google', 'Google Apps', 'Microsoft', 'Office365']
 categories = ['Cloud Computing']
 +++
 
-<a title="Google Apps Beats Office365" href="http://bitly.com/wl8Qm6"><img class="alignleft size-medium wp-image-1673" title="Chocolate Hills" src="/uploads/5059410544_0ae5433c3a-300x199.jpg" alt="" width="300" height="199" /></a>UC Berkeley is easily one of the most recognized institutions of learning with 70 Nobel Laureates to their name, so when they say something about tech you'd better listen up. This time however, it's that big battle in the cloud between Google Apps and Office365 or as I would call it -- The Battle for the Doc Cloud. The question is <strong>Who Will be the Last Cloud Standing?</strong>
+<a title="Google Apps Beats Office365" href="http://bitly.com/wl8Qm6">![](/uploads/5059410544_0ae5433c3a-300x199.jpg "Chocolate Hills")</a>UC Berkeley is easily one of the most recognized institutions of learning with 70 Nobel Laureates to their name, so when they say something about tech you'd better listen up. This time however, it's that big battle in the cloud between Google Apps and Office365 or as I would call it -- The Battle for the Doc Cloud. The question is <strong>Who Will be the Last Cloud Standing?</strong>
 
 As more people start to use cloud based applications, it's getting more apparent that this little space in the cloud is about to see a boom pretty soon. Now consider this, the Microsoft Business Division unit is the largest revenue contributor to Microsoft,<a title="Microsoft Revenue" href="http://www.microsoft.com/presspass/press/2011/oct11/10-20fy12Q1earningsPR.mspx" target="_blank"> bringing in a total of $5.62 billion in the first quarter of 2011 </a>(that's the quarter ending sept. 2011). That trumps the Windows division with just $4.87 billion in revenue, now the difference doesn't look like much (and probably doesn't to Microsoft), but what that means is that the Business Division (with things like office, lync, sharepoint and exchange) brings in nearly $4 billion dollars of revenue MORE than Windows. Say it with me now people -- WHAT THE #$%^.
 
