@@ -8,6 +8,9 @@ theme = 'terminal'
     [markup.goldmark.renderer]
       unsafe = true
 
+[permalinks]
+  posts = "/:year/:month/:slug/"
+
 [params]
   contentTypeName = "posts"
   themeColor = "viking"
