@@ -6,7 +6,11 @@ draft = false
 categories = ['Copyright and Censorship']
 +++
 
+
+
 ![internet censorship](/uploads/Censorship.jpg)
+
+
 <p style="text-align: justify;">Last week was a pretty exciting week for me--it was my first time on TV.</p>
 <p style="text-align: justify;">A TV show called VBuzz that was hosted on a Astro Channel 231 called me to be a guest to talk about Cyber Security, obviously I make it point to try new things and let's be honest....how many of you would turn down a chance to be on TV? I mean this is Television, if you're on it you must be good right?! Even if it is a Tamil channel, and it's on at 9pm, I thought this would be exicting...and it was!</p>
 <p style="text-align: justify;">Anyway, they scheduled me in for a show on Tuesday, and I happily took some time off work to go down to their studio and all was really great. Until....</p>

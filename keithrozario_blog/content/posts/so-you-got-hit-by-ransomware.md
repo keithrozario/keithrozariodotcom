@@ -7,7 +7,11 @@ tags = ['Ransomware']
 categories = ['Security &amp; Privacy']
 +++
 
-![](/uploads/Petya.jpg)Last Monday, I got a text message from my uncle saying his office computer was hacked, and he couldn't access any of his files. Even without probing further, I already knew he'd been hit with ransomware and was now an unwitting victim in a criminal industry estimated to be worth Billions of dollars.
+
+
+![](/uploads/Petya.jpg)
+
+Last Monday, I got a text message from my uncle saying his office computer was hacked, and he couldn't access any of his files. Even without probing further, I already knew he'd been hit with ransomware and was now an unwitting victim in a criminal industry estimated to be worth Billions of dollars.
 
 After learning a bit more, I found out that the IT guys at the company backed up their data (which was good), but stored all backup files on the same computer (which was bad). I guess they kept it on a different hard-drive which mitigated the risk of hard-disk crashes, but didn't effect any other type of risk. What if someone had broken into the office and stolen the whole computer? What if the Office was burnt to the ground or flooded? With all the backups on the same computer these risk would completely wipe out all their data--even if the files were stored in separate drives.
 

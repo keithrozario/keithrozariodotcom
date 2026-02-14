@@ -39,7 +39,11 @@ Plus if you really are serious about security, you'd have a website with TLS enc
 
 Finally of course, we need to talk about Government spying. Zipit is an application provided by Celcom, a local telecommunications provider. If you're afraid of the Government spying on you, then this is the last application you want to use, because all the Government has to do is ask Celcom for your communications and Celcom are compelled under <a href="https://www.keithrozario.com/2015/05/the-technological-effects-of-sosma-and-pota.html">SOSMA</a> to provide it to them.
 <h2>Secure messaging apps</h2>
+
+
 ![Secure Messaging Scorecard Electronic Frontier Foundation](/uploads/Secure-Messaging-Scorecard-Electronic-Frontier-Foundation-820x312.png)
+
+
 
 If you really wanted to message your friends securely and safely, the two applications I recommend is <a href="https://telegram.org/">telegram </a>(with the secret chat functionality) and <a href="https://whispersystems.org/">textsecure</a>, both of these apps score full-marks on the <a href="https://www.eff.org/secure-messaging-scorecard">EFF's secure messaging scorecard</a>. They're free, and don't mislead you into thinking their apps are secure just because they use 'military-grade aes-256' encryption.
 

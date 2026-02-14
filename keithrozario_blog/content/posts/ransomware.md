@@ -7,7 +7,11 @@ tags = ['Spyware']
 categories = ['CyberLaw', "Keith's Favorite Post", 'Security &amp; Privacy']
 +++
 
-![ransomware](/uploads/ransomware.jpg)By now, you either know someone that's been a victim of nasty malware or have yourself been on the business end of nefarious software. The perpetual duel between security companies and malicious elements in cyberspace has changed dramatically over time, and no change has been so dramatic as the rise of a new type of threat, a threat we call...ransomware!!
+
+
+![ransomware](/uploads/ransomware.jpg)
+
+By now, you either know someone that's been a victim of nasty malware or have yourself been on the business end of nefarious software. The perpetual duel between security companies and malicious elements in cyberspace has changed dramatically over time, and no change has been so dramatic as the rise of a new type of threat, a threat we call...ransomware!!
 <h2>...but what is Ransomware?</h2>
 Ransomware is piece of nefarious code that infects your machine the same way any ordinary virus or spyware would. But what differentiates it from other threats is what it does after its infected a system.
 
@@ -21,7 +25,11 @@ In essence, cryptolocker held your files from ransom, in much the same way kidna
 <h2>The origins of Ransomware</h2>
 Believe of not, the roots of Ransomware trace all the way back to spam. Sapmmers realized sending unsolicited e-mail to millions of addresses about mundane things like viagera was a very lucrative business. So lucrative that the biggest players on the scene, a group called the Russian Business Alliance, were millionaires who drove expensive cars and drank fine champagne.
 
-Brian Krebs wrote an amazing book,<a href="http://www.amazon.com/gp/product/1492603236/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1492603236&linkCode=as2&tag=keithrozarioc-20&linkId=HPD42FQKYK4ITXGW">Spam Nation: The Inside Story of Organized Cybercrime-from Global Epidemic to Your Front Door</a>![](http://ir-na.amazon-adsystem.com/e/ir?t=keithrozarioc-20&l=as2&o=1&a=1492603236), about spam that I cannot recommend enough, but the cut the long story short, the only way spammers managed to send out Billions of e-mails everyday was through something called a botnet.
+Brian Krebs wrote an amazing book,<a href="http://www.amazon.com/gp/product/1492603236/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1492603236&linkCode=as2&tag=keithrozarioc-20&linkId=HPD42FQKYK4ITXGW">Spam Nation: The Inside Story of Organized Cybercrime-from Global Epidemic to Your Front Door</a>
+
+![](http://ir-na.amazon-adsystem.com/e/ir?t=keithrozarioc-20&l=as2&o=1&a=1492603236)
+
+, about spam that I cannot recommend enough, but the cut the long story short, the only way spammers managed to send out Billions of e-mails everyday was through something called a botnet.
 
 A botnet is a large number of infected machines, comprising computers of everyday users who were implanted with a malicious code that would do the bidding of a control server, run by the aptly named botnet master. Basically, sending out billions of e-mails requires massive infrastructure in terms of computing power and bandwidth, and what better way to get that infrastructure than to steal it. A botnet is basically someone stealing cpu cycles and bandwidth from unsuspecting computer users throughout the world.
 

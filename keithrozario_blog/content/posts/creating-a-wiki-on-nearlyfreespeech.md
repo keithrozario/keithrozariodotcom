@@ -39,7 +39,11 @@ Sub-domains take time to setup, so while that's being setup, head on over to <a 
 <h3><span style="color: #3366ff;">Step 4: Unzip the folder using SSH</span></h3>
 You'll need to unzip the package, most of us with windows would need to download 7-Zip to unzip this on your PC, and that would be a pain and a chore. A simpler version would be login to your SSH and run the following command
 
-![](file:///C:/Users/KEITH-%7E1.ROZ/AppData/Local/Temp/moz-screenshot-2.png)<strong>tar -zxvf *</strong>
+
+
+![](file:///C:/Users/KEITH-%7E1.ROZ/AppData/Local/Temp/moz-screenshot-2.png)
+
+<strong>tar -zxvf *</strong>
 
 <address>*The tar commands unzips the file, and the -zxvf are various options I generally use. The important bit is the *, I use that to unzip ALL files in the directory, but seeing as how there will be only file in the folder (if you followed the instructions), it's good enough. To be doubly sure replace the * at the end of the command to the actually file name of the media wiki downloaded.</address>By then your FTP will look like this:
 

@@ -6,7 +6,11 @@ draft = false
 categories = ['Copyright and Censorship', 'Malaysia', 'Security &amp; Privacy']
 +++
 
+
+
 ![How IP addressing works](/uploads/Slide2.jpg)
+
+
 
 <span style="color: #000000;">Environment News Service, an environmental focused news website this week accused Malaysian government hackers of attacking it after it ran a story implicating Sarawak governor Tun Abdul Taib Mahmud of corruption and graft. As a result, the site was down for 2-hours, before the site manage to re-gain control.</span>
 

@@ -70,7 +70,11 @@ Also, if MAS allows their staff to access email from external sources via public
 
 Of course, all hypothetical.
 <h3><em>But I have a question for you...</em></h3>
-![We take ourselves WAAAY to seriously](/uploads/images-11.jpg)Where is Pertubuhan Martabat Jalinan Muhibbah Malaysia(MJMM)--you know the guy with the Red Beret who lodges a Police Report every time his backside feels a bit itchy.
+
+
+![We take ourselves WAAAY to seriously](/uploads/images-11.jpg)
+
+Where is Pertubuhan Martabat Jalinan Muhibbah Malaysia(MJMM)--you know the guy with the Red Beret who lodges a Police Report every time his backside feels a bit itchy.
 
 I mean if this guy lodges reports over anything and everything, and claims to be the defender of this <strong>'Agama, Bangsa dan Negara'</strong>--where is he when Lizard Squad attacks the website of our National Airline, and insults the memory of victims of a tragedy that Malaysians are still grieving for.
 

@@ -6,7 +6,11 @@ draft = false
 categories = ['Misc']
 +++
 
-<p style="text-align: justify;">![We the People](/uploads/images.png)The US Government host a really cool website called "We the People", that let's users petition the US Government for various things. It's a cool website, because you get really cool request on it.</p>
+<p style="text-align: justify;">
+
+![We the People](/uploads/images.png)
+
+The US Government host a really cool website called "We the People", that let's users petition the US Government for various things. It's a cool website, because you get really cool request on it.</p>
 <p style="text-align: justify;">For instance, in 2013, more than 34,000 people petitioned the US government to  <a title="Secure Resources and Funding to Build the Death Star by 2016" href="https://petitions.whitehouse.gov/petition/secure-resources-and-funding-and-begin-construction-death-star-2016/wlfKzFkN" target="_blank">“Secure resources and funding, and begin construction of a Death Star by 2016″</a>, which triggered a response from the Government that was one part Star Wars Fanboy-ism, and one part Science lesson.</p>
 <p style="text-align: justify;">Those were exceptions though, the vast majority of petitions are political in nature, with the most popular petition requesting the US Government to formally press charges against 47 Members of Congress for their role in under-mining a nuclear agreement with Iran.</p>
 <p style="text-align: justify;">So it was natural that the former US Ambassador to Malaysia, John Malott create a petition to "make the release Anwar Ibrahim a top priority for US policy towards Malaysia". This Petition was then picked up by the likes of Lim Kit Siang and begun garnering significant attention from the Malaysian online community.<!--more--></p>

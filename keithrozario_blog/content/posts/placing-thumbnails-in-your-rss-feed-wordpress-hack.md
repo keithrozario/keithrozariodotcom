@@ -6,7 +6,11 @@ draft = false
 categories = ['Misc']
 +++
 
-![](/uploads/1318759358_1b323f8a7b_m-150x112.jpg "1318759358_1b323f8a7b_m")My wordpress RSS feed has always been a bit dull without the accompanying pictures I scour flickr for. However, today there is promise as I stumbled across a post by the wordpress geniuses at catswhocode, there was a wordpress hack to include pictures in your RSS feed, and all it requires is to post the following code into your themes functions.php file.
+
+
+![](/uploads/1318759358_1b323f8a7b_m-150x112.jpg "1318759358_1b323f8a7b_m")
+
+My wordpress RSS feed has always been a bit dull without the accompanying pictures I scour flickr for. However, today there is promise as I stumbled across a post by the wordpress geniuses at catswhocode, there was a wordpress hack to include pictures in your RSS feed, and all it requires is to post the following code into your themes functions.php file.
 
 <!--more-->
 <blockquote>function cwc_rss_post_thumbnail($content) {

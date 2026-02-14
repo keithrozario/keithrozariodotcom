@@ -7,7 +7,11 @@ tags = ['Google']
 categories = ['Social Media']
 +++
 
-![](/uploads/4211569872_996c5010f0_m.jpg "4211569872_996c5010f0_m")Vanity URLs are URLs that have some sort of meaning to them rather than a random collection of numbers and letters, so instead of getting<strong> http://plus.google.com/18923937194123</strong>, you get a much nicer <strong>http://plus.google.com/keith</strong> , now that's way cooler. It's sort of like vanity plates for Online Social Networks.
+
+
+![](/uploads/4211569872_996c5010f0_m.jpg "4211569872_996c5010f0_m")
+
+Vanity URLs are URLs that have some sort of meaning to them rather than a random collection of numbers and letters, so instead of getting<strong> http://plus.google.com/18923937194123</strong>, you get a much nicer <strong>http://plus.google.com/keith</strong> , now that's way cooler. It's sort of like vanity plates for Online Social Networks.
 
 Facebook has been offering this for some time, and so has LinkedIN, but the new kid on the block Google+ doesn't. Or does it?<!--more-->
 

@@ -223,7 +223,11 @@ Prize: X=8400, Y=5400</code></pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7867,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full">![](/uploads/4617759902_d62819c715_w.jpg)<figcaption class="wp-element-caption">https://www.flickr.com/photos/jdhancock/4617759902</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full">
+
+![](/uploads/4617759902_d62819c715_w.jpg)
+
+<figcaption class="wp-element-caption">https://www.flickr.com/photos/jdhancock/4617759902</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

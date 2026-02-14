@@ -23,7 +23,11 @@ The MACC act, that governs the powers of the commission, specifically state that
 
 More worrying, is that the spyware might take screen shots of diary entries and notes that the victim never intended to communicate with anyone, or draft e-mail entries that they later delete are also captured by this spyware.  Obviously this falls into a different category than simple 'interception', but I'm not done yet.
 
-![Slide2](/uploads/Slide2.png)<!--more-->
+
+
+![Slide2](/uploads/Slide2.png)
+
+<!--more-->
 
 Hacking Team proudly proclaim that their software can remotely trigger the webcams and microphones on laptops to begin recording, essentially placing a spy at the homes of their victims to listen in on private conversations that were never intended for anyone outside the home. It may also violate the privacy of the household that the infected smartphone or laptop happens to be in, and could be used to determine far more intimate details of innocent bystanders including <a href="https://www.law.cornell.edu/supct/html/99-8508.ZO.html">"the hour each night the lady of the house takes her daily sauna and bath"</a>, far exceeding what is reasonably needed for a criminal investigation.
 

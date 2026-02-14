@@ -7,7 +7,11 @@ tags = ['MontyHallExcel']
 categories = ['Misc', 'Science']
 +++
 
+
+
 ![Monty Hall Problem Excel](/uploads/Monty_Hall_Problem_Excel-1024x489.png)
+
+
 
 I remember this problem from watching an episode of numbers. You're a contestant on a game show--and you're given 3 doors to choose from.
 

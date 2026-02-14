@@ -26,7 +26,11 @@ Of course the Mongols weren't just assholes, they were phenomenally great Milita
 
 But when you dissect as to why the Mongols were so successful--you'll soon realize it's the same reason ISIS is so successful, and the similarities between ISIS and the Mongols are too shocking to ignore.<!--more-->
 <h2>1. They went up against divided forces (treachery)</h2>
-![No unity](/uploads/unity.jpg)Genghis Khan was usually out-numbered and out-gunned by the enemy, but he always made sure he was against divided forces, and he knew how to divide them. It's a lot easier to fight a battle against superior numbers <strong>that are divided</strong> than it is to fight against inferior numbers <strong>that are united</strong>. Take for example his <a title="Mongol conquest of Jin China" href="http://en.wikipedia.org/wiki/Mongol_conquest_of_the_Jin_dynasty" target="_blank">great conquest of the Jin dynasty in China</a>, who had far more soldiers and resources than the Khan, but those Jin soldiers were divided, while his Mongol Horde was United.
+
+
+![No unity](/uploads/unity.jpg)
+
+Genghis Khan was usually out-numbered and out-gunned by the enemy, but he always made sure he was against divided forces, and he knew how to divide them. It's a lot easier to fight a battle against superior numbers <strong>that are divided</strong> than it is to fight against inferior numbers <strong>that are united</strong>. Take for example his <a title="Mongol conquest of Jin China" href="http://en.wikipedia.org/wiki/Mongol_conquest_of_the_Jin_dynasty" target="_blank">great conquest of the Jin dynasty in China</a>, who had far more soldiers and resources than the Khan, but those Jin soldiers were divided, while his Mongol Horde was United.
 
 You see the Jin were ruled by a tribe called the Jur Chen, who Manchurian and not Chinese. The Jur Chen conquered the Jin from the another tribe called the Khitan, so there was mixture of Jur Chen, Khitan and Ethnic Chinese living together in this part of China--and they  hated each other. The Khitan hated the Jur Chen for displacing them, and the ethnic chinese viewed both the Khitan and Jur Chen as foreign barbarians.
 
@@ -36,7 +40,11 @@ This story Jur Chen, Khitan and Chinese is exactly what Iraq is. It's a mixture
 
 But if some of the Arab-Sunni forces were defecting or retreating, why did the Arab-Shia forces retreat? That's because ISIS used Genghis Khan's most effective military strategy--<strong>terror!!</strong>
 <h2>2. They used Terror</h2>
-![Terror](/uploads/14580543085_086cce9dd7_z-300x199.jpg)The Annals of history is littered with stories of terror from Genghis Khan. He would sack entire cities and then instruct the inhabitants of the cities to gather on a plain outside the city walls. Each Mongol soldier was given a battle axe and told to kill a specific number of people, and upon killing them, cut off their right ear as proof (and accounting), a few days after the sacking, troops would be sent back into the city to kill off whoever remained hiding. In this remarkably efficient way, entire cities and cultures were wiped off the map, and the Khan made sure he reputation preceded him in battle.
+
+
+![Terror](/uploads/14580543085_086cce9dd7_z-300x199.jpg)
+
+The Annals of history is littered with stories of terror from Genghis Khan. He would sack entire cities and then instruct the inhabitants of the cities to gather on a plain outside the city walls. Each Mongol soldier was given a battle axe and told to kill a specific number of people, and upon killing them, cut off their right ear as proof (and accounting), a few days after the sacking, troops would be sent back into the city to kill off whoever remained hiding. In this remarkably efficient way, entire cities and cultures were wiped off the map, and the Khan made sure he reputation preceded him in battle.
 
 The Mongols had a policy, surrender to them and you<strong> 'might'</strong> live, but put up a fight and you'll <strong>definitely</strong> die. It's a policy that serves to terrorize future cities more than it is about killing the sacked city.
 

@@ -77,7 +77,9 @@ categories = ['Misc']
 <!-- wp:image {"id":6544,"align":"center"} -->
 <div class="wp-block-image">
 
-![](/uploads/Step_1_Github_Webhook.png)<figcaption>Webhooks</figcaption></figure></div>
+![](/uploads/Step_1_Github_Webhook.png)
+
+<figcaption>Webhooks</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -105,7 +107,11 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6545,"align":"center"} -->
-<div class="wp-block-image"><figure class="aligncenter">![](/uploads/Step_2_Github_Webhook.png)<figcaption>Webhook with Shared Secret</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter">
+
+![](/uploads/Step_2_Github_Webhook.png)
+
+<figcaption>Webhook with Shared Secret</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -160,7 +166,11 @@ Manager it is!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6546,"align":"center"} -->
-<div class="wp-block-image"><figure class="aligncenter">![](/uploads/Step_3_Github_Webhook.png)<figcaption>Using Secrets Manager</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter">
+
+![](/uploads/Step_3_Github_Webhook.png)
+
+<figcaption>Using Secrets Manager</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -237,7 +247,9 @@ Webhook, lookup a secret in AWS Secrets Manager, and then compare_digest
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6553} -->
-<figure class="wp-block-image">![](/uploads/Screenshot-2018-10-15-at-8.51.47-PM.png)
+<figure class="wp-block-image">
+
+![](/uploads/Screenshot-2018-10-15-at-8.51.47-PM.png)
 
 
 <!-- /wp:image -->

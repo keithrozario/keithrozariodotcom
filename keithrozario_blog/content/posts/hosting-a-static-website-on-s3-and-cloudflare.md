@@ -43,7 +43,11 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6509} -->
-<figure class="wp-block-image">![](/uploads/Screenshot-2018-10-02-at-10.22.15-AM.png)<figcaption><strong>CNAME Entry in CloudFlare</strong></figcaption></figure>
+<figure class="wp-block-image">
+
+![](/uploads/Screenshot-2018-10-02-at-10.22.15-AM.png)
+
+<figcaption><strong>CNAME Entry in CloudFlare</strong></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

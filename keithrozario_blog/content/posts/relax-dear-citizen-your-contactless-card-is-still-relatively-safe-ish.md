@@ -7,7 +7,11 @@ tags = ['Card']
 categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++
 
-<p style="text-align: left;">![](/uploads/19205891971_2abaa89036_z-300x300.jpg)As Malaysia slowly (but surely) migrates to Chip and Pin, some banks have taken the opportunity to issue not just new Pin-enabled cards, but contactless-enabled ones as well.</p>
+<p style="text-align: left;">
+
+![](/uploads/19205891971_2abaa89036_z-300x300.jpg)
+
+As Malaysia slowly (but surely) migrates to Chip and Pin, some banks have taken the opportunity to issue not just new Pin-enabled cards, but contactless-enabled ones as well.</p>
 To be clear, Banks are only mandated to issue new Pin cards <em>(replacing the signature cards you had before),</em> but are taking the opportunity to also embed contactless capabilities into them as well. After all they're already issuing new cards to every (single!) card holder, might as well get them on the contactless bandwagon while they're at it.
 
 The reason for being so gung-ho about contactless is purely economical. Research suggest that the easier payment methods become, the more money people are willing to spend. People with credit cards spend more than people with just cash, and 0% interest schemes have been a godsend to retailers. Contactless payments, which don't involve cumbersome Pins or signatures, are clearly the next evolutionary step, with <a href="http://www.iises.net/download/Soubory/IJOES/V3N4/pp70-98_ijoesV3N4.pdf">one research paper suggesting they increase customer spending by nearly 10%</a>.
@@ -74,7 +78,11 @@ By comparison, Mastercard blocks brute-force attacks, while American Express use
 
 However, it's easier to buy card numbers and expiry dates from shady characters online (<a href="https://krebsonsecurity.com/2016/04/all-about-fraud-how-crooks-get-the-cvv/">$5-$10 a piece</a>) than it is to read them off contactless cards in public. Just how long could you walk around a busy city with a card-reader in your pocket, before someone eventually finds out?! So .
 <h2>Contactless can be more secure?</h2>
-![](/uploads/1415020421171_wps_49_Visa_contactless_jpg-300x169.jpg)As a final thought, is there is some security advantage to using contactless cards. <em>(yes, I know I said all conveniences traded off security, but hear me out)</em>
+
+
+![](/uploads/1415020421171_wps_49_Visa_contactless_jpg-300x169.jpg)
+
+As a final thought, is there is some security advantage to using contactless cards. <em>(yes, I know I said all conveniences traded off security, but hear me out)</em>
 
 Since contactless cards are meant to be tapped, they usually never leave the cardholders hands--which means there's less of a possibility of someone stealing your card info by taking a photo, or even just memorizing the numbers while you're not looking. And as we discussed, the all important CVV2 is printed, and if no one can see it (because the card is in your hands), no one can steal it.
 

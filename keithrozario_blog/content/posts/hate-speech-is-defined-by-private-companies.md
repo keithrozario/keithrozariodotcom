@@ -30,7 +30,11 @@ In other words the government must be able to prove that if the speech were give
 
 To see how high the bar is set, let's consider cases that haven't met this limit, including the recent case of <a href="https://en.wikipedia.org/wiki/Snyder_v._Phelps">Synder vs. Phelps</a>.
 
-In that case, members of the Westboro Baptist Church decided to protest outside the funeral of a dead American soldier, with placards that included the statements such as "You're going to hell" and "God Hates you". The father of the soldier, who was ![westboro-baptist](/uploads/westboro-baptist.jpg)understandably upset decided to sue the Church and its pastor.
+In that case, members of the Westboro Baptist Church decided to protest outside the funeral of a dead American soldier, with placards that included the statements such as "You're going to hell" and "God Hates you". The father of the soldier, who was 
+
+![westboro-baptist](/uploads/westboro-baptist.jpg)
+
+understandably upset decided to sue the Church and its pastor.
 
 The case went all the way to the US Supreme court, where in an 8-1 majority decision concluded that  <em>"What Westboro said, in the whole context of how and where it chose to say it, is entitled to 'special protection' under the First Amendment and that protection cannot be overcome by a jury finding that the picketing was outrageous"</em>.
 

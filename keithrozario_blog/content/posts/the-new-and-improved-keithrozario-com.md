@@ -6,7 +6,11 @@ draft = false
 categories = ['Misc']
 +++
 
-<p style="text-align: justify;">![New Website](/uploads/sunrise-new.jpg)</p>
+<p style="text-align: justify;">
+
+![New Website](/uploads/sunrise-new.jpg)
+
+</p>
 Welcome!!
 <p style="text-align: justify;">keithRozario.com has a new look, and I can hardly contain my excitement.</p>
 <p style="text-align: justify;">The blog still retains all its previous content and more glorious content will be on its way, for now take a moment to savour the brand new theme which hopefully is cleaner and easier on the eyes than my previous blogs design. Also enjoy my complementary TLS connection (notice the httpS connection instead of just http) which means you now have a fully encrypted tunnel from your browser all the way to my new server in Singapore, and to round things up, the blog should be much faster now that its hosted it's own dedicated server.</p>

@@ -78,7 +78,11 @@ By the way, there's a myth going around that if you enter your PIN backwards, th
 
 But what does 2-Factor authentication have to do with Chip And PIN?
 <h2>Signature vs. PIN</h2>
-![signature](/uploads/signature.jpg)Technically even today all credit transactions are two-factor authenticated. You must have the card, and you must be able to sign according to the signature behind the card.
+
+
+![signature](/uploads/signature.jpg)
+
+Technically even today all credit transactions are two-factor authenticated. You must have the card, and you must be able to sign according to the signature behind the card.
 
 But all of that assumes that a signature is hard to forge, and that cashiers verify the signature--both of which aren't true. The main problem with signatures is that it relies on a human (the cashier) to verify the transaction, that's weak in every sense of the word.
 
@@ -90,7 +94,11 @@ So if we want to keep fraud low, we need to upgrade the tech, and the logical st
 
 But Why are Pins more secure?
 
-![7212980434_e0b58bd5d2_m](/uploads/7212980434_e0b58bd5d2_m.jpg)A PIN is fundamentally more secure than a card, because it is verified by the issuing bank (<em>or sometimes on the terminal by the card itself, but I don't have time to explore offline and online PIN here--again that needs a beer</em>), and the verification process is automatic. So we don't have to rely on cashiers and human judgement, it also frees up the cashier, because no decision is reliant on them.
+
+
+![7212980434_e0b58bd5d2_m](/uploads/7212980434_e0b58bd5d2_m.jpg)
+
+A PIN is fundamentally more secure than a card, because it is verified by the issuing bank (<em>or sometimes on the terminal by the card itself, but I don't have time to explore offline and online PIN here--again that needs a beer</em>), and the verification process is automatic. So we don't have to rely on cashiers and human judgement, it also frees up the cashier, because no decision is reliant on them.
 
 An extra benefit of Chip and PIN is there are less opportunities for downgrade attacks. Because Signatures need human verification, there are special circumstances where card transactions don't require signatures. When you pump petrol in Malaysia and swipe your card at the pump, no signature is requested from you--because there would be no way to verify it. So a petrol purchase, specifically one done at the outdoor pump, is a pure Single Factor authenticated transaction--you only need the card <em>(something you have)</em>
 

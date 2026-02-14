@@ -145,7 +145,9 @@ categories = ['Misc']
 <!-- wp:image {"id":6612} -->
 
 
-![](/uploads/ARCHITECTURE1.png)<figcaption>Architecture</figcaption></figure>
+![](/uploads/ARCHITECTURE1.png)
+
+<figcaption>Architecture</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -161,7 +163,9 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6571,"align":"center","width":367,"height":290} -->
-<div class="wp-block-image"><figure class="aligncenter is-resized">![](/uploads/duration.png)
+<div class="wp-block-image"><figure class="aligncenter is-resized">
+
+![](/uploads/duration.png)
 
 </div>
 <!-- /wp:image -->

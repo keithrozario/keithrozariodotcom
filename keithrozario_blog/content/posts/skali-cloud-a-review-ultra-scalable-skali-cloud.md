@@ -27,7 +27,11 @@ There's a couple of things that make Skali different from other cloud providers,
 <h2>Ultra-Scalability</h2>
 I'm not sure why Skali took the 'ultra-scalable' approach, but I can imagine a couple of scenarios where this would be worthwhile. For instance, high-end computation on small amounts of data would require a machine with large amounts of processing speed but minimal memory and storage. If you wanted to crack 6 million hashed passwords, you'd just take a 2GB RAM machine with the maximum amount of processing power and just enough storage to see you install and OS and your cracking tools. This would result in a far more efficient machine suited to your needs as opposed to buying very powerful processors that come bundled with high memory and storage you don't need.   <em>(I'm just guessing password cracking is a processing intensive operation) </em>
 
-![](/uploads/Configuration_Menu-300x133.png "Configuration_Menu")The first thing you do with Skali is to create a server, I think it's more apt to call this a server image similar to an Amazon Machine Image. Once you've got your image ready you can start the server, but now you can have a whole host of configuration tools at your disposal before you kickstart the server, most notably the amount of processing speed, memory and storage. You can click on the image to see a much bigger screen of the Skali configuration options, these include firewall settings, network IP and even VNC password.
+
+
+![](/uploads/Configuration_Menu-300x133.png "Configuration_Menu")
+
+The first thing you do with Skali is to create a server, I think it's more apt to call this a server image similar to an Amazon Machine Image. Once you've got your image ready you can start the server, but now you can have a whole host of configuration tools at your disposal before you kickstart the server, most notably the amount of processing speed, memory and storage. You can click on the image to see a much bigger screen of the Skali configuration options, these include firewall settings, network IP and even VNC password.
 
 While you can't change the configurations on the fly, you can quite easily stop the machine and change the configurations from the GUI before restarting the machine again. You may not like this approach, I don't either, I would have preferred the ability to do something like 'configure next reboot', so that I can set the configuration before hand and only after I'm happy with it, commit it on the next reboot of the server. Saving me precious downtime.
 

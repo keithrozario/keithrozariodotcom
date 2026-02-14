@@ -55,7 +55,11 @@ I've always maintained that there are 'legitimate' uses of this software. This <
 Oh and a final bonus. At one point, the PMO purportedly asked Hacking Team to lie on their customs declaration forms for shipments into Malaysia..tsk tsk tsk.
 
 
-[caption id="attachment_5374" align="aligncenter" width="550"]![Customs-avoidind](/uploads/Customs-avoidind.png) Zuraimi asked if Hacking team could change the description of their items during shipment because they didn't want Malaysian customs to find out.[/caption]
+[caption id="attachment_5374" align="aligncenter" width="550"]
+
+![Customs-avoidind](/uploads/Customs-avoidind.png)
+
+ Zuraimi asked if Hacking team could change the description of their items during shipment because they didn't want Malaysian customs to find out.[/caption]
 
 
 <h2></h2>

@@ -66,7 +66,11 @@ Here's some points to help along with that.
 
 <strong>Point 1:</strong> The IP address of a connection is tied to the internet connection and not to the end-device. Meaning if you have a connection at home, and all 4 of your family members connected to YouTube at the same time, YouTube would see the same IP address for all 4 devices. No difference. So if only one of you were hosting illegal content or all 4 of you were going it, there'd be no visible difference on the network pattern. Is it reasonable to assume that just because I own the account, that I was sharing the content? How do you know it wasn't my 16-year old daughter, or 61-year old mother-in-law?
 
+
+
 ![IP Address LAN/WAN 1](/uploads/Slide12-820x461.jpg)
+
+
 
 <strong>Point 2:</strong> If someone hacked into your router, the hacker would have the same IP address as yourself. Meaning, you could be held liable even though you were a victim of  a hack. And since most home routers have no logging functionality--there'd be no way to prove your innocence.
 

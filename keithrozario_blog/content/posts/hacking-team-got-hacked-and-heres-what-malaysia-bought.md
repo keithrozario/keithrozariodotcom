@@ -7,7 +7,11 @@ tags = ['Spyware']
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++
 
-[caption id="attachment_5085" align="aligncenter" width="550"]![RCS monitor](/uploads/RCS-monitor-820x461.jpg) A screenshot of the RCS Software from Hacking Team[/caption]
+[caption id="attachment_5085" align="aligncenter" width="550"]
+
+![RCS monitor](/uploads/RCS-monitor-820x461.jpg)
+
+ A screenshot of the RCS Software from Hacking Team[/caption]
 
 There are two types of governments in the world, Those that <span style="text-decoration: underline;">build</span> complex surveillance software to spy on their citizens, and those that <span style="text-decoration: underline;">buy</span> them--and our government is more the buying type.
 
@@ -25,7 +29,11 @@ The question of course is should you be worried, the answer is Yes, and not just
 
 Worst still, some e-mails point to incompetent IT skills as well as bad Procurement practices, that actually annoyed hacking team's salesforce. I will conclude this post with why this attack on Hacking Team has a positive outlook for regular internet users, and why our government agencies procuring this stuff isn't exactly ALL THAT BAD.<!--more-->
 <h2>What did the Government Buy?</h2>
-![HackingTeam-Architecture](/uploads/HackingTeam-Architecture-603x500.png)But let's start with the RCS software itself.
+
+
+![HackingTeam-Architecture](/uploads/HackingTeam-Architecture-603x500.png)
+
+But let's start with the RCS software itself.
 
 What exactly was being purchased? Well according to the Hacking Team Brochure (you can download <a href="/uploads/RCS.pdf">here</a>)
 <blockquote>Remote Control System (RCS) is a solution designed to evade encryption by means of an agent directly installed on the device to monitor. Evidence collection on monitored devices is stealth and transmission of collected data from the device to the RCS server is encrypted and untraceable.

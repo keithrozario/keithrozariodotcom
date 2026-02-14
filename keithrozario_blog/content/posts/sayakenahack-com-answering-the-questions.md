@@ -172,7 +172,11 @@ So, I go through great lengths protecting the site, and definitely more effort t
 
 As a bonus, here's the PTPTN website, that allows you to check your balance. To be fair, they at least have a TLS equivalent, but they don't re-direct you to it. So it's still possible to access their non-encrypted site. See that bit on the browser that says "Not Secure".
 
+
+
 ![](http://192.168.0.10:8090/download/attachments/9535583/image2017-11-16_22-19-57.png?version=1&amp;modificationDate=1510841997939&amp;api=v2 "Hacks &gt; ScreenShots &gt; image2017-11-16_22-19-57.png")
+
+
 
  
 

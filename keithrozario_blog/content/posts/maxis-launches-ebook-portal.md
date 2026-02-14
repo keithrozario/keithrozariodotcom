@@ -28,7 +28,15 @@ Next I looked up one of Maxis recommendations, I expected the recommendations to
 Now I know it's hard for Maxis to compete with Amazon, and it's difficult (though not impossible) for Malaysians to purchase ebooks from Amazon, but we're talking about a 200% premium here, something has to justify that price, and as far as I can tell...nothing has.
 <div>
 
-![](/uploads/Mitch-Albom.png "Mitch Albom")![](/uploads/Five-People-you-meet-in-heaven.jpg "Five People you meet in heaven")
+
+
+![](/uploads/Mitch-Albom.png "Mitch Albom")
+
+
+
+![](/uploads/Five-People-you-meet-in-heaven.jpg "Five People you meet in heaven")
+
+
 <h2><strong>Conclusion</strong></h2>
 I'd not buy books from Maxis just yet, they're still trying out this ebuuk thing, and I'd wait on the side till the sort things out.
 

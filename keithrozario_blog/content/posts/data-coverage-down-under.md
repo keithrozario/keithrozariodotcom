@@ -7,7 +7,11 @@ tags = ['Digi', 'Optus', 'Tune Talk']
 categories = ['Malaysia']
 +++
 
-![](/uploads/rsz_mountsolitary-300x250.jpg "Mount Solitary Australia")I've just come back from a fantastic 2 week long vacation in Australia, and I absolutely loved it. The weather was a bit cold for my Malaysian body (especially in blue mountains), but overall the holiday was a well deserved break from nearly 8 months of non-stop work ;).
+
+
+![](/uploads/rsz_mountsolitary-300x250.jpg "Mount Solitary Australia")
+
+I've just come back from a fantastic 2 week long vacation in Australia, and I absolutely loved it. The weather was a bit cold for my Malaysian body (especially in blue mountains), but overall the holiday was a well deserved break from nearly 8 months of non-stop work ;).
 
 The one thing I did notice about Australia though, was that data charges were quite exorbitant. I stayed at various Youth Hostel throughout Queensland and NSW and was surprised that they charged nearly AUD7 per day for Wi-Fi connectivity. Needless to say, I wasn't too impressed with shelling out nearly RM25 per day for something I get free from even my local mamak.
 

@@ -6,7 +6,11 @@ draft = false
 categories = ['Misc']
 +++
 
+
+
 ![dsc00503](/uploads/dsc00503.jpg)
+
+
 
 A couple of weeks back, the guys over at infoversal loaned me a Engenius ESR600 router for a review, at first I was a bit hesitant, but my overall unhappiness with my TP-link router made me think twice. So I gave it a shot, and boy was it worth it.
 
@@ -40,9 +44,17 @@ The beauty about Asus and Engenius though is that theirs doesn't even require a 
 <h2>Signal Strength and others</h2>
 I was really impressed with the Signal Strength of the Engenius routers. Really good coverage over my entire house over both bands. The only router that provides slightly better coverage was the Asus N12-HP and that had unusually long and powerful antennas, while this is antenna-less.
 
-[caption id="attachment_5062" align="aligncenter" width="542"]![signal-strength](/uploads/signal-strength.png) Signal Strength of the Engenius from about 10m away from the first floor of my home.[/caption]
+[caption id="attachment_5062" align="aligncenter" width="542"]
 
-[caption id="attachment_5060" align="aligncenter" width="431"]![Encore-1GB-upstairs](/uploads/Encore-1GB-upstairs.png) Speed of a 1GB file transfer over Wifi on different floors in the house[/caption]
+![signal-strength](/uploads/signal-strength.png)
+
+ Signal Strength of the Engenius from about 10m away from the first floor of my home.[/caption]
+
+[caption id="attachment_5060" align="aligncenter" width="431"]
+
+![Encore-1GB-upstairs](/uploads/Encore-1GB-upstairs.png)
+
+ Speed of a 1GB file transfer over Wifi on different floors in the house[/caption]
 
 Other features that are standard include port-forwarding, port-triggering, guest networks, parental control...etc. Like most routers these days, it also comes with bloat features like IP Camera integration, file sharing etc, but I'd advise against using your router as an internet file-sharing device for multiple security reasons.
 

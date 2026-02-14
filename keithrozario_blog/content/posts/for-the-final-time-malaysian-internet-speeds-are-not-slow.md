@@ -7,7 +7,11 @@ tags = ['Broadband']
 categories = ['Malaysia', 'Misc']
 +++
 
-![Average Internet Speeds](/uploads/Average-Internet-Speeds.png)First off, apologies for the lack of content on the blog. I've been really busy at work these past few months, and content is slow moving. For instance, the previous post was a review of a router, that I tested for 4 weeks, and returned to the supplier more than a week ago--and the post only went up yesterday. To that end, my decision is to churn out my thoughts just 'straight from the gut' and not give this posts the usual research I typically do. Hope my regular readers will forgive the tardiness.
+
+
+![Average Internet Speeds](/uploads/Average-Internet-Speeds.png)
+
+First off, apologies for the lack of content on the blog. I've been really busy at work these past few months, and content is slow moving. For instance, the previous post was a review of a router, that I tested for 4 weeks, and returned to the supplier more than a week ago--and the post only went up yesterday. To that end, my decision is to churn out my thoughts just 'straight from the gut' and not give this posts the usual research I typically do. Hope my regular readers will forgive the tardiness.
 
 OK, let's go.
 

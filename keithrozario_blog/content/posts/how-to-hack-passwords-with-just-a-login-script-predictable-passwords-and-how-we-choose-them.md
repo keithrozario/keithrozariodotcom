@@ -6,7 +6,11 @@ draft = false
 categories = ['Misc']
 +++
 
-<a title="Troy Hunt" href="http://www.troyhunt.com/" target="_blank">![](/uploads/362527788_a603f4195b-199x300.jpg "Hacked Accounts")Troy Hunt</a> a Software Engineer, Microsoft MVP and the genius behind the website <a title="Troy Hunt" href="http://www.troyhunt.com" target="_blank">www.troyhunt.com</a>, did a huge analysis on recent password hacks on Sony and Gawker to come up with a pretty daunting conclusions on how people choose passwords and why email accounts are easily hacked.<!--more-->
+<a title="Troy Hunt" href="http://www.troyhunt.com/" target="_blank">
+
+![](/uploads/362527788_a603f4195b-199x300.jpg "Hacked Accounts")
+
+Troy Hunt</a> a Software Engineer, Microsoft MVP and the genius behind the website <a title="Troy Hunt" href="http://www.troyhunt.com" target="_blank">www.troyhunt.com</a>, did a huge analysis on recent password hacks on Sony and Gawker to come up with a pretty daunting conclusions on how people choose passwords and why email accounts are easily hacked.<!--more-->
 
 First, let's take a step back and highlight that there are a couple of ways to hack and email account, one is through a method called phishing where an attacker tries to get your password by pretending to be a person from Gmail/Hotmail/MSN, etc etc and then tells you your account has been compromised please do the following..etc etc. Then you'd inadvertently give them your password and voila, your accounts been hacked.
 

@@ -56,13 +56,24 @@ The only person missing here is someone from Facebook, but you get the picture. 
 Now if you don't believe me, I have proof that it's at least censoring the mainstream media.
 
 This is a <a title="SOPA" href="http://www.smh.com.au/technology/technology-news/wikipedia-and-google-protest-us-net-bills-20120118-1q6ac.html" target="_blank">report from the AFP</a> (taken from the Sydney Morning Herald) on SOPA, and snippet of that report refers to the open letter pasted above:
-<blockquote>![](/uploads/Wikipedia-and-Google-protest-US-net-bills.png "Wikipedia and Google protest US net bills")</blockquote>
+<blockquote>
+
+![](/uploads/Wikipedia-and-Google-protest-US-net-bills.png "Wikipedia and Google protest US net bills")
+
+</blockquote>
 However, in the copy of The Star dated January 19th, page 52, I saw the following:
 
+
+
 ![](/uploads/SOPA_In_The_Star-1024x282.jpg "SOPA_In_The_Star")
+
+
 
 Conveniently the paper chose to ignore Malaysia on the list of governments censoring the internet. This requires further investigation, for now though I'm thankful I stopped reading the Main Stream Media years ago...looks like you should too.
 
 This picture taken from a facebook posting of a friend says it all:
 
+
+
 ![](/uploads/SOPA_STart.jpg "SOPA_STart")
+

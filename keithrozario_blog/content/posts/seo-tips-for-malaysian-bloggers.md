@@ -35,7 +35,11 @@ You should never do this, people don't like being lied to, and <strong>Google do
 
 Another misconception people have is that because content is free on the internet, you're allowed to do these sorts of tricks online. It isn't, people may not be spending money, but they're spending their time to visit your site. Tricks like these only prove you don't care about other peoples time.
 <h2>Where to get real info on SEO</h2>
-![Google Webmaster Help Youtube Page](/uploads/rsz_1rsz_google_webmasters___youtube.png "rsz_1rsz_google_webmasters___youtube")The SEO world is full of snake oil salesmen, who sometimes have no idea what they're talking about. A lot of SEO sites online are just full of crap, charging upwards of Rm10,000 to guarantee results. Like all other guaranteed results, they should be avoided like the black plague.
+
+
+![Google Webmaster Help Youtube Page](/uploads/rsz_1rsz_google_webmasters___youtube.png "rsz_1rsz_google_webmasters___youtube")
+
+The SEO world is full of snake oil salesmen, who sometimes have no idea what they're talking about. A lot of SEO sites online are just full of crap, charging upwards of Rm10,000 to guarantee results. Like all other guaranteed results, they should be avoided like the black plague.
 
 So instead, I turned to Google to help me out with my SEO and I found a great Youtube Channel for GoogleWebmasters, this is Google telling you how best to Optimize your site so Google can search through it.
 

@@ -34,7 +34,11 @@ But there's a catch, LastPass itself then becomes a high value target for attack
 
 The one strongest piece of security advice I could give you is to use a password manager, it will reduce a lot of your headaches.
 <h2>Bio-metrics and Permanence</h2>
-![Biometric validation](/uploads/16250748818_b1f9bc160e_z-300x169.jpg)The 2nd option is to use a bio-metric authentication. Your thumbprint or retina scan is unique only to you, and is quite hard to guess. So obviously that's a good place to start.
+
+
+![Biometric validation](/uploads/16250748818_b1f9bc160e_z-300x169.jpg)
+
+The 2nd option is to use a bio-metric authentication. Your thumbprint or retina scan is unique only to you, and is quite hard to guess. So obviously that's a good place to start.
 
 But there is a problem with bio-metrics that makes me shudder at the thought of ever using it as an authentication mechanism--it's PERMANENT.
 
@@ -84,7 +88,11 @@ Those questions could be, what's the password for your iPhone.
 
 But if you protected your iPhone with a touchID, then all bets are off. Because a fingerprint is something you have, instead of something you know it doesn't get the 5th Amendment protections as passwords. The Government can't compel you to unlock a password protected phone, but they can compel you to open a bio-metric secured one.
 <h2>Conclusion</h2>
-![10643204815_655b8e60c8_o](/uploads/10643204815_655b8e60c8_o-300x300.jpg)So between the permanence of bio-metrics, their lack of 5th Amendment protections and the chance that they can cause you some serious physical harm, I'd be very very worried about using a bio-metric to protect anything, let alone something as important as my bank account.
+
+
+![10643204815_655b8e60c8_o](/uploads/10643204815_655b8e60c8_o-300x300.jpg)
+
+So between the permanence of bio-metrics, their lack of 5th Amendment protections and the chance that they can cause you some serious physical harm, I'd be very very worried about using a bio-metric to protect anything, let alone something as important as my bank account.
 
 Plus they're not even secret, you're leaving your fingerprints on everything you touch--that doesn't apply to your ATM PIN which never leaves your head. Biometrics aren't all that good.
 

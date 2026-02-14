@@ -39,7 +39,11 @@ But maybe there's an ulterior motive here, at the very recently concluded <a hre
 
 An this isn't singularly about the FBI either. The New York A-G is waiting for this case to set precedent before he makes request for the <a href="http://abcnews.go.com/Technology/york-da-access-175-iphones-criminal-cases-due/story?id=37029693">175 iPhones he's hoping to unlock</a> for cases that aren't related to terrorism or ISIS. You can bet he's not the only A-G waiting for the outcome, and it's highly unlikely for the Judge to make her ruling so specific that nobody except the FBI could use it as precedent.
 
-But it's also not just about Apple. The legal precedent set by this case would apply not just to every other iPhone, but possibly every other smartphone, laptop, car or anything else we could squeeze into the definition of a computer. This is about more than Apple, and that's why the tech companies are lining up in support of Mr. Cook, <a href="http://qz.com/631163/32-internet-companies-are-backing-apple-in-its-fight-against-the-fbi/">32  such companies the last I checked.![us vs. them](/uploads/us-vs.-them-771x500.png)</a>
+But it's also not just about Apple. The legal precedent set by this case would apply not just to every other iPhone, but possibly every other smartphone, laptop, car or anything else we could squeeze into the definition of a computer. This is about more than Apple, and that's why the tech companies are lining up in support of Mr. Cook, <a href="http://qz.com/631163/32-internet-companies-are-backing-apple-in-its-fight-against-the-fbi/">32  such companies the last I checked.
+
+![us vs. them](/uploads/us-vs.-them-771x500.png)
+
+</a>
 
 But now that we've framed the 'who' , let's frame the 'what'.<!--more-->
 <h2><strong>The 'one' phone</strong></h2>

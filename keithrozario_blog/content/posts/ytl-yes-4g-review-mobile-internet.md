@@ -20,7 +20,11 @@ That said however, installation was a breeze, and was up and running in no time.
 
 In my housing area the reception is pretty decent, anywhere from 3- 5 bars, so I'm guessing that's good, and if you want a speed report, hows this:
 
+
+
 ![](/uploads/firefoxdownload.jpg "firefoxdownload")
+
+
 
 This was just one of the many downloads I got with speeds consistently above 350KB/sec. Now I don't know about you, but even my office network isn't this fast (and just at 3 bar reception mind you)
 

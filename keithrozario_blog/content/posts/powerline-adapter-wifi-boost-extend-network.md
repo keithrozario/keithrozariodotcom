@@ -63,11 +63,19 @@ While the power socket itself is just 10ft from the router--the wiring for the p
 <h2>Powerline vs. WiFi (2nd floor)</h2>
 Here's where the powerline adapter really shines, because the powerline experiences less degradation over distance, the gap between WiFi and Powerline grows bigger with every meter you put between yourself and the router. So while the WiFi quality dropped significantly when I moved the laptop upstairs, the Powerline connection didn't. Resulting in almost identical speeds whether you were 10ft away from your router, or 100ft.
 
+
+
 ![Powerline vs. WiFi 100ft](/uploads/Powerline-vs.-WiFi-100ft.png)
+
+
 <h2>Powerline vs. Ethernet</h2>
 Just to give you a flavor of how quick Ethernet is, I did a test where I hooked up my laptop to the router directly via an Ethernet cable. The results show the absolute maximum speed of the router, which helps put the Powerline numbers into perspective. As expected, since my router only supported IEEE 802.3u, the fastest connection possible was 100Mbps, and my real world results were about 93% of the theoretical maximum.
 
+
+
 ![LAN Speed Test-routerdirect(2)](/uploads/LAN-Speed-Test-routerdirect2-284x300.png)
+
+
 
 What this means is that a powerline connection through at least 100ft of wiring can maintain nearly 75% of the theoretical maximum speed of your router. Which is really good. I wonder if I had a Gigabit capable router what my speeds could be?
 

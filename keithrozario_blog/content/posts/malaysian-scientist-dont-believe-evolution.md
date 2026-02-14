@@ -37,7 +37,11 @@ When government officials begin to inject their personal beliefs into the scient
 
 The fact that MASTIC think that they can change the answers to something so fundamentally agreed upon by scientist the world over is disturbing--nearly all of biology involves a solid understanding of Evolution, and yet here is MASTIC denying a scientifically accepted FACT!<!--more-->
 <h2>What Malaysians say about Evolution</h2>
-<p style="text-align: center;">![Acceptance of Evolution](http://news.nationalgeographic.com/news/bigphotos/images/060810-evolution_big.jpg "Acceptance of Evolution")</p>
+<p style="text-align: center;">
+
+![Acceptance of Evolution](http://news.nationalgeographic.com/news/bigphotos/images/060810-evolution_big.jpg "Acceptance of Evolution")
+
+</p>
 Nearly 50% of Malaysians don't believe that Man evolved from an earlier species, and more than 30% were unsure where Man came from--which means that the percentage of Malaysian who actually believe in Evolution total around the 20% mark.
 
 This puts Malaysia right at the bottom of a long list of countries in terms of our acceptance of Evolution, together with the likes of Cyprus, Turkey and the good ol' US of A.

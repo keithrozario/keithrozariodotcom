@@ -29,7 +29,11 @@ Way back in 2009, <a title="Linux bigger competitor than Apple" href="http://ww
 
 ![Operating System Market Share in 2009](/uploads/OS-market-share-2009.png "OS-market-share-2009")
 
-Microsoft proudly proclaimed that it's biggest competitor in the OS space wasn't Apple or even Linux--it was piracy.![](http://keithrozario.net/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif "More...")
+Microsoft proudly proclaimed that it's biggest competitor in the OS space wasn't Apple or even Linux--it was piracy.
+
+![](http://keithrozario.net/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif "More...")
+
+
 
 From the data that Steve Ballmer presented it was hard to argue against. In fact more people were using unlicensed Windows products than Apple and Linux combined. This perfectly illustrated the sheer dominance of Microsoft in the OS space back in 2009--so how then did this dominance fade away so quickly?
 

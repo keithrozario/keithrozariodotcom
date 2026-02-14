@@ -50,21 +50,37 @@ Once all of that was settled, it was smooth sailing. Performing a few SQL querie
 
 Then I did a quick analysis comparing the readings from Inner-KL to Outer-KL, to see just how big the difference between Johor and Singapore should be expected. As you can see from the spreadsheet below, the difference between inner and outer KL is quite negligible, sometimes Inner is higher than outer, sometimes it's the other way around. Some months the difference is as high as 17%, but overall the average is just 5.2%. In other words, I should expect an average difference of 5.2% in the readings taken in Singapore and Johor as a baseline.
 
-[caption id="attachment_5261" align="aligncenter" width="512"]![API vs. PSI readings (KL)](/uploads/API-vs.-PSI-readings-KL.png) Comparison of API readings for InnerKL and OuterKL for the period Apr-2014 to Aug-2015[/caption]
+[caption id="attachment_5261" align="aligncenter" width="512"]
+
+![API vs. PSI readings (KL)](/uploads/API-vs.-PSI-readings-KL.png)
+
+ Comparison of API readings for InnerKL and OuterKL for the period Apr-2014 to Aug-2015[/caption]
 
 But the numbers tell a different story, here is the difference between Johor and Singapore:
 
-[caption id="attachment_5260" align="aligncenter" width="543"]![API vs. PSI readings](/uploads/API-vs.-PSI-readings.png) Comparison of API/PSI readings between Johor and Singapore[/caption]
+[caption id="attachment_5260" align="aligncenter" width="543"]
+
+![API vs. PSI readings](/uploads/API-vs.-PSI-readings.png)
+
+ Comparison of API/PSI readings between Johor and Singapore[/caption]
 
 As you can see, Singapore is ALWAYS higher than Johor, regardless of month or day. As expected theoretically, but now we have the concrete empirical data. But the question remains...by how much? Is is just 5% more, or much more?  On average, Singapore's PSI readings were 20% higher than Malaysia's API reading. In other words, if the API reading was 200 in Malaysia, you'd expect it to be 240 in Singapore. Even if we account for a certain variability between regions (5% as we just established), there's still a 15% differential between Singapore's PSI readings and Malaysia's API readings, that cannot be attributed to anything other than PM2.5 measurements.
 
 Just to validate my claim, I looked at the daily average readings over the last 8 days, and found the difference to be even wider. Over the last 8 days, PSI readings in Singapore were (on average) 38% higher than Malaysian API readings, and on some days that number goes to as high 53%.
 
-[caption id="attachment_5262" align="aligncenter" width="537"]![API vs. PSI readings (SG-Daily)](/uploads/API-vs.-PSI-readings-SG-Daily.png) Comparison of API/PSI readings (daily average) between Johor and Singapore[/caption]
+[caption id="attachment_5262" align="aligncenter" width="537"]
+
+![API vs. PSI readings (SG-Daily)](/uploads/API-vs.-PSI-readings-SG-Daily.png)
+
+ Comparison of API/PSI readings (daily average) between Johor and Singapore[/caption]
 
 Just for completeness, I also did a comparison between InnerKL and OuterKL for the same period, and found the difference to grow to 10% (from just 5%), it appears than in times of Haze, the differences between regions (even those that are close by) can vary significantly.
 
-[caption id="attachment_5259" align="aligncenter" width="541"]![API vs. PSI readings (KL-Daily)](/uploads/API-vs.-PSI-readings-KL-Daily.png) Comparison of API readings between InnerKL and OuterKL over last 8 days[/caption]
+[caption id="attachment_5259" align="aligncenter" width="541"]
+
+![API vs. PSI readings (KL-Daily)](/uploads/API-vs.-PSI-readings-KL-Daily.png)
+
+ Comparison of API readings between InnerKL and OuterKL over last 8 days[/caption]
 <h2>Conclusion</h2>
 If you're living in Malaysia, and hoping for a proper PM2.5 reading, my advice is to write to your local MP and force them to bring this up in Parliament. Failing which, the best course of action would be to buy your own detectors.
 

@@ -25,7 +25,11 @@ Eventually the village ends up with 2 pools of 50 villagers each. The pools e
 
 So far so good.
 <h2>The Crooked Pool attacks</h2>
-![crooks](/uploads/crooks.jpg)However, one of these pools (called the crooked pool), starts to act all dick-dastardly. They send 25 of their members to infiltrate the other 'honest' pool. These infiltrators will roll their dice, but never claim announce their winnings to the sorcerer, even if they roll the magical number. Essentially these <strong>infiltrators</strong> become dead-weight on the honest pool, rolling dice choosing to never win. The remaining 25 members in the crooked pool will continue rolling and trying to win.
+
+
+![crooks](/uploads/crooks.jpg)
+
+However, one of these pools (called the crooked pool), starts to act all dick-dastardly. They send 25 of their members to infiltrate the other 'honest' pool. These infiltrators will roll their dice, but never claim announce their winnings to the sorcerer, even if they roll the magical number. Essentially these <strong>infiltrators</strong> become dead-weight on the honest pool, rolling dice choosing to never win. The remaining 25 members in the crooked pool will continue rolling and trying to win.
 
 At first this seems illogical, why would a pool intentionally give up half it's resources to sabotage another? How could discarding winnings actually benefit anyone? Does it even profit the crooks?
 

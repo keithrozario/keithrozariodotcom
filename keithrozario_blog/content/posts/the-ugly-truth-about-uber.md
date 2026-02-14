@@ -6,7 +6,11 @@ draft = false
 categories = ['Misc']
 +++
 
-![MADRID, SPAIN - OCTOBER 14:  In this photo illustration the new smart phone taxi app ](/uploads/uber-750x500.jpg)Two weeks ago, I took my first ever Uber ride, and here's what I think is The Good, the bad and the ugly of Uber.
+
+
+![MADRID, SPAIN - OCTOBER 14:  In this photo illustration the new smart phone taxi app ](/uploads/uber-750x500.jpg)
+
+Two weeks ago, I took my first ever Uber ride, and here's what I think is The Good, the bad and the ugly of Uber.
 <h2>The Good</h2>
 The app worked perfectly out of the box, it was intuitive, and the drivers that fetched me from (and to) the Toyota service center were courteous and friendly. What was even more shocking was the price--Uber is freaking cheap.
 

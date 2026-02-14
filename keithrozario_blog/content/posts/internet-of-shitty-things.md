@@ -23,7 +23,11 @@ But this DDOS was different, and krebsonsecurity will go down in history as the 
 So what makes this attack so different as to merit it's own class? Well 3 things.
 <!--more-->
 <h2>Why Krebs is different</h2>
-![ddos-network-map](/uploads/DDoS-network-map-300x183.jpg)First, the size of the DDOS was beyond anything we've seen before. When all the dust settles, Krebs reported that his site experienced <a href="https://krebsonsecurity.com/2016/09/krebsonsecurity-hit-with-record-ddos/">nearly 620Gbps of assault traffic</a>, more than twice the largest attack seen before. I remember back in 2013, when everybody lost their minds over the <a href="https://blog.cloudflare.com/the-ddos-that-almost-broke-the-internet/">90Gbps attack on SpamHaus occured</a>, in just 3 years we've increased that to nearly 7 fold, and it's only going to get bigger.
+
+
+![ddos-network-map](/uploads/DDoS-network-map-300x183.jpg)
+
+First, the size of the DDOS was beyond anything we've seen before. When all the dust settles, Krebs reported that his site experienced <a href="https://krebsonsecurity.com/2016/09/krebsonsecurity-hit-with-record-ddos/">nearly 620Gbps of assault traffic</a>, more than twice the largest attack seen before. I remember back in 2013, when everybody lost their minds over the <a href="https://blog.cloudflare.com/the-ddos-that-almost-broke-the-internet/">90Gbps attack on SpamHaus occured</a>, in just 3 years we've increased that to nearly 7 fold, and it's only going to get bigger.
 
 As I write this, Dyn was under an attack that was nearly 50% bigger, reaching into the Terabit range. <em>[1 Terabit = 1024 Gigabit]</em>
 

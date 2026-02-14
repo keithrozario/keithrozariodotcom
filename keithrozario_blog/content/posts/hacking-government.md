@@ -6,7 +6,11 @@ draft = false
 categories = ['CyberLaw', "Keith's Favorite Post", 'Security &amp; Privacy']
 +++
 
-![hacking-government](/uploads/hacking-government.jpg)The simplest definition of a hacker, is someone who breaks systems. We tend to equate systems to computers, but that's a limited definition of the term. A system can also refer to a legal system or a set of processes that have nothing to do with technology.
+
+
+![hacking-government](/uploads/hacking-government.jpg)
+
+The simplest definition of a hacker, is someone who breaks systems. We tend to equate systems to computers, but that's a limited definition of the term. A system can also refer to a legal system or a set of processes that have nothing to do with technology.
 
 For example, lawyers often hack around the law, looking for loopholes to exploit to give them an advantage in their case. A good lawyer is expected to work within the legal system of a country, but still try to bend it a wee bit for their clients. He's not breaking the law, merely hacking it for his own good.
 

@@ -66,7 +66,11 @@ Finally we come to point of improving English.
 
 Fine, I understand we have an English problem, and a communication problem (two different things). But my point is that we should teach science in the science classroom and leave English to the English classroom, not try to conflate the teaching of science and maths with something else and wonder how come we're not doing so well at it.
 <h2>Maths in English</h2>
-![count](/uploads/count.png)By the way, I've not touched maths yet.
+
+
+![count](/uploads/count.png)
+
+By the way, I've not touched maths yet.
 
 Take for example the numbers 11 and 12. In a decimal system these would have names like one-teen and two-teen. Instead they keep their <a href="https://en.wikipedia.org/wiki/Duodecimal">dozenal origins</a> which make no sense in our decimal dominated world.What does eleven and twelve mean anyway?
 

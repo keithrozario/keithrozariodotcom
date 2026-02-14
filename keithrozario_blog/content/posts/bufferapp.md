@@ -19,7 +19,11 @@ There is one problem, how do you know which links users are clicking and which l
 
 For example, my tweet below on fetch.io reached 40 people and was clicked 3 times. So this tweet generated 3 hits to my website. 3 hits isn't so great, but 3 hits from 39 followers is quite high, usually I get zero. With this information I can then try to adjust the content to garner more hits..etc etc.
 
+
+
 ![](/uploads/Analytics.jpg "Analytics")
+
+
 
  
 

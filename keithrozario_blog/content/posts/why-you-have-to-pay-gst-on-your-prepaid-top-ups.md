@@ -6,7 +6,11 @@ draft = false
 categories = ['Misc']
 +++
 
-![Top-Up debacle](/uploads/sim-cards.jpg)I strongly believe the Goods and Service Tax is a good idea.
+
+
+![Top-Up debacle](/uploads/sim-cards.jpg)
+
+I strongly believe the Goods and Service Tax is a good idea.
 
 Yes, it will impact the poor more than the rich. Yes, it will cause the cost of living to increase at a time when most Malaysians are struggling to pay the bills.
 
@@ -26,7 +30,11 @@ His Gross profit is <strong>Rm10.60</strong> - <strong>Rm9.54</strong> = <strong
 
 Now here's the bit many don't understand, the retailer doesn't pay Rm0.60 to the government <em>(even though that's what he charges you)</em>, rather the retailer pays his output - input, or Rm0.60 - Rm0.54 = Rm0.06 . His <span style="text-decoration: underline;">gross profit</span> of Rm1.06 becomes of <span style="text-decoration: underline;">nett profit</span> of Rm1.00 after you deduct GST, which is exactly the same profit he had pre-GST.
 
-[caption id="attachment_5004" align="aligncenter" width="650"]![Standard GST](/uploads/Standard-GST-820x461.jpg) Post-GST implementation as it is today[/caption]
+[caption id="attachment_5004" align="aligncenter" width="650"]
+
+![Standard GST](/uploads/Standard-GST-820x461.jpg)
+
+ Post-GST implementation as it is today[/caption]
 
 The way this works is that the Telco pays Rm0.54 to the government (from their sale to the retailer), and the retailer then pays Rm0.06 to the government (from their sale to the customer). The end result is that the governments still gets Rm0.60 from the sale, but from two different entities at two different points of the supply chain.
 
@@ -56,9 +64,17 @@ There's a hitch because someone somewhere decided not to implement this on the 1
 
 Retailers probably have a bunch of prepaid cards that they've purchased in April and haven't yet sold, meaning these were cards that were procured at RM9.54,and planned to be sold at RM10.60. You can't suddenly turn around and ask them to sell those cards at Rm10. The RM1 profit margin I put here is purely for easy calculation in reality the retailers profit is very minimal, and asking them to 'absorb' the GST would put them at a loss. You may not like retailers, but nobody wants to run a loss making business.
 
-[caption id="attachment_5003" align="aligncenter" width="650"]![Najib Changes](/uploads/Najib-Changes-820x461.jpg) Retailers will lose out, if we change this over-night[/caption]
+[caption id="attachment_5003" align="aligncenter" width="650"]
+
+![Najib Changes](/uploads/Najib-Changes-820x461.jpg)
+
+ Retailers will lose out, if we change this over-night[/caption]
+
+
 
 ![Profit Reduced](/uploads/Slide81-820x461.jpg)
+
+
 
 There is a solution, but it's phenomenally difficult. The telcos would have to agree <span style="font-size: 18px; line-height: 29.7px;">on a specific date when Rm10 becomes the nett price, and then they'd have to retroactively apply that to ALL their existing top-ups in the markets. In order not to leave retailers in the lurch, they'd need to issue credit notes to 'modify the supply' of the item, in essence issue them new tax invoices with the correct sales price, and then refund the retailers---it's very very messy, and God knows how many retailers there are out there.</span>
 

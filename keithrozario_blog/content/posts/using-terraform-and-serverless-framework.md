@@ -9,7 +9,9 @@ categories = ['Cloud Computing', 'Serverless']
 <!-- wp:image {"id":6691} -->
 
 
-![](/uploads/800px-Guaricano-Bambini.jpeg)<figcaption>Image from <a href="https://en.wikipedia.org/wiki/Holding_hands#/media/File:Guaricano-Bambini.JPG">wikicommons</a>.</figcaption></figure>
+![](/uploads/800px-Guaricano-Bambini.jpeg)
+
+<figcaption>Image from <a href="https://en.wikipedia.org/wiki/Holding_hands#/media/File:Guaricano-Bambini.JPG">wikicommons</a>.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -49,7 +51,9 @@ categories = ['Cloud Computing', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6696} -->
-<figure class="wp-block-image">![](/uploads/TerraformAndServerless1.png)
+<figure class="wp-block-image">
+
+![](/uploads/TerraformAndServerless1.png)
 
 
 <!-- /wp:image -->

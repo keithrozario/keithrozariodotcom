@@ -25,7 +25,9 @@ categories = ['Misc']
 <!-- wp:image {"id":6591,"align":"center"} -->
 
 
-![](/uploads/PDPA.jpg)<figcaption>Me with the PDPA commissioner</figcaption></figure></div>
+![](/uploads/PDPA.jpg)
+
+<figcaption>Me with the PDPA commissioner</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -33,7 +35,9 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6382,"align":"left","width":185,"height":254} -->
-<div class="wp-block-image"><figure class="alignleft is-resized">![](/uploads/undi-tweet-edit.jpg)
+<div class="wp-block-image"><figure class="alignleft is-resized">
+
+![](/uploads/undi-tweet-edit.jpg)
 
 
 <!-- /wp:image -->
@@ -53,7 +57,9 @@ categories = ['Misc']
 <!-- wp:image {"id":6592} -->
 
 
-![](/uploads/IMG_5221.jpg)<figcaption>My Presentation at HITB</figcaption></figure>
+![](/uploads/IMG_5221.jpg)
+
+<figcaption>My Presentation at HITB</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -69,7 +75,11 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6598} -->
-<figure class="wp-block-image">![](/uploads/parliament.jpg)<figcaption><br></figcaption></figure>
+<figure class="wp-block-image">
+
+![](/uploads/parliament.jpg)
+
+<figcaption><br></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -81,7 +91,9 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6597} -->
-<figure class="wp-block-image">![](/uploads/John_holmes.jpg)
+<figure class="wp-block-image">
+
+![](/uploads/John_holmes.jpg)
 
 
 <!-- /wp:image -->

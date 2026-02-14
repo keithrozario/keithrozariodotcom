@@ -7,7 +7,11 @@ tags = ['Google']
 categories = ['Design', 'Security &amp; Privacy', 'Social Media']
 +++
 
+
+
 ![](/uploads/Google-Reader-300x285.png "Google Reader")
+
+
 
 A couple of weeks back, Dreamhost reported a security breach on it's servers, so I thought for security sake I should change my passwords as well. I'd been using the same password for the past couple of years and it was time for a change anyway.
 

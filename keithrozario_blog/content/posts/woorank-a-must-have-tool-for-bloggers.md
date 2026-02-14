@@ -7,7 +7,11 @@ tags = ['SEO']
 categories = ['Blog']
 +++
 
-![](/uploads/WooRank-150x81.jpg)</a>My blog just turned 2 months old today, and boy has it come far. I've been trying real hard to make at least 1 Post a day, but most of the time it's about 1 post every 2-3 days. It's still a lot better than my previous blog and I've learnt a lot from my mistakes. However, just how good is keithrozario.com?
+
+
+![](/uploads/WooRank-150x81.jpg)
+
+</a>My blog just turned 2 months old today, and boy has it come far. I've been trying real hard to make at least 1 Post a day, but most of the time it's about 1 post every 2-3 days. It's still a lot better than my previous blog and I've learnt a lot from my mistakes. However, just how good is keithrozario.com?
 
 According to GoogleAnalytics, which I installed shortly after I created the blog, I maxed out at 28 hits a day, with a monthly average of about 12-14 hits a day this week. Quite bad when you compare me to guys like sethgodin who gets almost 80,000 hits/month or Anilnetto (a Malaysian journalist) who averages almost 1 million/month.<!--more-->
 
