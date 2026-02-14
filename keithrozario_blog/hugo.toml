@@ -11,10 +11,10 @@ theme = 'terminal'
 [params]
   contentTypeName = "posts"
   themeColor = "viking"
-  showMenuItems = 4
+  showMenuItems = 5
   
   [params.logo]
-    logoText = "keithrozario.com"
+    logoText = "keithRozario"
   
 [menu]
   [[menu.main]]
@@ -36,3 +36,8 @@ theme = 'terminal'
     identifier = "favorites"
     name = "Favorites"
     url = "/categories/keiths-favorite-post"
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact Me"
+    url = "/contact"
