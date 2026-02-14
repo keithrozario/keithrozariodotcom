@@ -1,0 +1,38 @@
+baseURL = 'https://www.keithrozario.com/'
+languageCode = 'en-us'
+title = 'keithrozario.com'
+theme = 'terminal'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  contentTypeName = "posts"
+  themeColor = "viking"
+  showMenuItems = 4
+  
+  [params.logo]
+    logoText = "keithrozario.com"
+  
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts"
+
+  [[menu.main]]
+    identifier = "security"
+    name = "Security"
+    url = "/categories/security-amp-privacy"
+
+  [[menu.main]]
+    identifier = "serverless"
+    name = "Serverless"
+    url = "/categories/serverless"
+
+  [[menu.main]]
+    identifier = "favorites"
+    name = "Favorites"
+    url = "/categories/keiths-favorite-post"

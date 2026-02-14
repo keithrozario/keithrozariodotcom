@@ -1,0 +1,8 @@
+{
+  "id": "1989",
+  "author": "life4hire",
+  "email_hash": "6aa12dcd5a23044ea22846d58afc115e",
+  "url": "http://www.life4hire.com",
+  "date": "2015-07-05 21:39:47",
+  "content": "Keith, i like your point mentioning the speed against local node...but here's one thing i found out when testing 1gbps ISP in US at work...speedtest can't get speed higher than 100mpbs although testing against local node..is there any other equivalent test websites that gives us the speed like speedtest.net....the test that i did last time to prove the ISP is indeed 1gbps is downloading ubuntu ISO from a 4gb speed line..haha"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "2304",
+  "author": "keith",
+  "email_hash": "3743d64fa7e8ec113f11194ead85e862",
+  "url": null,
+  "date": "2015-10-12 16:00:26",
+  "content": "Hi Nik,\n\nPort Forwarding is a process to map an incoming port into the network and direct it to a specific machine and port on the network.\n\nIf the port numbers are the same, just enter the same range for both public and private.\n\nKeith"
+}

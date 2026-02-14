@@ -1,0 +1,8 @@
+{
+  "id": "957",
+  "author": "syawal",
+  "email_hash": "e306cdd844543f8e9fa0d2fac1436b44",
+  "url": null,
+  "date": "2013-09-03 18:09:00",
+  "content": "Not all SSL is the same, SSL (Perfect Forward Secrecy, PFS) is the best available out there at the moment. https://www.eff.org/deeplinks/2013/08/pushing-perfect-forward-secrecy-important-web-privacy-protection &amp; https://www.eff.org/deeplinks/2013/08/one-key-rule-them-all-threats-against-service-provider-private-encryption-keys"
+}

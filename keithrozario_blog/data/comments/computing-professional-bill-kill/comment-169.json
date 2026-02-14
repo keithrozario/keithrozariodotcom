@@ -1,0 +1,8 @@
+{
+  "id": "169",
+  "author": "Dzof",
+  "email_hash": "20fa52f750fd8fd8b755ebf3b396844b",
+  "url": null,
+  "date": "2012-01-02 02:02:00",
+  "content": "As to your point 10: \"Companies aren’t complaining the the IT talent in Malaysia is lacking or of ‘low standards’, they’re complaining that the graduates can’t speak English. Fix that problem before you try to address a non-issue.\"\n\nThis is simply not true. \n\nYes, not being able to communicate effectively is an issue in the Malaysian IT industry (as it is in almost all industries in Malaysia), but there are additional problems that IT \"professionals\" (especially fresh grads) don't know enough about the fundamentals of programming.\n\nFor example, if you ask them \"What is the command to print out this string?\" or  \"How do you dereference a pointer\" or even \"how does heapsort work?, they will be able to give you an answer.\n\nIf you ask, \"Write a program to guess an integer chosen by the user (between 1 and 1000). The program may ask the user questions.\", they are completely lost. (I know, I've seen people try to answer this.)\n\nProgramming is a lot about problem solving. By its definition, innovative solutions do not have answers in the textbook."
+}

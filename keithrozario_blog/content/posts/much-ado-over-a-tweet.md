@@ -1,0 +1,20 @@
++++
+title = "Much ado over a tweet"
+date = "2014-01-09T09:28:48"
+draft = false
+categories = ['Malaysia', 'Social Media']
++++
+
+<a href="/uploads/IMG-20140106-WA0040.jpg"><img class=" wp-image-4225 alignleft" style="margin-right: 10px;" alt="ETP Roadmap former prime minister tweet" src="/uploads/IMG-20140106-WA0040.jpg" width="300" height="550" /></a>In case you've missed it. The official twitter handle of the ETP, @etp_roadmap, recently made a serious blunder. In a tweet sent out at 1.00pm on the 6th of January, they tweeted<em> "<strong>Former</strong> Prime Minister Najib Razak: Energy and Food Subsidies are no longer sustainable"</em>. Now the blunder of course was the word 'Former' and it was only a full one hour later (or an eternity in twitter time) was the tweet deleted and an apology issued.
+
+Obviously everyone jumped on the matter and soon people were making fun over what was a silly but common mistake. What I find particularly disturbing is the manner in which Pemandu is getting flak for this. Surely this is something to joke about, share with your friends and have a laugh, but to attack someone over a typo is ridiculous.
+
+The pro-government bloggers are the ones leading the charge, using this as a platform to launch their claims that Pemandu is Anti-Najib and Anti-Government, that Pemandu comprises of over-paid consultants that aren't worth the chairs they occupy in Putrajaya, and I'm OK with that. Any government agency that utilizes public funds is open and fair game to constant scrutiny, it's how we make them accountable.
+
+But to take out all their frustrations on a single tweet--and then to call for the <a title="Fire twitter handle" href="http://theunspinners.blogspot.com/2014/01/pemandu-lantik-semula-najib-berlaku.html" target="_blank">resignation (or firing)</a> of the person in charge of the twitter handle is just wrong--particularly since this was an obvious mistake, and an apology was issued--if you want to continue attacking Pemandu go ahead, but don't attack the individual running the handle, that person was just doing their job, and in every job--people make mistakes.
+
+We've seen a lot of these personal attacks, and I'm fine when people personally attack politicians. It comes to the territory when you're a politician, but when you're just a 'cari makan' guy or gal working for a government agency, being villified and attacked by high profile bloggers can take it's toll on you. Just a few months ago, the entire pro-BN blogosphere had <em>set their phasers to kill</em> and trained them onto <a title="Attack on farah" href="http://anotherbrickinwall.blogspot.com/2013/09/answer-this-pemandu.html" target="_blank">a single girl from Pemandu</a>, posting up her private photos from facebook on their blogs, making accusations that she was a drunkard, and vilifying here because she had a foreign boyfriend. I mean--to attack someone personally, and use the vast attention their blogs get to do it--is just bullying.
+
+It's a bunch of bloggers who have some serious traffic--using that influence as a platform to attack a <strong>single individual</strong> that is just a employee of a government agency is just lame. If they took pot-shots at policies implemented by Pemandu, or questioned the salaries the Pemandu folks get, that'll be fine, but to invade the privacy of one individual you don't agree with, and then publicly (VERY publicly) launch what I can only describe as a concerted attack--on one single girl....c'mon la, have some fucking courtesy.
+
+<span style="font-size: 13px; line-height: 19px;">People need to standup for these guys, I'm by no means a fan of the government, but you need to make the distinction between <strong>THE government</strong> and <strong>government servants</strong>, the latter are just people like everyone else trying to do their jobs and get on with life, attacking and bullying them will get you nothing yet causes them severe distress.</span>

@@ -1,0 +1,8 @@
+{
+  "id": "3158",
+  "author": "keith",
+  "email_hash": "a38d6e7e07087675684eedcd6bf112c3",
+  "url": null,
+  "date": "2019-08-27 04:25:32",
+  "content": "No I use Python.\n\nBut sometimes I notice that the update operation (reducing the write units) doesn't happen instantaneously -- but it eventually happens. i.e. If you update the table back to 1 Write Unit, it'll take a while before a subsequent describe table operation reports 1 Write Unit."
+}

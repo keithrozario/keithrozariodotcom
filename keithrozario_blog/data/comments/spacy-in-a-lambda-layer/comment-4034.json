@@ -1,0 +1,8 @@
+{
+  "id": "4034",
+  "author": "keith",
+  "email_hash": "3743d64fa7e8ec113f11194ead85e862",
+  "url": null,
+  "date": "2019-10-13 14:54:37",
+  "content": "The latest version of Klayers, now has build spaCy automatically every week. This is version 2.2, and does **not** include the pre-compiled language files. You'll have to bring those to the party yourself."
+}

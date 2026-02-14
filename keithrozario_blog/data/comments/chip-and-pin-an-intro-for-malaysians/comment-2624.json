@@ -1,0 +1,8 @@
+{
+  "id": "2624",
+  "author": "keith",
+  "email_hash": "3743d64fa7e8ec113f11194ead85e862",
+  "url": null,
+  "date": "2016-05-26 13:29:06",
+  "content": "In my previous life, I used to work in payments for a very large international merchant that rolled our own payment infrastructure.\n\nTypically there's two settlements, inter-bank settlement which I've got very little knowledge on, and merchant-bank settlement. \n\nFor merchant-bank settlement, there's usually a 'settlement' function on the Merchant's POS or Terminal, which sends a settlement message of the merchant to the bank's payment infrastructure. The bank's system then performs some validation, and if all is good will bank in the money at a pre-agreed frequency and time to the merchant (next business day at 2,00pm, etc etc)\n\nSo every merchant has a relationship with the acquirer that would include the settlement and payment details. Important to note, that if the merchant doesn't press the 'settlement' button on the terminal, no message is sent, and the merchant will NOT get paid. \n\nIn more complicated scenarios, large merchants have their own host that perform host-to-host settlement with the banks, but those are rare and exclusive to very large merchants.\n\nHope that helps."
+}

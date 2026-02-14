@@ -1,0 +1,8 @@
+{
+  "id": "1276",
+  "author": "Jordan",
+  "email_hash": "f27dc6ab143696cacef261b6bae9ff19",
+  "url": null,
+  "date": "2014-11-06 03:48:00",
+  "content": "I'm confused about step 11...\n\n\"This was an oversight on my part, but only after installing did I noticed we’d be stuck with a wiki that links all it’s articles with wiki.keithrozario.com/wiki/ArticleName\n\nRewriteEngine on\nRewriteCond %{HTTP_HOST} ^keithrozario.com$\nRewriteRule (.*) http://www.keithrozario.com/$1 [R=301,L]\nRewriteRule ^$ wiki [L]\"\n\nWhere are you entering in that text? Into which file? And via ssh? ftp?"
+}

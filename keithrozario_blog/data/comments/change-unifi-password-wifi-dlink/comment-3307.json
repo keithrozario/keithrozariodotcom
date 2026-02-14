@@ -1,0 +1,8 @@
+{
+  "id": "3307",
+  "author": "keithrozario",
+  "email_hash": "182487cdd4511fc77682df12c6404f6f",
+  "url": null,
+  "date": "2019-08-27 10:19:34",
+  "content": "Hey Shyam,\n\nNo it just means that two machines on your network are trying to use the same IP, a solution would be to use DHCP on all your machines, but the best solution would be to properly set all the IPs on your devices so that they don't conflict. This is usually a case where some devices use DHCP, and others use static IPs.\n\nKeith"
+}

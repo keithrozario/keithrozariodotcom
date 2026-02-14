@@ -1,0 +1,8 @@
+{
+  "id": "2625",
+  "author": "keith",
+  "email_hash": "3743d64fa7e8ec113f11194ead85e862",
+  "url": null,
+  "date": "2016-05-26 13:37:16",
+  "content": "Jaclyn,\n\nthat's a very interesting question. \n\nHSBC has issued you a Chip and Pin card, that replaces your Chip and Signature one. This means your card has a PIN assigned to it already.\n\nWhen you swipe Chip and Pin card at a Chip and Signature terminal, both the terminal and the card agree to use signature as the Customer verification method.\n\nSimilarly, when you swipe a Chip and Signature card at a Chip and Pin terminal, again the terminal and card agree to use signature as the Customer verification method.\n\nBasically, the card and terminal will 'negotiate' the most secure method that both can support. \n\nBut when you swipe PIN card, on a PIN terminal (as you're doing in Europe), the terminals and card agree to use PIN--but you don't know your PIN and are stuck.\n\nHSBC should have given you the PIN--and the fact that they issue PIN cards without notifying customers of their PIN is quite bad.\n\nOn a separate note, in Malaysia, up to Jan-2017 you'll be able to do PIN bypass, which is pressing a button somewhere on the terminal to have it process the transaction without PINs. Your card issuer will then decide to approve or decline the transaction if necessary--post Jan-2017 this will not be allowed.\n\nHope that helps."
+}

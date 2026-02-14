@@ -1,0 +1,8 @@
+{
+  "id": "902",
+  "author": "kar2on",
+  "email_hash": "3743d64fa7e8ec113f11194ead85e862",
+  "url": null,
+  "date": "2013-07-08 22:12:00",
+  "content": "You can't connect to a router unless you're on the network first. So either you plugged in the LAN cable, or you connected to the WiFi.\n\n\nThe other way to access the router is if you knew the external IP address of the router--i.e. the WAN IP.\n\n\nAbout 50% of users don't change their default router password, and about 90% of users don't change the operator and management password. And there's a real simple way to log onto about 90% of unifi routers out there--provided you can find their WAN IP.\n\n\np.s. I know how to find them....thinking of writing a post about it soon."
+}

@@ -1,0 +1,8 @@
+{
+  "id": "677",
+  "author": "Keith Rozario",
+  "email_hash": "",
+  "url": "http://twitter.com/keithrozario",
+  "date": "2013-02-01 13:34:00",
+  "content": "Yes.\n\n\nFirst you need to setup a Dynamic DNS for your home. Unless you have a static IP package, your IP address will continuously change so setting up a Dynamic DNS is very important.\n\n\nOnce that is done, then you'll need to re-direct the domain name you bought to your home server. This can be done in a few ways:\n1) A 301 redirect (chances are you hosting company provides this free of charge anyway), so just redirect the domain to your Dynamic DNS name.\n2) A 'CNAME' entry in your DNS. This is a bit more complicated but it's slightly faster than a 301 re-direct and considered the 'correct' way to do things.\n\n\nIf you have a static IP package, then you can create a 'A' record in your domain to point directly to your home IP address.\n\n\nPlease beware, if you host a public facing website on your home server, you're opening up a door for anyone to access your home network. Make sure you take the necessary security precautions."
+}

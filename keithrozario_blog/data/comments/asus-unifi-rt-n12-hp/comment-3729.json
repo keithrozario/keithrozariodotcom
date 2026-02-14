@@ -1,0 +1,8 @@
+{
+  "id": "3729",
+  "author": "keithrozario",
+  "email_hash": "182487cdd4511fc77682df12c6404f6f",
+  "url": null,
+  "date": "2019-08-28 02:42:34",
+  "content": "Hi Rakter,\n\nI don't know about your specific issue but I had a similar issinternetue with the starbucks here my home. It was to do with my connection settings.\n\nTry the following: Go to the wireless connection on your laptop, then select properties-&#062;Internet Protocol Version 4-&#062;Properties...\n\nAnd set the 'Obtain IP Address automatically'. If you had a static address there it may not connect to your new router with the new settings.\n\nLet me know if that helps.\n\nKeith"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "1304",
+  "author": "syawal",
+  "email_hash": "e306cdd844543f8e9fa0d2fac1436b44",
+  "url": null,
+  "date": "2014-12-18 05:39:00",
+  "content": "A bit late to comment here. My 2¢, you forgot to mention MyIX and it role to reduce international traffic. It also can employ webcaching &amp; P2P caching techniques to improve out going traffic. Use caching techniques on ISPs side (members of MyIX) is not copyright infringement. However, ISPs should be more creative to deploy P2P caching service like twitter, https://blog.twitter.com/2010/murder-fast-datacenter-code-deploys-using-bittorrent &amp; use commodity hardware as petabytes size storage cost less than USD$ 100K . 3rd, to simplify strategy on what you want to achieve by \"Beli Barangan Buatan Malaysia\",  ISPs can upgrade their heavy users into smaller cache node (P2P node - in thousands; nearest to local clusters) into business partner which some can download up to 6TB per month using UNIFI 20Mbps, http://www.malaysianwireless.com/2011/04/tm-deal-with-heavy-down-loaders-on-unifi/. Cost for hardware -» (RM899 - desktop drive) https://forum.lowyat.net/topic/1332990 and overhead probably RM200 - 300/month (no need for service level guarantee - just make sure always ONLINE). In order to secure the cache contents, encrypt the hard disk &amp; establish secure link with backbone via unifi/streamyx - Ta Da... (thousands of bittorrent nodes were born). "
+}

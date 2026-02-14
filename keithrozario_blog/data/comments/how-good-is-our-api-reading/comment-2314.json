@@ -1,0 +1,8 @@
+{
+  "id": "2314",
+  "author": "keith",
+  "email_hash": "3743d64fa7e8ec113f11194ead85e862",
+  "url": null,
+  "date": "2015-10-24 08:17:15",
+  "content": "Thanks for the comment Tan. You're correct that this isn't a perfect assumption, but I think it's good enough.\n\nFrom past research I've found that during the haze, the time of day has no direct role to play on the readings. Cars and trucks come nowhere close to forest fires in terms of emissions. Also to account for win/topography etc, I took the average reading over a month, with the aim of smoothing out any individual outliers in the data.\n\nIt could be true that Singapore has lower air quality simply because it is more dense and has higher traffic than Johor, but overall I consider the effect of that to be fairly small. Since Inner-KL is far more dense than outer-KL (which includes Banting and Port Klang).\n\nOverall I still agree that the assumption is probably flawed, but the I think any flaw in the assumption is made up for by the vast difference I see (38% during the last 8 days).\n\nLet me know your thoughts."
+}

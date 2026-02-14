@@ -1,0 +1,8 @@
+{
+  "id": "3290",
+  "author": "roi",
+  "email_hash": "bdaaf2709d82de4a41aad20e8bc9dce4",
+  "url": null,
+  "date": "2019-08-27 09:17:25",
+  "content": "I disable remote access along time ago, but Is this dlink's security problem for allowing router to read file from root? and why is the management account not in md5 hash while the admin one is hashed. anyway unable to block the file from readable from the php file, if you are running business and had given any guest password to your cutomer, the file are exposed."
+}

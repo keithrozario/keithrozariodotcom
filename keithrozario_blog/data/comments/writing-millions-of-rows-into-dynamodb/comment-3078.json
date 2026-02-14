@@ -1,0 +1,8 @@
+{
+  "id": "3078",
+  "author": "Thomas",
+  "email_hash": "261789687219b068a6d77221afd677d6",
+  "url": null,
+  "date": "2019-08-27 00:05:34",
+  "content": "Hi Keith,\n\nDo u do your treatment in java ?\n\nBecause i have some pbs : when i try to insert like 10 000 objects i cant scale down my write units just after calling my batchwrite because the table is still \"in operation\""
+}

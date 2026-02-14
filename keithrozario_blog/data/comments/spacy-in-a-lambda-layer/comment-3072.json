@@ -1,0 +1,8 @@
+{
+  "id": "3072",
+  "author": "Ron",
+  "email_hash": "",
+  "url": null,
+  "date": "2019-07-02 23:08:25",
+  "content": "Hi Keith, \nThis is very nice and useful. I was able to use your layer easily! Thanks for sharing!\nI wonder if there was a way to use larger Spacy models in layers or otherwise in AWS Lambda (such as the \"en_core_web_lg\" model, which is 788 MB)"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "1179",
+  "author": "nabilishes",
+  "email_hash": "4a7aa77f41a268eb60d0d2956c59cfa0",
+  "url": null,
+  "date": "2014-06-06 23:05:00",
+  "content": "1. Yes i saved the setting and put a tick on the portforwarding to enable it\n2. Yes i did enter my public port. Besides that canyouseeme will detect it automatcailly when i open the website\n3.Yes there are application ready to accept the connections via the port. I even check port 80 (http web) at canyousemee. It also shows connection time out."
+}

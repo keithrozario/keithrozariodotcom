@@ -1,0 +1,8 @@
+{
+  "id": "2715",
+  "author": "keith",
+  "email_hash": "3743d64fa7e8ec113f11194ead85e862",
+  "url": null,
+  "date": "2016-12-31 10:34:43",
+  "content": "First up, Maxis offers 10Mbps (small b), while most torrent clients like uTorrent/Transmission will measure speeds in kBps or MBps (big B). The difference is that 1 Byte (big B) is 8 bits (small b), and hence 100kBps = 800kbps.\n\nThat's still only 8 percent of the full bandwidth.\n\nThe second and most important thing is that torrents are peer-to-peer, meaning people are sharing it amongst themselves, and hence the speed of the torrent is dependend on how fast the people sharing the torrents speeds are.\n\nSo if you're downloading torrents that few people are sharing at slow speeds, VPNs won't help.\n\nIf on the other hand, your ISP is throttling speeds for torrents, than a VPN would help. (as far as I know, Maxis doesn't do this).\n\nThe MOST important thing though--is that if you don't use a VPN while downloading torrents, your IP address is broadcasted to the whole world, and anybody can detect which torrent you're downloading and sharing--and if those torrents happen to be 'questionable' , then you could be looking at some serious legal implications."
+}

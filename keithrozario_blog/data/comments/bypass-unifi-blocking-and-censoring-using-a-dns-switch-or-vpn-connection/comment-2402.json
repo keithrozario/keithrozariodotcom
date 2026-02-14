@@ -1,0 +1,8 @@
+{
+  "id": "2402",
+  "author": "KitsuneNishidate",
+  "email_hash": "2dc8dae9e0c10618312c80a09406444f",
+  "url": null,
+  "date": "2016-01-18 20:17:39",
+  "content": "Hey Keith, your excellent article is nothing but excellent, and yes, so long as providers here continue being silly enough to use DNS block, I wish that they'll continue to be ignorant. But a note on proxy sites. They don't work all the time even if you set them to receive cookies. Certain sites which require cookies and a loginid would not be accessible still.\n\nI've even gone as far as to put myself into ToR sometimes, but take note that encapsulating connections into the onion router would slow down your throughput considerably and is not recommended for games and such."
+}

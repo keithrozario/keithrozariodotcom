@@ -1,0 +1,8 @@
+{
+  "id": "835",
+  "author": "Keith Rozario",
+  "email_hash": "",
+  "url": "http://twitter.com/keithrozario",
+  "date": "2013-06-01 18:00:00",
+  "content": "Hi Nikki,\n\n\nI actually have the same problem as you. \n\n\nWhen I'm outside on an external network, I can easily view my IP camera on my dynamic DNS. (hint: search for dynamic dns to learn more)\n\n\nWhen I'm inside my home though, and connected to my home WiFi I'm unable to access my IP Camera with my dynamic DNS, but have to use my LAN IP address instead.\n\n\nThis is because the router I have does not support loopbacks too well. A Loopback is when the source and destination of the traffic is the same, a simple analogy would be that you're trying to send a letter FROM your house TO you house, and the postman doesn't know what to do with it, because the sender and receiver are from the same place, so the post-man discards the letter.\n\n\nUnfortunately, from what I gather the DIR-615 router also suffers from loopback issues as well.\n\n\nMy only advice is to use the LOCAL LAN IPs to access your cctv when you're at home, and the dynamic DNS (or external IPs) when you're not.\n\n\nHope that helps. My way around the problem is quite simple, I have 3GB data package from Maxis that never runs out, so anytime I want to access my IP camera, I just switch to Maxis and everything works.\n\n\nIf this doesn't sort out your problem, email me and I can help : keith@keithrozario.com"
+}

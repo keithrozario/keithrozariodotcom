@@ -1,0 +1,8 @@
+{
+  "id": "1118",
+  "author": "subhendu",
+  "email_hash": "b20b661fe67cea36372dd52639c3c688",
+  "url": null,
+  "date": "2014-02-07 18:07:00",
+  "content": "Hi, I think the article is informative and interesting to read. However, the blocking probability depends on the ambient network load as well as the efficiency of the algorithms used by the network operator for admitting calls and managing the radio resources. So other than measuring blocking probability, a measure of ambient network load is also required. For example, one of the reasons for the high call blocking probability of nearly 4 percent with Celcom may be that the network was having a higher load when the measurements were made. It would be interesting to see a measure for network load which is simply the call arrival rate multiplied by the average call holding time (in latex equation beta = lambda*(1/mu)) for each of the network operators alongside the measured blocking probability."
+}

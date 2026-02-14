@@ -1,0 +1,8 @@
+{
+  "id": "1554",
+  "author": null,
+  "email_hash": "e0e5a0c4689d7c7b0449eb2a15add2df",
+  "url": null,
+  "date": "2015-05-18 01:46:01",
+  "content": "Hi Keith,\n\nWas wondering if you could help me. I am a Unifi subscriber and recently i did a factory reset in the router server resulting in total loss of internet connection. Not knowing what i had done i called the Unifi technical helpline for assistance. Unifi gave me a step by step instruction to setup a new internet and wireless connection but she told me to use a different SSID. Hence, I did as what i was told.\n\nNow the internet is working again flawlessly. However, i still have my original SSID (@unifi) everytime i do a search on available wifi connections. How do i remove the original SSID or at least how do i revert back to that original SSID? According to the unifi technician, it is permanently unable to be used. Would you by any chance have any solution to share?\n\nThank you in advance!"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "1121",
+  "author": "NewbieZack",
+  "email_hash": "d36eac5d259ad6a3ca7a4abb9bc453e8",
+  "url": null,
+  "date": "2014-02-14 22:28:00",
+  "content": "Hey there everyone, thought I would share some issues that may be faced by some. I just bought the router to replace my Dlink router that came with my unifi. At first when i tried to set it up it kept on giving me a notification \"detecting the internet connection timed out\". Quite frustrating indeed! But after reading elsewhere here is what you need to do:\n\n\n1) Update to the latest firmware, you can get that in the Asus homepage\n2) When using the internet connection wizard choose \"Unifi Home\", there are several other profiles in the list so just choose which one applies to you. Then it will connect to the internet after about 60 seconds\n\n\nSo it really is very simple plug and play..... if I knew the above 2 steps that is. haha... \n\n\nHope this helps anyone who came across the same problem as I had."
+}

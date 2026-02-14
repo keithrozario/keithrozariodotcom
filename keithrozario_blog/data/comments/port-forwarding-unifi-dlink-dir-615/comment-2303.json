@@ -1,0 +1,8 @@
+{
+  "id": "2303",
+  "author": "Nik",
+  "email_hash": "ba05fa06a15a92eddf3127873ff563a9",
+  "url": null,
+  "date": "2015-10-12 14:14:15",
+  "content": "Hi Keith , I have problems with my port forward , I want to port forward port 6000-8020 for an application I use so I'm assuming I put that in the public port slot , then what do I need to put in the private ports section ?"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "447",
+  "author": "HTTP vs. HTTPs : Why SSL and TLS are important",
+  "email_hash": "",
+  "url": "http://www.keithrozario.com/2012/08/http-vs-https-maxis-certificate-fail.html",
+  "date": "2012-08-06 12:24:52",
+  "content": "[...] So it was really surprising to see a company like Maxis, incorrectly setup the certificate for their Maxis forum. Forum.Maxis.com.my, is supposed to be a forum for Maxis customers to congregate and discuss issues and ideas on their service, it&#8217;s the  main source of information for my post on configuring maxis for your VPN. [...]"
+}

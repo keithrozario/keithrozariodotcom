@@ -1,0 +1,8 @@
+{
+  "id": "3305",
+  "author": "Anonymous",
+  "email_hash": "f27066c44f47dd2e8d9a8a4656b44050",
+  "url": null,
+  "date": "2019-08-27 09:50:01",
+  "content": "I would like to share my experience\n1) free vpn\nIf u are using chrome or firefox browser, you can use zenmate vpn\nas the extension in the browsers. Once you open the browsers, you\nthe vpn will be activated\n2) router with cable\nsome routers do not have the capability of a repeater so you need to buy\na long cable and attached it to the router. Let us say the router name is\n\"Router1\", so if you hook up to router1, the websites is not blocked provided\nyou change the DNS to OpenDNS\n3) router with repeater capabilities\nThe router is slightly expensive but you do not need the long cable.\nYou can place the router in any part of the house and set it to repeater\nmode (follow router instructions) and you have the option to choose the\nrouter name as same as the unifi router name or set a new name for itself.\nPlease set it to a different name say \"Router2\". When you hook up to \nrouter2, the block websites is unblock\n\nI have experimented with all 3 methods above"
+}

@@ -1,0 +1,20 @@
+{{ $slug := .File.ContentBaseName }}
+{{ $comments := index .Site.Data.comments $slug }}
+
+{{ if $comments }}
+<div class="archived-comments">
+  <h3>Archived Comments</h3>
+  {{ range $comments }}
+  <div class="comment" style="margin-bottom: 20px; border-bottom: 1px solid #333; padding-bottom: 10px;">
+    <div class="comment-header" style="margin-bottom: 5px;">
+      <img src="https://www.gravatar.com/avatar/{{ .email_hash }}?s=40&d=mm" alt="{{ .author }}" style="vertical-align: middle; border-radius: 50%; margin-right: 10px;">
+      <strong>{{ .author }}</strong> 
+      <span style="color: #666; font-size: 0.9em;">on {{ .date }}</span>
+    </div>
+    <div class="comment-body">
+      {{ .content | safeHTML }}
+    </div>
+  </div>
+  {{ end }}
+</div>
+{{ end }}

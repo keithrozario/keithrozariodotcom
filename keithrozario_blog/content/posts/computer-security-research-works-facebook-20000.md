@@ -1,0 +1,22 @@
++++
+title = "How Computer Security Research works: Facebook 20,000 prize"
+date = "2013-07-05T08:00:44"
+draft = false
+categories = ['Security &amp; Privacy']
++++
+
+[box icon="chat"]In the early days of public computing, researchers who discovered vulnerabilities would quietly tell the product vendors so as to not also alert hackers. But all too often, the vendors would ignore the researchers. Because the vulnerability was not public, there was no urgency to fix it. Fixes might go into the next product release. Researchers, tired of this, started publishing the existence of vulnerabilities but not the details. Vendors, in response, tried to muzzle the researchers. They threatened them with lawsuits and belittled them in the press, calling the vulnerabilities only theoretical and not practical. The response from the researchers was predictable: They started publishing full details, and sometimes even code, demonstrating the vulnerabilities they found. This was called "full disclosure" and is the primary reason vendors now patch vulnerabilities quickly (<a id="xref-ref-9-1" href="https://www.schneier.com/essay-400.html#ref-9">9</a>). Faced with published vulnerabilities that they could not pretend did not exist and that the hackers could use, they started building internal procedures to quickly issue patches. If you use Microsoft Windows, you know about "patch Tuesday," the once-a-month automatic download and installation of security patches.
+
+Bruce Scheneir (<a title="How security researchers help Software manufacturers solve bugs" href="https://www.schneier.com/essay-400.html" target="_blank">Securing Medical Research: A Cybersecurity Point of View</a>)
+
+</blockquote>
+
+For the most part computer security is about full disclosure--well almost. The basic stable state these days is that security researchers would contact the product vendor directly, and alert them of vulnerabilities they've found. This would include a full disclosure on what was found and how to exploit it. The product vendor would then be given some lead time to issue a patch, once the patch is released the full details of the vulnerability is published by the researcher and everyone remains happy.
+
+This way, the security researchers have an incentive to keep finding vulnerabilities, because each published vulnerability helps them score some publicity--publicity that would be vital for them to secure more research funding. Not disclosing the full vulnerability before the software is patched helps protect the customers of the product vendor, thereby creating a win-win for both sides. As each vulnerability is discovered and patched, the software gets more and more secure, which is good for the researchers, vendor and general public. It's a wonder that it took so long to come to this conclusion--that for the most part of product vendors would muzzle security researchers, and upon success of muzzling them would then neglect to patch the same vulnerability they tried so hard to keep secret.
+
+Following in the footsteps of this great tradition, Facebook have elected to take the same route, but have added cash incentives to the mix as well. They've given <a title="Hijacking Facebook account mobile number" href="http://blog.fin1te.net/post/53949849983/hijacking-a-facebook-account-with-sms" target="_blank">$20,000 to a Brit who discovered a potentially embarrassing flaw in the way Facebook links accounts to mobile numbers</a>. That same exploit given to a hacker or criminal organization ala Nigerian Prince scams, could easily have cost Facebook and its users millions (if not more). Now Facebook is safer, not just because it continuously looks for cracks in its system, it encourages other to look for them as well.
+
+It also explains how Microsoft gets all those bug reports--<a title="Should the government use Microsoft products?" href="http://www.keithrozario.com/2013/07/should-malaysia-government-use-microsoft-products.html">which it then shares with US government agencies</a>, before patching them for the rest of the world.
+
+More insight on how full disclosure on bugs actually keep software safe, check out a brilliant post by Bruce Schneier (whom I secretly worship) <a title="Full Disclosure and the Window of Exposure" href="https://www.schneier.com/crypto-gram-0009.html#1">here</a>.

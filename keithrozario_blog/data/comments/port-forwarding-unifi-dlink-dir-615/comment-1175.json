@@ -1,0 +1,8 @@
+{
+  "id": "1175",
+  "author": "nabilishes",
+  "email_hash": "4a7aa77f41a268eb60d0d2956c59cfa0",
+  "url": null,
+  "date": "2014-06-05 15:08:00",
+  "content": "I managed to port forward in my Unifi Router. But when i open canyouseeme.org, it says that \nit cannot see the service on 'external-ip' on port (port no.). Reason: Connection time out\nDoes this mean my port forwarding is not succesful?"
+}

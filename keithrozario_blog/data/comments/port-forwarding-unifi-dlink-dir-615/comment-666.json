@@ -1,0 +1,8 @@
+{
+  "id": "666",
+  "author": "kar2on",
+  "email_hash": "3743d64fa7e8ec113f11194ead85e862",
+  "url": null,
+  "date": "2013-01-24 21:51:00",
+  "content": "Hey Fakrul,\n\n\nCan you send me a screenshot of the port forwarding page. One thing to note is the while the private port number is the port you wish to map 'FROM'. \n\n\nUsually web server on your IP camera is hosted on either port 80, or 8080. So Make sure the PRIVATE port number is the SAME for both cameras, but the PUBLIC port numbers are different. You can't have 2 devices with the same PUBLIC port numbers on the same router.\n\n\nIf you send me the screenshot, I can try to help.\n\n\nKeith"
+}

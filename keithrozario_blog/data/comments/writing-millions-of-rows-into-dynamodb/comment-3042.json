@@ -1,0 +1,8 @@
+{
+  "id": "3042",
+  "author": "Zaheer",
+  "email_hash": "f548aed2b115bf2ab2ea3e70ed869cc5",
+  "url": null,
+  "date": "2018-12-10 22:36:29",
+  "content": "Hi Keith, I need to write around 250K rows in dynamodb table using node lambda, currently when I insert 15K records, when I query the table it returns some of the record i.e, 200 rows which keep increasing for some time and then stop at certain numbers around 1k -2K records. Is it expected to take time updating the records? How long it will take to show all my records? Can I configure it to happen fast?"
+}

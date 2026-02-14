@@ -1,0 +1,8 @@
+{
+  "id": "1556",
+  "author": "keith",
+  "email_hash": "3743d64fa7e8ec113f11194ead85e862",
+  "url": null,
+  "date": "2015-05-18 18:01:34",
+  "content": "Hey man, the SSID has nothing to do with Unifi and can be changed. It won't affect your connection, I think the support guy who answered your call didn't know better.\n\nIt should be under manual wireles configuration, and you can change the SSID to anything to desire. Let me know if you need more help."
+}

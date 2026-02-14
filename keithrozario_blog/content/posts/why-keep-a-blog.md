@@ -1,0 +1,17 @@
++++
+title = "Why I keep a blog?"
+date = "2011-11-02T00:35:19"
+draft = false
+tags = ['Blog', 'Personal']
+categories = ['Blog']
++++
+
+<a href="http://www.keithrozario.com/2011/11/why-keep-a-blog.html/2874078655_c1fe1522f1_m" rel="attachment wp-att-1370"><img class="alignleft size-full wp-image-1370" title="2874078655_c1fe1522f1_m" src="/uploads/2874078655_c1fe1522f1_m.jpg" alt="http://www.flickr.com/photos/drbeachvacation/2874078655/sizes/s/in/photostream/" width="240" height="160" /></a>Previously I shared how I reached my target of<a title="Accomplished: 1000 hits in 30 days" href="http://www.keithrozario.com/2011/10/accomplished.html"> getting 1000 hits/month</a> on my blog. To many that's a pittance of a target, considering some bloggers average that in a day. However, blogging isn't just about getting the hits, to me it was also a period of self-discovery, to truly see what I could do and what could be achieved once the gloves were off, and to be honest I loved every moment of it.
+
+Even though I work in IT for one of the biggest corporations in the world, I felt I couldn't really explore the cool IT stuff I'm so passionate about. I may for a Fortune 500 company that reports profits in the Billions of dollars, but up until last year I was using a laptop that had Windows 2000 installed. That's a 10 year old piece of software (and OS mind you) that I was running, and people say IT moves quickly?? <!--more-->
+
+Most companies don't like spending money on IT, they don't like spending billions on dollars on IT infrastructure, and when they finally relent it's usually for a software version one level before the latest release. Companies don't like new software, they prefer 'stable' software. If you take a peek at the bank counter the next time you visit the bank, you won't see a web app, or even a cool GUI, you'll see an ugly looking MS-DOS like interface. The reason your local bank that's made billions in profit doesn't want to spice up it's GUI...is because it works, and continues to work. So why change?
+
+Why change at all? Why upgrade your PC, when the old one would do just well and why buy a new car when the old one took you everywhere you wanted. I guess there's just an instinct inside of us that wants the new stuff, the craves the novel ideas and new experiences. It's why people line up over night because Apple put out a new iPhone or why people buy top of the line flat screen models when the old ones work just as well.For a tech geek like me, trying out the new bleeding edge pieces of software for latest wordpress releases to new plugins....that really keeps me going. I knew (unfortunately) that I wasn't going to get that from working in my company, sure it pays the bills but it wasn't going to fulfill my passion. If I wanted to pursue my passion it would have to be outside of work, and so www.keithrozario.com was born.
+
+To me, trying out these new experiences really makes me happy, I'd be more than willing to sacrifice a couple of hours on my weekend to figure out how to do something new and cool with Wordpress, or to take my website to new places. It's fun, it's amazing and it's absolutely brilliant. It's more than just a hobby it's a passion. So whether it's 1000 hits of 100,000 hits I'd still be happy. The target is just to keep me striving for more, it's the journey that's really keeping me interested.

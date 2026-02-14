@@ -1,0 +1,8 @@
+{
+  "id": "2541",
+  "author": "hsehdar",
+  "email_hash": "d6f182ffc1d7ee4984c9ce70355f38e7",
+  "url": "http://godlytruth.wordpress.com",
+  "date": "2016-02-18 20:16:20",
+  "content": "You can also ssh to this router.\n\n1. Get the username and password of your router from this blog.\n2. On Linux/Mac/FreeBSD computer execute below command\nssh username@xxx.xxx.xxx.xxx\n3. Type password when prompted.\n4. Now you are inside the router's \"sh\" shell.\n\nLet me see how to\n1. see all partitions\n2. back up using the command \"dd\" \n3. find files relevant to HyppTV\nThis helps to configure HyppTV after flashing DD-WRT."
+}

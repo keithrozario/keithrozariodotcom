@@ -1,0 +1,8 @@
+{
+  "id": "1910",
+  "author": "Nurashid Noor Mohamad",
+  "email_hash": "b74be4ad0933c8a4a9399961af34e269",
+  "url": "http://www.facebook.com/585773594",
+  "date": "2015-06-22 03:25:57",
+  "content": "I don't think you can access UniFi router from outside, It used to be able to, unless if the account is fix IP, but dynamic IP UniFi? Correct me if im wrong. I mean, you can search the device, but you can't logged into it."
+}

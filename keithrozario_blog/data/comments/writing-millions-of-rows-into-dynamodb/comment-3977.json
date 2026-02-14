@@ -1,0 +1,8 @@
+{
+  "id": "3977",
+  "author": "keith",
+  "email_hash": "a38d6e7e07087675684eedcd6bf112c3",
+  "url": null,
+  "date": "2019-08-28 16:06:33",
+  "content": "Yes it takes some time, and depends on a few things -- mainly how many WriteCapacityUnits you've allocated on the table. If the WriteCapacityUnits is low, you're unlikely to be able to write them all before the lambda times-out.\n\nAWS recently announced an on-demand DynamoDB which charges per write, and you can write 1 million rows for ~1 dollar. I'd use that instead, and it'd free you up from worrying about WCUs and RCUs setup."
+}

@@ -1,0 +1,8 @@
+{
+  "id": "146",
+  "author": "Keith Rozario",
+  "email_hash": "",
+  "url": "http://twitter.com/keithrozario",
+  "date": "2011-10-24 11:12:00",
+  "content": "That's absolutely correct, but a private proxy site you installed on keithrozario.com (or your own site) isn't going to get anyone's attention. Normally the traffic flowing through a proxy site you use for facebook would be minimal compared to everything and it should slide.\n\nNetwork administrators usually only block proxy sites they know (as identified by URL or IP) , so something you created yourself is likely to slip 'under the radar'"
+}

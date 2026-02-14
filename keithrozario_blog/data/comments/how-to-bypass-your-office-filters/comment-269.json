@@ -1,0 +1,8 @@
+{
+  "id": "269",
+  "author": "Kindle in Malaysia : Buying and Using a Kindle in Malaysia | keiths.blog",
+  "email_hash": "",
+  "url": "http://www.keithrozario.com/2012/04/kindle-malaysia-buying-ebooks-amazon.html",
+  "date": "2012-04-29 20:08:33",
+  "content": "[...] Either use proXPN or I used my Amazon EC2 instance. As long as your Amazon EC2 instance is located in the US you can pass off as US user. If you work for Multi National, chances are you also have a US VPN service, this will also suffice. The simplest way though is to use a proxy like texasproxy.com or hotspotshield.com, I&#8217;ve also wrote a post before on how you can create your own proxy if you have webhost. [...]"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "1355",
+  "author": "kar2on",
+  "email_hash": "3743d64fa7e8ec113f11194ead85e862",
+  "url": null,
+  "date": "2015-03-06 09:19:00",
+  "content": "One of the easiest ways to do this, is to use WinSCP as your sFTP client. Access your sFTP server, and just change the permissions of your wp-login.php file. \n\n\nThe other way is to logon via SSH and issue the CHMOD command straight from the command line."
+}

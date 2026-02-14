@@ -1,0 +1,8 @@
+{
+  "id": "2604",
+  "author": "keith",
+  "email_hash": "3743d64fa7e8ec113f11194ead85e862",
+  "url": null,
+  "date": "2016-04-22 19:32:53",
+  "content": "There could be possibly a few banks in Malaysia that have already issued 'true' Chip & PIN cards, although you won't be prompted for a PIN unless it is a Chip & PIN terminal as well. So both you and the Merchant need to be upgraded before you will be asked for a PIN.\n\nThat being said, until 01-Jan-2017, you should be given the option of PIN bypass, which is to bypass the PIN request in the interim period between now and 01-Jan-2017. Post 2017, PIN bypass will still be visible, but should be declined by the issuers.\n\nI'm up for a beer anytime man :)"
+}

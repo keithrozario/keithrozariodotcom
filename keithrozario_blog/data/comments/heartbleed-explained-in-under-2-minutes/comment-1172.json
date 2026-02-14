@@ -1,0 +1,8 @@
+{
+  "id": "1172",
+  "author": "Goodbye TrueCrypt : The End of TrueCrypt",
+  "email_hash": "",
+  "url": "http://www.keithrozario.com/2014/05/truecrypt-has-ended.html",
+  "date": "2014-05-30 09:00:35",
+  "content": "[&#8230;] TrueCrypt was really awesome, it had features like full-disk encryption and even encrypted volumes within encrypted volumes that allowed for &#8216;plausible deniability&#8217;. The anonymous authors of the software have apparently thrown in the towel on what was the best free encryption software on the web.Yes, TrueCrypt was free just like Apache and OpenSSL, and just like them was equally pervasive among tech-savvy web users. So any vulnerability on TrueCrypt would have severe ramifications&#8211;just like Heartbleed had for OpenSSL. [&#8230;]"
+}

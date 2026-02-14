@@ -1,0 +1,8 @@
+{
+  "id": "867",
+  "author": "Lian",
+  "email_hash": "aec7279d3e8f7ae6e98fb1a64d647ac6",
+  "url": null,
+  "date": "2013-06-25 16:15:00",
+  "content": "hi,\n\nIt doesnt work. I wonder anything to do with port forwarding or routing? Even i use the DMZ which allow all ports, I still cant get to host. Well, the IP of the device I would wanna link is 192.168.0.10, and my router is 192.168.0.1, which is quite standard for everyone. \n\nIm suspecting there is something behind Unifi blocking the IP and still looking for solution. Hope u can give me some advice. Thank you\n\nRegards\nLian"
+}

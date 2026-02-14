@@ -1,0 +1,8 @@
+{
+  "id": "4284",
+  "author": "kevin",
+  "email_hash": "16d5303fdbd53a58c94784f04ab92f01",
+  "url": null,
+  "date": "2023-04-20 05:27:01",
+  "content": "Hello I have been trying to upload a custom spacy package to my lambda layer as none of the python 3.8/3.9 spacy ARNs are working. I am not able to get spacy model loaded even after all attempts whats the issue ?\n\n\narn:aws:lambda:us-east-1:198171447625:layer:39pythondemospacyv1:1\n\ndef lambda_handler(event, context):\n    # TODO implement\n      # Load the spaCy model\n    nlp = spacy.load('/mylayer/layer/en_core_web_sm-2.1.0/en_core_web_sm/en_core_web_sm-2.1.0')"
+}

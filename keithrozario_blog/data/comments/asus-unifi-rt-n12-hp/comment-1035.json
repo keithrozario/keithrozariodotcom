@@ -1,0 +1,8 @@
+{
+  "id": "1035",
+  "author": "Fairoze",
+  "email_hash": "3d0717bf795b35b20ea60dfc71d2f082",
+  "url": null,
+  "date": "2013-11-11 15:25:00",
+  "content": "Hi kar2on..my problem still not yet resolve. \nI think my mistake is not connect the LAN1 cable to my laptop \nto setup the router for the first time. So what I did was just try to setup over\nWifi connection. And the result is I'm facing the Internet connection type timed out. Then I think maybe it was the firmware so I load it with this firmware 3.0.0.4.374.430..and still received same error which is Internet connection type timed out. \nSo this morning I try to connect the LAN1 cable to my laptop and I run through the QIS.. The process stuck after I key in my unifi username and password. It says it requires 60 Seconds.. But it's not... \nIs it because of the firmware I'm using? Or anything else..? "
+}

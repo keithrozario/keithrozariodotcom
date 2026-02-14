@@ -1,0 +1,8 @@
+{
+  "id": "2378",
+  "author": null,
+  "email_hash": "",
+  "url": null,
+  "date": "2015-12-16 16:37:49",
+  "content": "The other issue with being a host is the electric costs too and TM's new faster download packages that have slower uploads than before. Many ISPs like to give lower uploads than downloads which isnt limited by technology anymore. If solar panels were cheap and common this would reduce the electrical costs.\n\nThe other problem is that even malaysia's internal backbones wont be able to handle the load and im not really talking about the link speeds of fibre optics rather the lack of hardware resource to maintain all this traffic. If you ever ran a ppp scanner you will find your ISP using only 1 PPPOE server. Here in the UK my ISP used 4 PPPOE servers in my area which means the load is balanced across 4 servers so when you connect to PPPOE it uses the fastest server to reply. Having a really good router to connect to 2 of the nearest ones and having packets automatically choose the best server at a time also makes better use of it.\n\nNowadays routers can be used as seed boxes by attaching a hard drive to it so theres a lot of cost savings there for setting up your own p2p data distribution. If only ISPs werent so stingy on the uploads."
+}

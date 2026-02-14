@@ -1,0 +1,8 @@
+{
+  "id": "2549",
+  "author": "Radheshyam",
+  "email_hash": "d6f182ffc1d7ee4984c9ce70355f38e7",
+  "url": "http://godlytruth.wordpress.com",
+  "date": "2016-02-22 16:15:37",
+  "content": "Okay, finally learnt that WAN2 connection links to LAN4 according to port mapping.\n\nBy this time I'd got idea it is somewhere bridged. Command brctl helped me figure that out.\n\nAlso someone has laid foundation of using internet and IP TV using OpenWRT http://blog.namran.net/2012/08/05/setting-up-openwrt-to-work-with-tm-unifi/\n\nWill check it tonight."
+}

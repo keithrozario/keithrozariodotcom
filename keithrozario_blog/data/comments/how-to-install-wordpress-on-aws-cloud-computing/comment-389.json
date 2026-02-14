@@ -1,0 +1,8 @@
+{
+  "id": "389",
+  "author": "Sharing Files using Amazon S3 | keithrozario.com",
+  "email_hash": "",
+  "url": "http://www.keithrozario.com/2011/10/sharing-files-using-amazon-s3.html",
+  "date": "2012-07-09 21:05:28",
+  "content": "[...] before that you need to setup an AWS account, I recently blogged about how you can setup a wordpress site on the Amazon EC2 instance, now it&#8217;s time to look at the S3 data storage. Now the good news is that the free-tier [...]"
+}

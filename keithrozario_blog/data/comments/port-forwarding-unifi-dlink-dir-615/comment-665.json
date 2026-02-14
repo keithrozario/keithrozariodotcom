@@ -1,0 +1,8 @@
+{
+  "id": "665",
+  "author": "Fakrul",
+  "email_hash": "206fd3f5e14753e7a3a4b5d122e7ee57",
+  "url": null,
+  "date": "2013-01-24 20:18:00",
+  "content": "Hi,\n\nI've tried your method for my Aztech WIPC401 IP Camera and the port forwarding and it really works. However when I tried to configure for my second camera, the port forwarding doesn't work. Could you please help me to solve the problems? I have no idea to solve it. Following are the details for your reference:\n\n1) my first camera\nPrivate IP: 192.168.0.200 (Statit IP)\nPrivate Port No. : 8081\n\n2) my 2nd camera\nPrivate IP: 192.168.0.201 (Statit IP)\nPrivate Port No. : 8082\n\nI'm using DLink DIR-615 router too. Can you show me how should I configure the port forwarding for the 2 cameras.\n\nThank you."
+}

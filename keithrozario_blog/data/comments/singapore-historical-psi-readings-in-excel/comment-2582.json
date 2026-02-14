@@ -1,0 +1,8 @@
+{
+  "id": "2582",
+  "author": "keith",
+  "email_hash": "3743d64fa7e8ec113f11194ead85e862",
+  "url": null,
+  "date": "2016-03-31 17:45:32",
+  "content": "Pretty easy Eric, but I chose 01-Apr-2014 as the start date because that's when the NEA harmonized the PSI to include PM2.5 values. Totally random and arbitary decision on my part.\n\nThe code will need to be tweaked a bit to go back to readings prior to this date to take into account the different format of the page, but not exactly a monumental effort :)\n\nKeith"
+}

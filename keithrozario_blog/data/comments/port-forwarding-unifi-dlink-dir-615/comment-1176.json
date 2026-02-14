@@ -1,0 +1,8 @@
+{
+  "id": "1176",
+  "author": "keithrozario",
+  "email_hash": "0af6bf1612a49c508310ea229f67e7b5",
+  "url": null,
+  "date": "2014-06-06 09:39:00",
+  "content": "Hi Nabilishes,\n\n\nDo you have a device connected at the end of the port forward? Sometimes even if the settings are correct, if your end device isn't configured correctly you'll get a time-out.\n\n\nKeith"
+}

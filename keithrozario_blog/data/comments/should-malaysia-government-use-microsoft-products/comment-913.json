@@ -1,0 +1,8 @@
+{
+  "id": "913",
+  "author": "rmstallman",
+  "email_hash": "ed5214d4b49154ba0dc397a28ee90eb7",
+  "url": null,
+  "date": "2013-07-29 21:09:00",
+  "content": "Ubuntu is a version of the GNU/Linux operating system.\n\nLinux is not an operating system.  It is a kernel, one essential\ncomponent of an operating system, but useless without the rest of the\nsystem.  GNU/Linux is the GNU operating system, which I started\nin 1984, plus Linux, started by Torvalds in 1991.\n\nThere are over 1000 different GNU/Linux distributions, but Ubuntu is\nnot good to recommend, because it contains programs that are not free\n(free as in freedom, that is -- bebas in Bahasa Melayu, ziyou in\nMandarin).  See http://www.gnu.org/distros/common-distros.html.\nUbuntu is also one of the rare cases where free programs spy on the\nuser.  See http://www.gnu.org/philosophy/ubuntu-spyware.html.\n\nThe parts of Ubuntu which are not free software are also not \"open\nsource\", but since \"open source\" is basically a way to discourage\npaying attention to to ethical issues such as freedom, to highlight\nthat issue we should say \"free software\".\n\nSee http://www.gnu.org/philosophy/open-source-misses-the-point.html\nfor more explanation of the difference between free software and open\nsource."
+}

@@ -1,0 +1,8 @@
+{
+  "id": "3544",
+  "author": "keithrozario",
+  "email_hash": "182487cdd4511fc77682df12c6404f6f",
+  "url": null,
+  "date": "2019-08-27 20:23:13",
+  "content": "that's quite difficult -- at present there is no way to do this. Layers have to come under 250MB unzipped, and there's only 512MB available in /tmp."
+}

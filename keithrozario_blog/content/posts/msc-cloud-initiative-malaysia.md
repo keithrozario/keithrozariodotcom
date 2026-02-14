@@ -1,0 +1,47 @@
++++
+title = "MSC Cloud Initiative : Why it's a bridge too far"
+date = "2012-08-03T11:33:57"
+draft = false
+tags = ['MSC']
+categories = ['Cloud Computing', "Keith's Favorite Post", 'Malaysia']
++++
+
+<a href="/uploads/msc-medc-cloud-intiative.jpg"><img class="alignleft  wp-image-2646" title="msc-medc-cloud-intiative" src="/uploads/msc-medc-cloud-intiative-300x285.jpg" alt="" width="300" height="250" /></a>Why does Amazon--arguably the biggest cloud player in the world--choose to launch it's Asia-Pacific Offering in Singapore rather than Malaysia? One would think that the prohibitively high prices of land in Singapore, coupled with it's higher base cost and employee wages would make Singapore a terrible place to put up a Huge Datacenter comprising of thousands of Servers and HVAC units.
+
+Just to compare Malaysia and Singapore, you can build data centers in Malaysia for a fraction of the cost, coupled with cheaper labor and support cost. Our subsidized power, also means that Amazon could benefit from lower electricity bills. Best of all, Malaysia and Singapore, aren't really that far apart, so why setup shop in Singapore for something that relies on high volume and low cost? The answer is quite simple--Singapore is where the Internet is, or rather that's where the data flows through. The internet is the information super highway, and just like any other highway the 3 most important criteria for setting up business on the internet is location, location,location.<!--more-->
+<h2>Data Cables Bring the Internet to your doorstep</h2>
+Most online traffic doesn't travel through fancy satellites,  rather they travel through old-fashioned undersea cables, and it's through these undersea cables that digital information flows from one end of the world to the other. So if you want to have a high-bandwidth low latency connection you need to setup shop as close as possible to these undersea cables, more specifically called 'landing points' where the undersea cables finally 'land' on the ground. <a title="Cablemap.info" href="http://www.cablemap.info" target="_blank">Gregs Cable Map details the undersea cables very nicely.</a>
+
+Because of our geography, it makes a lot of sense for cables to land somewhere along the straits of Melaka, before continuing to either Japan, Korea, the US or even Australia. Similarly cables from these countries have to pass-through the straits before terminating in India, or make the trip around South Africa to land in the US or Europe.
+
+It's just like the shipping lines we learnt about in school, the reason why Melaka was a big port back in the 14th and 15th century was because Malaysia was at the center of the shipping lines. Similarly today, except we've replaced ships carrying goods with cables carrying information, and these ships tend to flock together.
+
+Unfortunately for Malaysia, most landing points seem to be in Singapore rather than here--and that isn't something that would help us attract big cloud players to Malaysia, or grow our own cloud offerings.
+<h2>So what is the Gap between Singapore and Malaysia?</h2>
+Singapore has 13 landing points, compared to just 9 for Malaysia, but it's not just the number of landing points that make the difference, it's the size of the cable that matters. Just like it doesn't matter how many ships land in your ports if all of them are sampans carrying fish--you need the big boys to make your port work, so what's the actual gap?
+
+To put things in perspective, the ETP estimates Malaysia will need 7 Terabits/s of bandwidth by 2020--the e<a title="http://en.wikipedia.org/wiki/I2i_(cable_system)" href="http://en.wikipedia.org/wiki/I2i_(cable_system)">xisting i2i cable connecting Singapore and India already serves 8.4Terabits/s of bandwidth</a>*, the Singapore-Australia cable connecting Singapore to Perth serves up another 6.4 Terabits/s. In contrast, the Batam-Dumai-Melaka Cable deployed as part of the ETP would only serve 1.28Terabits/s. This was deployed by the The CCI National Key Economic Area (NKEA) , specifically EPP10 of that NKEA.
+
+Singapore has about 3-5 times more bandwidth capability NOW, then Malaysia will need in 2020.
+
+Let that sink in, before I remind you that Singapore is a country with just 5 Million people, compared to 26 Million in Malaysia. That's why Amazon is in Singapore not Malaysia, if you want to be a cloud player, if you want to serve the global cloud demand, you need to the ability to serve up huge amount of bandwidth. That doesn't happen by accident, and it sure as hell doesn't happen overnight.
+<h2>MSC Malaysia cloud Initiative</h2>
+Now all of this would be fine, if ONLY we didn't have such high ambitions for the cloud. The MSC has the Malaysia Cloud Initiative which plans to have among other things "<a title="MSC Cloud Initiative" href="http://blog.exabytes.com.my/2012/06/29/mou-exabytes-and-mdec/" target="_blank">1% share of (Cloud Computing) global market to be contributed by MSC Malaysia companies by 2015</a>". The cloud computing industry is projected to be worth around the <a title="Cloud Computing 121 Billion" href="http://www.tgdaily.com/software-features/51969-cloud-computing-market-to-hit-1211-billion-by-2015" target="_blank">USD121 Billion mark</a> by 2015. Roughly Rm400 Billion (that's Billion with a B!) . S
+
+So the MSC hopes, MSC Malaysia companies reach a market value of RM4 Billion in cloud services in 3 years time. I'm not sure if it's Market Capitalization or revenue, but either way it's a whole bucket load of money.
+
+That's all fine, big projects are good, but their entire strategy up to this point is SME movement to the cloud via a subsidy and incentive schemes. You're not going to create a RM4 Billion industry over-night by subsidizing RM3,000 for cloud computing--it just doesn't work. My further pet peeves with this target are that the term Cloud Computing isn't defined in detail, and neither is the methodology to calculate the 1% (is it revenue, subscription, machine instances, jobs..??). The target sounds nice and precise, but in reality it's shrouded with ambiguity and there appears to be no concrete plans and actions to achieve that said goal.
+
+Remember, the goal is to create an RM4billion a year industry in Malaysia--do we even know where we stand now in terms of absolute dollar value or percentage of global market? I don't mean to sound political, but the 1% target has to be coupled with actual actions that will lead us there, the only way we can generate a RM4 Billion target is to bring in big players like Google , Amazon, Microsoft possibly even guys like rackspace, softlayer for IaaS, before proceeding to working on the SaaS platforms like Salesforce.com, Gmail, Office365 and ERP on the cloud applications.
+
+You have to work somewhere, but where to start? Unfortunately, we'll need to spend on the infrastructure, and not just the last mile like the HSSB, but the main data pipes coming into the country, we need to upgrade the infrastructure from whatever we have now to something similar to Singapore, and we need to connect to the right landing stations. So the news of <a title="Facebook invest in undersea cable in Malaysia" href="http://www.theregister.co.uk/2012/07/04/facebook_invests_in_sub_cable/" target="_blank">Facebook starting a data pipe from Malaysia to Japan is fantastic news and holds tremendous promise</a>. The Melaka-Batam-Dumai line is another feather in the cap, but we need more--much much more, and unless we plan to spend first to upgrade those lines--that 1% target will be out of reach.
+
+You might also ask why compare with Singapore, we're a bigger country can't compare. I'm not the one comparing with Singapore--Amazon is. At the end of the day global cloud players are going to compare Malaysia to Singapore, it just makes no sense opening up a data center in both countries and as long as Singapore is way ahead of the curve in terms of bandwidth , we'll be fighting a losing battle.
+<h2>Conclusion</h2>
+To think we can get a 1% global market share in cloud computing, just by showing up at the party is ludicrous. The MSC better have a more robust plan in place if it hopes to reach that 1%.
+
+That's why the Economic Transformation Programme, particularly the <a title="Communications, Content and Infrastructure NKEA" href="http://etp.pemandu.gov.my/Communications,_Content_-%E2%97%98-_Infrastructure-@-Communications_Content_and_Infrastructure_.aspx" target="_blank">Content, Communications and Infrastructure NKEA</a> of the ETP--and specifically the the <a title="EPP 10: Extending the Regional Network" href="http://etp.pemandu.gov.my/Communications,_Content_-%E2%97%98-_Infrastructure-@-Communications_Content_and_Infrastructure_-_EPP_10-;_Extending_the_regional_network.aspx" target="_blank">EPP10: Extending the Regional Network</a> is of paramount importance if we are to compete for the FDI with Singapore.
+
+The <a title="Melaka Batam Dumai Cable" href="http://etp.pemandu.gov.my/8_March_2011-@-Batam_Damai_Melaka_(BDM)_Cable_System.aspx" target="_blank">Melaka-Batam-Dumai </a>was a great start and the <a title="Cahaya Malaysia Cable" href="http://etp.pemandu.gov.my/8_March_2011-@-Cahaya_Malaysia_Cable_System.aspx" target="_blank">Cahaya Malaysia Cable</a> system is a great follow-through, but I believe we need more--much much more.
+
+<span style="color: #888888;">*technically the i2i cable has a theoretical limit of 8.4 depending on the channels enabled, I'm not sure of the specifics, but that's what cablemap.info has reported.</span>

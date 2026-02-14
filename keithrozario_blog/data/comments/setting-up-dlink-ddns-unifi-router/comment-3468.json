@@ -1,0 +1,8 @@
+{
+  "id": "3468",
+  "author": "nic",
+  "email_hash": "be17d3d9dda429a476233a19618dc139",
+  "url": null,
+  "date": "2019-08-27 16:18:58",
+  "content": "i Have got wamp server on my home computer when I call it from other computer on my network is answers but on DDNS address it fails. I  shut down firewall on it don't work and I assign a port to it still yet it fail I need a helping hand here"
+}

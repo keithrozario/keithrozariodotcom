@@ -1,0 +1,8 @@
+{
+  "id": "1049",
+  "author": "kar2on",
+  "email_hash": "3743d64fa7e8ec113f11194ead85e862",
+  "url": null,
+  "date": "2013-12-08 18:14:00",
+  "content": "Email replied hafiz. In short though, I prefer Team Viewer over RDP, simply because I bought Windows Home Premium that doesn't have RDP functionality, but I think the security and simplicity of Team Viewer trumps the downside of needing to install applications.\n\n\nTeam Viewer negates the need for any of this, but if you need to do RDP, then you'll need to setup static IP, a port forward and finally a DDNS.\n\n\nLet me know how it goes."
+}

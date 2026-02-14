@@ -1,0 +1,8 @@
+{
+  "id": "3479",
+  "author": "cake",
+  "email_hash": "c9e241cb71cee4e5da353ee60db5b332",
+  "url": null,
+  "date": "2019-08-27 16:24:24",
+  "content": "Thanks Kar2on for sharing this finding. I'm a Unifi user with DIR-615 revision G2, it is very scary that I have affected to the password page exploit for more than 2 years without knowing it.. I have flashed my router to DD-WRT as I found out that there is no way for me to turn off remote access ( at least I cannot find it). I also written down my steps, if anyone interest can have a look. http://cakegiyh.blogspot.com/2014/01/flash-unifi-router-dir-615-g2-to-dd-wrt.html"
+}

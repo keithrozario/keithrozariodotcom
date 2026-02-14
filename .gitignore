@@ -1,0 +1,20 @@
+# Ignore the large XML backup
+*.xml
+
+# Ignore Hugo build output
+public/
+resources/
+.hugo_build.lock
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Archives
+*.tar
+*.tar.gz
+*.zip
+*.sql
+
+# Logs
+aioseo-logs/

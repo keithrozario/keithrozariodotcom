@@ -1,0 +1,8 @@
+{
+  "id": "2636",
+  "author": "Kim Hagey",
+  "email_hash": "907fb1c87b7656e29a156419a0b2bb35",
+  "url": null,
+  "date": "2016-07-11 11:10:00",
+  "content": "excellent guide .. worked without a hitch so far ..now i want to give access to a NAS server , a wd booklive so that i can share files with a friend but for the life of me i can't figure out how to do it .. I set up the dns server on mybook with both my homw server and my ddns server from dlink, but can't access it from outside my network .. i know i need ports set up or port forarding  or something but can't find info on how to do it .. help please"
+}

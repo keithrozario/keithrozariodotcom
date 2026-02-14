@@ -1,0 +1,8 @@
+{
+  "id": "873",
+  "author": "kar2on",
+  "email_hash": "3743d64fa7e8ec113f11194ead85e862",
+  "url": null,
+  "date": "2013-06-26 16:33:00",
+  "content": "Nope nothing to do with BTU as far as I know, but I'm not a network expert.\n\nBut It's important to note, if you host a camera on your local network (LAN) you can't access it from your computer hosted on the same LAN via the DDNS. It's a loopback issue that a lot of my other readers have been having similar problems with as well. The standard Dlink DIR-615 router from Unifi does not support loopback.\n\n\n\nTry accessing your camera from an outside network."
+}
