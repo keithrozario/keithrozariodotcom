@@ -78,6 +78,44 @@ def parse_wordpress_xml_robust(xml_file, output_dir):
             post_content = re.sub(r'src=".*?(?:wp-content/uploads|files)/(.*?)"', r'src="/uploads/\1"', post_content)
             post_content = re.sub(r'href=".*?(?:wp-content/uploads|files)/(.*?)"', r'href="/uploads/\1"', post_content)
             
+            # CONVERT HTML IMG TAGS TO MARKDOWN
+            # This regex captures the src attribute and optionally the alt attribute from an img tag
+            # It handles various attribute orders and quotes
+            def img_replacer(match):
+                attrs = match.group(1)
+                src_match = re.search(r'src=["\'](.*?)["\']', attrs)
+                if not src_match: return match.group(0)
+                src = src_match.group(1)
+                
+                alt_match = re.search(r'alt=["\'](.*?)["\']', attrs)
+                alt = alt_match.group(1) if alt_match else ""
+                
+                title_match = re.search(r'title=["\'](.*?)["\']', attrs)
+                title = title_match.group(1) if title_match else ""
+                
+                md = f"![{alt}]({src}"
+                if title: md += f' "{title}"'
+                md += ")"
+                return md
+
+            post_content = re.sub(r'<img\s+([^>]+)>', img_replacer, post_content)
+            
+            # STRIP FIGURE AND CENTER TAGS AROUND IMAGES
+            # Recursively strip wrapper tags until no more changes occur
+            prev_content = ""
+            while prev_content != post_content:
+                prev_content = post_content
+                # Specifically target markdown image syntax inside wrappers
+                # Capture ![alt](src "title")
+                md_img_regex = r'(!\[.*?\]\(.*?\))'
+                
+                post_content = re.sub(r'<figure[^>]*>\s*' + md_img_regex + r'\s*</figure>', r'\1', post_content, flags=re.DOTALL)
+                post_content = re.sub(r'<div[^>]*>\s*' + md_img_regex + r'\s*</div>', r'\1', post_content, flags=re.DOTALL)
+                post_content = re.sub(r'<center[^>]*>\s*' + md_img_regex + r'\s*</center>', r'\1', post_content, flags=re.DOTALL)
+                post_content = re.sub(r'<p>\s*' + md_img_regex + r'\s*</p>', r'\1', post_content, flags=re.DOTALL)
+
+            post_content = post_content.replace('&nbsp;', ' ')
+            
             tags = []
             categories = []
             for cat in item.findall('category'):
@@ -89,6 +127,7 @@ def parse_wordpress_xml_robust(xml_file, output_dir):
             fm_lines = []
             fm_lines.append("+++")
             fm_lines.append(f'title = "{title}"')
+            fm_lines.append(f'slug = "{post_name}"')
             fm_lines.append(f'date = "{date_str}"')
             fm_lines.append('draft = false')
             if tags: fm_lines.append(f'tags = {tags}')
