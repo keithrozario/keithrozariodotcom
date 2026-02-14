@@ -6,7 +6,7 @@ draft = false
 categories = ['CyberLaw', 'Malaysia']
 +++
 
-<a href="/uploads/4019801997_2bfb5a8d7f.jpg">![](/uploads/4019801997_2bfb5a8d7f-300x225.jpg "4019801997_2bfb5a8d7f")</a><a title="Bernama Report" href="http://www.bernama.com.my/bernama/v6/newsgeneral.php?id=651733" target="_blank">Bernama reported</a> today that The Malaysian Communications and Multimedia Commission  (MCMC or the SKMM) together The Malaysian Islamic Development Department (Jakim) would begin "<em>collaborating to monitor lesbian, gay, bisexual and transsexual (LGBT) activities in the country, particularly on the websites.</em>"
+![](/uploads/4019801997_2bfb5a8d7f-300x225.jpg "4019801997_2bfb5a8d7f")<a title="Bernama Report" href="http://www.bernama.com.my/bernama/v6/newsgeneral.php?id=651733" target="_blank">Bernama reported</a> today that The Malaysian Communications and Multimedia Commission  (MCMC or the SKMM) together The Malaysian Islamic Development Department (Jakim) would begin "<em>collaborating to monitor lesbian, gay, bisexual and transsexual (LGBT) activities in the country, particularly on the websites.</em>"
 
 Apart from the usual gung-ho activity of from Jakim, its Director General  Othman Mustapha said "I<em>f we find that there are things that are unsuitable on the websites, information would be channeled to the committee for action to be taken,</em>"
 

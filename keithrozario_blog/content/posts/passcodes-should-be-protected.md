@@ -6,7 +6,7 @@ draft = false
 categories = ['CyberLaw', 'Security &amp; Privacy']
 +++
 
-<a href="/uploads/Diverse_torture_instruments.jpg">![Diverse_torture_instruments](/uploads/Diverse_torture_instruments.jpg)</a>Some people are fans of medieval torture, and who can blame them. There's just something about the sadistic treatment of people that makes us both want to watch with a bowl of popcorn in our hands, yet at the same time turn away in disgust and discomfort.
+![Diverse_torture_instruments](/uploads/Diverse_torture_instruments.jpg)Some people are fans of medieval torture, and who can blame them. There's just something about the sadistic treatment of people that makes us both want to watch with a bowl of popcorn in our hands, yet at the same time turn away in disgust and discomfort.
 
 How else do you explain the popularity of shows like Saw?
 

@@ -6,7 +6,7 @@ draft = false
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia']
 +++
 
-<a href="/uploads/Malaysian_government_spying_on_citizens.jpg">![Big Brother is watching](/uploads/Malaysian_government_spying_on_citizens.jpg)</a>
+![Big Brother is watching](/uploads/Malaysian_government_spying_on_citizens.jpg)
 
 Beberapa minggu lalu, saya telah menulis tentang sekeping artikel yang 'tidak bertanggungjawab' oleh Malaysian Insider apabila 'mendakwa' kerajaan Malaysia mengintip rakyat Malaysia - tanpa sebarang bukti. Saya amat kecewa bahawa wartawan tersebut membuat kenyataan tersebut tanpa apa-apa bukti--apabila menulis blog tersebut saya kecewa dan saya marah!
 

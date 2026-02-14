@@ -20,7 +20,7 @@ I wanted this post to be about encouraging people to stop worrying about data br
 
 But when I went to the Malaysian organ donation website (demarorgan.gov.my), I was greeted by all too common "Connection is Not Secure" warning. Which just made my head spin!
 
-<a href="/uploads/DermaOrgan.png">![](/uploads/DermaOrgan.png)</a><!--more-->
+![](/uploads/DermaOrgan.png)<!--more-->
 
 In other words, a website that was probably already breached, is continuing to accept registrations over a insecure connection, and all because it can't implement TLS?
 

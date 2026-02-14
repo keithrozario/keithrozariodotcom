@@ -6,7 +6,7 @@ draft = false
 categories = ['Malaysia']
 +++
 
-<center><a href="/uploads/iPhone-5-LTE-Malaysia.jpg">![iPhone 5 no LTE support from Maxis Malaysia](/uploads/iPhone-5-LTE-Malaysia-300x300.jpg "iPhone-5-LTE-Malaysia")</a></center>Breaking news. That new iPhone that you lined up overnight for outside KLCC--won't have LTE support, and quite possibly--never will!!
+![iPhone 5 no LTE support from Maxis Malaysia](/uploads/iPhone-5-LTE-Malaysia-300x300.jpg "iPhone-5-LTE-Malaysia")Breaking news. That new iPhone that you lined up overnight for outside KLCC--won't have LTE support, and quite possibly--never will!!
 
 So before you plonk down your dough on the next big thing, you might want to consider how you'd feel if within 6 months everybody else on your block had next generation 4G speeds--except you!
 

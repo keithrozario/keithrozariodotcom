@@ -6,7 +6,7 @@ draft = false
 categories = ['CyberLaw', "Keith's Favorite Post", 'Security &amp; Privacy']
 +++
 
-<a href="/uploads/broken-fence.jpg" rel="attachment wp-att-5526">![broken-fence](/uploads/broken-fence.jpg)</a>A judge in the US has ordered Apple to provide 'technical assistance' to FBI, in creating what some (but not all) cybersecurity experts call a backdoor. In the few years I've written about these issues, I've never seen anything as hotly debated as this one, across the folks from digital security to foreign policy all coming down on both sides of the debate.
+![broken-fence](/uploads/broken-fence.jpg)A judge in the US has ordered Apple to provide 'technical assistance' to FBI, in creating what some (but not all) cybersecurity experts call a backdoor. In the few years I've written about these issues, I've never seen anything as hotly debated as this one, across the folks from digital security to foreign policy all coming down on both sides of the debate.
 
 On one hand it seems a bit snarky of the FBI to use this one particular case, that looks to have the highest possible chance of success to set precedent, but on the other hand it seems mighty nasty of Apple to refuse to comply with a court order, to crack into a terrorist phone.
 

@@ -6,7 +6,7 @@ draft = false
 categories = ['Security &amp; Privacy']
 +++
 
-<a href="/uploads/MYNIC_HACKED.png">![MYNIC_HACKED](/uploads/MYNIC_HACKED.png)</a>MyNic is the organization responsible for managing the .my Top Level Domain, which means every website address that ends with a .my is under their administration. These centralized control centers act as giant targets for hackers, but for the most part, they're protected better than Fort Knox--or they should be.
+![MYNIC_HACKED](/uploads/MYNIC_HACKED.png)MyNic is the organization responsible for managing the .my Top Level Domain, which means every website address that ends with a .my is under their administration. These centralized control centers act as giant targets for hackers, but for the most part, they're protected better than Fort Knox--or they should be.
 
 Yesterday, a hacker going by the name Tiger-M@te successfully manage to hijack the .my addresses of popular websites belonging to Google, Microsoft, Dell and even Kaspersky (an Anti-Virus company). Instead of being presented with the usual webpage, visitors who entered urls like www.google.my, or www.skype.my were redirected to a static page with the word <span style="color: #ff0000;">HACKED</span> emblazoned in big red letters.
 

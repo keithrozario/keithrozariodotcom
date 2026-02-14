@@ -6,7 +6,7 @@ draft = false
 categories = ['Misc']
 +++
 
-<a href="/uploads/img-49621.jpg">![](/uploads/img-49621.jpg)</a>As Malaysians woke up today, to a brand new cabinet of Ministers, many have already begun expressing their dissatisfaction on the lineup. I know better than to wade into these politically charged discussions -- but I will point out that my people have long been overlooked for Ministerial positions.
+![](/uploads/img-49621.jpg)As Malaysians woke up today, to a brand new cabinet of Ministers, many have already begun expressing their dissatisfaction on the lineup. I know better than to wade into these politically charged discussions -- but I will point out that my people have long been overlooked for Ministerial positions.
 
 Who are<em> 'my people'</em> you ask...
 

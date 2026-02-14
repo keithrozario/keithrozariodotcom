@@ -6,7 +6,7 @@ draft = false
 categories = ['Big Data', 'Crowdsourcing', "Keith's Favorite Post"]
 +++
 
-<a href="/uploads/wikipedia_crowdsourcing.png">![](/uploads/wikipedia_crowdsourcing.png "wikipedia_crowdsourcing")</a>Wikipedia is quite possibly the greatest repository of information mankind has ever seen. It's built around an amazing concept of allowing anyone the ability to create, document and moderate information in real-time, and so far the concept has proven successful--some may even argue that it's too successful.
+![](/uploads/wikipedia_crowdsourcing.png "wikipedia_crowdsourcing")Wikipedia is quite possibly the greatest repository of information mankind has ever seen. It's built around an amazing concept of allowing anyone the ability to create, document and moderate information in real-time, and so far the concept has proven successful--some may even argue that it's too successful.
 
 For the past two days, I've been writing about <a title="Google bigquery" href="http://www.keithrozario.com/2012/07/google-bigquery-wikipedia-dataset-malaysia-singapore.html">Bigquery</a> and <a title="What is big data" href="http://www.keithrozario.com/2012/07/what-is-big-data.html">Big Data</a> in general, and for the most part I've been using the freely available wikipedia dataset in Bigquery to perform some queries and analysis. The results were so interesting, that they warrant a post on their own--and this is that post!
 

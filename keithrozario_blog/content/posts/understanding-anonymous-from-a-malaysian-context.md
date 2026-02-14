@@ -6,7 +6,7 @@ draft = false
 categories = ["Keith's Favorite Post", 'Malaysia']
 +++
 
-<a href="/uploads/anonymousmask380-300x225.jpg">![anonymousmask380-300x225](/uploads/anonymousmask380-300x225.jpg)</a>The latest buzz in Malaysian cyberspace is the 'threat' from Anonymous Malaysia to launch 'internet warfare' on the Malaysian government, singling out our poor ol' Prime Minister, demanding that he step down or face the consequences of Anonymous actions.
+![anonymousmask380-300x225](/uploads/anonymousmask380-300x225.jpg)The latest buzz in Malaysian cyberspace is the 'threat' from Anonymous Malaysia to launch 'internet warfare' on the Malaysian government, singling out our poor ol' Prime Minister, demanding that he step down or face the consequences of Anonymous actions.
 
 The threat of internet warfare even came with a date, 29th to 30th August at 2.30pm, coinciding with Bersih 4.0. You know you're dealing with a bad-ass when they tell you when the attack is coming, sort of like Muhammad Ali telling his opponents which round he would knock them out in. (down in the 5th)
 

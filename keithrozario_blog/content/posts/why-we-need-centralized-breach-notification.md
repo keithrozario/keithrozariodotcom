@@ -8,7 +8,7 @@ categories = ['Misc']
 
 Let's start with the basics. Data Breaches are common -- and will continue to be the norm.
 <h2>How the App Economy and Big Data ruined it</h2>
-<a href="/uploads/appstore-billion-thanks.jpg">![](/uploads/appstore-billion-thanks.jpg)</a>As we shifted towards the 'App-Economy' and 'Big-Data' (circa 3 years ago), consumers begun sharing more data with more apps. Everyone and their granny, wanted to create a new app, and everyone was told to collect as much data as possible. Then, because storage costs were low, they were encouraged to store as much data as they could first -- and figure out how to use it later.
+![](/uploads/appstore-billion-thanks.jpg)As we shifted towards the 'App-Economy' and 'Big-Data' (circa 3 years ago), consumers begun sharing more data with more apps. Everyone and their granny, wanted to create a new app, and everyone was told to collect as much data as possible. Then, because storage costs were low, they were encouraged to store as much data as they could first -- and figure out how to use it later.
 
 Apps like UBER, Deliveroo, Spotify, FourSquare, GoGet, are ideas we never thought possible 5 years ago. yet today, they're an ingrained part of how Urbanites (like me!) live our lives. And each of these is a service that has your data, not just what you gave them when you registered, but probably all transactional information as well (every order, deal or purchase you made from their service).
 
@@ -20,7 +20,7 @@ As more apps, have more data, it's more likely one of them loses it, and lost it
 
 "But hang on a minute! Don't these companies have security in place". Yes they do, but security is hard.
 <h2>Every Death Star has an exhaust port</h2>
-<a href="/uploads/Thermal_Ports_1200x627-03.jpg">![](/uploads/Thermal_Ports_1200x627-03.jpg)</a>
+![](/uploads/Thermal_Ports_1200x627-03.jpg)
 
 On the internet, attacking a website is a lot easier than defending it, every death star has an exhaust port, and sometimes you don't even need Jedi to exploit them.
 
@@ -38,7 +38,7 @@ In the mean-time you run the risk that <strong>maybe</strong> you get hacked, bu
 
 If we put those 3 things together, the App Economy, the Big Data craze and the difficulty of defending against attacks, you have all the ingredients necessary to guarantee that data breaches will continue to happen, and we shouldn't limit our focus to just avoiding data breaches, but rather expand it to both avoidance and response.
 <h2>Responding to a breach</h2>
-[caption id="attachment_6328" align="aligncenter" width="550"]<a href="/uploads/data-breach-notification.jpg">![Yahoo Breach Notification](/uploads/data-breach-notification.jpg)</a> Yahoo Breach Notification[/caption]
+[caption id="attachment_6328" align="aligncenter" width="550"]![Yahoo Breach Notification](/uploads/data-breach-notification.jpg) Yahoo Breach Notification[/caption]
 
 So if breaches are to continually occur, what can we do?
 
@@ -68,7 +68,7 @@ And since breach notification isn't revenue generating, organizations are unlike
 
 Centralized breach notification will benefit victims immensely and allow them to get a centralized view of all the breaches they've been in, from a single place.
 <h2>What does centralized breach notification look like?</h2>
-<a href="/uploads/haveibeenpwned.png">![](/uploads/haveibeenpwned.png)</a>
+![](/uploads/haveibeenpwned.png)
 
 The one working example is haveibeenpwned.com
 

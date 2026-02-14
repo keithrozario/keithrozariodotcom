@@ -6,7 +6,7 @@ draft = false
 categories = ["Keith's Favorite Post", 'Singapore']
 +++
 
-<a href="/uploads/riptide_filter_405x640_.jpg">![](/uploads/riptide_filter_405x640_.jpg)</a>
+![](/uploads/riptide_filter_405x640_.jpg)
 
 Let's start this post the same way I start my day -- by looking at Facebook.
 

@@ -6,7 +6,7 @@ draft = false
 categories = ['CyberLaw', 'Science']
 +++
 
-<p style="text-align: center;"><a href="/uploads/dir-615.jpg">![dir-615](/uploads/dir-615.jpg "Rao-ter or Root-er : Pronunciation")</a></p>
+<p style="text-align: center;">![dir-615](/uploads/dir-615.jpg "Rao-ter or Root-er : Pronunciation")</p>
 
 
 Here's an age old question, is it pronounced router (as in rao-ter) or is it router (as in root-er).

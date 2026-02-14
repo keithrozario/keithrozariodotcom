@@ -6,7 +6,7 @@ draft = false
 categories = ['Copyright and Censorship', 'Malaysia']
 +++
 
-<a href="/uploads/russell-peters-malaysia-poster.jpg">![](/uploads/russell-peters-malaysia-poster-214x300.jpg "russell-peters-malaysia-poster")</a>
+![](/uploads/russell-peters-malaysia-poster-214x300.jpg "russell-peters-malaysia-poster")
 
 <em><span style="color: #888888;">Update 1: Russell Peters World Tour in Malaysia was sold out in hours. I failed to get a ticket online, couldn't even log in. A friend of mine lining up in KLCC was told at around 10-ish in the morning that only platinum tickets were available. </span></em>
 

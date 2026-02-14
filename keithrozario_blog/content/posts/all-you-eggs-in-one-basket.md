@@ -48,7 +48,7 @@ Yes, LastPass isn't hack-proof. But there's nothing of value on their servers to
 
 Essentially what Lastpass do is use your master password to derive a master encryption key, and that key never leaves your device. All passwords are encrypted before being stored on LastPass servers, and because they don't know the key, those passwords are useless.
 
-[caption id="attachment_5844" align="aligncenter" width="550"]<a href="/uploads/Lastpass-Encryption-1.png">![lastpass-encryption](/uploads/Lastpass-Encryption-1-820x175.png)</a> How LastPass store &amp; retrieve your passwords[/caption]
+[caption id="attachment_5844" align="aligncenter" width="550"]![lastpass-encryption](/uploads/Lastpass-Encryption-1-820x175.png) How LastPass store &amp; retrieve your passwords[/caption]
 
 LastPass may not be absolutely secure, but they do have strong architecture in place, for a solution to give you access to your passwords on the cloud.
 <h2>LastPass isn't panacea</h2>

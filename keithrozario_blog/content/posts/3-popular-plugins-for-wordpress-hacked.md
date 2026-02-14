@@ -7,7 +7,7 @@ tags = ['wordpress']
 categories = ['Blog']
 +++
 
-<a rel="attachment wp-att-978" href="http://www.keithrozario.com/2011/06/3-popular-plugins-for-wordpress-hacked.html/169802213_34ad2a945f_m" target="_blank">![](/uploads/169802213_34ad2a945f_m.jpg "169802213_34ad2a945f_m")</a>If you've got a wordpress site hosted on your own,  and you use  <em>AddThis</em>, <em>WPtouch</em>, or <em>W3 Total Cache</em> and you updated your site within the last 48 hours, beware you could 'potentially'  have installed an infected plugin that gave hackers backdoor access to your site.
+![](/uploads/169802213_34ad2a945f_m.jpg "169802213_34ad2a945f_m")If you've got a wordpress site hosted on your own,  and you use  <em>AddThis</em>, <em>WPtouch</em>, or <em>W3 Total Cache</em> and you updated your site within the last 48 hours, beware you could 'potentially'  have installed an infected plugin that gave hackers backdoor access to your site.
 
 The guys over at <a title="Naked Security" href="http://nakedsecurity.sophos.com/2011/06/22/wordpress-plugins-trojanised-spotted-fixed/" target="_blank">naked security </a>advise you re-install those plugins and for an added security measure I advise you backup your wordpress and database just to be safe.
 

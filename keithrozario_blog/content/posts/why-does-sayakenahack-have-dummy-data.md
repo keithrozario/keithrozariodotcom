@@ -7,7 +7,7 @@ tags = ['sayakenahack']
 categories = ["Keith's Favorite Post", 'Malaysia']
 +++
 
-<a href="/uploads/image2017-11-15_0-10-6.png">![](/uploads/image2017-11-15_0-10-6.png)</a>
+![](/uploads/image2017-11-15_0-10-6.png)
 
 Why does <em>sayakenahack</em> have dummy data? If I enter "123456" and "112233445566" I still get results.
 
@@ -73,6 +73,6 @@ This blog runs at a nett loss every year :), but that's OK. Because Malaysians n
 
 I code for fun (not profit), and I definitely don't phish.
 <h2>TL;DR</h2>
-<a href="/uploads/image2017-11-14_21-53-21.png">![](/uploads/image2017-11-14_21-53-21.png)</a>
+![](/uploads/image2017-11-14_21-53-21.png)
 
-<a href="/uploads/image2017-11-14_22-2-48.png">![](/uploads/image2017-11-14_22-2-48.png)</a>
+![](/uploads/image2017-11-14_22-2-48.png)

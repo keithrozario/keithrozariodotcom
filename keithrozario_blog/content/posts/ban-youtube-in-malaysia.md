@@ -6,7 +6,7 @@ draft = false
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia']
 +++
 
-<center><a href="/uploads/Ban_you_tube.png">![](/uploads/Ban_you_tube.png "Ban_you_tube")</a></center>Rais Yatim a Member of Malaysian Parliament and a Minister in Government, has threatened Youtube with legal action over their refusal to remove the video of Innocence of Muslims. Nevermind the fact that Youtube have tried their level best to restrict access to the video from Malaysian users, and also failing to recognize the fact that Youtube is merely a video sharing site.
+![](/uploads/Ban_you_tube.png "Ban_you_tube")Rais Yatim a Member of Malaysian Parliament and a Minister in Government, has threatened Youtube with legal action over their refusal to remove the video of Innocence of Muslims. Nevermind the fact that Youtube have tried their level best to restrict access to the video from Malaysian users, and also failing to recognize the fact that Youtube is merely a video sharing site.
 
 You have to sympathize with Google, they've drawn the line the sand and they're getting the most flak of anyone in this debacle. Most people seem to forget that it was a Youtube user (not Youtube itself) that created and uploaded the film. It also may have slipped your mind, that the video clip is available on other less prominent video sharing sites like Vimeo. Yet Google is sticking to it's guns under enormous pressure not just from Muslim Governments but from it's own Government to take down the offensive video. At the very least they deserve commendation for their courage in the face of adversity.<!--more-->
 

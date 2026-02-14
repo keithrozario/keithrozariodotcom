@@ -7,7 +7,7 @@ tags = ['TM']
 categories = ['Malaysia']
 +++
 
-<a href="/uploads/Unifi-Logo.png">![](/uploads/Unifi-Logo.png "Unifi Logo")</a>While they may have caused "<a title="Unifi sucks: Here’s why" href="http://www.keithrozario.com/2012/02/unifi-sucks-heres-why.html">The Great 9 day downtime of 2012</a>", and I 'might' have been terribly upset with them. Over the past few months, I must admit-- My Unifi Connection Speed is Absolutely brilliant!!
+![](/uploads/Unifi-Logo.png "Unifi Logo")While they may have caused "<a title="Unifi sucks: Here’s why" href="http://www.keithrozario.com/2012/02/unifi-sucks-heres-why.html">The Great 9 day downtime of 2012</a>", and I 'might' have been terribly upset with them. Over the past few months, I must admit-- My Unifi Connection Speed is Absolutely brilliant!!
 
 Say what???!
 
@@ -27,7 +27,7 @@ There used to be a time when TM would 'shape' their traffic to prevent you from 
 
 This is a screenshot for a Torrent download for a file 672MB file with about 1000+ seeds. The file is actually an ubuntu image so it's perfectly legal (in case you're wondering).
 
-<a href="/uploads/uTOrrent_Download.jpg">![](/uploads/uTOrrent_Download-1024x256.jpg "uTOrrent_Download")</a>
+![](/uploads/uTOrrent_Download-1024x256.jpg "uTOrrent_Download")
 
 Look at the bottom of the screenshot where it says <strong>Added On: 5/2/2012 6:58:34PM </strong>this is the time I added the file to download. Then look to the left where it says <strong>Completed On: 5/2/2012 7:19:39PM </strong>this is the time the download was completed. Barely 22 minutes later for a <strong>672MB</strong> file at an average speed of <strong>544.9 kB/s</strong>
 
@@ -37,7 +37,7 @@ There really is no reason to download things faster than you can consume them, u
 
 Just to make sure I wasn't only using one data point from a particularly good torrent, here's a 2nd torrent download.
 
-<a href="/uploads/LibreOffice.png">![](/uploads/LibreOffice-1024x244.png "LibreOffice")</a>
+![](/uploads/LibreOffice-1024x244.png "LibreOffice")
 
 This is a copy of LibreOffice and free MS Office alternative. Here the download started at <strong>5/3/2012 8:49:04AM</strong> and ended the same day at <strong>9:08:04AM </strong>. This torrent had about 10 seeds as compared to the 1000+ for Ubuntu, but I still manage to download the <strong>191MB</strong> file in less than <strong>20 minutes</strong> at an average speed of <strong>170kB/s. </strong>
 
@@ -51,7 +51,7 @@ Youtube on the other hand is usually where the buttery silky smoothness comes in
 
 However, I've also included a small screenshot of the youtube speed test, just in case you're wondering. The speed for Unifi fluctuate from 0kbps to 7000+kbps. Once again, I'm not entirely sure what a 'good' speed would be, but take my word for it. Unifi is fast!
 
-<a href="/uploads/YouTube_2_speed.jpg">![](/uploads/YouTube_2_speed.jpg "YouTube_2_speed")</a>
+![](/uploads/YouTube_2_speed.jpg "YouTube_2_speed")
 <h2>Conclusion</h2>
 In case you're wondering if this is some sort of prank post, it's not. The reason is, that for the past few months I've been using the internet quite heavily and it occurred to me that I haven't really given TM any chance to correct their past wrongs. On top of that, I'm constantly reminded by people who are having a tough time trying with Unifi about how 'bad' the Unifi connectivity is...I understand their situation.
 

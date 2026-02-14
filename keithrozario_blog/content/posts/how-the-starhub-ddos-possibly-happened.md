@@ -7,7 +7,7 @@ tags = ['DDOS', 'Dyn', 'IOT', 'Singapore']
 categories = ['Misc']
 +++
 
-<a href="/uploads/StarHub-DNS-attack-1.jpg">![starhub-dns-attack](/uploads/StarHub-DNS-attack-1-300x225.jpg)</a>Customers of Singaporean ISP StarHub, suffered two major disruptions to their service over the past week, in what the telco said was a result of a "intentional and likely malicious distributed denial-of-service (DDoS) attacks".
+![starhub-dns-attack](/uploads/StarHub-DNS-attack-1-300x225.jpg)Customers of Singaporean ISP StarHub, suffered two major disruptions to their service over the past week, in what the telco said was a result of a "intentional and likely malicious distributed denial-of-service (DDoS) attacks".
 
 Oh the humanity!!
 

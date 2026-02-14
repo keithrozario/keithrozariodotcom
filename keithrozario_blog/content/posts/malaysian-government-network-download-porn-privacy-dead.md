@@ -16,9 +16,9 @@ So using the same techniques that Torrentfreak used, and applying them to the Ma
 The GITN is owned by Telekom Malaysia and is dubbed the "official network provider for the e-Government" in Malaysia--so let's see what the official network for the e-government was being used for?
 
 First off, someone was using the GITN network to download torrents--not exactly surprising, but judging by the variety of torrents (<em>everything from Dark Skies to Naruto to Discovery Channel documentaries</em>) it looks like more than one person was doing the downloading.
-<p style="text-align: center;"><a href="/uploads/Government-Integrated-Telecommunication-Network-G-torrent-activity.png">![Torrent Activity on the Government Network](/uploads/Government-Integrated-Telecommunication-Network-G-torrent-activity.png "Government Integrated Telecommunication Network G torrent activity")</a></p>
+<p style="text-align: center;">![Torrent Activity on the Government Network](/uploads/Government-Integrated-Telecommunication-Network-G-torrent-activity.png "Government Integrated Telecommunication Network G torrent activity")</p>
 Also equally interesting was that someone used the GITN network to download porn. I'm no expert, but I'm thinking Gangbanged.XXX isn't really a discovery channel documentary.<!--more-->
-<p style="text-align: center;"><a href="/uploads/Government-Integrated-Telecommunication-Network-Downloading-Porn.png">![Government servants downloading porn](/uploads/Government-Integrated-Telecommunication-Network-Downloading-Porn.png "Government Integrated Telecommunication Network Downloading Porn")</a></p>
+<p style="text-align: center;">![Government servants downloading porn](/uploads/Government-Integrated-Telecommunication-Network-Downloading-Porn.png "Government Integrated Telecommunication Network Downloading Porn")</p>
 Remember, GITN is supposed to be the "official network provider for the e-Government" and here we have somebody downloading porn. As a Malaysian, I'm appalled that government servants weren't downloading Malaysian porn, but rather being influenced by 'foreign agents'. Malaysia can produce as good a porn flick as any country, but let's get back to the story.
 
 I also managed to locate someone on the GITN looking for porn on a Google search, but the information was so specific, that it was possible to uniquely identify the person who made the search--so I decided against publishing that information here--although it's still available online and ridiculously easy to search for. Scary!
@@ -30,7 +30,7 @@ Now I'm not advocating a witch hunt here, GITN may be a government provider, but
 So <em>let he who is without sin cast the first stone</em>--I've got a lot of sin on my hands so I'm not judging these employees.So if you want go on a witch-hunt go right ahead, but mark my words, somebody will find something equally (if not more) embarrassing about you----and that's where I'll get to say <strong>"I Told you so!"</strong>
 
 Plus, just because the download was from the GITN is no guarantee the download was by a government servant, and just who are Malaysians to judge? <del>Just look at our most downloaded torrent for April 2013:</del>
-<p style="text-align: center;"><del><a href="/uploads/Most_downloaded_torrent_malaysia.png">![Most Downloaded Torrent in Malaysia](/uploads/Most_downloaded_torrent_malaysia.png "Most_downloaded_torrent_malaysia")</a></del></p>
+<p style="text-align: center;"><del>![Most Downloaded Torrent in Malaysia](/uploads/Most_downloaded_torrent_malaysia.png "Most_downloaded_torrent_malaysia")</del></p>
 <del>I'm not going to spoil it for you here, but you can check out the Wikipedia page for <a title="Wikipedia Hentai" href="http://en.wikipedia.org/wiki/Hentai" target="_blank">Hentai</a> to find out what most Malaysians are downloading from the bit-torrent network.</del>
 
 <em><strong>*Correction: Thanks to Darkon, who corrected me in the comments stating that Hentai Ouji isn't Hentai at all, but rather a regular Japanese Anime--guess I should have done my homework. Nice Job Darkon! </strong></em>

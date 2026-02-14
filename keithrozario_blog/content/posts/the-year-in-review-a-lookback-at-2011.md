@@ -6,7 +6,7 @@ draft = false
 categories = ['Misc']
 +++
 
-<a href="http://www.keithrozario.com/2011/12/the-year-in-review-a-lookback-at-2011.html/3195053131_327d336c2a_z" rel="attachment wp-att-1610">![](/uploads/3195053131_327d336c2a_z-300x200.jpg "3195053131_327d336c2a_z")</a>In 2009 I did a year in review and today (on Christmas Eve), I'm hoping to look back at my year and savor my accomplishments and even failures in preparation for my next project which I'm hoping to commence next year.
+![](/uploads/3195053131_327d336c2a_z-300x200.jpg "3195053131_327d336c2a_z")In 2009 I did a year in review and today (on Christmas Eve), I'm hoping to look back at my year and savor my accomplishments and even failures in preparation for my next project which I'm hoping to commence next year.
 
 So most of time this year was spent doing many things, among others I moved out of my parents place into a new house I bought, while this may sound strange to most Westerners staying with your parents till you get married is quite common in just about all of Asia. I started a blog, delivered some successful projects for Shell, went for my first job interview in nearly 5 years, got a great job offer but turned it down , started using twitter and LinkedIn, and even tried my hand at cooking.<!--more-->
 

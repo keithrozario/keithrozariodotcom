@@ -16,7 +16,7 @@ With that said, here's how you use Shodan, and a well known exploit to hack Unif
 
 <span style="color: #c0c0c0;"><strong>Update 22-Jun:</strong> My Apologies: YouTube have removed my video because someone reported it as being inappropriate. I am appealing..I'm not sure what about the video was inappropriate, and I have made no attempt to mis-lead anyone. Stay tuned. I've updated the video with a Vimeo upload instead.</span>
 
-<a href="/uploads/Video_Rejected_Content_Inappropriate_2.png">![Video Rejected by Youtube](/uploads/Video_Rejected_Content_Inappropriate_2.png)</a>
+![Video Rejected by Youtube](/uploads/Video_Rejected_Content_Inappropriate_2.png)
 
 <iframe src="//player.vimeo.com/video/98848750" width="500" height="281" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
@@ -36,6 +36,6 @@ To address the issue check out my post on how to prevent this on your Unifi rout
 
 <!--more-->
 
-<a href="/uploads/TM-changing-passwords.png">![TM were informed in August](/uploads/TM-changing-passwords.png)</a>
+![TM were informed in August](/uploads/TM-changing-passwords.png)
 
-<a href="/uploads/Telekom_malaysia_acknowledge_exploit.png">![Telekom_malaysia_acknowledge_exploit](/uploads/Telekom_malaysia_acknowledge_exploit.png)</a>
+![Telekom_malaysia_acknowledge_exploit](/uploads/Telekom_malaysia_acknowledge_exploit.png)

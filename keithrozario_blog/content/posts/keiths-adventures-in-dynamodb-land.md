@@ -51,7 +51,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7231,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="/uploads/data-model.png">![](/uploads/data-model-820x174.png)</a></figure>
+![](/uploads/data-model-820x174.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -119,7 +119,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7226,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="/uploads/Screen-Shot-2020-06-27-at-9.41.52-PM.png">![](/uploads/Screen-Shot-2020-06-27-at-9.41.52-PM-820x237.png)</a></figure>
+![](/uploads/Screen-Shot-2020-06-27-at-9.41.52-PM-820x237.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -147,7 +147,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7229,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="/uploads/Screen-Shot-2020-06-27-at-10.00.42-PM.png">![](/uploads/Screen-Shot-2020-06-27-at-10.00.42-PM-820x239.png)</a></figure>
+![](/uploads/Screen-Shot-2020-06-27-at-10.00.42-PM-820x239.png)
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -179,7 +179,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7230,"sizeSlug":"large","linkDestination":"media"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="/uploads/Screen-Shot-2020-06-27-at-10.20.09-PM.png">![](/uploads/Screen-Shot-2020-06-27-at-10.20.09-PM-637x500.png)</a></figure></div>
+![](/uploads/Screen-Shot-2020-06-27-at-10.20.09-PM-637x500.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -211,7 +211,7 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7232,"sizeSlug":"large","linkDestination":"media"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="/uploads/dynamoDB-stream.png">![](/uploads/dynamoDB-stream.png)</a></figure></div>
+![](/uploads/dynamoDB-stream.png)
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

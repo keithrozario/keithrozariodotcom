@@ -8,7 +8,7 @@ categories = ['Misc']
 +++
 
 <p style="text-align: justify;"><a href="/uploads/Deals-Vega-Residensi-1-Property-Plus.png">
-</a> <a href="/uploads/PropertyPlus-Malaysia-s-premier-property-group-buying-website.png">![PropertyPlus   Malaysia s premier property group buying website](/uploads/PropertyPlus-Malaysia-s-premier-property-group-buying-website.png "PropertyPlus_Malaysia_Group_Buying_Property")</a></p>
+</a> ![PropertyPlus   Malaysia s premier property group buying website](/uploads/PropertyPlus-Malaysia-s-premier-property-group-buying-website.png "PropertyPlus_Malaysia_Group_Buying_Property")</p>
 <p style="text-align: justify;">Do you know a Groupon Junkie?</p>
 <p style="text-align: justify;">It's those people that start and end everyday checking out what sort of 'deals' they can get online, the sort of people who'd buy completely unnecessary items purely because they were on sale. These people literally stalk websites like Groupon or livingsocial to see if they can get a iPhone powerbank for 40% off, or if the Japanese restaurant in Subang Jaya had a deal on Salmon Sashimi.</p>
 <p style="text-align: justify;">I was a Groupon Junkie once. I used to religiously subscribe to the mailing list of these group discount websites, and what I found was that I was actually spending more than I was saving. Sure I was trying out new places to eat, but in the end I felt I was spending a lot of money on things I never wanted in the first place--and the things that I actually wanted, were never on Groupon.</p>
@@ -26,7 +26,7 @@ categories = ['Misc']
 <p style="text-align: justify;">The recent strong economic growth in Malaysia has resulted in property prices touching an all time high in Malaysia, causing property prices to go beyond the affordability of most Malaysians. This is where PropertyPlus steps in as we intend to make real estate affordable through group buying deals.</p>
 <p style="text-align: justify;">The aggregation of buyers motivates Developers to offer discounts in view of the bulk sales. PropertyPlus is a win-win proposition because while consumers buy at lower prices, Developers are able to sell their inventory on a bulk basis.</p>
 <p style="text-align: justify;">In other words, they get the buyers for the developers, and these bulk purchases save the Developers money, and those savings are passed onto the buyer--you!</p>
-<p style="text-align: justify;"><a href="/uploads/Deals-Vega-Residensi-1-Property-Plus.png">![Deals   Vega Residensi 1   Property Plus](/uploads/Deals-Vega-Residensi-1-Property-Plus.png)</a></p>
+<p style="text-align: justify;">![Deals   Vega Residensi 1   Property Plus](/uploads/Deals-Vega-Residensi-1-Property-Plus.png)</p>
 <p style="text-align: justify;">It's actually a really cool concept that offers significant percentage discounts, and as any house buyer knows, even small discount for property prices goes a long way. Take for example the current offer of nearly a <a title="17% Discount Vega Residensi Cyberjaya PropertyPlus" href="http://www.propertyplus.com.my/vega_residensi_1_by_pkns_in_cyberjaya_from_rm_277888-p-35.php" target="_blank">17% discount for Vega Residensi in Cyberjaya</a>, with discounts of up to RM85,000 it reallt is no laughing matter. These are significant savings that go a long way to compensate for the rising cost of properties these days.</p>
 
 <h2 style="text-align: justify;">What else does PropertyPlus offer?</h2>

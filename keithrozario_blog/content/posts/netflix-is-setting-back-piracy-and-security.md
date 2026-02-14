@@ -6,7 +6,7 @@ draft = false
 categories = ['Copyright and Censorship', 'Malaysia']
 +++
 
-<a href="/uploads/copying_is_not_piracy.png" rel="attachment wp-att-4524">![copying_is_not_piracy](/uploads/copying_is_not_piracy.png)</a>
+![copying_is_not_piracy](/uploads/copying_is_not_piracy.png)
 
 Malaysian rejoiced last month when Netflix announced that they would be coming to our shores. We were all salivating over the massive amount of content we would finally have access too...except that it wasn't so massive.
 

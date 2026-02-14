@@ -7,7 +7,7 @@ tags = ['BitCoin']
 categories = ["Keith's Favorite Post", 'Security &amp; Privacy']
 +++
 
-<a href="/uploads/black-dice.jpg" rel="attachment wp-att-5546">![black dice](/uploads/black-dice.jpg)</a>Imagine a small village of a 100 people.
+![black dice](/uploads/black-dice.jpg)Imagine a small village of a 100 people.
 
 One day,  a sorcerer shows up,  and grants all the villagers magical 1000-sided dice, which are purely random and can only be thrown at a fixed rate of 1 throw per second (no faster &amp; no slower).
 

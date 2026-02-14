@@ -7,7 +7,7 @@ tags = ['Amazon', 'Cloud', 'Music']
 categories = ['Cloud Computing']
 +++
 
-<a title="Amazon Cloud Player" href="http://www.keithrozario.com/2011/11/amazon-cloud-player.html/amazoncloudplayer" rel="attachment wp-att-1425" target="_blank">![](/uploads/AmazonCloudPlayer.jpg "AmazonCloudPlayer")</a>Who says the cloud can't be fun? Amazons new cloud player combines my love for the cloud with my love for AC/DC all in one box, and I'm loving every bit of it.
+![](/uploads/AmazonCloudPlayer.jpg "AmazonCloudPlayer")Who says the cloud can't be fun? Amazons new cloud player combines my love for the cloud with my love for AC/DC all in one box, and I'm loving every bit of it.
 
 Those who know me, know that I'm a huge fan of Amazon, but an even bigger fan of AC/DC (the greatest rock band of ALL time.). Today, I tried to setup my google music account and as many of you know google has just launched a new cloud music player to compete with Apple and Amazon. However, I couldn't get it to install, it kept hanging during the "connecting to internet" phase. I suspect it's something to do with my VPN, eventually though I gave up on Google Music but not on the cloud, and so I turned to the indisputable champion of cloud technology...Amazon. <!--more-->
 

@@ -6,7 +6,7 @@ draft = false
 categories = ['Security &amp; Privacy']
 +++
 
-<a href="/uploads/streamyx-forced-ads.png">![Streamyx forced ads](/uploads/streamyx-forced-ads.png)</a>
+![Streamyx forced ads](/uploads/streamyx-forced-ads.png)
 
 A couple of days back, I was at my in-laws doing some browsing on their PC. Now my in-laws have a Windows XP laptop, that isn't secured, which is fine because as far as I can tell, I'm the only one that uses it. Most of them now go to their phones or tablets for internet access--nobody uses PCs anymore!!
 

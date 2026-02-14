@@ -7,7 +7,7 @@ tags = ['satire']
 categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++
 
-<a href="/uploads/teach-coding.jpg">![teach-coding](/uploads/teach-coding.jpg)</a>KLANG: Two years on, the the pilot initiative to teach coding and digital security as an SPM subject has been touted as a resounding success, and the government is mulling a move to make it compulsory by 2020.
+![teach-coding](/uploads/teach-coding.jpg)KLANG: Two years on, the the pilot initiative to teach coding and digital security as an SPM subject has been touted as a resounding success, and the government is mulling a move to make it compulsory by 2020.
 
 The announcement shocked parents, as out of 10,000 students who took part in the pilot program, only 10 had scored an A while the rest had failed with a grade of F.
 

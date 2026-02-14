@@ -6,7 +6,7 @@ draft = false
 categories = ['CyberLaw', 'Security &amp; Privacy']
 +++
 
-<a href="/uploads/8229504229_47a07ff41f_z.jpg">![8229504229_47a07ff41f_z](/uploads/8229504229_47a07ff41f_z-300x200.jpg)</a>Passwords have always been a problem.
+![8229504229_47a07ff41f_z](/uploads/8229504229_47a07ff41f_z-300x200.jpg)Passwords have always been a problem.
 
 For a password to be adequately secure, you need a certain amount of randomness <em>(or entropy in geek)</em> associated with the password to ensure it can't be easily guessed. The password <strong>monkey</strong> is less secure than the password <strong>k3ithI$one$3xydev1l, </strong>but the latter is inherently harder to remember (although still very true).
 
@@ -20,7 +20,7 @@ Which suggest that the problem isn't passwords per se, but rather our human inab
 
 But what is the solution then? Well, in general we have 2 partial solutions.<!--more-->
 <h2>Password managers</h2>
-<a href="/uploads/17046271105_2b6a5a619f_z.jpg">![17046271105_2b6a5a619f_z](/uploads/17046271105_2b6a5a619f_z-300x300.jpg)</a>One is to use a password manager, like LastPass. LastPass stores a unique password for each of your online services, while requiring you to remember only one. Basically, it securely stores your password in a 'vault' that is encrypted by a secure key known only to you. When you use LastPass, you download the encrypted vault from the lastpass servers, and then decrypt it with your (hopefully) hard to guess secret key. This way you can have unique, hard to guess passwords for all your services.
+![17046271105_2b6a5a619f_z](/uploads/17046271105_2b6a5a619f_z-300x300.jpg)One is to use a password manager, like LastPass. LastPass stores a unique password for each of your online services, while requiring you to remember only one. Basically, it securely stores your password in a 'vault' that is encrypted by a secure key known only to you. When you use LastPass, you download the encrypted vault from the lastpass servers, and then decrypt it with your (hopefully) hard to guess secret key. This way you can have unique, hard to guess passwords for all your services.
 
 But there's a catch, LastPass itself then becomes a high value target for attackers. Thankfully LastPass is pretty secure and provides the option for 2 factor authentication. Now, LastPass just happens to be the password manager I use, most other password managers would do just fine.
 

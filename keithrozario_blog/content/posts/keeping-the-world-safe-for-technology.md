@@ -7,7 +7,7 @@ tags = ['FBI']
 categories = ['Security &amp; Privacy']
 +++
 
-<a href="/uploads/quote-to-make-the-world-safe-for-democracy-woodrow-wilson-67-97-51.jpg">![quote-to-make-the-world-safe-for-democracy-woodrow-wilson-67-97-51](/uploads/quote-to-make-the-world-safe-for-democracy-woodrow-wilson-67-97-51.jpg)</a>On April 2nd, 1917, the President of the United States of America addressed an extraordinary session in congress, asking them to authorize America to declare war against the central powers in World War 1.
+![quote-to-make-the-world-safe-for-democracy-woodrow-wilson-67-97-51](/uploads/quote-to-make-the-world-safe-for-democracy-woodrow-wilson-67-97-51.jpg)On April 2nd, 1917, the President of the United States of America addressed an extraordinary session in congress, asking them to authorize America to declare war against the central powers in World War 1.
 
 Across the Atlantic, the European continent had been devastated by nearly 3 years of bloody conflict. Regardless of who started the war, President Wilson was sure the war was at it's tail end and he knew that if America stayed a neutral observer any longer, it might not get a seat at the table to discuss peace terms.
 
@@ -53,7 +53,7 @@ America is making the world the safe--and sometimes the villains aren't crazy di
 
 Obviously the FBI aren't angels, but when Comey and Co. push the boundaries of what US law permits them to do, they're bound to end up on the wrong side every once in a while.
 
-That is expected.<a href="/uploads/Blank-Flowchart-New-Page-1.png">![Blank Flowchart - New Page](/uploads/Blank-Flowchart-New-Page-1.png)</a>
+That is expected.![Blank Flowchart - New Page](/uploads/Blank-Flowchart-New-Page-1.png)
 
 Congress and the US President draws a box around which the FBI can operate. Think of a crayon drawing with the FBI in the middle and a box surrounding, it everything outside the box is a no-no, but the boundary , where the line is drawn is a 'grey' area that could go either way.
 

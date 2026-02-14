@@ -12,4 +12,4 @@ I cannot then tell you to join Bersih and call for free and fair elections, and 
 
 I also shouldn't post pictures like the one below:
 
-[caption id="attachment_5140" align="aligncenter" width="325"]<a href="/uploads/e204.jpg">![Bersih](/uploads/e204-325x500.jpg)</a> Bersih[/caption]
+[caption id="attachment_5140" align="aligncenter" width="325"]![Bersih](/uploads/e204-325x500.jpg) Bersih[/caption]

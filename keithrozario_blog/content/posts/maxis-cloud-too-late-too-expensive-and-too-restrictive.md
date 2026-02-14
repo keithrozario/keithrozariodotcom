@@ -7,7 +7,7 @@ tags = ['Amazon', 'Cloud', 'Maxis', 'rackspace']
 categories = ['Cloud Computing']
 +++
 
-<a href="/uploads/Welcome-To-The-Cloud.png">![](/uploads/Welcome-To-The-Cloud-300x150.png "Welcome To The Cloud")</a>Maxis recently launched their new IaaS offering in the form called the Maxis Cloud. According to <a title="Lowyat.net Maxis Cloud" href="http://www.lowyat.net/v2/index.php?option=com_content&amp;task=view&amp;id=5075&amp;Itemid=2" target="_blank">Lowyat.net</a> the Maxis Cloud is said to be the " <em><strong>the most advanced</strong> on-demand, real-time, fully managed cloud service <strong>in Malaysia</strong>, Maxis Cloud allows businesses to scale their cloud computing infrastructure according to their needs at any time through its self-service portal</em>."
+![](/uploads/Welcome-To-The-Cloud-300x150.png "Welcome To The Cloud")Maxis recently launched their new IaaS offering in the form called the Maxis Cloud. According to <a title="Lowyat.net Maxis Cloud" href="http://www.lowyat.net/v2/index.php?option=com_content&amp;task=view&amp;id=5075&amp;Itemid=2" target="_blank">Lowyat.net</a> the Maxis Cloud is said to be the " <em><strong>the most advanced</strong> on-demand, real-time, fully managed cloud service <strong>in Malaysia</strong>, Maxis Cloud allows businesses to scale their cloud computing infrastructure according to their needs at any time through its self-service portal</em>."
 
 That's basically calling yourself Jaguh Kampung. Pardon the sarcasm, but the Maxis Cloud does seem a tad bit expensive for a such a late entry into the game. You'd expect new IaaS providers that show up this late in the cloud game throw everything including the kitchen sink to get new subscribers. That however, has been lacking and a marketing strategy that seems more intent on selling IaaS to non-believers as oppose to selling the Maxis Cloud itself isn't helping their case.
 
@@ -57,11 +57,11 @@ Is there even an API? I can't seem to locate any information on any API for the 
 <h2>Comparison : Maxis Cloud vs. AWS vs. rackspace</h2>
 So let's do a little comparison, If we compare the Maxis Value Cloud offering against something similar from Amazon (the small instance), and rackspace (the 1GB RAM 40GB Disk instance) it really doesn't look good for Maxis from a price perspective:
 
-<a href="/uploads/Low-End-Comparison.jpg">![](/uploads/Low-End-Comparison.jpg "Low End Comparison")</a>
+![](/uploads/Low-End-Comparison.jpg "Low End Comparison")
 
 Not only is the Maxis instance the one with the lowest HDD space, it also is the most expensive by a long mile. I know what you're thinking though, Maxis has 4GB of RAM while the rest have just 2GB. That's true, but at this low end of the computing spectrum I'm not sure what you need 4GB of RAM for, especially when you have just 30GB of storage space. So to make things fair, I looked up the 4GB instances for Amazon and rackspace as well:
 
-<a href="/uploads/Low-End-4GB.jpg">![](/uploads/Low-End-4GB.jpg "Low End 4GB")</a>
+![](/uploads/Low-End-4GB.jpg "Low End 4GB")
 
 Now things get really out of hand, once we streamline the RAM, we see that the HDD space starts to fluctuate. Maxis offering is still the most expensive, but not by much. This time however,  it's got 5 times LESS storage than rackspace and about 14 times less than Amazon.
 
@@ -69,29 +69,29 @@ Of course, you have to take into account that both Amazon and rackspace charge f
 
 If we take a look at the Medium range offerings we get:
 
-<a href="/uploads/Mid-Range.jpg">![](/uploads/Mid-Range.jpg "Mid Range")</a>
+![](/uploads/Mid-Range.jpg "Mid Range")
 
 And then looking into the highest range offering:
 
-<a href="/uploads/High-End.jpg">![](/uploads/High-End.jpg "High End")</a>
+![](/uploads/High-End.jpg "High End")
 
 I realize that this isn't the best way to compare the cloud providers, a more relevant question would be<strong> what can RM900/month buy me for the 3 providers.</strong> That question at least sets a standard to compare as oppose to CPU and RAM and HDD space.
 <h2>What Can I get from Amazon and Rackspace for Rm900/Month?</h2>
 So what does RM900/month buy you with Amazon:
 
-<a href="/uploads/900monthAmazon.jpg">![](/uploads/900monthAmazon.jpg "900monthAmazon")</a>
+![](/uploads/900monthAmazon.jpg "900monthAmazon")
 
 Of course this comes with Silver Package support, if you're willing to forgo support you can save yourself a cool USD100 (or 33% of the package cost) or bump yourself up for a LOT more bandwidth or even a more powerful machine.
 
 Next up rackspace at Rm900/month gets you:
 
-<a href="/uploads/900monthrackspace.jpg">![](/uploads/900monthrackspace.jpg "900monthrackspace")</a>
+![](/uploads/900monthrackspace.jpg "900monthrackspace")
 
 rackspace offers their trademark 'fanatical' support for all packages, and when you take that into account their prices don't differ significantly from Amazons.
 
 Of course what you really want to see is all these Rm900/month packages lined up against each other, and I don't dissapoint:
 
-<a href="/uploads/Rm900Comparison.jpg">![](/uploads/Rm900Comparison.jpg "Rm900Comparison")</a>
+![](/uploads/Rm900Comparison.jpg "Rm900Comparison")
 
 From just the high level you can see that Maxis storage is way too low in comparison to both rackspace and Amazon, that could be on purpose to set Maxis apart, but giving me so much RAM on just one CPU with just 30GB of HDD isn't something I'm particularly fond of. Even if it was unlimited bandwidth, how much could I possibly use on an instance with just 30GB?
 
@@ -101,7 +101,7 @@ You can get 25GB per user on Gmail, for just USD25/year. That doesn't require OS
 
 Next let's look at something similar to pit against the high end Maxis offering at the RM1900/month range:
 
-<a href="/uploads/1900comparison.jpg">![](/uploads/1900comparison.jpg "1900comparison")</a>
+![](/uploads/1900comparison.jpg "1900comparison")
 
 Here is where I think if Maxis has a unlimited bandwidth it could compete. If you're wondering why I haven't upgraded the support for AWS the reason is that AWS Gold cost too much at a budget of just RM1900/month. Rackspace however can offer Managed Service Level which would give it's Medium offering the best support in its class.
 
@@ -135,6 +135,6 @@ I really can't recommend Maxis based on the information I have. In fact, anythin
 <h2>What happens when I tried to contact Maxis?</h2>
 I logged onto the Maxis portal today and tried to fill up a form inquiring on the support and bandwidth charges, the form also mentioned I could get one month free of Maxis Cloud....but when I filled it up:
 
-<a href="/uploads/Runtime-Error.png">![](/uploads/Runtime-Error-1024x383.png "Runtime Error")</a>
+![](/uploads/Runtime-Error-1024x383.png "Runtime Error")
 
 Now that really doesn't bode well for Maxis.

@@ -16,8 +16,8 @@ It's important to point out as well, that this is my Maxis Mobile connection and
 Most feedback from the blogs and forums seems to suggest, Maxis isn't the most torrent friendly ISP. Which is sad.
 
 Here's the glasnost result from Maxis:
-<p style="text-align: center;"><a href="/uploads/Maxis_bit_torrent_block.png">![Maxis_bit_torrent_block](/uploads/Maxis_bit_torrent_block.png)</a> <a href="/uploads/Glasnost_confirm_unifi_torrent_block.png">
+<p style="text-align: center;">![Maxis_bit_torrent_block](/uploads/Maxis_bit_torrent_block.png) <a href="/uploads/Glasnost_confirm_unifi_torrent_block.png">
 </a></p>
 And here's the result from Unifi, but of course I knew already that <a title="TM Unifi speeds actually quite GOOD!" href="http://www.keithrozario.com/2012/05/unifi-speed-test-broadband-torrents-youtube.html" target="_blank">Unifi didn't block torrent traffic</a>.
-<p style="text-align: center;"><a href="/uploads/Glasnost_confirm_unifi_torrent_block.png">![Glasnost_confirm_unifi_torrent_block](/uploads/Glasnost_confirm_unifi_torrent_block.png)</a></p>
+<p style="text-align: center;">![Glasnost_confirm_unifi_torrent_block](/uploads/Glasnost_confirm_unifi_torrent_block.png)</p>
 You can run your own test <a title="BitTorrent Test" href="http://broadband.mpi-sws.org/transparency/bttest.php" target="_blank">here</a>, to determine if you ISP is blocking your torrent traffic. It's also able to detect if your ISP is blocking other popular peer-to-peer applications as well as youtube and email servers as well.

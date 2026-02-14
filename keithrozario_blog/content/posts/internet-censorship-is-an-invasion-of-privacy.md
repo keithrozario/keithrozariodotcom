@@ -6,7 +6,7 @@ draft = false
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia']
 +++
 
-<p style="text-align: center;"><a href="/uploads/Censorship.jpg">![internet censorship](/uploads/Censorship.jpg)</a></p>
+<p style="text-align: center;">![internet censorship](/uploads/Censorship.jpg)</p>
 With the on-going debacle about the Kangkung saga dying down, I thought it would be a good opportunity to write specifically about internet censorship and its implications to ordinary Malaysian citizens. As you may well know, many Malaysia Netizens reported of difficulty accessing one particular post of the BBC website that dealt with the Kangkung issues, causing many to cite that Telekom Malaysia was actually censoring the internet--but what does internet censorship actually entail for Malaysia?
 
 Let's first take a step back, and understand how and Internet Service Provider (ISP) like Telekom Malaysia, Maxis or Digi operate.

@@ -6,7 +6,7 @@ draft = false
 categories = ['Misc']
 +++
 
-<a href="/uploads/undi-tweet-edit.jpg">![](/uploads/undi-tweet-edit.jpg)</a>Two weeks ago, I <a href="/uploads/undi-tweet.jpg">rage-tweeted</a> something regarding Malaysian politics that got a lot more viral than I liked (I've censored out the profanity for various reasons, most notably, there are teenagers who read this blog). It was a pointless collection of 200 characters, that somehow resonated with people enough to be shared across social media. Obviously, since it was me, the tweet was filled with a small collection of profanities, and laced with just the right amount of emotive content :)
+![](/uploads/undi-tweet-edit.jpg)Two weeks ago, I <a href="/uploads/undi-tweet.jpg">rage-tweeted</a> something regarding Malaysian politics that got a lot more viral than I liked (I've censored out the profanity for various reasons, most notably, there are teenagers who read this blog). It was a pointless collection of 200 characters, that somehow resonated with people enough to be shared across social media. Obviously, since it was me, the tweet was filled with a small collection of profanities, and laced with just the right amount of emotive content :)
 
 But then things started getting bad.
 

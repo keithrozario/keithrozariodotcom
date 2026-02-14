@@ -6,7 +6,7 @@ draft = false
 categories = ['Copyright and Censorship', 'Security &amp; Privacy', 'Singapore']
 +++
 
-<a href="/uploads/anonymous_guy_fawkes.jpg">![anonymous_guy_fawkes](/uploads/anonymous_guy_fawkes.jpg)</a>
+![anonymous_guy_fawkes](/uploads/anonymous_guy_fawkes.jpg)
 
 This week, I'll put the final touches on my move from Malaysia to Singapore.
 

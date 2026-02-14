@@ -6,7 +6,7 @@ draft = false
 categories = ['Malaysia', 'Misc', 'Social Media']
 +++
 
-<p style="text-align: center;"><a href="/uploads/Zuckerberg-Larry-SergeyBrin.jpg">![Mark Zuckerberg Larry Page Sergey Brin](/uploads/Zuckerberg-Larry-SergeyBrin.jpg "Zuckerberg-Larry-SergeyBrin")</a></p>
+<p style="text-align: center;">![Mark Zuckerberg Larry Page Sergey Brin](/uploads/Zuckerberg-Larry-SergeyBrin.jpg "Zuckerberg-Larry-SergeyBrin")</p>
 If Pakatan win the next election, I would recommend that they award the title of Tan Sri or at least Dato' to the following:
 <h2>Larry Page and Sergey Brin:</h2>
 Co-founders of Google, who own both the video sharing site Youtube, and the blogging service Blogger.com. Without these two free services the message from the opposition would not have reached so many Malaysians, so effectively in such a short time-span. 12 years ago, before broadband or Google, the opposition were forced to resort to pamphlets and flyers, most of which was ineffective and expensive. Without Larry and Sergey, the Opposition would have not technology to spread their message to the masses. Anwar and Co' owe more to the technology of Sergey and Larry than any amount of funds they may have obtained from any other party (foreign or domestic)

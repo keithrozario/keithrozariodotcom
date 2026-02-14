@@ -7,7 +7,7 @@ tags = ['Apple']
 categories = ['Misc']
 +++
 
-<a href="http://www.apple.com/stevejobs/">![](/uploads/Steve_Jobs-300x188.png "Steve_Jobs")</a>
+![](/uploads/Steve_Jobs-300x188.png "Steve_Jobs")
 
 Apple has lost a visionary and creative genius, and the world has lost an amazing human being....<!--more-->
 

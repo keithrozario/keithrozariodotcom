@@ -12,7 +12,7 @@ Can't do it?
 
 You most probably got a warning that looked something like this:
 
-<a href="/uploads/chedet_blocked.png">![chedet_blocked](/uploads/chedet_blocked.png)</a>
+![chedet_blocked](/uploads/chedet_blocked.png)
 
 This has been going on for some time, but a couple of days ago, the Malaymail reported that not only is the website blocked, but articles pointing to Mahathirs 'Chinese dilemma'  were also blocked. A note on Mahathirs Facebook page informed readers that:
 

@@ -6,7 +6,7 @@ draft = false
 categories = ['Misc']
 +++
 
-<p style="text-align: center;"><a href="/uploads/google-vs-facebook.jpg">![](/uploads/google-vs-facebook.jpg "Can Malaysia produce the next Facebook or Google?")</a></p>
+<p style="text-align: center;">![](/uploads/google-vs-facebook.jpg "Can Malaysia produce the next Facebook or Google?")</p>
 Can Malaysia produce the next Facebook or Google?
 
 The short answer is NO.

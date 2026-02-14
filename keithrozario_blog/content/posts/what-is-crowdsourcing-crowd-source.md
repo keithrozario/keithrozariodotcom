@@ -7,7 +7,7 @@ tags = ['Tech Trends']
 categories = ['Crowdsourcing', 'Misc']
 +++
 
-<a title="Crowdsourcing" href="http://www.keithrozario.com/2011/08/crowdsourcing.html">![](/uploads/2818164536_e5b2a30da5_m.jpg "2818164536_e5b2a30da5_m")</a>So you heard about Crowdsourcing from a TED talk you just watched online, and now you're wondering what Crowdsourcing is. Well here's the lowdown, Crowdsourcing is a phenomena where ultra rich companies rely on many lowly underpaid serfs to gather data, process it and then produce a result where the ultra rich companies can then use to make them richer...well in not so many words of course, but obviously I'm joking.
+![](/uploads/2818164536_e5b2a30da5_m.jpg "2818164536_e5b2a30da5_m")So you heard about Crowdsourcing from a TED talk you just watched online, and now you're wondering what Crowdsourcing is. Well here's the lowdown, Crowdsourcing is a phenomena where ultra rich companies rely on many lowly underpaid serfs to gather data, process it and then produce a result where the ultra rich companies can then use to make them richer...well in not so many words of course, but obviously I'm joking.
 
 Jokes aside, Crowdsourcing is a pretty cool thing, it's getting the wisdom of the crowd in your decision making process and relying on the fact that many people working together can produce much better results one single person or organization can. Think of crowdsourcing as brainstorming with an unlimited number of people, and where anyone can join (and leave) the group providing you the influx (and reflux) of ideas necessary to produce truly lateral thinking.<!--more-->
 

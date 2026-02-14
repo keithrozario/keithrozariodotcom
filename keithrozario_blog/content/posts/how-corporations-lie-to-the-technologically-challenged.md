@@ -6,7 +6,7 @@ draft = false
 categories = ['CyberLaw', 'Malaysia', 'Security &amp; Privacy']
 +++
 
-<a href="/uploads/wpid-wp-1442992521638-1.jpeg">![wpid-wp-1442992521638 (1)](/uploads/wpid-wp-1442992521638-1-300x170.jpeg)</a>Two weeks ago, Lowyat.net published a <a href="http://www.lowyat.net/2015/74092/can-you-break-these-codes/">'challenge'</a> to their readers, one that would supposedly pay a cool RM100,000 to the winner.All you had to do was decrypt an AES-256 encoded blob of code (more accurately referred to as ciphertext).
+![wpid-wp-1442992521638 (1)](/uploads/wpid-wp-1442992521638-1-300x170.jpeg)Two weeks ago, Lowyat.net published a <a href="http://www.lowyat.net/2015/74092/can-you-break-these-codes/">'challenge'</a> to their readers, one that would supposedly pay a cool RM100,000 to the winner.All you had to do was decrypt an AES-256 encoded blob of code (more accurately referred to as ciphertext).
 
 As expected, no one won.
 

@@ -6,7 +6,7 @@ draft = false
 categories = ['Cloud Computing', 'Malaysia']
 +++
 
-<a href="/uploads/Welcome-To-Maxis-Cloud-Support.png">![](/uploads/Welcome-To-Maxis-Cloud-Support-300x200.png "Welcome To Maxis Cloud Support")</a>A couple of weeks back I wrote a <a title="Maxis Cloud : Too Late, Too expensive and Too Restrictive" href="http://www.keithrozario.com/2012/03/maxis-cloud-too-late-too-expensive-and-too-restrictive.html">long post on the Maxis Cloud </a>comparing it to other IaaS providers like Amazon and rackspace. That post wasn't too kind to Maxis, and I did mention that there was no reason to use it...unless the data transfer was free.
+![](/uploads/Welcome-To-Maxis-Cloud-Support-300x200.png "Welcome To Maxis Cloud Support")A couple of weeks back I wrote a <a title="Maxis Cloud : Too Late, Too expensive and Too Restrictive" href="http://www.keithrozario.com/2012/03/maxis-cloud-too-late-too-expensive-and-too-restrictive.html">long post on the Maxis Cloud </a>comparing it to other IaaS providers like Amazon and rackspace. That post wasn't too kind to Maxis, and I did mention that there was no reason to use it...unless the data transfer was free.
 
 As it turns out, <strong>data transfer on the Maxis IS FREE!!</strong>
 

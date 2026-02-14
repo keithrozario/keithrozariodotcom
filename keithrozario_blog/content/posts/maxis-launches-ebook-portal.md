@@ -13,7 +13,7 @@ I'm an avid reader and was excited when I heard the news, so I headed over to th
 
 <!--more-->
 
-<a href="/uploads/Progress-Principle.jpg">![](/uploads/Progress-Principle.jpg "Progress Principle")</a><a href="/uploads/Mitch-Albom.png">![](/uploads/Maxis-ebuuk-Progress.png "Maxis ebuuk Progress")</a>
+![](/uploads/Progress-Principle.jpg "Progress Principle")![](/uploads/Maxis-ebuuk-Progress.png "Maxis ebuuk Progress")
 
 Next I looked up one of Maxis recommendations, I expected the recommendations to be cheaper and probably be able to compete with Amazon. The recommendation in question was 5 people you meet in Heaven by Mitch Albom. Amazon retails the kindle version for USD4.99, or about Rm16-Rm17 here. Maxis on the other hand retails it for Rm55.99 that's more than 3 times the price of Amazon.
 

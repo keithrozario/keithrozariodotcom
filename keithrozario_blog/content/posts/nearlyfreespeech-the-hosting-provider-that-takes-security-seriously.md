@@ -6,7 +6,7 @@ draft = false
 categories = ['Blog', 'Security &amp; Privacy']
 +++
 
-<a href="/uploads/NearlyFreeSpeech.NET-Web-Hosting.png">![NearlyFreeSpeech.NET Web Hosting](/uploads/NearlyFreeSpeech.NET-Web-Hosting-300x126.png)</a>You all know <a title="One year of Blogging on Nearlyfreespeech" href="http://www.keithrozario.com/2012/04/one-year-of-blogging-on-nearlyfreespeech.html">how much I love nearlyfreespeech</a>, it's one of the best hosting providers out there. Here's one more reason, recently they alerted me to a suspicious number of login attempts to my wordpress site, which usually means someone was trying to hack it.
+![NearlyFreeSpeech.NET Web Hosting](/uploads/NearlyFreeSpeech.NET-Web-Hosting-300x126.png)You all know <a title="One year of Blogging on Nearlyfreespeech" href="http://www.keithrozario.com/2012/04/one-year-of-blogging-on-nearlyfreespeech.html">how much I love nearlyfreespeech</a>, it's one of the best hosting providers out there. Here's one more reason, recently they alerted me to a suspicious number of login attempts to my wordpress site, which usually means someone was trying to hack it.
 
 If you remember the post I did about the <a title="RHBNOW Email: Intricate details of a Phishing scam" href="http://www.keithrozario.com/2014/07/rhb-phishing-scam-details-phishing-scam.html">RHB bank scam</a>, it's quite common for hackers to inject pages onto a wordpress site to help them carry out banking scams. This was probably something similar.
 

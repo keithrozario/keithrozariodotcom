@@ -7,7 +7,7 @@ tags = ['BitCoin']
 categories = ['Security &amp; Privacy', 'WhatisIT']
 +++
 
-<a href="/uploads/download.jpg">![WTF is BitCoin](/uploads/download.jpg)</a>
+![WTF is BitCoin](/uploads/download.jpg)
 
 WTF is a bitcoin? There's much ado over the digital currency and many people struggle to understand what it is. In fact, even I haven't fully grasped the fundamental nature of how it works--but then again I don't know how the banking and fiat currency system work, yet I still use it.
 

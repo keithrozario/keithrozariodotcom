@@ -44,7 +44,7 @@ Working back, you'd also have to make sure the retailer still makes Rm1 of profi
 
 The customer would pay Rm10, and get Rm9.43 in credit for his phone bill, not much different than paying Rm10.60 now, and getting just Rm10.00 in credit. Just that in this way, the numbers are nice and round, and no hassle of coins.
 
-[caption id="attachment_5005" align="aligncenter" width="650"]<a href="/uploads/GST-RM10.jpg">![GST RM10](/uploads/GST-RM10-820x461.jpg)</a> Nett top-up of Rm10 (RM10-nett model)[/caption]
+[caption id="attachment_5005" align="aligncenter" width="650"]![GST RM10](/uploads/GST-RM10-820x461.jpg) Nett top-up of Rm10 (RM10-nett model)[/caption]
 
 But while this also fits in nicely, there's a huge problem in implementing this solution
 <h2>The solution is HARD</h2>

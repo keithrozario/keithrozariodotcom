@@ -6,7 +6,7 @@ draft = false
 categories = ['Crowdsourcing']
 +++
 
-<a href="/uploads/The-Best-of-Kickstarter-2012-—-Kickstarter.png">![Number of Successful Kickstarter Projects in 2012](/uploads/The-Best-of-Kickstarter-2012-—-Kickstarter.png "The Best of Kickstarter 2012 — Kickstarter")</a>
+![Number of Successful Kickstarter Projects in 2012](/uploads/The-Best-of-Kickstarter-2012-—-Kickstarter.png "The Best of Kickstarter 2012 — Kickstarter")
 
 Crowdfunding is exploding, and kickstarter is exploding with it.
 

@@ -9,7 +9,7 @@ categories = ['Malaysia', 'Security &amp; Privacy']
 
 Yesterday I Googled something about maxis that took me to a forum.maxis.com.my link. Unfortunately, Firefox wasn't happy with Maxis, because I got the following screen:
 
-<a href="/uploads/Maxis-forum.png">![SSL V3 on maxis forum](/uploads/Maxis-forum.png)</a>
+![SSL V3 on maxis forum](/uploads/Maxis-forum.png)
 
 Firefox is the first of the mainstream browsers to end support of SSLv3, ever since <a title="Poodle Security Vulnerability" href="https://en.wikipedia.org/wiki/POODLE" target="_blank">Poodle</a> was published. For those of you who aren't keeping tabs of security issues--Poodle was a big vulnerability discovered in the 2nd half of 2014, that affected the SSLv3 protocol.
 

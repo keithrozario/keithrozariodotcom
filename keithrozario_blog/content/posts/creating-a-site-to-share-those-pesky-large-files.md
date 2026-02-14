@@ -7,7 +7,7 @@ tags = ['Blog Features', 'PHP']
 categories = ['Blog']
 +++
 
-<a rel="attachment wp-att-825" href="http://www.keithrozario.com/2011/06/creating-a-site-to-share-those-pesky-large-files.html/file_sharing">![http://www.flickr.com/photos/kevymckeversons/444514987/sizes/l/in/photostream/](/uploads/File_sharing-150x112.jpg "File_sharing")</a>Ever since they took down <a title="Drop.Io" href="http://en.wikipedia.org/wiki/Drop.io" target="_blank">drop.io </a>I've been struggling to find a site where I could share content/files with my developers and service providers. I work for the IT department of a multinational company and sometimes I require to share content with developers and service providers that are not from my company (and therefore don't share access to the intranet). I'm sure many people struggle with this, how do I share those large files with my team?<!--more-->
+![http://www.flickr.com/photos/kevymckeversons/444514987/sizes/l/in/photostream/](/uploads/File_sharing-150x112.jpg "File_sharing")Ever since they took down <a title="Drop.Io" href="http://en.wikipedia.org/wiki/Drop.io" target="_blank">drop.io </a>I've been struggling to find a site where I could share content/files with my developers and service providers. I work for the IT department of a multinational company and sometimes I require to share content with developers and service providers that are not from my company (and therefore don't share access to the intranet). I'm sure many people struggle with this, how do I share those large files with my team?<!--more-->
 
 The short answer is email, email offers the simplest method to share files, but email has a limit, usually to the tune of 5MB. Anything bigger and email just won't cut it.
 
@@ -36,8 +36,7 @@ Change the permission for the upload folder to 744
 Change the permission for the config.php file to 700
 <h2><span style="color: #993366;">Step 5: Modify the php.ini on Dreamhost.</span></h2>
 <span style="color: #993366;"><span style="color: #000000;">If you unzip the files correctly, and you browsed to the info.php file with your internet browser, you'll see something like this:</span></span>
-<h2><a href="http://socialize.jomlunch.com/info.php">![](/uploads/PHP_info-300x246.jpg "PHP_info")
-</a></h2>
+<h2>![](/uploads/PHP_info-300x246.jpg "PHP_info")</h2>
 <span style="color: #993366;"><span style="color: #000000;">Look for these 2 values:</span></span>
 <blockquote>post_max_size = 12M
 upload_max_filesize = 7M</blockquote>
@@ -49,7 +48,7 @@ Upgrade your website to PHP5.3
 
 Go to your domains-&gt;Edit the domain and under the web options select <strong>PHP5.3 FAST CGI</strong> from the list
 
-[caption id="attachment_823" align="aligncenter" width="300" caption="Chaging the web-options in Dreamhost"]<a rel="attachment wp-att-823" href="http://www.keithrozario.com/2011/06/creating-a-site-to-share-those-pesky-large-files.html/web_options_php_5-3">![](/uploads/web_options_php_5.3-300x134.jpg "web_options_php_5.3")</a>[/caption]
+[caption id="attachment_823" align="aligncenter" width="300" caption="Chaging the web-options in Dreamhost"]![](/uploads/web_options_php_5.3-300x134.jpg "web_options_php_5.3")[/caption]
 <h2><span style="color: #993366;">Step 5.2 upload a new php.ini file</span></h2>
 This is simpler than it sounds.
 
@@ -67,7 +66,7 @@ The scripts should work, if you give it a test drive. If you wish to increase th
 Finally you'll be able to see, <strong>Keith's Awesome File Up&amp;Down loader</strong>. The design of the site leaves much to be desired, I'm hoping someone could help me out there.
 
 Preview of the site:
-<p style="text-align: center;"><a rel="attachment wp-att-824" href="http://www.keithrozario.com/2011/06/creating-a-site-to-share-those-pesky-large-files.html/keiths_awesome_file_uploader">![](/uploads/Keiths_Awesome_file_uploader.jpg "Keiths_Awesome_file_uploader")</a></p>
+<p style="text-align: center;">![](/uploads/Keiths_Awesome_file_uploader.jpg "Keiths_Awesome_file_uploader")</p>
  
 
 If you're still interested, try my awesome file uploader over at <a title="Uploads" href="http://www.keithrozario.com/uploads" target="_blank">www.keithrozario.com/uploads</a>, use 'KEITHisAWESOME'.

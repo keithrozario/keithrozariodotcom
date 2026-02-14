@@ -7,7 +7,7 @@ tags = ['Facebook', 'Google']
 categories = ['Social Media']
 +++
 
-<a title="Mark Zuckerberg" href="http://www.keithrozario.com/2011/10/mark-zuckerberg-is-no-1.html/mark_zuckerberg" rel="attachment wp-att-1319">![](/uploads/Mark_Zuckerberg.jpg "Mark_Zuckerberg")</a>Sometimes life throws you surprising ironies that you can't help but just bury your head in sorrow, like an ex-girlfriend becoming your boss or the office jerk winning the lottery.
+![](/uploads/Mark_Zuckerberg.jpg "Mark_Zuckerberg")Sometimes life throws you surprising ironies that you can't help but just bury your head in sorrow, like an ex-girlfriend becoming your boss or the office jerk winning the lottery.
 
 Google aspires to overcome facebook as the number 1 social networking site by launching things like +1 and Google+, however in a surprising twist of fate the number 1 user on Google+ was none other than Facebook CEO <a title="Mark Zuckerberg" href="http://socialstatistics.com/profile/104560124403688998123" target="_blank">Mark Zuckerberg</a>. You almost hear the collective <strong>'DOH!'</strong> from the googleplex echo through silicon valley. Homer Simpson would be proud.
 

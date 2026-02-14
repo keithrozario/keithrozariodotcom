@@ -33,7 +33,7 @@ then to the NW Washington (which represents a quadrant in D.C),
 and finally to Pennsylvania Avenue at which point you just look for a big white house at number 1600. (the one with a <a title="Marine1" href="https://en.wikipedia.org/wiki/Marine_1" target="_blank">helicopter on the lawn</a>)
 
  
-<p style="text-align: center;"><a href="/uploads/Slide1.jpg">![Postal addresses vs. IP Addresses](/uploads/Slide1.jpg)</a></p>
+<p style="text-align: center;">![Postal addresses vs. IP Addresses](/uploads/Slide1.jpg)</p>
 The hierarchy and uniqueness help the post-office route your letter, imagine you wanted to send a letter to the President and you drop off your letter at the Post-Office in KL.
 
 The post-man in KL reads the address bottom-up, and places your letter in the pile for the U.S. From there the physical letter reaches the shores of the U.S, where another post-man reads the address bottom-up and sees that it's marked for postal code 20500. So he sends it off to the post-office that covers that particular postal code, eventually it reaches the post-office that serves the North-West quadrant of D.C. and the last post-man delivers it to 1600 Pennsylvania Avenue.
@@ -53,7 +53,7 @@ So imagine rather than sending a physical letter you wanted to send a data-packe
 The first thing to note is that the post-men and post-offices of the internet are called routers--cause the route the information. Your home will usually have one supplied by your local ISP, for Unifi subscribers it's the orange and white device that Telekom Malaysia gave you.
 
 The 'letters' of the internet are the IP 'packets', little packets of data that just like letters have the destination address in plain sight.
-<p style="text-align: center;"><a href="/uploads/Slide2.jpg">![How IP addressing works](/uploads/Slide2.jpg)</a></p>
+<p style="text-align: center;">![How IP addressing works](/uploads/Slide2.jpg)</p>
 Now the first step is usually my PC sending the IP packet to my home router, which then forwards it to a local Malaysian router that looks at the destination IP address of my packet (185.25.196.110), it will then lookup its routing table and discover that it should route all IPs that start with 185.25 to a router in the UK (for example). Once my packet reaches the UK, a router there looks at my destination IP address and performs a similar lookup, and this point it looks up its routing table and finds it should route all IPs that start with 185.25.19 to New York, USA.
 
 A router in New York may do a similar routing, till eventually the last router in the chain can actually route the full IP address 185.25.196.110, and at that IP address would sit the server that host the website for one Barack Hussein Obama.

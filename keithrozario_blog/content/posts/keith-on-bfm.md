@@ -6,7 +6,7 @@ draft = false
 categories = ['Misc']
 +++
 
-<a href="/uploads/rsz_img_20151016_173613.jpg">![Keith_on_BFM_Tech_Talk](/uploads/rsz_img_20151016_173613.jpg)</a>3-4 weeks ago, I pimped myself an interview on BFM, and yesterday <a href="http://www.bfm.my/tech-talk-consequences-tech-illiterate-keith-rozario.html">it finally aired</a>. Woohoo!!
+![Keith_on_BFM_Tech_Talk](/uploads/rsz_img_20151016_173613.jpg)3-4 weeks ago, I pimped myself an interview on BFM, and yesterday <a href="http://www.bfm.my/tech-talk-consequences-tech-illiterate-keith-rozario.html">it finally aired</a>. Woohoo!!
 
 Here's the audio, and below are some show-notes you might be interested in if you want to learn more. I searched for these links AFTER the show, so they may not be 100% in step, but good place to start.
 

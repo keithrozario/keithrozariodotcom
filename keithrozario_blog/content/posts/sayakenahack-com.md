@@ -7,7 +7,7 @@ tags = ['sayakenahack']
 categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++
 
-<a href="/uploads/image2017-11-12_19-2-50.png">![](/uploads/image2017-11-12_19-2-50.png)</a>
+![](/uploads/image2017-11-12_19-2-50.png)
 
 On the 19th of October, Lowyat.net reported that a user was <a href="https://www.lowyat.net/2017/145654/personal-data-millions-malaysians-sale-source-breach-still-unknown/">selling the personal data of MILLIONS of Malaysians</a> on their forum. Shortly after, the article was taken down on the request of the MCMC, only to put up again, a couple of days later.
 

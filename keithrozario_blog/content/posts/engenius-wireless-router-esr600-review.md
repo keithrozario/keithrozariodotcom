@@ -20,7 +20,7 @@ The other thing I need to mention is that the Engenius User Interface is one of 
 <h2>Features</h2>
 There's a ton of features on most modern routers, even on the lower price points, the ones that are important to me are:
 
-QoS settings <a href="/uploads/EnGenius-Wireless-Router-ESR600.png">![EnGenius Wireless Router ESR600](/uploads/EnGenius-Wireless-Router-ESR600.png)</a>QoS (Quality of Service) is a special setting on the router that allows you to select which traffic to prioritize. For example, in my home, I'd like to prioritize my gaming traffic, and my work traffic for when I take teleconference calls. This is very important, otherwise my wife can cause me to lose the game, or experience laggy meetings simply because she's watching korean dramas on her iPad.
+QoS settings ![EnGenius Wireless Router ESR600](/uploads/EnGenius-Wireless-Router-ESR600.png)QoS (Quality of Service) is a special setting on the router that allows you to select which traffic to prioritize. For example, in my home, I'd like to prioritize my gaming traffic, and my work traffic for when I take teleconference calls. This is very important, otherwise my wife can cause me to lose the game, or experience laggy meetings simply because she's watching korean dramas on her iPad.
 
 I consider QoS to be an essential feature on a router, and most routers offer this out of the box. However, Engenius offers the feature to set specific machines to higher priority which saves you the trouble of figuring out the specific traffic you're interested in.
 

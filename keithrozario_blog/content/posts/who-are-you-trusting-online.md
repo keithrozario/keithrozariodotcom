@@ -6,7 +6,7 @@ draft = false
 categories = ['Misc', 'Security &amp; Privacy']
 +++
 
-<a href="/uploads/Trust.jpg">![Trusting in an online world](/uploads/Trust.jpg)</a>
+![Trusting in an online world](/uploads/Trust.jpg)
 
 When you get behind the wheel of your car, and hit the road--you're implicitly trusting ever other road user to play by the rules.  You trust no one will go out of their way to crash into you, or that no one would swerve into you for an insurance claim, you even trust that pedestrians won't hijack your car as you stop at the red light.
 
@@ -28,7 +28,7 @@ So for example you trust Rosmah (and really who wouldn't...she's such a nice lad
 
 Philosophically you can have ask, how do you know Rosmah is who she says she is anyway? Which is the problem of the initial trust, and then of course once you trust Rosmah, how does the chaining of trust from you to Rosmah to Ali to Maybank work?
 <h2>Step 1: Buying your machine (trusting the salesman)</h2>
-[caption id="attachment_4501" align="alignleft" width="263"]<a href="/uploads/3345057291_cc0810b21a_z.jpg">![You](/uploads/3345057291_cc0810b21a_z.jpg)</a> You'd think twice before you trust this guy with your online banking.[/caption]
+[caption id="attachment_4501" align="alignleft" width="263"]![You](/uploads/3345057291_cc0810b21a_z.jpg) You'd think twice before you trust this guy with your online banking.[/caption]
 
 It's actually surprisingly complex system that starts out with you buying a new machine (whether it's a laptop, tablet or phone) and from that point of your purchase--you immediately trust the party you've purchased the laptop from. For instance you trust Amazon or Harvey Norman not to install keyloggers or malware on your machine when you buy it from them. Then of course you'd need to trust the actual manufacturer of the machine--whether it's Lenovo or Dell or Compaq, you trust that they dutifully installed original versions of Windows(or some other OS) on your machine without adding malware or keyloggers.
 
@@ -52,7 +52,7 @@ If you right-click on an executable you download, there 'should' be a digital si
 
 In the run-up to the Malaysian elections, Citizen Labs discovered a <a title="CitizenLab finSpy Malaysia" href="https://citizenlab.org/storage/finfisher/final/fortheireyesonly.pdf" target="_blank">booby-trapped word document that once opened would install spyware on the machine that would masquerade as firefox</a>. The document was titled "SENARAI CADANGAN CALON PRU KE-13 MENGIKUT NEGERI.” which of course meant that it was targeted at Malaysians, and since Gamma only sold software to governments--you can do the math as to who was behind the spyware installations.
 
-<a href="/uploads/Fake-vs.-Real-Firefox.png">![Fake vs. Real Firefox](/uploads/Fake-vs.-Real-Firefox.png)</a>
+![Fake vs. Real Firefox](/uploads/Fake-vs.-Real-Firefox.png)
 
 The point of course is that the fake Gamma Corp Firefox, didn't have a digital signature, while the real Firefox did--but how many of you actually verify the signatures of applications you install? How many people know it's there?
 
@@ -70,7 +70,7 @@ The same concept works for Online browsing, when you visit Maybank or CIMBClicks
 
 The next step is to verify that the website really does possess the certificate--because anyone who visits Maybank gets the same certificate, and can easily spoof the certificate on some other website. The trick here is, that the in the Maybank certificate lies a secondary public key--and because you trust that certificate you trust the public key. And all you need to do now, is encrypt something with the secondary public key, and challenge the website to decrypt it. If they succeed it means that they have the Private key and you can trust them--if they can't, you know that they're lying about who they say they are. The private key to the Maybank2u.com.my login is quite possibly the most important number in Malaysia, and it guards the millions of Maybank2u account holders from fraud and theft--imagine our entire financial system is protected by nothing more than a secret that's 'just' 600 digits long.*
 
-[caption id="attachment_4499" align="aligncenter" width="500"]<a href="/uploads/Maybank-Certificate.png">![Maybank-Certificate](/uploads/Maybank-Certificate.png)</a> The Actual Maybank2u.com.my certificate, with the chain of trust originating from the VeriSign Class 3 Root Certificate, all the way to Maybank2u.com.my, underneath is the 2048-bit Public Key (which is just 600 decimal digits long).[/caption]
+[caption id="attachment_4499" align="aligncenter" width="500"]![Maybank-Certificate](/uploads/Maybank-Certificate.png) The Actual Maybank2u.com.my certificate, with the chain of trust originating from the VeriSign Class 3 Root Certificate, all the way to Maybank2u.com.my, underneath is the 2048-bit Public Key (which is just 600 decimal digits long).[/caption]
 
 However, the only reason you trust that 600 digit long number is because the Certificate authority on your machine formed a chain of trust to Maybank's certificate. And the only reason you trust that Certificate Authority is because it came pre-installed with Windows (or Firefox).
 
@@ -82,7 +82,7 @@ So you trust Microsoft, who then trust these CAs, who then tell you that a websi
 
 Which of course leads us to the last part of this very long post--how do you revoke trust? Trust like anything must not only be earned--it must be continually earned. Any system that perpetually trust someone (or something) is likely to have that trust violated at some point, instead there must be some mechanism to revoke trust, particularly in a chained world of trust that the internet operates on. The surprising thing is that while the mechanism to trust is straightforward and mutually agreed on--the mechanism to revoke trust is a huge controversy online, with different experts having different views. How certificates are revoked online is a strange process that differs by browser--but the fact of the matter is, there must be a way to revoke trust, because trust needs to be 'current'.
 <h2>Step 4: Revoking Trust</h2>
-<a href="/uploads/234217869_8ce0ad92ec_z.jpg">![234217869_8ce0ad92ec_z](/uploads/234217869_8ce0ad92ec_z.jpg)</a>
+![234217869_8ce0ad92ec_z](/uploads/234217869_8ce0ad92ec_z.jpg)
 
 As we saw in step 3, as long a root-certificate on your machine validates a online certificate, that online certificate is deemed safe and secure. However, what happens if the bad guys manage to find the private key of the online certificate--how would the CA revoke that online certificate?
 

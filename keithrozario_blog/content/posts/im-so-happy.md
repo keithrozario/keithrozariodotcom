@@ -6,7 +6,7 @@ draft = false
 categories = ['Blog', 'Malaysia', 'Misc']
 +++
 
-<a href="http://www.keithrozario.com/2011/12/im-so-happy.html">![](/uploads/6512252165_977e66b3ec_z1-181x300.jpg "6512252165_977e66b3ec_z")</a>My blog &amp; name was mentioned on <a title="Tech Talk" href="http://bfm.my/tech-talk.html" target="_blank">BFMs tech talk today</a>. Woo hoo!! I'm so happy!!
+![](/uploads/6512252165_977e66b3ec_z1-181x300.jpg "6512252165_977e66b3ec_z")My blog &amp; name was mentioned on <a title="Tech Talk" href="http://bfm.my/tech-talk.html" target="_blank">BFMs tech talk today</a>. Woo hoo!! I'm so happy!!
 
 You can download the podcast of the show at BFMs website <a title="Geek Squads Pod Cast Episode 53" href="http://www.bfm.my/geeksquawks_ep53.html" target="_blank">here</a> , and it's fantastic (partially because it mentions my blog).
 

@@ -6,7 +6,7 @@ draft = false
 categories = ['Blog', 'Security &amp; Privacy']
 +++
 
-[caption id="attachment_4859" align="alignleft" width="256"]<a href="/uploads/images5.jpg">![Apache runs nearly 50% of all active websites](/uploads/images5.jpg)</a> Apache runs nearly 50% of all active websites[/caption]
+[caption id="attachment_4859" align="alignleft" width="256"]![Apache runs nearly 50% of all active websites](/uploads/images5.jpg) Apache runs nearly 50% of all active websites[/caption]
 
 Recently I moved the hosting for keithRozario.com from a regular hosted platform called WPWebhost to my own Virtual machine on digitalOcean. The results have been great, but the migration process was a bit tedious and took some effort.
 

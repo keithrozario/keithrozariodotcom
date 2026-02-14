@@ -13,7 +13,7 @@ Before I proceed a friendly word of caution--Kids don't try this at home--the sc
 
 But if you'd like to see what happens when you click on one--read on:
 <h2>Step 1: The email from RHBGroup.com</h2>
-<a href="/uploads/rhbgroup_email.png">![Email from RHB Group](/uploads/rhbgroup_email-1024x364.png)</a>
+![Email from RHB Group](/uploads/rhbgroup_email-1024x364.png)
 
  
 
@@ -39,7 +39,7 @@ Using a common security mistake, these scammers places a simple re-direction scr
 
 So even before I arrive at the actual scam, there's already 2 victims here. But wait till you see what comes up next.
 <h2>Step 3: Arriving at the scam website
-<a href="/uploads/RHB_Phishing_Entry_Page.png">![RHB Phishing Website Scame](/uploads/RHB_Phishing_Entry_Page-1024x729.png)</a></h2>
+![RHB Phishing Website Scame](/uploads/RHB_Phishing_Entry_Page-1024x729.png)</h2>
 I clicked on the link and arrived at a website that looked exactly the same as the <em><strong>REAL</strong></em> RHBNow login page. Its got the security lables, the ENTRUST logo, even the phishing alert that tells you<em> "Not to fall prey to online banking scams"</em>. However, if you're observant that the address bar points to an unknown url--nulldivision.com instead of rhb.com.my.
 
 If you've followed the advice of never clicking on links in emails from banks (because the REAL bank would never send you an email), you'll never end up here--but if you've ever wondered how to determine if a banking website was legitimate look out for what I like to call the GREEN BAR OF SSL. Below you'll see the real RHB login page, and the only real difference is that the address bar in your browser turns green for a banks real website.
@@ -50,7 +50,7 @@ Remember folks:<strong> If it ain't Green, don't login.</strong>
 
 Of course my website doesn't have the green bar, and neither do countless other blogs. However, every BANK website should have it, and it's an easy way to determine if the rhb.com.my website you're at is legitimate.
 
-<a href="/uploads/RHB_Real.png">![Real RHB Website](/uploads/RHB_Real-1024x744.png)</a>
+![Real RHB Website](/uploads/RHB_Real-1024x744.png)
 <h2>Step 4: Login into the website</h2>
 I decided to login into the website to see what else the scammers had in store for me. I just entered a random username and password, and found myself at a page requesting my security code and one-time password.
 
@@ -62,7 +62,7 @@ What's happening is that while you're entering your username and password on the
 
 With the security code they can now perform transactions on your behalf, like emptying your bank account while you're still wondering what's going on.
 
-<a href="/uploads/RHB_Phishing_2.png">![RHB_Phishing_Security_Code](/uploads/RHB_Phishing_2.png)</a>
+![RHB_Phishing_Security_Code](/uploads/RHB_Phishing_2.png)
 <h2>Step 5: Lose your money--but how?</h2>
 If you clicked on the link in the email, entered your passwords and security code, you can rest assured that you and your money would soon be departed.
 
@@ -74,7 +74,7 @@ In fact, the range of emails I got, suggest that these are similar attacks--but 
 <h2>Step 6: Protection kicks in</h2>
 About 2-3 hours after I received the email, trying to visit the site on either Google or Firefox led me to a page that looks like this:
 
-<a href="/uploads/RHB_Phishing_Warning.png">![Firefox phishing protection](/uploads/RHB_Phishing_Warning-1024x383.png)</a>
+![Firefox phishing protection](/uploads/RHB_Phishing_Warning-1024x383.png)
 
 So after a couple of hours, the phishing scam gets reported and firefox and chrome begin to warn you when you visit it. This means that the scammers only have 2-3 hours to scam as many people as they can, before Firefox and Chrome start protecting users.You should never rely on this as your main source of protection, but FireFox and Chrome do protect you against threats quite effectively.
 <h2>Conclusion:</h2>

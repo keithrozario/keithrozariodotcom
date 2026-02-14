@@ -6,7 +6,7 @@ draft = false
 categories = ['Misc']
 +++
 
-<a href="/uploads/314989744_5b5a852b47_z.jpg" rel="attachment wp-att-4940">![Spying Program](/uploads/314989744_5b5a852b47_z-300x200.jpg)</a>In the online world, surveillance and censorship are two sides of the same coin, you can't have one without the other.
+![Spying Program](/uploads/314989744_5b5a852b47_z-300x200.jpg)In the online world, surveillance and censorship are two sides of the same coin, you can't have one without the other.
 
 When the government moots a 'blogger registration' act , we automatically infer it to be part of a wider censorship initiative, an attempt to control the narrative by subtlety telling bloggers <em>"we know who you are, so watch what you say".</em>
 

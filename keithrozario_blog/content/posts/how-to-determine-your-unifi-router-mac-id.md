@@ -7,7 +7,7 @@ categories = ['Malaysia', 'Security &amp; Privacy']
 +++
 
 <h2 class="cufon"> Step 1: Logon to your router</h2>
-<a title="D-Link dir-615 Router Logon" href="/uploads/Router_Logon.png" rel="fancybox-post-4212">![D-Link dir-615 Router Logon](/uploads/Router_Logon.png)</a>
+![D-Link dir-615 Router Logon](/uploads/Router_Logon.png)
 
 To logon to your router, fire up your web-browser (Chrome, Firefox, Safari–even Internet Explorer will do).  In the address bar where you usually type www.google.com type <a title="Router Logon" href="http://192.168.0.1/" target="_blank">http://192.168.0.1</a> (sometimes it's <a title="Router Logon" href="http://192.168.1.1" target="_blank">http://192.168.1.1</a> ) or just click the link. Once there enter the username and password of the router. If you’re uncertain try any one of the following combinations:
 
@@ -25,13 +25,13 @@ To logon to your router, fire up your web-browser (Chrome, Firefox, Safari–eve
 
 Otherwise refer to this post on how to find your router password. Click <a title="Hack Unifi router" href="http://www.keithrozario.com/2013/08/hack-unifi-default-password.html" target="_blank">here</a>, and look for option 3.
 <h2 class="cufon"> Step 2: Click on the status button</h2>
-<a href="/uploads/Status-button.png">![Status-button](/uploads/Status-button.png)</a>
+![Status-button](/uploads/Status-button.png)
 
 Hit the status button on the top right hand of the page (refer to the picture above). It'll take you to the status page which should display your MAC ID in the clear.
 <h3>Step 3: Get the MAC ID</h3>
 Your MAC ID for both the LAN and WAN should be presented in the clear on this page. Here you can cross-reference to check your MAC. Your MAC ID is something your router broadcast together with the SSID--although you (as a human) won't see it,  other computers and wi-fi enabled devices will see it. It's essential for communications between network devies.
 
-<a href="/uploads/MAC-ID-Dlink-router.png">![MAC-ID-Dlink-router](/uploads/MAC-ID-Dlink-router.png)</a>
+![MAC-ID-Dlink-router](/uploads/MAC-ID-Dlink-router.png)
 
  
 <h2>Step 4: Fix the hack so it doesn't happen again</h2>

@@ -7,7 +7,7 @@ tags = ['jangankenahack', 'siteaudit']
 categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++
 
-<a href="/uploads/scan_burgundy.jpeg">![](/uploads/scan_burgundy.jpeg)</a>
+![](/uploads/scan_burgundy.jpeg)
 
 Last week I launched a draft of the Gov.my Audit, and this week we have version 2.0
 
@@ -35,7 +35,7 @@ Currently, Shodan doesn't index all the IPs in the range we scan, and I'm unable
 
 The results are quite amusing, among them a high prevalence of FTP servers, and one hostname having as many as 32 open ports !! I've never seen that many open ports on a server (not even one created to be insecure).
 
-<a href="/uploads/Shodan_Results.jpg">![](/uploads/Shodan_Results.jpg)</a>
+![](/uploads/Shodan_Results.jpg)
 <h2>Added Site Title</h2>
 The script now looks at the html content on the page and returns the site title. This is everything between the <strong>&lt;title&gt;&lt;/title&gt;, </strong>one of the great things about writing the script with Python is being able to leverage modules like Beautiful soup to parse the HTML. The code could be written in one line, but I chose to write it in 3, like this:
 <blockquote>html_content = BeautifulSoup(response, 'html.parser')
@@ -48,7 +48,7 @@ The script only visits one page, the root directory of the hostname. If the form
 <h2>Added Domain in the CSV</h2>
 The CSV now has a the domain (not sub-domain) of the site. This allows for easy filtering/pivoting of hostnames from a particular domain like <em>selangor.gov.my</em> or <em>melaka.gov.my.</em>
 <h2>Added an API</h2>
-<a href="/uploads/everybody_gets_an_API.jpg">![](/uploads/everybody_gets_an_API.jpg)</a>
+![](/uploads/everybody_gets_an_API.jpg)
 
 The biggest change is that I added an API to the project. Currently only one end-point is exposed, which allows you to query by hostname (or more specifically Fully Qualified Domain Name). I was struggling to figure out what the 'proper' term for something like <span style="text-decoration: underline;">www.keithrozario.com</span> was, and my gut-feeling is that calling it an FQDN is more explicit and less ambiguous than hostname.
 

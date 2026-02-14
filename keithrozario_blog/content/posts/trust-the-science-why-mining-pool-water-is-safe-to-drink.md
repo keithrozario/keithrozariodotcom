@@ -7,7 +7,7 @@ tags = ['Water']
 categories = ['Malaysia', 'Science']
 +++
 
-<p style="text-align: center;"><a href="/uploads/948387459_9aafe1f591_z-1.jpg">![Trust the Science on Water](/uploads/948387459_9aafe1f591_z-1.jpg)</a></p>
+<p style="text-align: center;">![Trust the Science on Water](/uploads/948387459_9aafe1f591_z-1.jpg)</p>
 Do a quick experiment:
 
 1. Fill a glass half-full with water

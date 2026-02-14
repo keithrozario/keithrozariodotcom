@@ -7,7 +7,7 @@ tags = ['IBM']
 categories = ['Big Data', 'Misc']
 +++
 
-<a href="/uploads/17jeopardy_337-span-articleLarge.jpg">![](/uploads/17jeopardy_337-span-articleLarge-300x165.jpg "17jeopardy_337-span-articleLarge")</a>IBM have always been on the cutting edge of innovation, they've moved more becoming merely a computer company to  what is probably the first truly all encompassing <strong>technology company,</strong> they don't just make fancy gadgets or shiny tinga-ma-jigs, they make actual solutions for real-world problems.
+![](/uploads/17jeopardy_337-span-articleLarge-300x165.jpg "17jeopardy_337-span-articleLarge")IBM have always been on the cutting edge of innovation, they've moved more becoming merely a computer company to  what is probably the first truly all encompassing <strong>technology company,</strong> they don't just make fancy gadgets or shiny tinga-ma-jigs, they make actual solutions for real-world problems.
 
 In 1996, IBM introduced the world to Deep Blue. Kasparov met Deep Blue and wasn't impressed, he had no reason to be, he defeated Deep Blue 4-2, and walked away comfortably.
 
@@ -29,7 +29,7 @@ Jeopardy isn't exactly a straightforward trivia game like Who Wants to be a Mill
 
 3. Questions aren't phrased straight-forward, in other words even if I gave you unlimited time and unlimited access to Google, you'd still have to figure out what searches to begin with and you may give me the wrong answer. If I gave you google for Who wants to be a Millionaire--you'd be a Millionaire.
 <h2>Watson: The Jeopardy playing Computer</h2>
-<a href="/uploads/Watsons_avatar.jpg">![](/uploads/Watsons_avatar-300x284.jpg "Watson")</a>
+![](/uploads/Watsons_avatar-300x284.jpg "Watson")
 
 In 2011, an IBM computer named Watson took on the best Jeopardy! contestants of all time -- <a title="Watson day 2" href="http://www.youtube.com/watch?v=4nt-abT8gKw&amp;feature=related" target="_blank">and Watson won </a>-- by a wide margin. This represented a significant step for IBM and the world, these weren't questions with a clear set of rules (like chess), this was human language, something we'd thought would forever remain only accessible to humans. Watson was taking computers closer to humanity.
 

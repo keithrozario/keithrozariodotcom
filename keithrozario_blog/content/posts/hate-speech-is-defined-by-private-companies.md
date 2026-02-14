@@ -6,7 +6,7 @@ draft = false
 categories = ['Copyright and Censorship', 'CyberLaw', 'Social Media']
 +++
 
-<a href="/uploads/FirstAmendment.jpg" rel="attachment wp-att-5585">![FirstAmendment](/uploads/FirstAmendment.jpg)</a>You don't have a right to freedom of speech.
+![FirstAmendment](/uploads/FirstAmendment.jpg)You don't have a right to freedom of speech.
 
 Obviously true if you're Malaysian, but even Americans only enjoy a liberty in freedom of speech and not an absolute right.
 

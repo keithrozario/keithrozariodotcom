@@ -7,7 +7,7 @@ tags = ['Science Education']
 categories = ['Malaysia']
 +++
 
-<center><a href="/uploads/Homework_Malaysia.jpg">![](/uploads/Homework_Malaysia.jpg "Homework_Malaysia")</a></center>As I read more about the sad state of affairs of Science Education in Malaysia, I can see glaring areas for improvement, and some areas that surprise me. All of this data is readily available in the Trends in International Mathematics and Science Study (TIMSS) that is actually a benchmark our very own Malaysian Government uses to gauge the success of the National Education blueprint. It's a wonder that while me make it priority to score in the top third of this benchmark, no one for either side of the political divide seems to bother to read the report--merely taking the final score and politicizing it.
+![](/uploads/Homework_Malaysia.jpg "Homework_Malaysia")As I read more about the sad state of affairs of Science Education in Malaysia, I can see glaring areas for improvement, and some areas that surprise me. All of this data is readily available in the Trends in International Mathematics and Science Study (TIMSS) that is actually a benchmark our very own Malaysian Government uses to gauge the success of the National Education blueprint. It's a wonder that while me make it priority to score in the top third of this benchmark, no one for either side of the political divide seems to bother to read the report--merely taking the final score and politicizing it.
 
 If they actually took time off to read even the one report for science--albeit the 520+ page long report. They'd find some rather interesting data.
 
@@ -19,7 +19,7 @@ Yet we score in the bottom third of the study. Too much homework is bad, but jus
 
 <!--more-->
 
-<center><a href="/uploads/TIMMS_Science_2011_Homework_Malaysia.png">![](/uploads/TIMMS_Science_2011_Homework_Malaysia.png "TIMMS_Science_2011_Homework_Malaysia")</a></center> 
+![](/uploads/TIMMS_Science_2011_Homework_Malaysia.png "TIMMS_Science_2011_Homework_Malaysia") 
 <h2>Too much homework is bad</h2>
 63% of Malaysian students spend more than 45 minutes on Science Homework per week, with a good 11% spending more than 3 hours. That's a lot of hours per week to be spending on just one subject.
 

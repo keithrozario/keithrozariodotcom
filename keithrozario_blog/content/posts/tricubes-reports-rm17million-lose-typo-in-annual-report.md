@@ -6,7 +6,7 @@ draft = false
 categories = ['Malaysia', 'Misc']
 +++
 
-About 2 years ago<a href="/uploads/images1.jpg">![](/uploads/images1.jpg "images")</a> if you typed "miserable failure" on Google the first listed webpage would be the wikipedia entry for President George W. Bush, apparently a few guys found out how Google ranks their pages and decided (with a little help from friends) to push up the GWBs Wikipedia page for the search entry "miserable failure". Google has since changed it's algorithm to prevent a few kiddie hackers from being able to control the page ranks of sites which have dire consequences of a pages visibility online.
+About 2 years ago![](/uploads/images1.jpg "images") if you typed "miserable failure" on Google the first listed webpage would be the wikipedia entry for President George W. Bush, apparently a few guys found out how Google ranks their pages and decided (with a little help from friends) to push up the GWBs Wikipedia page for the search entry "miserable failure". Google has since changed it's algorithm to prevent a few kiddie hackers from being able to control the page ranks of sites which have dire consequences of a pages visibility online.
 
 I wonder if we could get miserable failure to point to the Tricubes website instead.
 

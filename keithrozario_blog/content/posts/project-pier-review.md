@@ -7,7 +7,7 @@ tags = ['PHP', 'Project Management']
 categories = ['Blog']
 +++
 
-<a title="Project Pier Review" rel="attachment wp-att-839" href="http://www.keithrozario.com/2011/06/project-pier-review.html/project_pier">![Project_pier](/uploads/project_pier-150x38.jpg "project_pier")</a>Project Pier is a web-based Project Management tool written in PHP. It's got a whole lot of bells and whistles for a open-source platform, but it does have it shortcomings as well. It all depends on what you want to accomplish with your project management tool, ProjectPier could be perfect, or it could fall woefully short. So let's get digging:<!--more-->
+![Project_pier](/uploads/project_pier-150x38.jpg "project_pier")Project Pier is a web-based Project Management tool written in PHP. It's got a whole lot of bells and whistles for a open-source platform, but it does have it shortcomings as well. It all depends on what you want to accomplish with your project management tool, ProjectPier could be perfect, or it could fall woefully short. So let's get digging:<!--more-->
 <h2><span style="color: #993366;">Installing Project Pier.</span></h2>
 Installing Project Pier is simple and straightforward. On a high level it's a 5 step process.
 <ol>
@@ -23,11 +23,11 @@ Here's where it falls short. The interface while nice-looking wasn't intuitive. 
 
 I also can't collapse tasklist to just single line items. So when I view the tasklist, it's display the whole task, just look at the screen below:
 
-[caption id="attachment_837" align="aligncenter" width="300" caption="ProjectPier - Project View"]<a rel="attachment wp-att-837" href="http://www.keithrozario.com/2011/06/project-pier-review.html/project_pier_project_view">![ProjectPier - Project View](/uploads/Project_pier_project_view-300x179.jpg "Project_pier_project_view")</a>[/caption]
+[caption id="attachment_837" align="aligncenter" width="300" caption="ProjectPier - Project View"]![ProjectPier - Project View](/uploads/Project_pier_project_view-300x179.jpg "Project_pier_project_view")[/caption]
 
 And compare that to this:
 
-[caption id="attachment_838" align="aligncenter" width="300" caption="ProjectPier - User View"]<a rel="attachment wp-att-838" href="http://www.keithrozario.com/2011/06/project-pier-review.html/project_pier_user_view">![Project_pier_user_view](/uploads/Project_pier_user_view-300x172.jpg "Project_pier_user_view")</a>[/caption]
+[caption id="attachment_838" align="aligncenter" width="300" caption="ProjectPier - User View"]![Project_pier_user_view](/uploads/Project_pier_user_view-300x172.jpg "Project_pier_user_view")[/caption]
 
 The similarity is striking, but my problem with it was that it was too similar, it wasn't intuitive when I was looking at it from the user view (what task are relevant to me across all my projects?) and when I was looking at it from a project view (what task are relevant across all people on this particular project).
 

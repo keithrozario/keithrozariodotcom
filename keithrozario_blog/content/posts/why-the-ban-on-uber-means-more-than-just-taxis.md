@@ -6,7 +6,7 @@ draft = false
 categories = ['Misc']
 +++
 
-<span style="font-size: 13px;"><a href="/uploads/91ea09a6535666e18ca3c56f731f67ef_400x400.jpeg.jpg">![Uber in Malaysia](/uploads/91ea09a6535666e18ca3c56f731f67ef_400x400.jpeg-300x300.jpg)</a></span>Uber, a company that <span style="color: #222222;">connect passengers with drivers of vehicles for hire and ridesharing services--is now banned in Malaysia. The Uber service was viewed as a god-send by citizens of KL simply because the existing taxi service in the city--is Shit!</span>
+<span style="font-size: 13px;">![Uber in Malaysia](/uploads/91ea09a6535666e18ca3c56f731f67ef_400x400.jpeg-300x300.jpg)</span>Uber, a company that <span style="color: #222222;">connect passengers with drivers of vehicles for hire and ridesharing services--is now banned in Malaysia. The Uber service was viewed as a god-send by citizens of KL simply because the existing taxi service in the city--is Shit!</span>
 
 So why did the Government choose to ban a service, that was improving public transport in KL? For the small matter that it violated a couple of laws--no big deal really. Laws are made to be broken aren't they?
 

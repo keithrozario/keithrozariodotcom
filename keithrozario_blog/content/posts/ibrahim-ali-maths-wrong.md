@@ -6,7 +6,7 @@ draft = false
 categories = ['Science']
 +++
 
-<a href="/uploads/ibrahimali_2012_330_220_100.jpg">![ibrahimali_calculator_rosak](/uploads/ibrahimali_2012_330_220_100.jpg)</a>
+![ibrahimali_calculator_rosak](/uploads/ibrahimali_2012_330_220_100.jpg)
 
  
 

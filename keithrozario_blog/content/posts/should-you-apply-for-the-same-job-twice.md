@@ -7,7 +7,7 @@ tags = ['Interesting Blog']
 categories = ['Misc']
 +++
 
-<a rel="attachment wp-att-779" href="http://www.keithrozario.com/2011/05/should-you-apply-for-the-same-job-twice.html/anne-hathaway-anne-hathaway-753567_1024_768">![](/uploads/Anne-Hathaway-anne-hathaway-753567_1024_768-150x112.jpg "Anne Hathaway")</a>You're probably wondering, what Anne Hathaway(pic) has to do with applying for the same job twice. Well more than you might think. Read on for more.
+![](/uploads/Anne-Hathaway-anne-hathaway-753567_1024_768-150x112.jpg "Anne Hathaway")You're probably wondering, what Anne Hathaway(pic) has to do with applying for the same job twice. Well more than you might think. Read on for more.
 
 Should you apply for the same job....twice!!<!--more-->
 

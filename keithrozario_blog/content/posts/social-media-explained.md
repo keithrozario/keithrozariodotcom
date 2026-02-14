@@ -9,6 +9,6 @@ categories = ['Social Media']
 
 A rather interesting take on Social Media courtesy of douglaswray via instagram.
 
-<a href="/uploads/753824a64eb511e19896123138142014_7-1.jpg">![](/uploads/753824a64eb511e19896123138142014_7-1.jpg "753824a64eb511e19896123138142014_7 (1)")</a>
+![](/uploads/753824a64eb511e19896123138142014_7-1.jpg "753824a64eb511e19896123138142014_7 (1)")
 
 Check out more cool stuff from Douglas [<a title="DouglasWray" href="http://instagr.am/p/nm695/" target="_blank">here</a>]

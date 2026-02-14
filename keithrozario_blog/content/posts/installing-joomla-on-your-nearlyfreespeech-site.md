@@ -7,7 +7,7 @@ tags = ['Joomla']
 categories = ['Blog']
 +++
 
-<a href="http://www.keithrozario.com/2011/05/installing-joomla-on-your-nearlyfreespeech-site.html/logo-2" rel="attachment wp-att-638">![Joomla](/uploads/logo-150x29.png "logo")</a> Joomla is a content management system that is customized for building actual sites. Wordpress is similar to Joomla with the exception that it's VERY VERY tailored to blogs. Of course I'm still new to most of this, but you can read up more by searching online:
+![Joomla](/uploads/logo-150x29.png "logo") Joomla is a content management system that is customized for building actual sites. Wordpress is similar to Joomla with the exception that it's VERY VERY tailored to blogs. Of course I'm still new to most of this, but you can read up more by searching online:
 
  
 

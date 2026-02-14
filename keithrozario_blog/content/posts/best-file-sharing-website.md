@@ -6,7 +6,7 @@ draft = false
 categories = ['Misc']
 +++
 
-<a href="http://www.keithrozario.com/2011/09/best-file-sharing-website.html">![](/uploads/6036869252_dd753a3b0b_m.jpg "6036869252_dd753a3b0b_m")</a>A good file sharing website is hard to come by ever since drop.io was bought over by Facebook. I loved drop.io and my admiration for the design of their service goes without saying...but I'll say it anyway.
+![](/uploads/6036869252_dd753a3b0b_m.jpg "6036869252_dd753a3b0b_m")A good file sharing website is hard to come by ever since drop.io was bought over by Facebook. I loved drop.io and my admiration for the design of their service goes without saying...but I'll say it anyway.
 
 There was a huge void for a short period, where I was struggling with things like dropbox, skydrive and even hosting my own file sharing server (<a title="Creating a site to share those pesky LARGE files" href="http://www.keithrozario.com/2011/06/creating-a-site-to-share-those-pesky-large-files.html" target="_blank">here</a>). Fortunately, for the file sharers among us there emerges from the midst a file sharing website worthy of being called drop.io's replacement. It's name is <a title="Minus.com" href="http://www.minus.com" target="_blank">minus.com</a>.<!--more-->
 

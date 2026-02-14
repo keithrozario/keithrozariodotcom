@@ -6,7 +6,7 @@ draft = false
 categories = ['Blog', 'Malaysia']
 +++
 
-<a href="/uploads/nuffnang.jpg">![](/uploads/nuffnang-300x233.jpg "nuffnang")</a>If you didn't already know, there's something on the sidebar of this site, something that hasn't been there before. Something that I'm not particularly happy to put on my site-- it is -- an Advertisement!!! <strong><span style="color: #888888;">(gasp!)</span></strong>
+![](/uploads/nuffnang-300x233.jpg "nuffnang")If you didn't already know, there's something on the sidebar of this site, something that hasn't been there before. Something that I'm not particularly happy to put on my site-- it is -- an Advertisement!!! <strong><span style="color: #888888;">(gasp!)</span></strong>
 
 To be more specific it's a nuffnang add, about 10 lines of javascript code that will for the next couple of months display ads to visitors of this sites. I'm not too familiar with ads, but from what I gather I have little control over who will display ads on this site, and that's the part I'm not particularly happy with. Aside from the usual "No alcohol" and "No tobacco" options, I couldn't really control who I would not like to advertise on my site.
 

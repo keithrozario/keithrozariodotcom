@@ -7,14 +7,14 @@ tags = ['Education', 'MASTIC', 'STEM']
 categories = ['Malaysia', 'Science']
 +++
 
-<p style="text-align: center;"><a href="/uploads/Malaysian_Public_Opinion_on_effects_of_Science_technology.png">![Malaysian Public Opinion on effects of Science Technology](/uploads/Malaysian_Public_Opinion_on_effects_of_Science_technology.png "Malaysian_Public_Opinion_on_effects_of_Science_technology")</a></p>
+<p style="text-align: center;">![Malaysian Public Opinion on effects of Science Technology](/uploads/Malaysian_Public_Opinion_on_effects_of_Science_technology.png "Malaysian_Public_Opinion_on_effects_of_Science_technology")</p>
 I recently discovered a really good study conducted by the MASTIC in Malaysia to determine <a title="Public Awareness of Science Malaysia 2008" href="http://www.mastic.gov.my/web/guest/109" target="_blank">Public Awareness of Science in Malaysia</a>. The study was conducted every 2 years from 1998 till 2008, which gives us 5 really great data sets to determine not just the public awareness of science in a particular year--but also how that perception changes over the decade.
 
 The study makes for a good read--but the main point I was interested though is this one question on how the Public Viewed science, in which 3 possible answers were given, either they thought Science did more good than harm, Science did more harm than good or that Science was neutral. In 1998, nearly half the population viewed science as causing more good than harm, but in 2008 that number increases to nearly 3 quarters. So we see a stark rise of about 25% of people going from being on the fence about science to believing it causes more good than harm.
 
 However, there were about 8.7% of the population who believed science caused more harm than good, these are those who think that science has a negative effect on society, and what's interesting is that the number of people in this country has barely changed in the last 10 years, remaining more or less constant around the 6-8% range.<!--more-->
 <h2>Malaysian Opinion of Jobs in STEM (Science, Technology, Engineering and Mathematics)</h2>
-<a style="font-size: 13px; line-height: 19px;" href="/uploads/Malaysian_Public_Opinion_on_Job_Opportunities_in_STEM.png">![Malaysian Public Opinion Job Opportunities in STEM](/uploads/Malaysian_Public_Opinion_on_Job_Opportunities_in_STEM.png "Malaysian_Public_Opinion_on_Job_Opportunities_in_STEM")</a>What's more interesting, and positive though is the perception of the Malaysian public towards Jobs in Science and Technology.
+![Malaysian Public Opinion Job Opportunities in STEM](/uploads/Malaysian_Public_Opinion_on_Job_Opportunities_in_STEM.png "Malaysian_Public_Opinion_on_Job_Opportunities_in_STEM")What's more interesting, and positive though is the perception of the Malaysian public towards Jobs in Science and Technology.
 
 In 2002 nearly 38% of respondents believe that there were limited job opportunities in Science and Technology, in 2008 that number reduces to just 5.7%. In 2002 nearly half of Malaysia believed that some jobs did require Science and Technology--in 2008 that number shrinks to 8.2%.
 

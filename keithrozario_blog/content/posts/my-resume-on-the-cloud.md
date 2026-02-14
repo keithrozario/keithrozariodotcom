@@ -6,7 +6,7 @@ draft = false
 categories = ['Social Media']
 +++
 
-<a title="Resume on the cloud" href="http://www.keithrozario.com/2011/11/my-resume-on-the-cloud.html/keiths-resume" rel="attachment wp-att-1404">![](/uploads/Keiths-Resume-300x153.jpg "Keith")</a>The 2nd most popular post of this blog is the one about <a title="Creative Resumes" href="http://www.keithrozario.com/2011/05/creative-resumes.html">creative resumes</a>, which brings in about 300+ hits/month all on it's own, almost all of it from Google. I guess a lot of people out there are trying to get an advantage in the job market by posting up creative resumes that help differentiate them from the rest of the applicants. Personally, I'm not too sure about the creative resumes, I believe they do help differentiate you, but whether it's a good differentiating is a separate story. A lot of resumes are boring, in both context and design, but having a really well designed resume with a boring context isn't going to get you far either...(at least that's what I think).
+![](/uploads/Keiths-Resume-300x153.jpg "Keith")The 2nd most popular post of this blog is the one about <a title="Creative Resumes" href="http://www.keithrozario.com/2011/05/creative-resumes.html">creative resumes</a>, which brings in about 300+ hits/month all on it's own, almost all of it from Google. I guess a lot of people out there are trying to get an advantage in the job market by posting up creative resumes that help differentiate them from the rest of the applicants. Personally, I'm not too sure about the creative resumes, I believe they do help differentiate you, but whether it's a good differentiating is a separate story. A lot of resumes are boring, in both context and design, but having a really well designed resume with a boring context isn't going to get you far either...(at least that's what I think).
 
 From my perspective, it's good to jot down a couple of key interesting points about yourself that you think might land you a job, and then form a consistent 'brand' around those key points. Then make sure what you say online, what's in the resume and what's in the cover letter all gel together to project those key points, making it a differentiating factor that will be your brand. However, that's a topic for a separate day. Today, I'd like to show you how I shared my resume online using Amazon Simple Storage Service (S3). <!--more-->
 
@@ -22,7 +22,7 @@ Finally I created and drafted a resume in both pdf and word formats and omitted 
 
 Then I added the two icons in a prominent position on the online resume and was pretty happy with the results. The link to the online resume is <a title="http://resume.keithrozario.com" href="http://resume.keithrozario.com" target="_blank">http://resume.keithrozario.com</a>
 
-<a href="http://www.keithrozario.com/2011/11/my-resume-on-the-cloud.html/keiths-resume-2" rel="attachment wp-att-1405">![](/uploads/Keiths-Resume1.jpg "Keith")</a>
+![](/uploads/Keiths-Resume1.jpg "Keith")
 
 Now comes the tougher part....hosting it online on the cloud.
 

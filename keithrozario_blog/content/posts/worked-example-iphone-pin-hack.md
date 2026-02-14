@@ -26,7 +26,7 @@ In addition,  the iPhone that completely wipes the phones memory if an incorrec
 
 This is what (I think) the flow would look like:
 
-<a href="/uploads/iPhone-Pin-hack-2.jpg">![iPhone-Pin-hack (2)](/uploads/iPhone-Pin-hack-2.jpg)</a>
+![iPhone-Pin-hack (2)](/uploads/iPhone-Pin-hack-2.jpg)
 
 It's quite a straightforward flow, at each PIN entry, the phone checks if the PIN is correct, if it isn't the phone remains locked, and a PIN counter is incremented by one. Once the PIN retry counter has reached 10, the phone will wipe out its contents.
 
@@ -34,7 +34,7 @@ The rationale of wiping out the contents is clear, if you allowed an unlimited a
 <h2>The Hack</h2>
 But some rather smart guys over at MDSec, discovered that if you cut the power to the iPhone before the phone could increment the PIN retry counter,  but after it has confirmed if the PIN is wrong or right...then you'd be able to brute-force every combination while keeping the PIN retry counter perpetually set to zero.
 
-<a href="/uploads/iPhone-Pin-hack-mechanism.jpg">![iPhone-Pin-hack-mechanism](/uploads/iPhone-Pin-hack-mechanism.jpg)</a>
+![iPhone-Pin-hack-mechanism](/uploads/iPhone-Pin-hack-mechanism.jpg)
 
 Essentially by cutting power to the phone before its able to increment the PIN retry counter, you'll  be able to brute force every possible combination without worrying about the phone wiping itself clean.
 
@@ -50,13 +50,13 @@ But as you can see in the diagram below, we still have a problem. An attacker co
 
 Essentially this only addresses half the problem, because while we made it impossible for the attacker to bypass the PIN retry counter increment, it's still possible to bypass the Phone wipe, which is really the root cause of the problem. In this partially fixed scenario, the PIN retry counter would indeed increase after every PIN entry retry, but it wouldn't mean anything because the phone would never reach the point of the code where it would wipe the code. The counter could reach to infinity and it wouldn't make a difference.
 
-<a href="/uploads/iPhone-Pin-hack-incomplete-fix.jpg">![iPhone-Pin-hack-incomplete-fix](/uploads/iPhone-Pin-hack-incomplete-fix.jpg)</a>
+![iPhone-Pin-hack-incomplete-fix](/uploads/iPhone-Pin-hack-incomplete-fix.jpg)
 <h2>The final fix</h2>
 The final fix is the full one, where the PIN entry counter is incremented BEFORE the PIN is checked.
 
 AND the Phone Wipe is check is also done BEFORE the PIN is checked. By moving the PIN check to the very last step of the process, we eliminate these bypasses because in order to reach the PIN check, which the attacker must do in order to determine if the PIN was valid or not, the process must flow through each check first. If the attacker cut the power on any of the checks, the process would never reach the PIN validation stage, and it'll be pointless to continue.
 
-<a href="/uploads/iPhone-Pin-hack-complete-fix.jpg">![iPhone-Pin-hack-complete-fix](/uploads/iPhone-Pin-hack-complete-fix.jpg)</a>
+![iPhone-Pin-hack-complete-fix](/uploads/iPhone-Pin-hack-complete-fix.jpg)
 <h2>Conclusion</h2>
 I thought this was a really cool worked example about security, and there a couple lessons we can take.
 

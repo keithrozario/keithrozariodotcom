@@ -6,7 +6,7 @@ draft = false
 categories = ['Misc']
 +++
 
-<a href="/uploads/image2017-11-22_10-36-1.png">![](/uploads/image2017-11-22_10-36-1.png)</a>
+![](/uploads/image2017-11-22_10-36-1.png)
 
 I know the picture is a bit hard to read, but I wanted to make sure I had a detailed enough picture to understand the 'innards' of sayakenahack. Sometimes when you're building stuff on the fly, and bottom-up, it's good to take a step back, and have a top-down view.
 

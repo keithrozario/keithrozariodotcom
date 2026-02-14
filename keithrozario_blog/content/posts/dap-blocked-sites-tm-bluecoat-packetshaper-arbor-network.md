@@ -7,7 +7,7 @@ tags = ['Arbor', 'Bluecoat', 'Maxis', 'TM', 'Unifi']
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia']
 +++
 
-<p style="text-align: center;"><a href="/uploads/blue_coat_packetshaper.png">![Blue Coat packetshaper](/uploads/blue_coat_packetshaper.png)</a></p>
+<p style="text-align: center;">![Blue Coat packetshaper](/uploads/blue_coat_packetshaper.png)</p>
 Two days ago, the Democratic Action Party (DAP) lodge a report to the MCMC on an 'internet blockade' targeting DAP related political websites that was allegedly being carried out by Telekom Malaysia (TM). As you may know TM is the largest ISP in Malaysia, and if TM suddenly blocks a website--a large chunk of the Malaysian public are automatically denied access to it.
 
 The DAP IT manager (<span style="color: #888888;"><em>didn't know the DAP had an IT team now did ya?</em></span>), in his press statement said that :

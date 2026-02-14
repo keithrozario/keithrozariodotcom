@@ -7,7 +7,7 @@ tags = ['Blog', 'wordpress']
 categories = ['Blog']
 +++
 
-<a title="Top Level Domain" href="http://www.keithrozario.com/2011/09/top-level-domain.html" target="_blank">![](/uploads/324448335_9d6bbb87a0_m.jpg "Subdomain Graffiti")</a>What is a top-level domain, in simple terms it's the part of the url after the last '.' , so in my case my blogs url is http://keithrozario.com , my top-level domain would be .com.
+![](/uploads/324448335_9d6bbb87a0_m.jpg "Subdomain Graffiti")What is a top-level domain, in simple terms it's the part of the url after the last '.' , so in my case my blogs url is http://keithrozario.com , my top-level domain would be .com.
 
 There's a long list of top level domains besides the regular '.com' that you should be aware of if you're hoping to start a website. Consider the case of Guy Kawasaki who bought 55 domains for his startup truemors, just to prevent cyber squatters from getting their hands on an obscure truemors url. If that doesn't convince you, take a look at one of my favorite blogs, the <a title="Evil HR Lady" href="http://www.evilhrlady.org" target="_blank">EvilHRLady</a> who in her own words:
 

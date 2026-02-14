@@ -7,7 +7,7 @@ tags = ['Broadband', 'skmm', 'Unifi']
 categories = ['CyberLaw', 'Malaysia']
 +++
 
-<a href="/uploads/SKMM.jpg">![](/uploads/SKMM.jpg "SKMM")</a>Did you know Malaysia has a Multimedia and Communication Commission that oversees the quality of service for telecommunications companies including the broadband services they provide. I also understand that they are the enforcers of the Communications and Multimedia Act 1998, with a determination on the mandatory standards for the Quality of Service (Broadband Access Service) .
+![](/uploads/SKMM.jpg "SKMM")Did you know Malaysia has a Multimedia and Communication Commission that oversees the quality of service for telecommunications companies including the broadband services they provide. I also understand that they are the enforcers of the Communications and Multimedia Act 1998, with a determination on the mandatory standards for the Quality of Service (Broadband Access Service) .
 
 In not so many words, there are actually laws in place to ensure that your broadband provider meets a minimum standard in terms of uptime and service availability.
 
@@ -15,9 +15,9 @@ However, after reading the a short snippet of the Act from the SKMM website here
 
 In terms of quality of service, the Act does outline 2 important areas:
 
-<a href="/uploads/Service-Availability.png">![](/uploads/Service-Availability.png "Service Availability")</a>
+![](/uploads/Service-Availability.png "Service Availability")
 
-<a href="/uploads/QOS-broadband.png">![](/uploads/QOS-broadband.png "QOS broadband")</a>
+![](/uploads/QOS-broadband.png "QOS broadband")
 
 Now if you're a regular reader, you'll know that I recently had a Unifi downtime that lasted 9 days, which obviously is below the minimum level of quality that Unifi should have provided me. A service uptime of 99.9% as mandated by the Act, would translate to a maximum downtime of just <strong>36 hours a year</strong>. My 9 days of downtime obviously exceeds that by a fair margin.
 

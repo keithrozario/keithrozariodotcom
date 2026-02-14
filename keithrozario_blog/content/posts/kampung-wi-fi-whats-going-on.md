@@ -6,7 +6,7 @@ draft = false
 categories = ['Malaysia', 'Misc']
 +++
 
-<a href="/uploads/4198263387_c19c69b65c.jpg">![](/uploads/4198263387_c19c69b65c-300x232.jpg "4198263387_c19c69b65c")</a>Late last year the Government announced the Kampung Wi-Fi (or Village Wi-Fi initiative). The initiative was mooted by The Information, Communications and Culture Minister, Datuk Seri Dr. Rais Yatim. Currently there are already 1,400 villages with Wi-Fi access and the Government hopes to increase that to 4,000 by year end.
+![](/uploads/4198263387_c19c69b65c-300x232.jpg "4198263387_c19c69b65c")Late last year the Government announced the Kampung Wi-Fi (or Village Wi-Fi initiative). The initiative was mooted by The Information, Communications and Culture Minister, Datuk Seri Dr. Rais Yatim. Currently there are already 1,400 villages with Wi-Fi access and the Government hopes to increase that to 4,000 by year end.
 
 That's good news to a lot of villagers, broadband penetration is considered a right in certain countries, and bring internet access to rural Malaysia is a moved to be applauded. However, there doesn't seem to be much on the technical aspect of the project available to the public.
 

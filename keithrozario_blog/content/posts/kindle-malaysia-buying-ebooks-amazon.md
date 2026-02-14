@@ -21,7 +21,7 @@ You can also purchase the kindle from the <a title="Kindle Malaysia" href="http:
 
 Lastly I bought the Kindle Touch with Ads, and it cost about Rm150 cheaper than the no-ads version. There is no reason to splurge that extra bit because the Ads aren't intrusive. So unless you have a problem with money, my advice is buying the ads version and use the extra money to buy books!! I repeat--THE AD VERSION IS OK!
 <h2>About the Kindle</h2>
-<a href="/uploads/DSC02879_opt.jpg">![](/uploads/DSC02879_opt.jpg "DSC02879_opt")</a>The first thing you notice about the Kindle is that it's small. It's slightly bigger than a regular paperback book, but smaller than a magazine.
+![](/uploads/DSC02879_opt.jpg "DSC02879_opt")The first thing you notice about the Kindle is that it's small. It's slightly bigger than a regular paperback book, but smaller than a magazine.
 
 The 2nd thing you notice is that the instructions on the screen isn't printed on paper, it's on e-ink. The e-ink display is absolutely awesome, it's the closest thing to paper I've ever seen, it's easy on the eyes and Amazon wasn't kidding when they said you can read it in the Sun--because you definitely can. The e-ink display looks and feels just like regular paper and I can guarantee you, you won't think you're reading a electronic display at all.
 The e-ink display also promises great battery life with Amazon claiming you can go for months without re-charging. The one drawback about the display though is that the refresh rate isn't that great, and while you're switching between pages, the experience isn't all that smooth. If you're used to the smoothness of an iPad or the Galaxy Tabs, this will really start to annoy you. The e-ink display takes some time to switch and doesn't have that smooth scrolling, after a while you develop a patience for it, but it takes a while. No scrolling here, but then again an iPad isn't going to last 2 months without a re-charge and wouldn't be as easy on the eyes, pros and cons I guess.
@@ -42,7 +42,7 @@ Once you have a US IP address, it's an simpler matter to get a fake US address. 
 
 With a US IP address and US address, just register yourself on Amazon and sync you Kindle and you're good to go. You only need to do this once, and that's it. From then on you don't need to use the proxy anymore. So it's not that inconvenient.
 <h2>Buying Books on my Kindle (Method 1)</h2>
-<a href="/uploads/Kindle-Gift-Cards.png">![](/uploads/Kindle-Gift-Cards.png "Kindle Gift Cards")</a>Now Amazon won't let you buy books for your Kindle with your Malaysian credit card. If you have US credit card, then you're good to go. However, if you're like me and don't have a US credit card there are other options, and the one I chose was using the gift card.
+![](/uploads/Kindle-Gift-Cards.png "Kindle Gift Cards")Now Amazon won't let you buy books for your Kindle with your Malaysian credit card. If you have US credit card, then you're good to go. However, if you're like me and don't have a US credit card there are other options, and the one I chose was using the gift card.
 
 A gift works around the US credit card requirement by having your Malaysian Credit card purchase the gift card on your Malaysian account as a 'gift' for your US based account. This way it looks like an American is purchasing the book with the gift card.
 
@@ -56,7 +56,7 @@ So I head on over to Amazon , browse to Kindle Gift cards, and then select <stro
 
 If everything goes as plan you'll receive the giftcard in your US based accounts email. For some reason my confirmation code ended up in the spam folder, presumably because it had "Gift" in the title, so if you don't get the email instantly, try looking in your spam folder.
 
-<a href="/uploads/Amazon-Gift-Card.png">![](/uploads/Amazon-Gift-Card.png "Amazon Gift Card")</a>
+![](/uploads/Amazon-Gift-Card.png "Amazon Gift Card")
 
 Now we're almost there. I've blanked out the claim code (because I really did buy $10.00 of Amazon credit). Then I logon to <a href="http://www.amazon.com/kindlegift" target="_blank">www.amazon.com/kindlegift</a> as my US based account, and apply the claim code.
 

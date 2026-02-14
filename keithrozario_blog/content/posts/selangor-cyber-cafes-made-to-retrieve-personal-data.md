@@ -6,7 +6,7 @@ draft = false
 categories = ['CyberLaw', 'Malaysia']
 +++
 
-<p style="text-align: center;"><a href="/uploads/4199675334_66c3e3d61d_z.jpg">![Cybercafe operators made to retrieve MyKad information](/uploads/4199675334_66c3e3d61d_z.jpg "Head in Hands")</a></p>
+<p style="text-align: center;">![Cybercafe operators made to retrieve MyKad information](/uploads/4199675334_66c3e3d61d_z.jpg "Head in Hands")</p>
 <a title="selangor-cyber-cafes-to-register-patrons-mykad-information" href="http://www.goldfries.com/tech-news/selangor-cyber-cafes-to-register-patrons-mykad-information/" target="_blank">Goldfries today reports</a> that Selangor Cyber Cafes were given new regulations to make them 'healthier'. Among the new regulations put in place were:
 <blockquote>
 

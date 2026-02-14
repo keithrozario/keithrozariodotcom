@@ -7,7 +7,7 @@ tags = ['Broadband', 'speedtest', 'Unifi', 'Yes']
 categories = ['Malaysia']
 +++
 
-<a href="/uploads/460165696_968b25a9bf.jpg">![](/uploads/460165696_968b25a9bf.jpg "460165696_968b25a9bf")</a>Alright, so my Unifi is back up and running, apparently it was an area wide network issue that caused half my town to experience a Unifi Blackout, I have thus named this debacle, the <strong><a title="Unifi sucks: Here’s why" href="http://www.keithrozario.com/2012/02/unifi-sucks-heres-why.html">Great CNY blackout of 2012</a></strong>. I was left 9 days without an internet connection and was forced to reload my Yes Broadband package to go online.
+![](/uploads/460165696_968b25a9bf.jpg "460165696_968b25a9bf")Alright, so my Unifi is back up and running, apparently it was an area wide network issue that caused half my town to experience a Unifi Blackout, I have thus named this debacle, the <strong><a title="Unifi sucks: Here’s why" href="http://www.keithrozario.com/2012/02/unifi-sucks-heres-why.html">Great CNY blackout of 2012</a></strong>. I was left 9 days without an internet connection and was forced to reload my Yes Broadband package to go online.
 
 Anyway, with a little credit left on my Yes broadband account, I decided to test out the speeds of Yes against my Unifi connection and see who comes up tops.
 
@@ -15,7 +15,7 @@ Some disclaimers before I continue, I ran this test on a Saturday morning where 
 <h2>The Local Speed Test (Cyberjaya and KL)</h2>
 The first test I did was test against the local YTL server located in KL.
 
-<a href="/uploads/UniFi_Malaysia.png">![](/uploads/UniFi_Malaysia.png "UniFi_Malaysia")</a><a href="/uploads/Yes_Yes_Malaysia.png">![](/uploads/Yes_Yes_Malaysia.png "Yes_Yes_Malaysia")</a>
+![](/uploads/UniFi_Malaysia.png "UniFi_Malaysia")![](/uploads/Yes_Yes_Malaysia.png "Yes_Yes_Malaysia")
 
 <em>Two things to note:</em>
 
@@ -26,24 +26,24 @@ The first test I did was test against the local YTL server located in KL.
 That being said, Yes is really really fast. With a download speed nearly double that of Unifi. However, it's much longer ping time and surprisingly lower upload speed leaves much to be desired.
 
 Next to even the odds, I tested my Yes connection to a Telekom Malaysia server in Cyberjaya.
-<p style="text-align: center;"><a href="/uploads/Yes_Tm_Malaysia.png">![](/uploads/Yes_Tm_Malaysia.png "Yes_Tm_Malaysia")</a></p>
+<p style="text-align: center;">![](/uploads/Yes_Tm_Malaysia.png "Yes_Tm_Malaysia")</p>
 The results were almost consistent with that of the KL Yes server. So Yes appears to be the winner in Malaysia.
 <h2>The Battle for Singapore (Speed test to Singtel servers)</h2>
 Next, I took the test down south to Singapore. For this I randomly chose the Singtel server:
 
-<a href="/uploads/TM_Unifi_Singapore.png">![](/uploads/TM_Unifi_Singapore.png "TM_Unifi_Singapore")</a><a href="/uploads/Yes_SG.png">![](/uploads/Yes_SG.png "Yes_SG")</a>
+![](/uploads/TM_Unifi_Singapore.png "TM_Unifi_Singapore")![](/uploads/Yes_SG.png "Yes_SG")
 
 Here it was REALLY REALLY surprising, that my 5Mbps Unifi connection manage to breakthrough the speed limit. With a download speed of 6.74 Mb/s is even faster than my Unifi connection to the KL servers. Yes however still wins the download speed test with a very respectable 7.67Mb/s, but surprising its upload speeds and ping are still slower than that of Unifi.
 <h2>Journey to the West (Speed test against Palo Alto)</h2>
 Now, very few of us actually surf websites in Malaysia and Singapore alone, so let's take the competition state side. With a randomly selected server from the states (Palo Alto), here's the results:
 
-<a href="/uploads/Unifi_Palo_Alto.png">![](/uploads/Unifi_Palo_Alto.png "Unifi_Palo_Alto")</a><a href="/uploads/YES_Palo_Alto.png">![](/uploads/YES_Palo_Alto.png "YES_Palo_Alto")</a>
+![](/uploads/Unifi_Palo_Alto.png "Unifi_Palo_Alto")![](/uploads/YES_Palo_Alto.png "YES_Palo_Alto")
 
 Here the competition get's really really stiff. With almost nothing between them, Yes still edges out Unifi with a slightly faster Download and Upload speeds, still I doubt it'll make a difference to your internet experience. Yes however, is looking to make a clean sweep here.
 <h2>The war for Europe (Speed test to Rotterdam)</h2>
 Finally, I took  a randomly selected European server, in this case a server located in Rotterdam.
 
-<a href="/uploads/Unifi_Rotterdam.png">![](/uploads/Unifi_Rotterdam.png "Unifi_Rotterdam")</a><a href="/uploads/YES_Rotterdam.png">![](/uploads/YES_Rotterdam.png "YES_Rotterdam")</a>
+![](/uploads/Unifi_Rotterdam.png "Unifi_Rotterdam")![](/uploads/YES_Rotterdam.png "YES_Rotterdam")
 
 Here Unifi really takes the battle and beats Yes by a wide margin. For some unknown reason a Yes connection to Europe is far slower than Unifi, with a download speed less than half of Unifi, Yes seems to crawl in Europe.
 

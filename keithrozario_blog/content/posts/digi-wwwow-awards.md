@@ -7,7 +7,7 @@ tags = ['Digi', 'Lowyat']
 categories = ['Malaysia']
 +++
 
-<a href="http://www.wwwow.my/display_entry.aspx?ID=36332e5e-b869-47ee-8df3-3968685e308e">![](http://www.wwwow.my/badge/d3cdb4de-c2df-4c11-980e-b74929fe0184.jpg)</a>Digi.com has an annual Internet for all awards where they aim to with the aim of "<em>showcasing the incredible creativity, ingenuity and entrepreneurialism of ordinary Malaysians using the Internet in extraordinary ways"</em> . A much simpler way of thinking about the Internet for all awards is that it's just like the Grammys for Malaysian blogs.
+![](http://www.wwwow.my/badge/d3cdb4de-c2df-4c11-980e-b74929fe0184.jpg)Digi.com has an annual Internet for all awards where they aim to with the aim of "<em>showcasing the incredible creativity, ingenuity and entrepreneurialism of ordinary Malaysians using the Internet in extraordinary ways"</em> . A much simpler way of thinking about the Internet for all awards is that it's just like the Grammys for Malaysian blogs.
 
 Digi have actually increased the breadth of the awards to include categories like
 

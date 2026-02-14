@@ -6,7 +6,7 @@ draft = false
 categories = ['CyberLaw', 'Malaysia', 'Security &amp; Privacy']
 +++
 
-<a href="/uploads/government-eavesdropping.jpg">![Government Eavesdropping on your conversations](/uploads/government-eavesdropping.jpg "Government Eavesdropping on your conversations")</a>
+![Government Eavesdropping on your conversations](/uploads/government-eavesdropping.jpg "Government Eavesdropping on your conversations")
 
 The <a title="Security Offences Bill 2012" href="https://www.keithrozario.com/wp-content/special-uploads/SOSMA (original).pdf">Security Offences (Special Measures) Act 2012</a> and it's <a href="https://www.keithrozario.com/wp-content/special-uploads/Sosma-Amendment.pdf">new amendment</a>. that wonderful piece of legislation meant to repeal the archaic and 'draconian' ISA may turn out to be even more archaic and draconian than the ISA it was meant to replace.
 

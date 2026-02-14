@@ -7,7 +7,7 @@ tags = ['Unotelly']
 categories = ['Copyright and Censorship', "Keith's Favorite Post", 'Malaysia']
 +++
 
-<a href="/uploads/netflix-from-abroad.png">![](/uploads/netflix-from-abroad.png "netflix-from-abroad")</a>Malaysians have always been deprived of real-time video content online.
+![](/uploads/netflix-from-abroad.png "netflix-from-abroad")Malaysians have always been deprived of real-time video content online.
 
 We've no access to Netflix or Hulu, we can't watch the full episodes of the Jay Leno show online, we can't watch the BBC replays of the football matches, we can't even watch videos from TheOnion for crying out loud.
 
@@ -27,7 +27,7 @@ How about the other stuff, do you know CBS, NBC and PBS, have entire full length
 
 <strong>So how do you go about accessing Netflix, Hulu or the other channels?</strong> Well as I said Netflix prevents users outside of certain countries from accessing the content online. If you tried to go to Netflix you get a huge "Sorry Netflix is not available in your country" yet sign. There are multiple ways around this, but I'm only going to be focusing on one.
 <h2><strong>Unotelly DNS </strong></h2>
-<a href="/uploads/rsz_1unotelly.png">![](/uploads/rsz_1unotelly.png "rsz_1unotelly")</a>Unotelly is a straight forward DNS service that allows you to bypass all the filters online and grant you access to the glourious web content our American brothers have enjoyed but has so far eluded us Malaysians.
+![](/uploads/rsz_1unotelly.png "rsz_1unotelly")Unotelly is a straight forward DNS service that allows you to bypass all the filters online and grant you access to the glourious web content our American brothers have enjoyed but has so far eluded us Malaysians.
 
 Unotelly promises you the ability to watch Netflix, Hulu and a whole bunch of other channels from outside the US. What's more they even offer you access to music services as well, including spotify and Rhapsody. It's a great way to get access to a whole bunch of content whether it's Video or Audio that would otherwise be available only to internet users in the US.
 
@@ -39,7 +39,7 @@ Here's how Unotelly describe themselves:
 Unotelly works with all the devices. PC, Mac, linux,PS3, XBOX360, Wii, iphone, ipad, itouch, androids, playbook, WD TV Live, Roku, boxee box, OpenElec, XBMC, Apple TV, Google TV, LG smart TV, Sony TV and players, Panasonic VIERA, Samsung TV and players and all rooters(sic) including DD- WRT.</blockquote>
 All you need to do is sign up and install a small application on your PC, follow a <em>not-so-simple</em> procedure and you're done. Installation on my PC was quick and within a couple of minutes I was bypassing Netflix filters, after a quick sign up process (I signed up a free one month trial), I was up and running watching Netflix online.
 <h2>My Experience with Unotelly</h2>
-<a href="/uploads/EuroHighlights.jpg">![](/uploads/EuroHighlights-300x153.jpg "EuroHighlights")</a>
+![](/uploads/EuroHighlights-300x153.jpg "EuroHighlights")
 
 From the start I was hooked, watching episodes of Switched at Birth with the wife, and getting to finally watch those elusive BBC recaps of football games <em>(complete with goal replays and manager commentary)</em>. I work out that I've already pay for the rights to watch these from my Astro subscription and I've watched all the irritating profitable plots adverts I can take in one lifetime, so why I can't watch highlights of the exact same game on BBC online on demand, the BBC is providing it for free to Brits, why not Malaysians?
 
@@ -47,11 +47,11 @@ Next I was introduced to "The Cleveland Show" and even managed to sneak a few So
 
 I recapped a wonderful day with a few episodes of <em>Americas got Talent</em>, <em>So you think you can dance</em> and of course <em>Two and a Half men</em>. All from the comfort of home and all for free and all on DEMAND, in fact it takes around 30 seconds from the moment I pick the episode to the moment it plays.
 
-<center><a href="/uploads/rsz_americasgottalent_hulu.jpg">![](/uploads/rsz_americasgottalent_hulu.jpg "rsz_americasgottalent_hulu")</a></center>
+![](/uploads/rsz_americasgottalent_hulu.jpg "rsz_americasgottalent_hulu")
 <h2>Some Drawbacks</h2>
 First off, it isn't free. You can look at the list of channels <a title="Unotell Channels" href="http://www.unotelly.com/unodns/channels" target="_blank">here</a>, the free channels are provided for free by Unotelly, the Premium and Gold Channels you'll have to pay extra. This is not inclusive of the $7.99 you need to pay for Netflix or Hulu once your free trial expires, but even if you combine them together it still cost just Rm60 for Unotelly and Netflix.
 
-<a href="/uploads/IronMan_NetFlix.jpg">![](/uploads/IronMan_NetFlix-300x159.jpg "IronMan_NetFlix")</a>
+![](/uploads/IronMan_NetFlix-300x159.jpg "IronMan_NetFlix")
 
 The other drawback is that you only access the channels that are in Unotellys list. Anything outside of this list and you're on your own. So if you're hoping to access other content not listed on Unotellys list of Channels you'll have to look elsewhere.
 
@@ -83,12 +83,12 @@ On that note, let me also emphasize that while this isn't pirate content (it per
 
 My final verdict, Unotelly rocks, and for just Rm15 a month it's great. You can get a free access to Unotelly immediately today and access channels CBS, FOX and TruTV the trial gives you a flavor of how Unotelly works and is a great way to determine if the service fits your needs. So go out and try it!!
 
-[caption id="attachment_2298" align="alignnone" width="300"]<a href="/uploads/HowIMetYourMother_Crop1.jpg">![](/uploads/HowIMetYourMother_Crop1-300x234.jpg "HowIMetYourMother_Crop")</a> Watching a full episode of "How I met your mother"[/caption]
+[caption id="attachment_2298" align="alignnone" width="300"]![](/uploads/HowIMetYourMother_Crop1-300x234.jpg "HowIMetYourMother_Crop") Watching a full episode of "How I met your mother"[/caption]
 
-[caption id="attachment_2300" align="alignnone" width="300"]<a href="/uploads/TopGear_NetFlix.jpg">![](/uploads/TopGear_NetFlix-300x159.jpg "TopGear_NetFlix")</a> A very old episode of Top Gear from Netflix, they have newer ones[/caption]
+[caption id="attachment_2300" align="alignnone" width="300"]![](/uploads/TopGear_NetFlix-300x159.jpg "TopGear_NetFlix") A very old episode of Top Gear from Netflix, they have newer ones[/caption]
 
-[caption id="attachment_2299" align="alignnone" width="300"]<a href="/uploads/JayLeno.jpg">![](/uploads/JayLeno-300x137.jpg "JayLeno")</a> Jay Leno on NBC (full episodes)[/caption]
+[caption id="attachment_2299" align="alignnone" width="300"]![](/uploads/JayLeno-300x137.jpg "JayLeno") Jay Leno on NBC (full episodes)[/caption]
 <h2>Before Unotelly:</h2>
-<center><a href="/uploads/HulucannotWatch.png">![](/uploads/HulucannotWatch.png "HulucannotWatch")</a><center></center></center>After Unotelly:
+![](/uploads/HulucannotWatch.png "HulucannotWatch")<center></center></center>After Unotelly:
 
-<center><a href="/uploads/rsz_americasgottalent_hulu.jpg">![](/uploads/rsz_americasgottalent_hulu.jpg "rsz_americasgottalent_hulu")</a></center>
+<center>![](/uploads/rsz_americasgottalent_hulu.jpg "rsz_americasgottalent_hulu")

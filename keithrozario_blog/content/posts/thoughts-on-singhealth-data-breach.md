@@ -7,7 +7,7 @@ tags = ['dataBreach', 'Singapore']
 categories = ['Security &amp; Privacy', 'Singapore']
 +++
 
-<a href="/uploads/data-breach.jpeg">![](/uploads/data-breach.jpeg)</a>On the 20th of July, Singaporean authorities announced a data breach affecting SingHealth, the country largest healthcare group. The breach impacted 1.5 million people who had used SingHealth services over the last 3 years.
+![](/uploads/data-breach.jpeg)On the 20th of July, Singaporean authorities announced a data breach affecting SingHealth, the country largest healthcare group. The breach impacted 1.5 million people who had used SingHealth services over the last 3 years.
 
 Oh boy, another data breach with 1.5 million records ... **yawn**.
 

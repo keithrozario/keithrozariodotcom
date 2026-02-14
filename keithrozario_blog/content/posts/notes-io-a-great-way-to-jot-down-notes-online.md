@@ -6,7 +6,7 @@ draft = false
 categories = ['Design', 'Misc']
 +++
 
-<a title="Note.Io" rel="attachment wp-att-996" href="http://www.keithrozario.com/2011/06/notes-io-a-great-way-to-jot-down-notes-online.html/notes-io">![](/uploads/notes.io_.jpg "notes.io")</a>Notes.io is a great simple online app that allows you to store your notes in a quick online interface. Of course you're wondering why you'd need a note taking app when you carry your iPhone or Blackberry all over the place, but notes.io offers a couple of cool nifty features that make it quite practical.<!--more-->
+![](/uploads/notes.io_.jpg "notes.io")Notes.io is a great simple online app that allows you to store your notes in a quick online interface. Of course you're wondering why you'd need a note taking app when you carry your iPhone or Blackberry all over the place, but notes.io offers a couple of cool nifty features that make it quite practical.<!--more-->
 
 The first thing you'd notice about notes.io is it's simplicity, you just get the app the first time you see it. Absolutely perfect. I love these simple apps that are not just easy to use, but require minimal effort to get off the ground. Notes.io doesn't require any additional plugins, and doesn't require a login of anykind. The app opens to the core function (note taking), and then you just jot down stuff on the yellow paper that everyone 'should' know is for note taking.
 
