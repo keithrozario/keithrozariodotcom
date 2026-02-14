@@ -8,7 +8,11 @@ categories = ['Malaysia', 'Security &amp; Privacy']
 
 If you've come here from a link on twitter -- you'd see that the address bar still says <span style="text-decoration: underline;">login.astro.com.my</span>, but the site is rendering this page from my blog. If not, click <a href="https://login.astro.com.my/ssowebnx/logout.aspx?pid=stadiumastroweb&amp;returnUrl=https%3A%2F%2Fkeithrozario.com%2F2018%2F06%2Fopen-redirect-on-astro.html%2F%27%3Bvar%20a%20%3D%20document.createElement(%27iframe%27)%3Ba.src%3Dreturnurl%3Ba.width%3D%27100%25%27%3Ba.height%3D%27100%25%27%3Ba.style.border%3D0%3Bdocument.body.appendChild(a)%3Bdocument.body.style%3D%22margin%3A0%22%3B%0Awhile(false)%2F%2F">this link</a> to see what I mean. You'll get something like this:
 
-![](/uploads/astro_open_redirect_1.jpg)Somehow I've managed to serve content from my site on an astro domain. Rest assured, I haven't 'hacked' astro servers and uploaded my page, but I've performed an equally sinister attack called <em>open redirect</em>.
+
+
+![](/uploads/astro_open_redirect_1.jpg)
+
+Somehow I've managed to serve content from my site on an astro domain. Rest assured, I haven't 'hacked' astro servers and uploaded my page, but I've performed an equally sinister attack called <em>open redirect</em>.
 
 While browsing online for some more info on the <a href="https://www.keithrozario.com/2018/06/the-astro-data-breach.html">astro breach</a>, I found <a href="https://kaizen1996.wordpress.com/2016/11/26/6-astro-another-open-redirection-bug/">this blogpost</a> from Amirul Amir, detailing the open redirect vulnerability on astro's website. The post is dated Nov 2016, yet the vulnerability still works -- and even though Amirul laments that he informed Astro, they seem to have taken no action in more than a year.
 

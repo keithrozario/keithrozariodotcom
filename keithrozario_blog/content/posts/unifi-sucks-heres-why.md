@@ -7,7 +7,11 @@ tags = ['Broadband', 'TM', 'Unifi']
 categories = ['Malaysia']
 +++
 
-![](/uploads/DSC02829-300x114.jpg "DSC02829")Last year I moved into my new place, and had to apply for Yes! broadband because my place wasn't Unifi ready yet. I blogged about h<a title="Yes.my : A review of Malaysias 4G broadband" href="http://www.keithrozario.com/2011/08/yesreview.html">ow much I enjoyed the Yes! experience and even recommended it to most friends and family</a>. That little love affair however took a turn for the worst when I discovered Yes! would experience a service interruption nearly once a month and the overall design of the Yes! service was lacking. So in the end <a title="3 Reasons to say NO to Yes Mobile" href="http://www.keithrozario.com/2011/11/3-reasons-say-no-yes-mobile.html">I parted ways with Yes! </a>and subscribed to Unifi instead.<!--more-->
+
+
+![](/uploads/DSC02829-300x114.jpg "DSC02829")
+
+Last year I moved into my new place, and had to apply for Yes! broadband because my place wasn't Unifi ready yet. I blogged about h<a title="Yes.my : A review of Malaysias 4G broadband" href="http://www.keithrozario.com/2011/08/yesreview.html">ow much I enjoyed the Yes! experience and even recommended it to most friends and family</a>. That little love affair however took a turn for the worst when I discovered Yes! would experience a service interruption nearly once a month and the overall design of the Yes! service was lacking. So in the end <a title="3 Reasons to say NO to Yes Mobile" href="http://www.keithrozario.com/2011/11/3-reasons-say-no-yes-mobile.html">I parted ways with Yes! </a>and subscribed to Unifi instead.<!--more-->
 
 My initial experience with Unifi was breath-taking, it was smoother and faster than Yes!, plus I didn't have to connect a dongle to my laptop anymore (which is always a plus). I was happy with Unifi and even though I was paying a whooping Rm150 a month, I was happy to do so. I use the Internet for my work and I work from home a lot, so I need a reliable connection up and running in my house so that I can work. It's quite a simple equation, no Internet = no work.
 

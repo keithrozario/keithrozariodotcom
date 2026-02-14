@@ -7,7 +7,19 @@ tags = ['SMS', 'SPAM']
 categories = ['CyberLaw', 'Malaysia']
 +++
 
-![](/uploads/Screenshot_2013-04-13-11-19-05.jpg "Screenshot_2013-04-13-11-19-05")  ![](/uploads/Screenshot_2013-04-13-11-18-57.jpg "Screenshot_2013-04-13-11-18-57")  ![](/uploads/Screenshot_2013-04-13-11-18-43.jpg "Screenshot_2013-04-13-11-18-43")<center></center><center></center>In the past 6 months, I've received more than 20 political SPAM sms' from the Barisan Nasional Yakini BN campaign, various political surveys and two from my local MP from PAS (Dr. Siti Mariah Mahmud).
+
+
+![](/uploads/Screenshot_2013-04-13-11-19-05.jpg "Screenshot_2013-04-13-11-19-05")
+
+  
+
+![](/uploads/Screenshot_2013-04-13-11-18-57.jpg "Screenshot_2013-04-13-11-18-57")
+
+  
+
+![](/uploads/Screenshot_2013-04-13-11-18-43.jpg "Screenshot_2013-04-13-11-18-43")
+
+<center></center><center></center>In the past 6 months, I've received more than 20 political SPAM sms' from the Barisan Nasional Yakini BN campaign, various political surveys and two from my local MP from PAS (Dr. Siti Mariah Mahmud).
 
 Now obviously, I'm expecting the spam rate to increase exponentially as we approach GE13, and to me that's really bad news. In fact over the last month alone, I've received 5 text messages from the Barisan Nasional Yakini BN campaign--they know my FULL name, my contact number and even my place to vote. They know more about me than I've ever given out to ANYONE from any survey, and I consider this an invasion of my privacy.<!--more-->
 <h2>Selangor BN's response</h2>
@@ -43,4 +55,71 @@ The BN spam sms campaign is not just an annoyance, it's a breach of privacy and 
 
 Let's just hope we stop receiving these pathetic attempts to solicit support once the General election is over.
 <h2>More BN Spam SMS</h2>
-![](/uploads/Screenshot_2013-04-13-11-18-36.jpg "Screenshot_2013-04-13-11-18-36")  ![](/uploads/Screenshot_2013-04-13-11-18-29.jpg "Screenshot_2013-04-13-11-18-29")  ![](/uploads/Screenshot_2013-04-13-11-18-231.jpg "Screenshot_2013-04-13-11-18-23")<center></center>![](/uploads/Screenshot_2013-04-14-13-07-26.jpg "Screenshot_2013-04-14-13-07-26")  ![](/uploads/Screenshot_2013-04-13-11-22-23.jpg "Screenshot_2013-04-13-11-22-23")  ![](/uploads/Screenshot_2013-04-13-11-22-10.jpg "Screenshot_2013-04-13-11-22-10")<center></center>![](/uploads/Screenshot_2013-04-13-11-21-44.jpg "Screenshot_2013-04-13-11-21-44")  ![](/uploads/Screenshot_2013-04-13-11-21-33.jpg "Screenshot_2013-04-13-11-21-33")  ![](/uploads/Screenshot_2013-04-13-11-21-23.jpg "Screenshot_2013-04-13-11-21-23")<center></center>![](/uploads/Screenshot_2013-04-13-11-21-15.jpg "Screenshot_2013-04-13-11-21-15")  ![](/uploads/Screenshot_2013-04-13-11-21-08.jpg "Screenshot_2013-04-13-11-21-08")  ![](/uploads/Screenshot_2013-04-13-11-20-33.jpg "Screenshot_2013-04-13-11-20-33")<center></center>![](/uploads/Screenshot_2013-04-13-11-20-25.jpg "Screenshot_2013-04-13-11-20-25")  ![](/uploads/Screenshot_2013-04-13-11-19-51.jpg "Screenshot_2013-04-13-11-19-51")  ![](/uploads/Screenshot_2013-04-13-11-19-37.jpg "Screenshot_2013-04-13-11-19-37")<center></center>![](/uploads/Screenshot_2013-04-13-11-19-15.jpg "Screenshot_2013-04-13-11-19-15")  ![](/uploads/Screenshot_2013-04-13-11-18-23.jpg "Screenshot_2013-04-13-11-18-23")
+
+
+![](/uploads/Screenshot_2013-04-13-11-18-36.jpg "Screenshot_2013-04-13-11-18-36")
+
+  
+
+![](/uploads/Screenshot_2013-04-13-11-18-29.jpg "Screenshot_2013-04-13-11-18-29")
+
+  
+
+![](/uploads/Screenshot_2013-04-13-11-18-231.jpg "Screenshot_2013-04-13-11-18-23")
+
+<center></center>
+
+![](/uploads/Screenshot_2013-04-14-13-07-26.jpg "Screenshot_2013-04-14-13-07-26")
+
+  
+
+![](/uploads/Screenshot_2013-04-13-11-22-23.jpg "Screenshot_2013-04-13-11-22-23")
+
+  
+
+![](/uploads/Screenshot_2013-04-13-11-22-10.jpg "Screenshot_2013-04-13-11-22-10")
+
+<center></center>
+
+![](/uploads/Screenshot_2013-04-13-11-21-44.jpg "Screenshot_2013-04-13-11-21-44")
+
+  
+
+![](/uploads/Screenshot_2013-04-13-11-21-33.jpg "Screenshot_2013-04-13-11-21-33")
+
+  
+
+![](/uploads/Screenshot_2013-04-13-11-21-23.jpg "Screenshot_2013-04-13-11-21-23")
+
+<center></center>
+
+![](/uploads/Screenshot_2013-04-13-11-21-15.jpg "Screenshot_2013-04-13-11-21-15")
+
+  
+
+![](/uploads/Screenshot_2013-04-13-11-21-08.jpg "Screenshot_2013-04-13-11-21-08")
+
+  
+
+![](/uploads/Screenshot_2013-04-13-11-20-33.jpg "Screenshot_2013-04-13-11-20-33")
+
+<center></center>
+
+![](/uploads/Screenshot_2013-04-13-11-20-25.jpg "Screenshot_2013-04-13-11-20-25")
+
+  
+
+![](/uploads/Screenshot_2013-04-13-11-19-51.jpg "Screenshot_2013-04-13-11-19-51")
+
+  
+
+![](/uploads/Screenshot_2013-04-13-11-19-37.jpg "Screenshot_2013-04-13-11-19-37")
+
+<center></center>
+
+![](/uploads/Screenshot_2013-04-13-11-19-15.jpg "Screenshot_2013-04-13-11-19-15")
+
+  
+
+![](/uploads/Screenshot_2013-04-13-11-18-23.jpg "Screenshot_2013-04-13-11-18-23")
+

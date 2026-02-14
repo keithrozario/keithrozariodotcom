@@ -6,7 +6,11 @@ draft = false
 categories = ['Science']
 +++
 
-<p style="text-align: center;">![Electricity supply crippled in Sabah   Nation   The Star Online](/uploads/Electricity-supply-crippled-in-Sabah-Nation-The-Star-Online.png)</p>
+<p style="text-align: center;">
+
+![Electricity supply crippled in Sabah   Nation   The Star Online](/uploads/Electricity-supply-crippled-in-Sabah-Nation-The-Star-Online.png)
+
+</p>
 The Star today reported that the entire state of Sabah had its electricity supply 'crippled'. I used inverted commas because the article goes on to say that the reduction was as much as 200mW.
 
 Now, any school child in a reasonably good school is going to tell you 200mW is nothing. 200mW actually translates to just 200 milli-watts, or 0.2 Watts. That's less than 1 Watt!!

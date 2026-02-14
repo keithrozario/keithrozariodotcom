@@ -7,7 +7,11 @@ categories = ['Security &amp; Privacy', 'Serverless']
 +++
 
 <!-- wp:image {"id":6674} -->
+
+
 ![](/uploads/Dt7GO7aUUAAfgIc.jpg-large.jpg)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -99,7 +103,11 @@ categories = ['Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6673} -->
+
+
 ![](/uploads/a-serverless-journey-aws-lambd-6011aa65-e55a-4cc5-96dc-6e76be2d4740-86362699-181130054549.jpg)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -143,7 +151,11 @@ categories = ['Security &amp; Privacy', 'Serverless']
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":6677} -->
+
+
 ![](/uploads/Screenshot-2019-02-17-at-9.18.28-PM.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -167,7 +179,11 @@ categories = ['Security &amp; Privacy', 'Serverless']
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"left","id":6678} -->
+
+
 ![](/uploads/IAM-1.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -207,7 +223,11 @@ categories = ['Security &amp; Privacy', 'Serverless']
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"left","id":6679} -->
+
+
 ![](/uploads/cloudwatch.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

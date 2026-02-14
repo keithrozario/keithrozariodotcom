@@ -7,7 +7,11 @@ tags = ['skmm']
 categories = ['Copyright and Censorship', 'CyberLaw']
 +++
 
-![Alvin and Vivian interview on youtube](/uploads/alvin-vivian-interview-youtube.jpg "Alvin and Vivian interview on youtube")<center></center></center>In case you've been under a rock for the past week let me fill you on some details:
+
+
+![Alvin and Vivian interview on youtube](/uploads/alvin-vivian-interview-youtube.jpg "Alvin and Vivian interview on youtube")
+
+<center></center></center>In case you've been under a rock for the past week let me fill you on some details:
 
 Alvin Tan and Vivian Lee--both Malaysians started a little porn blog called Sumptuous Erotica attracted headlines both in Malaysia and across the causeway. However, unlike other couples who've been caught with their pants down before, both Alvin and Vivian seem indifferent to the controversy surrounding them, more importantly they seem quite confident that they've done nothing wrong and have nothing to apologize for to anyone.
 
@@ -27,7 +31,11 @@ Beyond that however, I think that the nationwide reaction to the videos and blog
 
 In fact, based on a quick check on Google, <a title="More Malaysians search for Sex Online than Jobs online" href="http://www.google.com/trends/explore#q=sex%2C%20jobs%2C%20job&amp;geo=MY&amp;cmpt=q" target="_blank">more Malaysians are searching for Sex online then they're searching for jobs online</a>--a sad state of affairs indeed.
 
-<center>![](/uploads/Google-Trends-Sex-Jobs-Malaysia.png "Google-Trends-Sex-Jobs-Malaysia")
+<center>
+
+![](/uploads/Google-Trends-Sex-Jobs-Malaysia.png "Google-Trends-Sex-Jobs-Malaysia")
+
+
 <h2>Censoring the blog?</h2>
 The blog was taken down because of 'parental pressure', and whatever goes on in their households is entirely a private matter than I have neither the intention of invading, nor the inclination to find out.
 
@@ -35,7 +43,11 @@ What pisses me off however, is a recent report from the Star that stated that 2 
 
 Why in the world, does a radio station need approval of a government agency to broadcast an interview with a blogger, particularly when nothing pornographic can ever be displayed on public radio. It's really sad when we see how even interviews with two no-name students require MCMC approval.
 <h2>How about an approval for sms-blast.</h2>
-![](/uploads/selangor-bn-sms-300x269.png "selangor-bn-sms")While the government 'may' have some justification to regulate broadcast information, it definitely has no right interfering with content I willingly want streamed to my living room (or bed room or bathroom).
+
+
+![](/uploads/selangor-bn-sms-300x269.png "selangor-bn-sms")
+
+While the government 'may' have some justification to regulate broadcast information, it definitely has no right interfering with content I willingly want streamed to my living room (or bed room or bathroom).
 
 So what kind of broadcast information should the MCMC look at, well for one thing unsolicited sms-es from my telco inviting me to a Merdeka celebration I had no intention to attend. That invitation was broadcasted <a title="Sms for Merdeka Day celebration" href="http://www.malaysiakini.com/news/211931" target="_blank">against my will to my phone by the local telcos on the instruction of the Federal Government via the MCMC</a>. By the comments from the Malaysiakini article, it appears most of the 5.8 million recipients weren't too pleased either.
 

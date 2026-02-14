@@ -19,4 +19,20 @@ It seems the Barisan doesn't really understand technology, with their resources 
 I talk You listen isn't engaging--it's an ancient way of thinking that would fail to engage anyone in this day of age, but you can't really expect much more from Barisan, <a title="Datuk Maglin Dennis D’cruz in Klang : The non-updating Minister" href="http://www.keithrozario.com/2013/04/datuk-maglin-dennis-dcruz-n49-klang-kota-alam-shah.html" target="_blank">after all their Deputy Minister of Information Communications only started blogging last week</a>--and hasn't updated his twitter since 2010.
 
 <center><a href="/uploads/Screenshot_2013-04-25-19-40-14.jpg">
-</a> ![BN Spam SMS 1](/uploads/Screenshot_2013-04-30-08-31-30.jpg "BN Spam SMS 1") ![BN Spam SMS 2](/uploads/Screenshot_2013-04-30-08-31-24.jpg "BN Spam SMS 2") ![BN Spam SMS 3](/uploads/Screenshot_2013-04-30-08-31-38.jpg "BN Spam SMS 3") ![BN Spam SMS 4](/uploads/Screenshot_2013-04-30-08-31-54.jpg "BN Spam SMS 4")</center>
+</a> 
+
+![BN Spam SMS 1](/uploads/Screenshot_2013-04-30-08-31-30.jpg "BN Spam SMS 1")
+
+ 
+
+![BN Spam SMS 2](/uploads/Screenshot_2013-04-30-08-31-24.jpg "BN Spam SMS 2")
+
+ 
+
+![BN Spam SMS 3](/uploads/Screenshot_2013-04-30-08-31-38.jpg "BN Spam SMS 3")
+
+ 
+
+![BN Spam SMS 4](/uploads/Screenshot_2013-04-30-08-31-54.jpg "BN Spam SMS 4")
+
+</center>

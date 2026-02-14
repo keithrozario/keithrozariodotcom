@@ -6,7 +6,11 @@ draft = false
 categories = ['Misc']
 +++
 
-![](/uploads/5283549962_49a5d231da_m.jpg "Deals")My wife trolls deal sites everyday looking for deals to save us 50% on romantic dinners or 70% off on Hotel stays or even 90% off on skydiving. Deal sites like Groupon and Mydeals are popping up everywhere these days that you'd look like a fool if you bought a meal at ...regular price (gasp!) .
+
+
+![](/uploads/5283549962_49a5d231da_m.jpg "Deals")
+
+My wife trolls deal sites everyday looking for deals to save us 50% on romantic dinners or 70% off on Hotel stays or even 90% off on skydiving. Deal sites like Groupon and Mydeals are popping up everywhere these days that you'd look like a fool if you bought a meal at ...regular price (gasp!) .
 
 However, if you're not contented with just trolling the 10 deal sites you subscribe to, you might want to start your own groupon site. Think about it, it's an easy business model, you require limited upfront capital and you're more or less just a middle man, you'd think anyone can do it. Well it turns out everyone <strong>can</strong> do it, and a lot or people <strong>are</strong>. Here's 3 ways to start your deal website and be on your way to Groupon like fame (or infamy)<!--more-->
 

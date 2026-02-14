@@ -7,7 +7,11 @@ tags = ['Adobe', 'Cloud']
 categories = ['Cloud Computing', 'Design']
 +++
 
+
+
 ![](/uploads/creative-cloud-marquee-709x400-300x169.jpg "creative-cloud-marquee-709x400")
+
+
 
 Adobe is looking to release a cloud version of their creative applications online called creativecloud. From what I gather from their website it looks to be like a office365 version for creatives. This is probably a step in the right direction, Adobe software usually run into the hundreds or thousands of dollars, and buying the licenses for that software usually incur a huge capital expenditure for startups looking use these applications.<!--more-->
 

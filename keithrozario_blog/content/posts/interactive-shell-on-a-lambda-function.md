@@ -7,7 +7,11 @@ categories = ['Security &amp; Privacy', 'Serverless']
 +++
 
 <!-- wp:image {"sizeSlug":"large"} -->
+
+
 ![](/uploads/revshell_on_lambda.gif)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -75,7 +79,11 @@ categories = ['Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6776,"sizeSlug":"large"} -->
+
+
 ![](/uploads/reverse_shell.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -111,7 +119,11 @@ categories = ['Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6777,"sizeSlug":"large"} -->
+
+
 ![](/uploads/Screenshot-2019-08-25-at-9.35.57-PM.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -127,7 +139,11 @@ categories = ['Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"sizeSlug":"large"} -->
+
+
 ![](/uploads/revshell_on_lambda.gif)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

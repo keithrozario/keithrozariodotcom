@@ -7,7 +7,11 @@ tags = ['wordpress']
 categories = ['Blog']
 +++
 
-![](/uploads/WordPress-Introduction-icon_big-en-150x133.png "WordPress-Introduction-icon_big-en")Updating Wordpress is a pretty important step in keeping your blog safe and secure. Older versions of wordpress (even those just months old) have security flaws/bugs that are public knowledge, what this means if that if you run an older version of wordpress for your blog you're vulnerable to these security bugs unless you upgrade. What's even worse is that the security threats are public knowledge and even a un-skilled hacker could compromise your site. So upgrade to stay secure and get the most out of blogging experience.
+
+
+![](/uploads/WordPress-Introduction-icon_big-en-150x133.png "WordPress-Introduction-icon_big-en")
+
+Updating Wordpress is a pretty important step in keeping your blog safe and secure. Older versions of wordpress (even those just months old) have security flaws/bugs that are public knowledge, what this means if that if you run an older version of wordpress for your blog you're vulnerable to these security bugs unless you upgrade. What's even worse is that the security threats are public knowledge and even a un-skilled hacker could compromise your site. So upgrade to stay secure and get the most out of blogging experience.
 
 So here's how you update your Wordpress. It's actually very simple, and I'm going to use the manually way which should be applicable regardless of which webhost you're on. For this example, I'm using my own blog at www.keithrozario.com which is hosted on NearlyFreeSpeech.<!--more-->
 

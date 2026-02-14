@@ -6,7 +6,11 @@ draft = false
 categories = ['Misc']
 +++
 
-![Spying Program](/uploads/314989744_5b5a852b47_z.jpg)While anonymity on the internet is slowly dying, there remain legitimate reasons for wanting to keep your online identity a secret from <del>those meddling kids, </del>governments or snooping criminals. From e-mailing leaked documents to commenting on blogs using pseudonyms or even just casual online chatting, utilizing the internet without leaving digital bread-crumbs behind you is a task that is getting more difficult over time, particularly when the big bad wolf that's chasing you down is a rich and powerful government agency.
+
+
+![Spying Program](/uploads/314989744_5b5a852b47_z.jpg)
+
+While anonymity on the internet is slowly dying, there remain legitimate reasons for wanting to keep your online identity a secret from <del>those meddling kids, </del>governments or snooping criminals. From e-mailing leaked documents to commenting on blogs using pseudonyms or even just casual online chatting, utilizing the internet without leaving digital bread-crumbs behind you is a task that is getting more difficult over time, particularly when the big bad wolf that's chasing you down is a rich and powerful government agency.
 
 But to secure yourself online, you first need to understand whose attacking you, and what techniques they're using. Adjusting your defense to suit your attacker is not just common sense, it is the only practical way to achieve a semblance of security and anonymity online without losing your mind and going into tin-foil hat wearing paranoia.
 
@@ -16,7 +20,11 @@ But how about the Malaysian Government? How sophisticated are they and is it Gam
 
 Fortunately, our Governmen isn't building a Utah data-center, or a Great Firewall and they're no where close to the NSA, but they're still a well-resourced organization that has the technical capability and financial muscle to do some serious harm against an ordinary citizen. And in order to secure yourself against them, you'd need to understand their techniques and tools.
 <h2>Malaysian Government Surveillance 101</h2>
-![Childrens Privacy](/uploads/4638981545_f0578a16fe-300x168.jpg)Firstly, the government controls the ISP and Telcos, and hence the Government controls the network. The prevention of terrorism act (POTA) permits a P<a href="https://www.keithrozario.com/2015/05/the-technological-effects-of-sosma-and-pota.html">olice Officer to waltz into any ISP or Telco and compel them to grant him your communication details</a> without the need for any kind of judicial warrant, it also allows for the Police to place a digital wiretap on your communications (again without a warrant), but also without ever having to reveal the status of that wiretap to any court of law even if they convict of something. So anytime you're using a Malaysian internet connection, you have to assume that the connection is compromised.
+
+
+![Childrens Privacy](/uploads/4638981545_f0578a16fe-300x168.jpg)
+
+Firstly, the government controls the ISP and Telcos, and hence the Government controls the network. The prevention of terrorism act (POTA) permits a P<a href="https://www.keithrozario.com/2015/05/the-technological-effects-of-sosma-and-pota.html">olice Officer to waltz into any ISP or Telco and compel them to grant him your communication details</a> without the need for any kind of judicial warrant, it also allows for the Police to place a digital wiretap on your communications (again without a warrant), but also without ever having to reveal the status of that wiretap to any court of law even if they convict of something. So anytime you're using a Malaysian internet connection, you have to assume that the connection is compromised.
 
 Thankfully, whenever I go into a starbucks, or use the WiFi at KLIA, I already assume the network is compromised--and there's many ways to secure yourselves over a hostile network.
 
@@ -26,7 +34,11 @@ If your end-device is compromised, and the Government has already installed spyw
 
 But there's a last and final attack-vector that a government can employ. Simply breaking into your home, and taking your laptop and smartphone away from you. Which means that you don't just need to secure your device and network when you're using it, but also when you're NOT using it. In computer-geek circles we call this securing your data at rest, which protects your data while it's just idling somewhere, and it turns out that's not entirely easy to do either.<!--more-->
 <h2>Device Protection</h2>
-![Secured_VPN](/uploads/Secured_VPN-300x199.jpg)From all the documentation I've read about the <a href="https://www.keithrozario.com/2015/07/hacking-team-got-hacked-and-heres-what-malaysia-bought.html">Hacking Team breach</a>, it's clear that hacking team had the ability compromised Windows and Mac devices, and rooted android phones. Our government buys a lot of their surveillance software from an open market, and the open market is dictated by supply and demand, and since the demand for Windows and Mac vulnerabilities far exceeds that of Linux vulnerabilities, you're far safer using Linux. The open market dictates this, which makes the governments purchase of surveillance software for Linux economically and financially unsustainable (not technically impossible).
+
+
+![Secured_VPN](/uploads/Secured_VPN-300x199.jpg)
+
+From all the documentation I've read about the <a href="https://www.keithrozario.com/2015/07/hacking-team-got-hacked-and-heres-what-malaysia-bought.html">Hacking Team breach</a>, it's clear that hacking team had the ability compromised Windows and Mac devices, and rooted android phones. Our government buys a lot of their surveillance software from an open market, and the open market is dictated by supply and demand, and since the demand for Windows and Mac vulnerabilities far exceeds that of Linux vulnerabilities, you're far safer using Linux. The open market dictates this, which makes the governments purchase of surveillance software for Linux economically and financially unsustainable (not technically impossible).
 
 Also never root your phone, or trust un-verified sources. Download all your software from the official appstores of the platform you're using, whether it's the Apple appstore, or Google Playstore, or even Windows and Macs, getting your downloads from verified and trusted sources severely limits your chances of getting infected (though again it's not impossible). By the way, Apple iOS devices seem to be the most secure devices around--which may justify their high price tags for those who can afford them.
 
@@ -56,7 +68,11 @@ A simpler solution would be a VPN, and unfortunately VPNs require you to pay mon
 
 So after you've installed Linux on a USB-Drive with no persistent storage, and encrypted your connection using a VPN, how do you now transfer data to your journo-buddy or get data from your source?
 <h2>E-mail</h2>
-![15197804185_d4a1f3d9b3_m](/uploads/15197804185_d4a1f3d9b3_m.jpg)As archaic as it sounds e-mail is still the defacto method of communication for most people. Unfortunately, e-mail is terrifyingly insecure, it's not encrypted and in most cases not authenticated either. People can mistake e-mail addresses that were maliciously made to look similar, like keith@micros0ft.com and keith@microsoft.com may look identical, but one had microsoft spelt with a zero '0' instead of the letter 'o'.
+
+
+![15197804185_d4a1f3d9b3_m](/uploads/15197804185_d4a1f3d9b3_m.jpg)
+
+As archaic as it sounds e-mail is still the defacto method of communication for most people. Unfortunately, e-mail is terrifyingly insecure, it's not encrypted and in most cases not authenticated either. People can mistake e-mail addresses that were maliciously made to look similar, like keith@micros0ft.com and keith@microsoft.com may look identical, but one had microsoft spelt with a zero '0' instead of the letter 'o'.
 
 How do you secure this? First off using your own e-mail server is a definite no-no, you're not <a href="https://en.wikipedia.org/wiki/Hillary_Clinton_email_controversy">Hilary Clinton</a> and even she got it wrong.
 

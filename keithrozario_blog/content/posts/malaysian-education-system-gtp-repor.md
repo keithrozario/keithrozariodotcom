@@ -20,7 +20,11 @@ Malaysia also ranks among the top in the world for equitable access to education
 </blockquote>
 
 The only question left to ask is what the hell are the guys over at the GTP smoking? A very quick reading of the GTP report reveals the following:
-<p style="text-align: center;">![Malaysian Science, Maths and Reading Scores TIMSS](/uploads/Malaysia-Science-Maths-Reading-score.png "Malaysia-Science-Maths-Reading-score")</p>
+<p style="text-align: center;">
+
+![Malaysian Science, Maths and Reading Scores TIMSS](/uploads/Malaysia-Science-Maths-Reading-score.png "Malaysia-Science-Maths-Reading-score")
+
+</p>
 <p style="text-align: center;"><span style="color: #888888;"><em>*picture taken from the GTP report itself and modified in no way</em></span></p>
 I'll let you judge for yourself.
 

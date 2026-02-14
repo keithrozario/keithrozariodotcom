@@ -6,7 +6,11 @@ draft = false
 categories = ['CyberLaw', "Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++
 
-[caption id="attachment_5307" align="aligncenter" width="550"]![Tip to newsmenL Next time blur out the photos and names on the ID tags as well.](/uploads/ardit_ferizi_isis_hacker-police_dept_pic-161015.jpg) Pic from TheMalaysianInsider, Tip to newsmen: Next time blur out the photos and names on the ID tags as well.[/caption]
+[caption id="attachment_5307" align="aligncenter" width="550"]
+
+![Tip to newsmenL Next time blur out the photos and names on the ID tags as well.](/uploads/ardit_ferizi_isis_hacker-police_dept_pic-161015.jpg)
+
+ Pic from TheMalaysianInsider, Tip to newsmen: Next time blur out the photos and names on the ID tags as well.[/caption]
 
 There is no greater danger of tech illiteracy, than the way we treat hackers. A society that doesn't understand technology will view those who can manipulate it as wizards and sorcerers.
 
@@ -26,7 +30,11 @@ On the surface, Ardit Ferrizi had all the elements of a James Bond villain, a Ha
 
 Ardit Ferrizi was the leader of the Kosovo Hackers Society (KHS),  hyped up to be an 'expert' hacker who was providing expertise to ISIS. In reality he was just a script kiddie getting some kicks out of hacking,  wasn't directly linked to ISIS (other than a couple tweets between them), and just a smarter than average 20-year old computer science student.
 <h2>Mojo-Jojo's litany of errors</h2>
-![Grandma Hacker](/uploads/images.jpeg)Here's the high level of what happened. Ferrizi was a student at Lim Kok Wing University <em>(that should ring some alarm bells on it's own)</em>, and it was already known to the FBI that Ferrizi was in contact to with ISIS members via twitter--seeing as how he never once tried to hide his real identity on twitter, and used public tweets instead of direct messages.
+
+
+![Grandma Hacker](/uploads/images.jpeg)
+
+Here's the high level of what happened. Ferrizi was a student at Lim Kok Wing University <em>(that should ring some alarm bells on it's own)</em>, and it was already known to the FBI that Ferrizi was in contact to with ISIS members via twitter--seeing as how he never once tried to hide his real identity on twitter, and used public tweets instead of direct messages.
 
 OK, maybe he's so bad-ass he doesn't need to hide anything.Weeeellllll, let's see.
 
@@ -54,7 +62,11 @@ On top of all the mistakes he did, he never once tried to hide his IP address by
 
 So in summary, he never tried to hide his IP, proudly use his real identity on twitter to communicate with ISIS, and used publicly visible tweets as opposed to direct messages, and to top it off, sent himself the hacked data via facebook!!
 <h2>Not really an Expert Hacker</h2>
-![00MXsWP](/uploads/00MXsWP-300x255.jpg)C'mon  guys, does anyone really believe this was a top class hacker!!
+
+
+![00MXsWP](/uploads/00MXsWP-300x255.jpg)
+
+C'mon  guys, does anyone really believe this was a top class hacker!!
 
 What really worries me, is that they're throwing everyone and the kitchen sink at Ferrizi, with a maximum penalty of 35 years in prison--the kid is only 20 years old. If he gets the full sentence, he'll be out when he's 55, and would spent a large majority of his life in prison--if that's not a recipe for radicalism I don't know what is.
 

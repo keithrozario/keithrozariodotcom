@@ -79,7 +79,11 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7808,"sizeSlug":"large","linkDestination":"none"} -->
+
+
 ![](/uploads/image-5-501x500.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -87,5 +91,9 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7809,"sizeSlug":"large","linkDestination":"none"} -->
+
+
 ![](/uploads/image-6-363x500.png)
+
+
 <!-- /wp:image -->

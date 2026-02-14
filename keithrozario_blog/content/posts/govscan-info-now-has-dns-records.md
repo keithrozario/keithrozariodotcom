@@ -35,7 +35,11 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6531} -->
+
+
 ![](/uploads/latest_architecture1.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -59,6 +63,8 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6530} -->
+
+
 ![](/uploads/Screenshot-2018-10-15-at-1.06.15-AM.png)<figcaption>CloudFront Options</figcaption></figure>
 <!-- /wp:image -->
 
@@ -108,6 +114,8 @@ categories = ['Misc']
 
 <!-- wp:image {"id":6532} -->
 <figure class="wp-block-image">![](/uploads/Screenshot-2018-10-15-at-1.34.14-AM.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

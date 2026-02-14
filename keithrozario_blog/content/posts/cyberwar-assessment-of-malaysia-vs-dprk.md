@@ -7,7 +7,11 @@ tags = ['cyberwar']
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++
 
-![](/uploads/Kim-Cyber.jpg)Would North Korea ever declare war on Malaysia?
+
+
+![](/uploads/Kim-Cyber.jpg)
+
+Would North Korea ever declare war on Malaysia?
 
 Probably not.
 
@@ -41,7 +45,11 @@ The Americans have drawn clear delineation, that the Department of Homeland Secu
 
 But before we evaluate our defensive capabilities, let's evaluate the North Korean defense.<!--more-->
 <h2>The North Korean Defense</h2>
-![](/uploads/N-v-S-Korea.jpg)I'll let you guess where the Korean border is based on this satellite image of the night-lights in the region.
+
+
+![](/uploads/N-v-S-Korea.jpg)
+
+I'll let you guess where the Korean border is based on this satellite image of the night-lights in the region.
 
 From a defender's perspective, the less internet you have in your country, the easier it is to defend. Syria was famous for <a href="http://www.newyorker.com/news/daily-comment/why-did-syria-shut-down-the-internet">frequently cutting internet co</a><a href="http://www.newyorker.com/news/daily-comment/why-did-syria-shut-down-the-internet">nectivity to the entire country</a> because there were only 2 cables connecting it to the internet, that's a small attack surface to defend. It's like playing football with a 6ft goalie, and 3ft goal.
 
@@ -81,7 +89,11 @@ Anyway, the report detailed a group called <a href="http://download.microsoft.co
 
 The attackers used a hack on the 'hot-patching' feature of Microsoft Windows. A feature that required admin level access, which meant that the primary attack vector was spear-phishing. In other words, admins on government computers were spear-phished, and were then owned, which then led to Platinum getting access.
 
+
+
 ![](/uploads/Platinum-APT.png)
+
+
 
 The real-issue that this wasn't a one-off thing, in July 2016, Kaspersky reported that more than 2,000 servers in Malaysia were hacked and <a href="http://www.straitstimes.com/asia/se-asia/more-than-2100-servers-in-malaysia-have-been-hacked-says-cybersecurity-agency">sold on black market forums for prices as low as RM29</a>.
 
@@ -95,7 +107,11 @@ To be honest this isn't very shocking, or very unique to Malaysia. But couple th
 
 Fortunately, it's unlikely we'd even go to cyber war for this.
 <h2>One time weapons use</h2>
-![](/uploads/MV5BMTUyODE1NTIzOF5BMl5BanBnXkFtZTgwMjA5NjY5ODE@._V1_UX182_CR00182268_AL_.jpg)Attacks cost resources, and cyber-attacks usually expend the one critical and scarce resource--Zero Day Exploits!!
+
+
+![](/uploads/MV5BMTUyODE1NTIzOF5BMl5BanBnXkFtZTgwMjA5NjY5ODE@._V1_UX182_CR00182268_AL_.jpg)
+
+Attacks cost resources, and cyber-attacks usually expend the one critical and scarce resource--Zero Day Exploits!!
 
 Zero Day exploits are critical vulnerabilites in code that are not (yet!) public knowledge. Which means that vulnerabilities will work on any version of the software. If you discovered an exploit in Windows, and didn't tell Microsoft, you could use that exploit against against anyone running the Windows software.
 

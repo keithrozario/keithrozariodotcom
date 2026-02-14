@@ -7,7 +7,11 @@ tags = ['kickstarter']
 categories = ['Crowdsourcing']
 +++
 
-![](/uploads/kickstarter_Boey.jpg "kickstarter_Boey")Just the other day, I walked into an MPH bookstore and saw something that looked oddly familiar. It was a book titled "When I was a kid" and I couldn't help but think I've seen this somewhere. It took me a while, but suddenly it hit me--this was the book from kickstarter.
+
+
+![](/uploads/kickstarter_Boey.jpg "kickstarter_Boey")
+
+Just the other day, I walked into an MPH bookstore and saw something that looked oddly familiar. It was a book titled "When I was a kid" and I couldn't help but think I've seen this somewhere. It took me a while, but suddenly it hit me--this was the book from kickstarter.
 
 A couple of months back, I wrote a post for a <a title="Kickstarter Malaysia: A collection of Malaysian Kickstarter Projects" href="http://www.keithrozario.com/2012/07/only-heart-malaysia-kickstarter-crowdfunding.html">kickstarter initiative by a friend of mine</a>, in that same post, I touched on some other kickstarter initiative from Malaysians. One of those initiatives was by a guy name boey who wanted to write a rather interesting book based on his life. I remember thinking it to be a really unique style of story telling, and I was really thrilled to see it on shelves in Malaysia--but not just because I'm a book lover.
 
@@ -17,4 +21,7 @@ Kickstarter has come out with some mechanisms to protect investors but insist th
 
 Anyhow, congratulations to Boey, it's nice to see a success story and it's even nicer when that success story happens in your own backyard. You can purchase the book at <a title="MPH Online Boey: When I was a Kid" href="http://www.mphonline.com/books/nsearchdetails.aspx?&amp;pcode=9780984978601" target="_blank">MPH online</a>, or simply click the picture below:
 
+
+
 ![When I was a Kid by Boey](/uploads/MPH_Online_Boey.jpg "When I was a kid By Boey")
+

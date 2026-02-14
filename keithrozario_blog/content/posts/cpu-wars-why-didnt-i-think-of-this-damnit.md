@@ -6,7 +6,11 @@ draft = false
 categories = ['Misc']
 +++
 
-![](/uploads/AMDvs.PowerPC-300x168.jpg "AMDvs.PowerPC")I remember playing with a plane cards and car cards. It's a deck of cards where they list out certain specific traits of airplanes or cars like speed, weight, acceleration etc etc. The objective of the game was to get all the cards in the deck by trumping the other based on a trait called out.
+
+
+![](/uploads/AMDvs.PowerPC-300x168.jpg "AMDvs.PowerPC")
+
+I remember playing with a plane cards and car cards. It's a deck of cards where they list out certain specific traits of airplanes or cars like speed, weight, acceleration etc etc. The objective of the game was to get all the cards in the deck by trumping the other based on a trait called out.
 
 This little kickstarter project though, took that particular game play and layered on it a CPUs. Here's the cool story:
 <div>

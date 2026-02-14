@@ -7,7 +7,11 @@ tags = ['Crowdsourcing']
 categories = ['Crowdsourcing', 'Malaysia']
 +++
 
-![](/uploads/rsz_investigate_your_mp_s_expenses.png "rsz_investigate_your_mp_s_expenses")One thing is true of all governments, the most reliable records are Tax records. That is one of the coolest quotes from a very cool movie (which is saying a lot). In V for Vendetta, the heroes try to piece together a puzzle by visiting the tax records to locate some missing information, in real-life we're also faced with the same problem. No matter how corrupt or bureaucratic you think the government is, there will always be a paper-trail for money and sooner or later someone will find it. The solution for a crony-heavy government was simple, load the system with bureaucracy so no one will find out. The problem was while no 'one' may have found out, a group of inspired citizens armed with nothing more than a proper system can troll down all the bureaucratic walls you can build.
+
+
+![](/uploads/rsz_investigate_your_mp_s_expenses.png "rsz_investigate_your_mp_s_expenses")
+
+One thing is true of all governments, the most reliable records are Tax records. That is one of the coolest quotes from a very cool movie (which is saying a lot). In V for Vendetta, the heroes try to piece together a puzzle by visiting the tax records to locate some missing information, in real-life we're also faced with the same problem. No matter how corrupt or bureaucratic you think the government is, there will always be a paper-trail for money and sooner or later someone will find it. The solution for a crony-heavy government was simple, load the system with bureaucracy so no one will find out. The problem was while no 'one' may have found out, a group of inspired citizens armed with nothing more than a proper system can troll down all the bureaucratic walls you can build.
 
 A couple of years ago, the Guardian newspaper set out to go through all the tax and expense claims of every single member of parliament. While the fallout from the reports were clear, less publicity was given to the actual method that the newspaper used. People naturally assumed that when the news read "Guardian reports MP claims...." , that a regular journalist working for the paper trolled through some documentation and arrived at the results. Usually the assumption includes a snarly eyed journalist with big black thick-framed glasses, gulping down gallons of coffee while his tie came loose, just an assumption of course.<!--more-->
 <h2>How the Guardian Crowdsourced Auditing</h2>

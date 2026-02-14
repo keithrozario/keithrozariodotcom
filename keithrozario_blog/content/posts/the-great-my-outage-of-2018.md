@@ -7,7 +7,11 @@ tags = ['DNSSEC', 'MYNIC']
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++
 
-[caption id="attachment_6436" align="aligncenter" width="550"]![.my DNSKEY Failure](/uploads/DNSKEY-Fail.jpg) Boy, that's a lot of RED![/caption]
+[caption id="attachment_6436" align="aligncenter" width="550"]
+
+![.my DNSKEY Failure](/uploads/DNSKEY-Fail.jpg)
+
+ Boy, that's a lot of RED![/caption]
 
 Last week, MyNic suffered a massive outage taking out any website that had a <code>.my</code> domain, including local banks like maybank2u.com.my and even government websites hosted on <code>.gov.my</code>.
 

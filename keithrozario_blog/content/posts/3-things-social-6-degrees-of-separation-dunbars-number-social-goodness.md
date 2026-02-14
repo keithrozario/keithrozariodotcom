@@ -7,7 +7,11 @@ tags = ['Techless Tuesday']
 categories = ['Misc']
 +++
 
-![](/uploads/6053172545_9796373021_m.jpg "6053172545_9796373021_m")In the broad spectrum of the animal kingdom where you have the Lone Predator on one end and the Hyper-Connected Ants on the other , Humans are surprisingly much closer to the Ants than we are to that solitary Puma trolling the Jungles of Peru (although it may be a lot more interesting to be a puma). Humans are built (or even programmed) to be with other humans, to share our thoughts and emotions and to connect on a emotional level with others. It helps us build bonds and survive, but also has massive physiological effects on our bodies and mind.
+
+
+![](/uploads/6053172545_9796373021_m.jpg "6053172545_9796373021_m")
+
+In the broad spectrum of the animal kingdom where you have the Lone Predator on one end and the Hyper-Connected Ants on the other , Humans are surprisingly much closer to the Ants than we are to that solitary Puma trolling the Jungles of Peru (although it may be a lot more interesting to be a puma). Humans are built (or even programmed) to be with other humans, to share our thoughts and emotions and to connect on a emotional level with others. It helps us build bonds and survive, but also has massive physiological effects on our bodies and mind.
 
 In an amazing book by Nicholas Christakis and James Fowler that dealt with surprising power of social networks, aptly titled <strong>Connected </strong>addressed this particular drive by humans to connect with others. The book was a best-seller and even made it to Oprahs Fall Reading Guide (which means it has to be really good if Oprahs reading it).<!--more-->
 

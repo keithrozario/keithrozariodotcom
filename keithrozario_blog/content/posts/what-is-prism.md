@@ -6,7 +6,11 @@ draft = false
 categories = ['Copyright and Censorship', 'CyberLaw', "Keith's Favorite Post", 'Security &amp; Privacy']
 +++
 
-![Prism controversy](/uploads/images3.jpg)There's a controversy brewing in the land of the free, one that will have implications for Americans, but also Malaysians and nearly every citizen of the world. We may look back at the moment Mr. Snowden leaked controversial (and ugly) slides about a program called 'PRISM' as the start of a pivotal moment in internet history, a moment where we either begun a massive campaign to prevent illegal and unethical government wiretaps or a moment where we let governments turn the internet into a police state.
+
+
+![Prism controversy](/uploads/images3.jpg)
+
+There's a controversy brewing in the land of the free, one that will have implications for Americans, but also Malaysians and nearly every citizen of the world. We may look back at the moment Mr. Snowden leaked controversial (and ugly) slides about a program called 'PRISM' as the start of a pivotal moment in internet history, a moment where we either begun a massive campaign to prevent illegal and unethical government wiretaps or a moment where we let governments turn the internet into a police state.
 <h2>So let's recap what happened.</h2>
 First, the Guardian newspaper broke a story on how the US Government had 'direct' access to the servers of the tech giants of the Silicon valley including Google, Youtube, Yahoo, Apple and Facebook. In short, the report claimed US Government had direct access to the emails, personal details and chat sessions of everything stored on in massive datacenters of the social networks that the tech giants ran.
 

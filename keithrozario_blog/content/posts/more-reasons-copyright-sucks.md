@@ -7,7 +7,11 @@ tags = ['copyright laws']
 categories = ['Copyright and Censorship', 'CyberLaw', 'Misc']
 +++
 
+
+
 ![](/uploads/3762597413_d820da2d19.jpg "3762597413_d820da2d19")
+
+
 
 Now for an artist to copyright a song or a piece of work, for that artist to then legally make a living of is fine.
 

@@ -6,7 +6,11 @@ draft = false
 categories = ['Copyright and Censorship']
 +++
 
+
+
 ![copying_is_not_piracy](/uploads/copying_is_not_piracy.png)
+
+
 
 There's a general perception that illegal downloads of movies, music or books is akin to stealing the works of the artist, singers and authors. But downloads are more akin to trespassing than it is stealing--they're nothing like stealing and if you take some time off to think about it, you'd figure this out too.
 
@@ -46,4 +50,7 @@ If we made illegal to have those exclusive clauses, Astro would have to compete 
 
 So you're left a choice, consider downloading as a reality of doing business on the internet--or as stealing.
 
+
+
 ![Illegal downloads dead relatives](/uploads/3699195138_9313067f45_o.jpg)
+

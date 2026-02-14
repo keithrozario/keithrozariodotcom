@@ -7,7 +7,11 @@ tags = ['Interesting Blog']
 categories = ['Misc']
 +++
 
-![](/uploads/Anne-Hathaway-anne-hathaway-753567_1024_768-150x112.jpg "Anne Hathaway")You're probably wondering, what Anne Hathaway(pic) has to do with applying for the same job twice. Well more than you might think. Read on for more.
+
+
+![](/uploads/Anne-Hathaway-anne-hathaway-753567_1024_768-150x112.jpg "Anne Hathaway")
+
+You're probably wondering, what Anne Hathaway(pic) has to do with applying for the same job twice. Well more than you might think. Read on for more.
 
 Should you apply for the same job....twice!!<!--more-->
 

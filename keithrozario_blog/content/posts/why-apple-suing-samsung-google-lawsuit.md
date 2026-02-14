@@ -11,17 +11,29 @@ I'm not the biggest fan of Apple, I consistently compare my Galaxy S3 (which is 
 
 However, out of sheer coincidence I came across the 2007 keynote address for the iPhone by Steve Jobs. This was the original keynote for the original iPhone (5 years before the iPhone 5), and I was astounded. It was like attending a history lesson for one of the most defining moments in technology. One of the great things about the keynote though, is it 'enlightened' me on the lawsuit, and allowed me to see the lawsuit through Apples--or more specifically Steve Jobs--eyes, and it's only through his eyes did I understand why Apple was suing Samsung, I still don't agree with it, but I can definitely see why Apple is going through great lengths to make life miserable for Samsung and Google.<!--more-->
 <h2>Apple vs. Samsung</h2>
-![](/uploads/5480046318_09fa7abc40_n-300x199.jpg "Apple vs. Samsung") First off, this isn't Apple vs. Samsung, this is about Apple taking it to Google <strong>via Samsung.</strong> They've done it before with HTC, but now they're raising it up a notch, by setting their cross-hairs firmly on Samsung. Apple isn't suing Samsung for their TVs or dishwashers here, they're suing them for one thing only-- their android phones. So the Apple vs. Samsung lawsuit is merely one salvo from one battle, in a much <strong>larger war</strong>-- Apple vs. Google.
+
+
+![](/uploads/5480046318_09fa7abc40_n-300x199.jpg "Apple vs. Samsung")
+
+ First off, this isn't Apple vs. Samsung, this is about Apple taking it to Google <strong>via Samsung.</strong> They've done it before with HTC, but now they're raising it up a notch, by setting their cross-hairs firmly on Samsung. Apple isn't suing Samsung for their TVs or dishwashers here, they're suing them for one thing only-- their android phones. So the Apple vs. Samsung lawsuit is merely one salvo from one battle, in a much <strong>larger war</strong>-- Apple vs. Google.
 
 Steve Jobs was quoted once saying that he was willing to go to <a title="Steve Jobs Thermo Nuclear War" href="http://news.cnet.com/8301-33617_3-57500246-276/jobs-gets-wish-in-thermonuclear-war-at-least-for-now/" target="_blank">Thermo Nuclear war</a> with Google over Android, and while Steve is no longer with us, his promise of War lives on in Apple. Why the animosity, when as recently as 2007, Apple and Google were seen as complementary organization changing the world together, and dragging the masses into web 2.0. How did they go from cozy bedfellows (Google CEO had a place on Apples board) to all out nuclear war? One need only look at the <a title="2007 Keynote of the First iPhone" href="http://youtu.be/6uW-E496FXg" target="_blank">2007 keynote address of the first iPhone</a> to understand.
 <h2>The FIRST iPhone keynote address</h2>
-![](/uploads/revolutionary_UI-300x167.jpg "revolutionary_UI")If you've sat through and watched <a title="Full iPhone Keynote address 2007" href="http://youtu.be/6uW-E496FXg" target="_blank">the full iPhone keynote address</a>, you'd notice a couple of things pretty quickly. Firstly Steve Jobs was fantastically enthusiastic about the iPhone, he knew back then what we only now know--that the iPhone was truly revolutionary.
+
+
+![](/uploads/revolutionary_UI-300x167.jpg "revolutionary_UI")
+
+If you've sat through and watched <a title="Full iPhone Keynote address 2007" href="http://youtu.be/6uW-E496FXg" target="_blank">the full iPhone keynote address</a>, you'd notice a couple of things pretty quickly. Firstly Steve Jobs was fantastically enthusiastic about the iPhone, he knew back then what we only now know--that the iPhone was truly revolutionary.
 
 And what made the iPhone revolutionary--The Revolutionary UI (user interface) One of the first things that Steve Jobs mentions in the keynote, is not apps (they weren't around in iPhone 1), it's not Safari or even OS X. It was the User Interface that he so aptly termed Revolutionary!
 
 This was the main reason why the iPhone would go on to become the greatest phone in history, and Apple were fully aware of what they had. You have to remember, that just 5 years ago, the blackberry and Nokia e62 were considered the best UI designs for smart phones--and they were absolute crap. So that of course leads us to the question--what made the UI so revolutionary?
 <h2>Revolutionary UI Part 1: Touch Screen</h2>
-![](/uploads/Phone_Compare-300x169.jpg "Phone_Compare")During the keynote, Steve starts with a comparison between the current existing smart phones and iPhone. First thing you notice is that there wasn't a qwerty keyboard on the iPhone. It was one large screen (large by 2007 standards anyway) and one Home button. This wasn't revolutionary, touch screens were around for a long time, but this was the first time it came on a mobile device and the first time<a title="Capacitive sensors on the iPhone" href="http://electronics.howstuffworks.com/iphone2.htm" target="_blank"> it came with capacitive sensors</a>.
+
+
+![](/uploads/Phone_Compare-300x169.jpg "Phone_Compare")
+
+During the keynote, Steve starts with a comparison between the current existing smart phones and iPhone. First thing you notice is that there wasn't a qwerty keyboard on the iPhone. It was one large screen (large by 2007 standards anyway) and one Home button. This wasn't revolutionary, touch screens were around for a long time, but this was the first time it came on a mobile device and the first time<a title="Capacitive sensors on the iPhone" href="http://electronics.howstuffworks.com/iphone2.htm" target="_blank"> it came with capacitive sensors</a>.
 
 This made the iPhone touchscreen far more accurate than any of it's predecessor and even some of it's successors. What's even more interesting is the fact that Apple threw away the physical keyboard. Every other smart phone manufacturer up to then tried to hide the keyboard by allowing the screen to cover them, but Apple did away with it because it had a far more accurate touch screen that users could type on. Why Nokia or Motorola didn't do this, is testament to just how revolutionary the iPhone really was.
 
@@ -29,31 +41,51 @@ It wasn't just revolutionary design, this was revolutionary thinking!
 
 So getting rid of the qwerty keyboard and making the iPhone one giant screen (with the accompanying engineering difficulties on getting the screen to work flawlessly) was just one step in making the Revolutionary UI. We'll discuss the other key components that made it revolutionary, but at this point it's important to remember, that as recently as the Gingerbread Android release, the Android interfaces still sucked. It took Android quite some time to get the interface to work as flawlessly as the first iPhone--and some iPhone fan boys think Android still hasn't done it, and they could actually be right. So what else made up the revolutionary UI?
 <h2>Revolutionary UI Part 2: Slide to Unlock</h2>
-![](/uploads/SLide_to_unlock-300x165.jpg "SLide_to_unlock")This of course seems just so trivial now, but back then touch screens could only respond to touches (one at a time)--hence the name. The fact that Apple managed to create phone that you could slide your finger across and have that sliding be captured by the software was just amazing.
+
+
+![](/uploads/SLide_to_unlock-300x165.jpg "SLide_to_unlock")
+
+This of course seems just so trivial now, but back then touch screens could only respond to touches (one at a time)--hence the name. The fact that Apple managed to create phone that you could slide your finger across and have that sliding be captured by the software was just amazing.
 
 If you don't believe, just watch this <a title="Iphone Keynote 2007: Slide to Unlock" href="http://youtu.be/6uW-E496FXg?t=15m29s" target="_blank">youtube video</a>(already forwarded to 15 minutes in), when Steve Jobs demonstrates the slide to unlock feature--and listen to the audience reaction. It's nothing short of spectacular. What my niece and nephew take for granted now with their iPad was something that completely blew the minds of technology experts 5 years ago. Slide to Unlock is nothing trivial, just because it's so ubiquitous now doesn't mean it wasn't revolutionary 5 years ago.
 
 You should also continue watching the video, because in just 2 minutes after Steve demonstrates Slide to Unlock, he demonstrates something even more amazing. Slide to unlock, or just Slide in general is what enable the iPhone to accommodate games like Temple run and Angry birds, think about that, while you reminisce the most popular mobile game before the iPhone--Snake.
 <h2>Revolutionary UI Part 3: Scrolling (and bouncing back)</h2>
-![](/uploads/rsz_scrolling_1-300x168.png "rsz_scrolling_1")As Steve is scrolling through the video he actually demonstrates the scrolling functionality of the iPhone. We take scrolling with our fingers for granted now, but remember this was a time when people thought the stylus was the best way to communicate with a touch screen. When Steve says, <em>"I just take my finger and scroll"</em>--you can almost hear the jaw drops throughout the audience. It was truly that remarkable.
+
+
+![](/uploads/rsz_scrolling_1-300x168.png "rsz_scrolling_1")
+
+As Steve is scrolling through the video he actually demonstrates the scrolling functionality of the iPhone. We take scrolling with our fingers for granted now, but remember this was a time when people thought the stylus was the best way to communicate with a touch screen. When Steve says, <em>"I just take my finger and scroll"</em>--you can almost hear the jaw drops throughout the audience. It was truly that remarkable.
 
 More importantly, notice the subtle UI feedback. When you've reached the end of the page, the UI doesn't just stop, it makes what Steve describes as a<em> "little rubber-banding up when I run off the edge"</em>.  That's how a user intuitively knows that they've reached the end of the page. No one has to tell them, there's no need for scroll-bars here--this was a key element of what made the Revolutionary UI.
 
 Interestingly, this is actually one of the key points that Apple is suing Samsung for, and that's why Android Phones now come with a less-intuitive but equally good 'glow effect' when you've reached the end of the screen. No little rubber banding effect on Android--that's for damn sure.
 <h2>Revolutionary UI part 4: Pinch to Zoom (Multi-touch)</h2>
-![](/uploads/Multi_Touch-300x166.jpg "Multi_Touch")Finally there's Pinch to Zoom. Pinch to Zoom is just one element of a broad category of interactions called multi-touch.
+
+
+![](/uploads/Multi_Touch-300x166.jpg "Multi_Touch")
+
+Finally there's Pinch to Zoom. Pinch to Zoom is just one element of a broad category of interactions called multi-touch.
 
 The older touchscreens were actually limited by just one touch on the screen. If you touched and older touch screen on multiple points, it would only register one. So to go from just one touch to Multi-touch was really revolutionary. Steve actually demonstrates this remarkably well, when <a title="Apple iPhone Keynote 2007: Pinch to Zoom" href="http://youtu.be/6uW-E496FXg?t=33m30s" target="_blank">he pinches and zooms a boys face to set it as his phone wallpaper</a>, and you once again can hear the crowd scream. This was just absolutely amazing.
 
 More importantly, this was one of the core elements of the Revolutionary UI. It was so important to Apple that they describe it in the first few minutes of the keynote, and even make it a point to claim that's it's already patented--and Steve does it twice in the keynote. Once when explaining it, and once again at the end.
 <h2>Putting them altogether</h2>
-![](/uploads/Multi_Touch_Patented-300x170.jpg "Multi_Touch_Patented")With the 4 key ingredients of the Revolutionary UI in place, Apple made more than 200 patent claims for the original iPhone, and more than that--Steve mentions it in the first keynote--they would PROTECT IT.
+
+
+![](/uploads/Multi_Touch_Patented-300x170.jpg "Multi_Touch_Patented")
+
+With the 4 key ingredients of the Revolutionary UI in place, Apple made more than 200 patent claims for the original iPhone, and more than that--Steve mentions it in the first keynote--they would PROTECT IT.
 
 This was before a single iPhone was shipped to any customer, Apple already knew the pedigree of the product they had and the importance of the intellectual property around it--and hence they put a stake on the ground promising to protect their patents.
 
 For those who think 'Slide to Unlock' , 'pinch to zoom' and even 'bouncing back' are so simple and straightforward that they can't be patented should actually stop and consider why Nokia, Motorola and Sony didn't implement anything close to these things before the iPhone.
 <h2>Why the Animosity between Apple and Google</h2>
-![](/uploads/Eric_schmidt-300x162.jpg "Eric_schmidt")Well you could say, that Google probably didn't know Apple had patented these things, except of course for the fact that Google CEO Eric Schmidt was actually at the Keynote address and was even ask to say a few words. His first words at the keynote were "<em>we should merge together and call the company Apple-Goo"</em>.
+
+
+![](/uploads/Eric_schmidt-300x162.jpg "Eric_schmidt")
+
+Well you could say, that Google probably didn't know Apple had patented these things, except of course for the fact that Google CEO Eric Schmidt was actually at the Keynote address and was even ask to say a few words. His first words at the keynote were "<em>we should merge together and call the company Apple-Goo"</em>.
 
 Eric was even a member of Apples board, and hence he was one of the first people to actually get an iPhone. What most people also don't know is that Google had already begun working on Android BEFORE the iPhone was launched. However, their initial design -- that they even presented to Steve -- had the same plastic qwerty keyboard as the other smartphones and Steve wasn't really too worried about it.
 
@@ -63,7 +95,11 @@ He was a mentor to Google and this was almost daylight robbery to him. That was 
 
 Only in this case, 'their separate ways' turned out to be a collision course with each other. Time will tell, if wounds will heal or if they'll continue hating each other, but no matter what outcome, you can bet the journey would be interesting. All the current fanfare about the Apple maps is merely another salvo from this war. During the iPhone launch (back in 2007), Apple were excited to point out that they actually had Google Maps working on the iPhone--and now with the iPhone 5 it's been removed.
 <h2>Conclusion</h2>
-![](/uploads/200-Patents-_iPhone-300x163.jpg "200 Patents _iPhone")After watching this 1 hour video, I've also learnt a few things. My hatred for Apple was actually mis-guided. Apple strongly believed in the US patent system and they played by it's rules and applied for their patents. There is no argument that they revolutionized the Smartphone and should be rewarded for their innovation, there even less argument that most of this stuff may have been invented elsewhere but Apple was the first to actually execute it well and bring it to market.
+
+
+![](/uploads/200-Patents-_iPhone-300x163.jpg "200 Patents _iPhone")
+
+After watching this 1 hour video, I've also learnt a few things. My hatred for Apple was actually mis-guided. Apple strongly believed in the US patent system and they played by it's rules and applied for their patents. There is no argument that they revolutionized the Smartphone and should be rewarded for their innovation, there even less argument that most of this stuff may have been invented elsewhere but Apple was the first to actually execute it well and bring it to market.
 
 So from Apples perspective, they spend a lot of money and resources to build a truly great device, and now they wish to protect that device from anyone who wishes to steal it -- namely Google.  Part of that money went not just into researching and designing the iPhone but also applying for patents for the design, because if anybody knew how big the iPhone would be back in 2007--it was Steve Jobs--and he would go to the ends of the Earth to protect his revolutionary device.
 

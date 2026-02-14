@@ -7,7 +7,11 @@ tags = ['Blog', 'wordpress']
 categories = ['Blog']
 +++
 
-![](/uploads/276439738_33326e5d16_m.jpg "Riding a bike")These past few weeks has been hectic, I've been moving into my new house which inevitably involved talking to a lot of contractors/plumbers/repairmen and I had a very busy go-live period for my project. (Go-Live refers to the point of an IT project when it successfully becomes available to the users). To top it off I upgraded my blog from wordpress 3.1.1 to 3.2 and the upgrade wasn't as smooth as I thought it would be.
+
+
+![](/uploads/276439738_33326e5d16_m.jpg "Riding a bike")
+
+These past few weeks has been hectic, I've been moving into my new house which inevitably involved talking to a lot of contractors/plumbers/repairmen and I had a very busy go-live period for my project. (Go-Live refers to the point of an IT project when it successfully becomes available to the users). To top it off I upgraded my blog from wordpress 3.1.1 to 3.2 and the upgrade wasn't as smooth as I thought it would be.
 
 Reflecting on my blogging and my goal to reach 1000 hits/month, I think there's a lot I learnt from this blogging experience so far from a technical perspective (setting up a website/installing a database..etc etc), but there's a whole lot more I learnt about other things as well. Here's the top 3 things I learnt from blogging that have nothing to do with programming.<!--more-->
 <h2><strong>Blogging is hard.</strong></h2>

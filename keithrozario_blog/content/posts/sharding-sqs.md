@@ -7,7 +7,11 @@ categories = ['Serverless']
 +++
 
 <!-- wp:image {"id":7067,"sizeSlug":"large"} -->
+
+
 ![](/uploads/architecture_new.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -55,7 +59,11 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7068,"sizeSlug":"large"} -->
+
+
 ![](/uploads/prompt_results_new.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:heading -->

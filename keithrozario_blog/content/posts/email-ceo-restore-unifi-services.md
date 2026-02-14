@@ -7,7 +7,11 @@ tags = ['Broadband', 'Unifi']
 categories = ['Malaysia']
 +++
 
-<p style="text-align: justify;">![](/uploads/rahim.jpg "rahim")Just this morning I wrote about how my Unifi services went down and how I wrote a letter to what 'appears' to be Telekom Malaysias CEO email address.</p>
+<p style="text-align: justify;">
+
+![](/uploads/rahim.jpg "rahim")
+
+Just this morning I wrote about how my Unifi services went down and how I wrote a letter to what 'appears' to be Telekom Malaysias CEO email address.</p>
 <p style="text-align: justify;">A lot of Malaysians are skeptical that CEOs would actually respond to emails. <a title="Steve Jobs Responds to customer complaints" href="http://www.cultofmac.com/111374/like-steve-jobs-apple-ceo-tim-cook-also-responds-to-his-email/" target="_blank">Steve Jobs has responded to many emails personally and so has his successor Tim Cook.</a> There have even been reports of <a title="Palm CEO responding to query" href="http://www.zatznotfunny.com/2010-03/palms-ceo-responds-to-email-too/" target="_blank">Palm's CEO responding to customer query</a> and even non-tech companies like <a title="Home Depot CEO responding to email" href="http://consumerist.com/2011/12/e-mail-to-home-depot-ceo-resolves-month-old-problem-in-12-hours.html" target="_blank">home depot doing the same</a>.</p>
 <p style="text-align: justify;">These however are American companies, not Malaysian, would a Malaysian CEO actually respond to an email from a small-time RM150/month customer like myself? I figured why not give it a try, I was already internet-less -- what more is there left to lose? <!--more--></p>
 <p style="text-align: justify;">So late last evening I wrote an email to TMs CEO, hoping I could catch Dato' Zamzamzairani and hopefully he could get me some results.</p>

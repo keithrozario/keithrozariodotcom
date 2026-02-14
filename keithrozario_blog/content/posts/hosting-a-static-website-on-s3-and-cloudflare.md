@@ -19,7 +19,11 @@ categories = ['Misc']
 <p>The solution looks something like this:</p>
 
 <!-- wp:image {"id":6508} -->
+
+
 ![](/uploads/cloudflare.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:more -->

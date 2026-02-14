@@ -22,5 +22,9 @@ A couple of things that stood out for me were:
 
 <!--more-->
 
-<center>![From Bricks to Brains: The Evolution of the Cell Phone](http://ig.computersciencedegreehub.com/evolution.jpg)
+<center>
+
+![From Bricks to Brains: The Evolution of the Cell Phone](http://ig.computersciencedegreehub.com/evolution.jpg)
+
+
 Image compliments of <a href="http://www.computersciencedegreehub.com">Computer Science Degree Hub</a></center>

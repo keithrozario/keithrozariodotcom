@@ -6,7 +6,11 @@ draft = false
 categories = ['Blog']
 +++
 
-![](/uploads/wordpress-logo.png "wordpress-logo")I'm a really big fan of 3 things, Manchester United, AC/DC and Wordpress!!
+
+
+![](/uploads/wordpress-logo.png "wordpress-logo")
+
+I'm a really big fan of 3 things, Manchester United, AC/DC and Wordpress!!
 
 Wordpress is awesome, but as awesome as it is, a lot of people don't really know what it is.
 

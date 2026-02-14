@@ -19,7 +19,11 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7290,"sizeSlug":"large"} -->
+
+
 ![](/uploads/Wordpress-Stack.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -27,7 +31,11 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7291,"sizeSlug":"large"} -->
+
+
 ![](/uploads/Wordpress-Stack-full.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -39,7 +47,11 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7293} -->
+
+
 ![](/uploads/Screen-Shot-2020-06-26-at-9.09.45-PM.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -9,7 +9,11 @@ categories = ['Blog', "Keith's Favorite Post", 'Malaysia']
 
 [blackbirdpie url="https://twitter.com/DiGi_Telco/status/211447275891855361"]
 
-![](/uploads/7361427756_d84e0dfab3_z-300x199.jpg "7361427756_d84e0dfab3_z")Exactly one month ago, I was honored to be awarded the DigiWWWOW awards Fave tech Head award. It was truly unexpected and I continue to feel grateful for it. For those of you who don't know what the DigiWWWOW awards is, it's basically like the Grammy Awards for Malaysian blogs, so instead of singers and producers being awarded gold statues, the DigiWWWOW awards present bloggers a cool looking glass plaque with our title on it. My award is currently sitting on my bookshelf between an Optimus Prime Model and a yellow Ferrari car.
+
+
+![](/uploads/7361427756_d84e0dfab3_z-300x199.jpg "7361427756_d84e0dfab3_z")
+
+Exactly one month ago, I was honored to be awarded the DigiWWWOW awards Fave tech Head award. It was truly unexpected and I continue to feel grateful for it. For those of you who don't know what the DigiWWWOW awards is, it's basically like the Grammy Awards for Malaysian blogs, so instead of singers and producers being awarded gold statues, the DigiWWWOW awards present bloggers a cool looking glass plaque with our title on it. My award is currently sitting on my bookshelf between an Optimus Prime Model and a yellow Ferrari car.
 
 Just like the grammys as well, there are many categories, 15 categories to be exact-- quite substantial prizes, so it was pretty cool to receive one.
 

@@ -7,7 +7,11 @@ tags = ['Crowdsourcing Week Singapore', 'discount']
 categories = ['Crowdsourcing']
 +++
 
-<p style="text-align: center;">![Crowdsourcing Week Singapore Promotional code](/uploads/crowdsourcingweek_singapore_promotional_tickets.png "crowdsourcingweek_singapore_promotional_tickets")</p>
+<p style="text-align: center;">
+
+![Crowdsourcing Week Singapore Promotional code](/uploads/crowdsourcingweek_singapore_promotional_tickets.png "crowdsourcingweek_singapore_promotional_tickets")
+
+</p>
 Crowdsourcing has come to the Asia Pacific region--and it's come in a big way. A couple of months back, I was contacted by the people organizing Crowdsourcing week in Singapore to attend the event, unfortunately due to personal commitments I was unable to make it--bummer!
 
 Crowdsourcing week is a great idea that brings a whole bunch of great speakers including <a title="Jenn Gustetic" href="http://www.linkedin.com/in/jenngustetic" target="_blank">Jennifer Gustetic</a>, an executive at the "Challenges and Prizes" program in NASA, Stephanie Grosser from USAID and Sean Moffit from Wikibrands. It's also one of the first events on crowdsourcing that I know off occurring in the Asia Pacific region and if you're in the neighbourhood I can almost guarantee it'll be worth your time attending.

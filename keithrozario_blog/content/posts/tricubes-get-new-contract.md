@@ -7,7 +7,11 @@ tags = ['Tricubes']
 categories = ['Malaysia', 'Misc']
 +++
 
-Sounds surprising and ![](/uploads/tricubes-300x202.jpg "tricubes-300x202")quite convenient, that a company that reports a loss of Rm17 million, goes on to report that they have a lifeline, in the form of  a Rm6 million dollar contract from the police to "<em>maintain the Royal Malaysian Police’s (PDRM) mobile systems for</em><em> two years starting January 1</em>".
+Sounds surprising and 
+
+![](/uploads/tricubes-300x202.jpg "tricubes-300x202")
+
+quite convenient, that a company that reports a loss of Rm17 million, goes on to report that they have a lifeline, in the form of  a Rm6 million dollar contract from the police to "<em>maintain the Royal Malaysian Police’s (PDRM) mobile systems for</em><em> two years starting January 1</em>".
 
 Quoting <a title="Tricube lands Rm6 million dollar deal" href="http://www.themalaysianinsider.com/business/article/tricubes-lands-rm6m-deal-to-manage-pdrms-mobile-systems/" target="_blank">this </a>Malaysian Insider Report :
 

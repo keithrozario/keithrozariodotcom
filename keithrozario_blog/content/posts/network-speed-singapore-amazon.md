@@ -7,6 +7,10 @@ tags = ['AWS']
 categories = ['Cloud Computing']
 +++
 
+
+
 ![](http://www.speedtest.net/result/3451760025.png)
+
+
 
 This is how fast your connection on AWS in Singapore is when connecting to a Singaporean server. Not much different if you repeat it, but I was surprised the ping was still 2ms, I expected to be just 1 (or even less).

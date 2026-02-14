@@ -7,7 +7,11 @@ tags = ['wordpress']
 categories = ['Blog']
 +++
 
-Previously I bloged about<a href="http://www.keithrozario.com/2011/04/all-about-those-damn-contact-forms.html"> adding a contact form</a>![Call me](/uploads/2217046976_9357393554-150x150.jpg "Contact me") to your wordpress powered site. The recommended approach was contact form 7, a clean and simple plugin to implement contact forms on your site. However, there are some limitations, what contact form 7 makes up in simplicity it loses in added functionality. For instance there were no captchas on contact form 7 so you can't prevent a bot from simply continuously spamming you with messages from a nigerian prince wishing to share his vast wealths with you just because you're a 'trust-worthy' person.<!--more-->
+Previously I bloged about<a href="http://www.keithrozario.com/2011/04/all-about-those-damn-contact-forms.html"> adding a contact form</a>
+
+![Call me](/uploads/2217046976_9357393554-150x150.jpg "Contact me")
+
+ to your wordpress powered site. The recommended approach was contact form 7, a clean and simple plugin to implement contact forms on your site. However, there are some limitations, what contact form 7 makes up in simplicity it loses in added functionality. For instance there were no captchas on contact form 7 so you can't prevent a bot from simply continuously spamming you with messages from a nigerian prince wishing to share his vast wealths with you just because you're a 'trust-worthy' person.<!--more-->
 
 For more functional contact forms, specifically ones with captcha and spam protection try <a href="http://wordpress.org/extend/plugins/mm-forms-community/">MM forms community</a> it's a straight forward plugin that lets you have a more functional contact form, or if you want to the real opposite extreme try <a href="http://www.tomsdimension.de/wp-plugins/tiny-contact-form">tiny contact form</a> as the name suggest it's really really tiny and simple to use.
 

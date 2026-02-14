@@ -11,7 +11,11 @@ Couple of weeks before the election, we saw how the Deputy Minister of Informati
 
 Meet your new Deputy Minister of the Communication and Multimedia ministry--Dato' Jailani Johari!!!
 
+
+
 ![Dato Jailani JOhari Twitter](/uploads/Dato-Jailani-Johari-JailaniJohari-on-Twitter.png "Dato Jailani JOhari Twitter")
+
+
 
 Apart from having a whooping <a title="Jailani Johari" href="https://twitter.com/JailaniJohari" target="_blank">71 followers on twitter</a>, and a mind-blowing 5 (yes that's a single digit) <a title="Dato' Jailani Johari LinkedIn" href="http://www.linkedin.com/pub/dato-jailani-johari/11/74/852" target="_blank">connections on LinkedIn</a>. Although,  he does have more than 2,000 likes on his Facebook page--which he <a title="Dato Jailani Johari Facebook" href="https://www.facebook.com/DatoJailaniJohari" target="_blank">started on April 15th 2013</a>. Coming back to twitter though, did you know he follows a spine-chilling 12 accounts--must be some pretty heavy Communicating going on in the Ministry eh!
 

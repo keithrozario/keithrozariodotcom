@@ -6,7 +6,11 @@ draft = false
 categories = ['Misc']
 +++
 
-Back in 2007, I had a n![](/uploads/4865764084_495a7693e9.jpg "4865764084_495a7693e9")ew year resolution to run 5km in 25 minutes, or more specifically to get my body in good enough shape to run 5km in 25 minutes. That was my aim, it was partly driven by some research I read that it's better to have just 1 resolution and making that resolution specific rather than generic. So rather than, 'I'll exercise', I needed a goal or a target to reach--and I chose the target of being able to run 5km in 25 minutes, because about 14 years ago, I ran 8km in 40 minutes at my high-schools cross country, and I thought 5km in 25 minutes was a pretty reasonable number to me.
+Back in 2007, I had a n
+
+![](/uploads/4865764084_495a7693e9.jpg "4865764084_495a7693e9")
+
+ew year resolution to run 5km in 25 minutes, or more specifically to get my body in good enough shape to run 5km in 25 minutes. That was my aim, it was partly driven by some research I read that it's better to have just 1 resolution and making that resolution specific rather than generic. So rather than, 'I'll exercise', I needed a goal or a target to reach--and I chose the target of being able to run 5km in 25 minutes, because about 14 years ago, I ran 8km in 40 minutes at my high-schools cross country, and I thought 5km in 25 minutes was a pretty reasonable number to me.
 
 Unfortunately, I didn't accomplish my resolution in 2007, nor in 2008 or 2009, not even in 2010 and finally didn't even jog in 2011.
 

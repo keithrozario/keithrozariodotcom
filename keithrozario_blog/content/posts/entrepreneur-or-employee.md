@@ -6,7 +6,11 @@ draft = false
 categories = ['Misc']
 +++
 
-![](/uploads/google_acquisitions-150x112.jpg "Google Acquisitions")A lot of people think you're either an entrepreneur or an employee, but whether you own your own company or work for one, you're both. However, with the recent economy both state-side and in europe (greece,portugal,spain,iceland), some employee-minded people are finding it tough to get jobs.
+
+
+![](/uploads/google_acquisitions-150x112.jpg "Google Acquisitions")
+
+A lot of people think you're either an entrepreneur or an employee, but whether you own your own company or work for one, you're both. However, with the recent economy both state-side and in europe (greece,portugal,spain,iceland), some employee-minded people are finding it tough to get jobs.
 
 Over here in Malaysia the job market seems to be picking up, but even then you never know what might happen. Starting up side projects that have little to do with your career path could be an answer to these problems, my wife use to run an online makeup retailer called simply-naturale.com. I'm starting up a new project called jomlunch, over at jomlunch.com. While these are all still new, I believe starting up projects is one of the best learning opportunities you'll get.<!--more-->
 

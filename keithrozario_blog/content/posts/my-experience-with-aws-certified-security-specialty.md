@@ -7,7 +7,11 @@ categories = ['Cloud Computing', "Keith's Favorite Post", 'Security &amp; Privac
 +++
 
 <!-- wp:image {"align":"center","id":7007,"sizeSlug":"large"} -->
+
+
 ![](/uploads/aws-certified-logo_color-horz_360x60.jpg)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -107,7 +111,11 @@ categories = ['Cloud Computing', "Keith's Favorite Post", 'Security &amp; Privac
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"center","id":7010,"sizeSlug":"large"} -->
+
+
 ![](/uploads/Terraform.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -151,7 +159,11 @@ categories = ['Cloud Computing', "Keith's Favorite Post", 'Security &amp; Privac
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"center","id":7029,"sizeSlug":"large"} -->
+
+
 ![](/uploads/6876694340_01a10c613b_c.jpg)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -201,7 +213,11 @@ categories = ['Cloud Computing', "Keith's Favorite Post", 'Security &amp; Privac
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":7030,"sizeSlug":"large"} -->
+
+
 ![](/uploads/19893436479_462a12ab31_c.jpg)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -257,7 +273,11 @@ categories = ['Cloud Computing', "Keith's Favorite Post", 'Security &amp; Privac
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":7032,"sizeSlug":"large"} -->
+
+
 ![](/uploads/6394785643_fafa2f3926_c.jpg)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -321,7 +341,11 @@ categories = ['Cloud Computing', "Keith's Favorite Post", 'Security &amp; Privac
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"center","id":6770,"sizeSlug":"large"} -->
+
+
 ![](/uploads/AWS-Lambda_dark-bg.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -353,7 +377,11 @@ categories = ['Cloud Computing', "Keith's Favorite Post", 'Security &amp; Privac
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":7031,"sizeSlug":"large"} -->
+
+
 ![](/uploads/41145631035_0ceb85138e_c.jpg)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

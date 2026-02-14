@@ -7,7 +7,11 @@ tags = ['Amazon', 'Lazada', 'Samwer']
 categories = ['Copyright and Censorship', 'Malaysia', 'Misc']
 +++
 
-![](/uploads/lazada.png "lazada")This blog is about Technology, but in these past few years it's become impossible to talk about technology without touching on the subjects of copyright and censorship. Very few people have a clear cut definition of what is acceptable copyright infringement and what isn't. Not too long ago I wrote about how a wordpress theme designer was being sued because he created a facebook theme, did you also know that<a title="Facebook trademark Face" href="http://techcrunch.com/2011/02/06/facebook-trademark-book-face-europe-eu/" target="_blank"> facebook has already trademarked the term 'face' and is looking to trademark 'book' as well.</a> Most readers of this blog know where I stand on copyrights, patents and intellectual property, where I draw the line however is trademark violations. A trademark is part of a brand, and usually trademark violations are a clear-cut attempt to fraud consumers by passing off a product or service as something it's not.
+
+
+![](/uploads/lazada.png "lazada")
+
+This blog is about Technology, but in these past few years it's become impossible to talk about technology without touching on the subjects of copyright and censorship. Very few people have a clear cut definition of what is acceptable copyright infringement and what isn't. Not too long ago I wrote about how a wordpress theme designer was being sued because he created a facebook theme, did you also know that<a title="Facebook trademark Face" href="http://techcrunch.com/2011/02/06/facebook-trademark-book-face-europe-eu/" target="_blank"> facebook has already trademarked the term 'face' and is looking to trademark 'book' as well.</a> Most readers of this blog know where I stand on copyrights, patents and intellectual property, where I draw the line however is trademark violations. A trademark is part of a brand, and usually trademark violations are a clear-cut attempt to fraud consumers by passing off a product or service as something it's not.
 
 So what about business ideas and business models. Is it OK to make a clone of Facebook, and call it mukabuku-- maybe. Is it OK to use the blue and white hues that we've come to associate only to Facebook-- that's a bit uncomfortable as you may be tricking users to sign up for mukabuku by misleading them into believing mukabuku is a Facebook product. Well how about if you deploying mukabuku to a country that doesn't have Facebook?
 
@@ -45,7 +49,11 @@ So none of us in Malaysia are complaining that we're getting a copy-cat Amazon, 
 <h2>So what about Lazada?</h2>
 Lazada has a pretty decent design, but it's not without it's flaws. For one thing, it might have copied Amazons color combination but the GUI still lacks clarity, that coupled with a limited number of goods means there's a lot to be desired. If I were to be totally honest, it looks like Lazada was a rushed job, and if you don't believe me check out what was listed as Video Games (click on the image to enlarge):
 
+
+
 ![](/uploads/Video-Games-Lazada-300x105.png "Video Games   Lazada")
+
+
 
 now I may not be the expert at video games, but I'm quite sure After School Diva and Classic Trance Anthems are not video games. Which begs the question, if you get the categorization wrong what else is there? It's the same as going to a supermarket and finding Maggie Mee in the dairy section. Sure its an obvious mistake, and sure no harm was done, but it just screams out <strong>RUSHED JOB!!</strong> (in big bold capital letters).
 
@@ -53,7 +61,11 @@ Also, one of Amazons advantages is it's nearly infinite product list, which mean
 
 At the end of the day, Lazada isn't really a copy-cat Amazon, it's not even in the same league here, but then again in terms of consumer spending power, Malaysia isn't in the same league as America.
 
-![](/uploads/Online-Shopping-for-Laptops-and-Handphones-Lazada-Malaysia-300x37.png "Online Shopping for Laptops and Handphones   Lazada Malaysia")There are some things Lazada does well. For instance it's an online retailer with a clearly spelt out return policy. Most non-Malaysians might find that normal, but in Malaysia that's a pretty big deal, and kudos to Lazada for executing that.
+
+
+![](/uploads/Online-Shopping-for-Laptops-and-Handphones-Lazada-Malaysia-300x37.png "Online Shopping for Laptops and Handphones   Lazada Malaysia")
+
+There are some things Lazada does well. For instance it's an online retailer with a clearly spelt out return policy. Most non-Malaysians might find that normal, but in Malaysia that's a pretty big deal, and kudos to Lazada for executing that.
 
 There's also the Cash on Delivery option, which is fantastic. While credit card penetration is high in urban Malaysia (nearly 90% of retail fuel transactions in the Klang Valley is done with credit cards), it's very low in rural Malaysia and offering cash on delivery means Lazada is also reaching out to those outside of the major cities.
 
@@ -65,7 +77,11 @@ I'd be very surprise if they don't tweak the business here and there over the co
 
 Plus their also advertising on Google:
 
+
+
 ![](/uploads/silverstone-lazada-Google-Search.png "silverstone lazada   Google Search")
+
+
 <h2>Conclusion</h2>
 So are the Samwer brothers aren't exactly the slime of the earth, on the contrary I think they're bloody heroes, and if they bring in iTunes and Hulu to Malaysia, I'd personally erect a statue in their honor in my garden. These guys are bringing in 'old' business ideas, things that Americans have taken for granted , and deploying them to countries that have literally been craving for them. Where's the wrong in that?
 

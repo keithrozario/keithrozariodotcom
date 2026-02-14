@@ -17,7 +17,11 @@ Installing spyware on a laptop or smartphone is far more intrusive than a regula
 
 The MACC act, that governs the powers of the commission, specifically state that a the Public Prosecutor or Commissioner of the MACC can authorize the interception of communications if they 'consider' that the specific communication might help in an ongoing investigation. However, spyware from hacking team isn't really 'intercepting' communications, because what is being communicated through the Internet is usually encrypted, Hacking team circumvents this by capturing the data before it is encrypted and then sends that captured data in a separate communication back to its control servers. Strictly speaking, this isn't interception, its <a href="https://en.wikipedia.org/wiki/Shoulder_surfing_%28computer_security%29">shoulder surfing</a> on steroids.
 
-![Hacking Team Interception](/uploads/Slide1.png)More worrying, is that the spyware might take screen shots of diary entries and notes that the victim never intended to communicate with anyone, or draft e-mail entries that they later delete are also captured by this spyware.  Obviously this falls into a different category than simple 'interception', but I'm not done yet.
+
+
+![Hacking Team Interception](/uploads/Slide1.png)
+
+More worrying, is that the spyware might take screen shots of diary entries and notes that the victim never intended to communicate with anyone, or draft e-mail entries that they later delete are also captured by this spyware.  Obviously this falls into a different category than simple 'interception', but I'm not done yet.
 
 ![Slide2](/uploads/Slide2.png)<!--more-->
 

@@ -20,6 +20,10 @@ Welcome!!
 <p style="text-align: justify;">So I got got an account at <a title="Digital Ocean" href="http://www.digitalocean.com" target="_blank">DigitalOcean.com</a>,  they're a pretty decent cloud provider currently making waves in the cloud computing arena <em>(see what I did the puns there)</em>. They're cheaper than Amazon, and products are more clearer and cleanly priced, if you wonder what clean pricing is, just try to figure out how much hosting on Amazon will cost you, and then you'll know.</p>
 <p style="text-align: justify;">Spinning up an Ubuntu Instance of Wordpress on DigitalOcean took me less than 60 seconds, but migrating all the stuff from my older blog, and fixing all the errors and issues that were piling up since I started this blog took much longer.</p>
 <p style="text-align: justify;">Let this be a lesson to you bloggers, avoid using short-codes, and avoid installing too many plugins on your website. Less is better, and ultimately a lot of plugin related features aren't needed anyway.</p>
+
+
 ![DigitalOcean](/uploads/DO_Logo_Vertical_Blue-75e0d68b.png)
+
+
 <p style="text-align: justify;">In any case, for $5/month, I get to host my website on my on server, which has <strong>1 CPU Core</strong>, <strong>512MB of RAM</strong> and <strong>20GB of SSD</strong> space--you could opt for more power by jumping to $10/month, but my blog with 30,000 unique visitors a month is getting by just fine on this small machine. Plus since the resources all belong to me, I get better performance than my time with WPWebHost where I was a shared server.</p>
 <p style="text-align: justify;">In a future post, I'd show you how to setup the SSL on digitalocean the 'proper' way. For now though, thanks for stopping by, and you have any bugs/comments on the new design, fire away in the comments below.</p>

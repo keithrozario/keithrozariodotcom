@@ -7,7 +7,11 @@ categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++
 
 <!-- wp:image {"align":"center","id":7074,"sizeSlug":"large"} -->
+
+
 ![](/uploads/Screen-Shot-2020-05-10-at-10.56.10-AM.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -151,7 +155,11 @@ categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 <!-- /wp:list -->
 
 <!-- wp:image {"id":7073,"sizeSlug":"large"} -->
+
+
 ![](/uploads/Comparison.001.jpeg)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

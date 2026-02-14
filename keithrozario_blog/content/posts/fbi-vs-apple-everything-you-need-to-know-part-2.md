@@ -7,7 +7,11 @@ tags = ['Apple', 'Encryption', 'FBI']
 categories = ['CyberLaw', 'Security &amp; Privacy']
 +++
 
+
+
 ![broken-fence](/uploads/broken-fence-300x201.jpg)
+
+
 
 The Apple vs. FBI story has evolved so much in the past weeks, I thought I needed to write a separate post just on the updates. Admittedly, the story is far more complex and nuanced that I initially presumed, and everyone wants to be part of the conversation.
 
@@ -157,7 +161,11 @@ As a last note though, this is also the reason why Apple could comply with the p
 
 Google, Facebook and twitter, all of whom have un-encrypted data of their users also regularly comply to court orders for user data. Even Apple can't fully encrypt their iCloud data, simply because if everything were truly encrypted, then a loss of the encryption would permanently render all backups useless. For 99% of Apple customers, losing all data because they lost their password is simply unacceptable--so the FBI can breathe a sigh of relief.
 
+
+
 ![Old iPhone vs. New iPhone](/uploads/Old-iPhone-vs.-New-iPhone-647x500.png)
+
+
 <h2>Conclusion</h2>
 I have no one liner conclusion to this story, it simply refuses to be simplified. It is truly a complicated issue of technology and policy that requires sound understanding of both to thoroughly understand. But here's two final points to complete this 3000 word post.
 

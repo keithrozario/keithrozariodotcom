@@ -7,7 +7,11 @@ tags = ['Google']
 categories = ['Blog', 'Malaysia']
 +++
 
-![](/uploads/4362886799_f965f5ae9f.jpg "SEO_Malaysia")A lot of my search traffic comes from Google, in July I had slightly more than 8,000 visits to my site with just over 6,000 of those coming just from Google. So it made a lot of sense for me to look into some Search Engine Optimization to help boost those numbers. In September, I had more than 10,000 visits with more 8,o00 from Google, which of course begs the question who are the lovely people giving me 2,000 hits/month without going through Google.?
+
+
+![](/uploads/4362886799_f965f5ae9f.jpg "SEO_Malaysia")
+
+A lot of my search traffic comes from Google, in July I had slightly more than 8,000 visits to my site with just over 6,000 of those coming just from Google. So it made a lot of sense for me to look into some Search Engine Optimization to help boost those numbers. In September, I had more than 10,000 visits with more 8,o00 from Google, which of course begs the question who are the lovely people giving me 2,000 hits/month without going through Google.?
 <h2>What is Search Engine Optimization?</h2>
 Search Engine Optimization or more commonly know by it's acronym SEO, is the process of optimizing your site so that search engines like Google know exactly what is on your site, what topics you're writing about and what keywords are present in a page. This allows the search engine to display your site as a result for people searching for topics and keywords most related to your articles.
 

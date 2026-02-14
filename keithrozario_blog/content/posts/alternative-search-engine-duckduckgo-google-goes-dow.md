@@ -7,7 +7,11 @@ tags = ['duckduckgo', 'Google', 'ixquick', 'searchengine']
 categories = ['Misc']
 +++
 
-![](/uploads/google-down-large-300x204.png "google-down-large")Yesterday, I was over at a friends house fixing up a PC that was ridiculously infected with malware. The only complaint they had however was that they couldn't access malaysiakini, a local news site that they subscribe too. True enough the page wasn't loading completely, and it was frighteningly slow even when it did. Now, this sort of symptom usually doesn't lead to much, maybe bad browser plugin or something like, but browsing from all 3 browsers on the machine (Chrome, Firefox and IE) yielded the same results.
+
+
+![](/uploads/google-down-large-300x204.png "google-down-large")
+
+Yesterday, I was over at a friends house fixing up a PC that was ridiculously infected with malware. The only complaint they had however was that they couldn't access malaysiakini, a local news site that they subscribe too. True enough the page wasn't loading completely, and it was frighteningly slow even when it did. Now, this sort of symptom usually doesn't lead to much, maybe bad browser plugin or something like, but browsing from all 3 browsers on the machine (Chrome, Firefox and IE) yielded the same results.
 
 So I decided to do what I always do and perform a Google search, and Google wasn't loading...gasp!!
 
@@ -17,7 +21,11 @@ Finally I did a simple <em><span style="color: #888888;">netstat -a</span></em> 
 
 To confirm my suspicions, I did a simple ping for google.com and got the following:
 
+
+
 ![](/uploads/malware1.png "malware")
+
+
 
 Now for those of you unaware a ping from google should point to <strong>74.125.227.47</strong>, somehow my computer wasn't resolving the right address to Google, and the reason why Malaysiakini wasn't resolving either was because Malaysiakini ran some google scripts on it's webpage that required me to download some stuff from Googles servers. Since I wasn't resolving Google correctly, I couldn't load the page till the script timed out and that took a looooong while.
 

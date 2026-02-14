@@ -31,7 +31,11 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":7438,"sizeSlug":"large","linkDestination":"none"} -->
+
+
 ![](/uploads/Wolf3D200.jpg)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -55,7 +59,11 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7436,"sizeSlug":"large","linkDestination":"none"} -->
+
+
 ![](/uploads/born_into_it-1-333x500.jpg)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -99,7 +107,11 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7439,"sizeSlug":"large","linkDestination":"none"} -->
+
+
 ![](/uploads/47e3a084f393afd380b2a0a90c5e64c9-667x500.jpg)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -179,7 +191,11 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image -->
+
+
 ![Marina Bay Financial Centre | MBFC](/uploads/2020/10/resize_VVS-RQAM_MBFC2020-2445-Sep2020HI-e1601519532618.jpg)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

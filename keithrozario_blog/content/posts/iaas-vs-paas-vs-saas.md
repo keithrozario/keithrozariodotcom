@@ -7,7 +7,11 @@ tags = ['Cloud']
 categories = ['Cloud Computing']
 +++
 
-![](/uploads/services.axd_-300x138.png "services.axd")With the advent of cloud computing came the dawn of new terms for acronym savvy geeks to drool over, one of the most famous groups of these acronyms are the <strong>'aaS'</strong> acronyms. These are the acronym that start with a letter or two and then end with an<strong> 'aaS'</strong>.
+
+
+![](/uploads/services.axd_-300x138.png "services.axd")
+
+With the advent of cloud computing came the dawn of new terms for acronym savvy geeks to drool over, one of the most famous groups of these acronyms are the <strong>'aaS'</strong> acronyms. These are the acronym that start with a letter or two and then end with an<strong> 'aaS'</strong>.
 
 Cloud computing isn't fully defined right now, formal definitions usually naturally evolve once adoption rates reach a certain threshold. At the moment that threshold isn't yet reached, so we don't yet have a fully agreed upon definition. However, it's a common understanding that the cloud comes in various flavors, 3 'major' flavors to be exact. Iaas, Paas and Saas.
 
@@ -38,7 +42,11 @@ So for instance you could run an email application on an IaaS landscape and not 
 
 The best way to visualize this is through a wonderful diagram (which I stole off the "Windows Azure Platform: Cloud Development Jump Start" presentation I peek at over at <a title="Silverlighthack" href="http://www.silverlighthack.com/post/2011/02/27/IaaS-PaaS-and-SaaS-Terms-Explained-and-Defined.aspx" target="_blank">silverlighthack.com</a>)
 
+
+
 ![](/uploads/image.axd_-300x205.png "image.axd")
+
+
 
 In Software as a Service is the highest level of service anyone can offer you, everything is being looked after except the actual running of the software. Now you can in a sense outsource that as well....but where's the fun in that.
 

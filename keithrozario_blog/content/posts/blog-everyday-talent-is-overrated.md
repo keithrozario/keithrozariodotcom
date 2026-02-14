@@ -6,7 +6,11 @@ draft = false
 categories = ['Blog']
 +++
 
-![](/uploads/407591133_e84ffc4da3-213x300.jpg "407591133_e84ffc4da3")I recently finished the first chapter of Bounce, and found the content surprisingly similar to material I've read from <a title="Talent is Overrated" href="http://www.betterworldbooks.com/talent-is-overrated-what-really-separates-world-class-performers-from-everybody-else-id-9781591842941.aspx" target="_blank">Talent is overrated by Geoff Calvin</a>,  <a title="Mindset by Carol Dweck" href="http://www.betterworldbooks.com/mindset-id-0345472322.aspx" target="_blank">Mindset by Carol Dweck</a> and a chapter from <a title="What the Dog saw" href="http://www.betterworldbooks.com/what-the-dog-saw-and-other-adventures-id-9780316076203.aspx" target="_blank">Malcolm Gladwell's What the Dog Saw</a> entitled The Talent myth (I didn't read outliers), and it seems to be the same ol' vertabim if you want to get better at something, practice it a lot.
+
+
+![](/uploads/407591133_e84ffc4da3-213x300.jpg "407591133_e84ffc4da3")
+
+I recently finished the first chapter of Bounce, and found the content surprisingly similar to material I've read from <a title="Talent is Overrated" href="http://www.betterworldbooks.com/talent-is-overrated-what-really-separates-world-class-performers-from-everybody-else-id-9781591842941.aspx" target="_blank">Talent is overrated by Geoff Calvin</a>,  <a title="Mindset by Carol Dweck" href="http://www.betterworldbooks.com/mindset-id-0345472322.aspx" target="_blank">Mindset by Carol Dweck</a> and a chapter from <a title="What the Dog saw" href="http://www.betterworldbooks.com/what-the-dog-saw-and-other-adventures-id-9780316076203.aspx" target="_blank">Malcolm Gladwell's What the Dog Saw</a> entitled The Talent myth (I didn't read outliers), and it seems to be the same ol' vertabim if you want to get better at something, practice it a lot.
 
 I personally haven't read Outliers, but in it Gladwell expounds the virtue of practice and even creates a new 10,000 hour theory. The theory implies that with the right amount of practice anyone can achieve excellence in their fields. It even goes as far as saying that with the right amount of practice that excellence can never be denied to you, In essence guaranteeing that you will be great so long as you put in 10,000 hours of practice into your subject.
 

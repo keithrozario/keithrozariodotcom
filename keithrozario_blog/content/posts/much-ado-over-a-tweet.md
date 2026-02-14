@@ -6,7 +6,11 @@ draft = false
 categories = ['Malaysia', 'Social Media']
 +++
 
-![ETP Roadmap former prime minister tweet](/uploads/IMG-20140106-WA0040.jpg)In case you've missed it. The official twitter handle of the ETP, @etp_roadmap, recently made a serious blunder. In a tweet sent out at 1.00pm on the 6th of January, they tweeted<em> "<strong>Former</strong> Prime Minister Najib Razak: Energy and Food Subsidies are no longer sustainable"</em>. Now the blunder of course was the word 'Former' and it was only a full one hour later (or an eternity in twitter time) was the tweet deleted and an apology issued.
+
+
+![ETP Roadmap former prime minister tweet](/uploads/IMG-20140106-WA0040.jpg)
+
+In case you've missed it. The official twitter handle of the ETP, @etp_roadmap, recently made a serious blunder. In a tweet sent out at 1.00pm on the 6th of January, they tweeted<em> "<strong>Former</strong> Prime Minister Najib Razak: Energy and Food Subsidies are no longer sustainable"</em>. Now the blunder of course was the word 'Former' and it was only a full one hour later (or an eternity in twitter time) was the tweet deleted and an apology issued.
 
 Obviously everyone jumped on the matter and soon people were making fun over what was a silly but common mistake. What I find particularly disturbing is the manner in which Pemandu is getting flak for this. Surely this is something to joke about, share with your friends and have a laugh, but to attack someone over a typo is ridiculous.
 

@@ -7,7 +7,11 @@ tags = ['Blog Features', 'NearlyFreeSpeech']
 categories = ['Blog']
 +++
 
-![](/uploads/324448335_9d6bbb87a0_m.jpg "Subdomain Graffiti")Subdomains are a tricky thing. In laymans terms all it means is to have something else in place of the 'www' in your web address. So for example:
+
+
+![](/uploads/324448335_9d6bbb87a0_m.jpg "Subdomain Graffiti")
+
+Subdomains are a tricky thing. In laymans terms all it means is to have something else in place of the 'www' in your web address. So for example:
 
 <span style="color: #993300;"><strong>http://www.keithrozario.com </strong></span>&lt;- This is my domain
 

@@ -7,7 +7,11 @@ tags = ['Facebook']
 categories = ['Social Media']
 +++
 
-![](/uploads/PickNZip.jpg "PickNZip")<a title="Pick N Zip" href="http://www.picknzip.com" target="_blank">Pick&amp;Zip</a> is an amazing app that allows you to copy over your entire Facebook photo albums all at once in <span style="text-decoration: underline;">one zip file</span>. The application even allows you to view ALL the photos you're tagged in and download those as well, especially apt if you're looking to migrate this stuff to Google+. It also act as a great picture viewer for all your photos on Facebook.
+
+
+![](/uploads/PickNZip.jpg "PickNZip")
+
+<a title="Pick N Zip" href="http://www.picknzip.com" target="_blank">Pick&amp;Zip</a> is an amazing app that allows you to copy over your entire Facebook photo albums all at once in <span style="text-decoration: underline;">one zip file</span>. The application even allows you to view ALL the photos you're tagged in and download those as well, especially apt if you're looking to migrate this stuff to Google+. It also act as a great picture viewer for all your photos on Facebook.
 
 <!--more-->Using Pick &amp; Zip couldn't be easier:
 

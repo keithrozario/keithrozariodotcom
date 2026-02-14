@@ -7,7 +7,11 @@ tags = ['Maxis']
 categories = ['Malaysia']
 +++
 
-![](/uploads/Maxis_Allows_other_to_access_wifi.png "Maxis Home Terms and Conditions")Imagine buying a house from a housing developer who insist that even after you've bought the house the developer will be allowed access to your downstairs bathroom. So that even after you've bought the house and moved in and got that nice kitchen cabinet design you've been eye-ing, the developer can still access your downstairs bathroom, no matter what. Worse still, the developer then decides to turn your downstairs bathroom into a public toilet.
+
+
+![](/uploads/Maxis_Allows_other_to_access_wifi.png "Maxis Home Terms and Conditions")
+
+Imagine buying a house from a housing developer who insist that even after you've bought the house the developer will be allowed access to your downstairs bathroom. So that even after you've bought the house and moved in and got that nice kitchen cabinet design you've been eye-ing, the developer can still access your downstairs bathroom, no matter what. Worse still, the developer then decides to turn your downstairs bathroom into a public toilet.
 
 Sound crazy right?
 

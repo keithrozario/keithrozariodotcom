@@ -7,7 +7,11 @@ tags = ['Google']
 categories = ['Crowdsourcing', 'Malaysia']
 +++
 
-![](/uploads/google-beta-services-300x150.jpg "google-beta-services")I basically live on Google servers, the first sites I visit when I wake up are Google Mail and Google Reader, without these two sites I'm basically lost. I seldom log on to facebook anymore and twitter may keep me occupied for about an hour, but after that I need my fix of Google. Google is such an integral part of our lives, in fact since 70% of my readers come here via a Google search, chances are you wouldn't be here reading this very post right now--without Google.
+
+
+![](/uploads/google-beta-services-300x150.jpg "google-beta-services")
+
+I basically live on Google servers, the first sites I visit when I wake up are Google Mail and Google Reader, without these two sites I'm basically lost. I seldom log on to facebook anymore and twitter may keep me occupied for about an hour, but after that I need my fix of Google. Google is such an integral part of our lives, in fact since 70% of my readers come here via a Google search, chances are you wouldn't be here reading this very post right now--without Google.
 
 The question then becomes how much do we trust Google? Have we really thought about trusting Google given how much we rely on it. Think about it if Google were to go down, where would you go for more information. Chances are you'd head on over to bing, take bing away and you start having problems.
 

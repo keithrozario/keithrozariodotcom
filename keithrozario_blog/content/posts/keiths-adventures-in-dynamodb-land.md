@@ -51,7 +51,11 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7231,"sizeSlug":"large","linkDestination":"media"} -->
+
+
 ![](/uploads/data-model-820x174.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -91,7 +95,11 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7224,"sizeSlug":"large"} -->
+
+
 ![](/uploads/Screen-Shot-2020-06-27-at-8.07.37-PM-820x173.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -119,7 +127,11 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7226,"sizeSlug":"large","linkDestination":"media"} -->
+
+
 ![](/uploads/Screen-Shot-2020-06-27-at-9.41.52-PM-820x237.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -127,7 +139,11 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7245,"sizeSlug":"large"} -->
+
+
 ![](/uploads/before-after-2-820x427.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -147,7 +163,11 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7229,"sizeSlug":"large","linkDestination":"media"} -->
+
+
 ![](/uploads/Screen-Shot-2020-06-27-at-10.00.42-PM-820x239.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -179,7 +199,11 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7230,"sizeSlug":"large","linkDestination":"media"} -->
+
+
 ![](/uploads/Screen-Shot-2020-06-27-at-10.20.09-PM-637x500.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -211,7 +235,11 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7232,"sizeSlug":"large","linkDestination":"media"} -->
+
+
 ![](/uploads/dynamoDB-stream.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -223,7 +251,11 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7249,"sizeSlug":"large"} -->
+
+
 ![](/uploads/delete_layer-654x500.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:heading -->

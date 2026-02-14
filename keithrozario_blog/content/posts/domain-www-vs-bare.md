@@ -7,7 +7,11 @@ tags = ['NearlyFreeSpeech', 'wordpress']
 categories = ['Blog']
 +++
 
-![](/uploads/logo.gif "logo") As you probably know by now, I host my blog on NearlyFreeSpeech.net, they are easily the best host out there, why?
+
+
+![](/uploads/logo.gif "logo")
+
+ As you probably know by now, I host my blog on NearlyFreeSpeech.net, they are easily the best host out there, why?
 
 They AREEEE CHEEEEAP!! <!--more-->I mean <strong>dirt</strong> earth cheap, they make Dreamhost and Bluehost look like Louis Vuitton. How do they do it? They don't support you, Nearlyfreespeech doesn't have wannabe handholding software like cPanel, they don't support you and if you've got a question you have to pay to ask them. That's right...PAY to ASK them. They sell support points, that you buy and then redeem in the form a support question.
 

@@ -7,7 +7,11 @@ tags = ['Apple']
 categories = ['Copyright and Censorship', 'Malaysia']
 +++
 
-![](/uploads/rsz_pramlee_itunes-300x186.png "rsz_pramlee_itunes")Finally... it's arrived!!
+
+
+![](/uploads/rsz_pramlee_itunes-300x186.png "rsz_pramlee_itunes")
+
+Finally... it's arrived!!
 
 It was a long wait since my first iPod, but finally the iTunes has landed in Malaysia. Apple made a rather quite launch of the iTunes Store in Malaysia, meaning the days of logging into iTunes with US accounts and gift card purchases are over. Malaysians now have access to an entire treasure trove of songs available for the same prices as they are in the US. That's about $0.99 - $1.69 per song, or $9.99 per album (roughly).
 
@@ -31,7 +35,11 @@ The artist chosen were:
 
 So the list includes local, jazz, country, rock, pop and hip hop superstars and I'd thought it'd be good to see just how many songs and albums for each artist was offered by the Malaysian iTunes store against the US iTunes store. The results were surprising:
 
+
+
 ![](/uploads/Comparison_itunes_Malaysia_US.png "Comparison_itunes_Malaysia_US")
+
+
 
 Now while it's not the same, I noticed in some cases the Malaysian iTunes store had MORE stuff than the US one, but I attribute this to the HUUUUGE amount of 'karaoke' versions of songs available. The Karaoke versions are what some might refer to as 'minus-one' versions of the song, with just the music but no vocals.
 

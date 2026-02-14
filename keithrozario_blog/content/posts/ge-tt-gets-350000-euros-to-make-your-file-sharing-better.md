@@ -7,7 +7,11 @@ tags = ['filesharing']
 categories = ['Cloud Computing']
 +++
 
-![](/uploads/ge.tt_-300x300.png "ge.tt")File Sharing seems to be the next big thing , with email servers hitting maximum attachment sizes of 50MB pretty often, a lot of professionals are opting for web-based file sharing services. I previously wrote about how much<a title="Doing one thing Right: 6 websites that excel at just one thing." href="http://www.keithrozario.com/2011/06/doing-one-thing-right-6-websites-that-excel-at-just-one-thing.html"> I loved the interface at ge.tt</a>, plus I absolutely adore it's name. With more and more competition out there to share your files, what's a poor danish company to do?
+
+
+![](/uploads/ge.tt_-300x300.png "ge.tt")
+
+File Sharing seems to be the next big thing , with email servers hitting maximum attachment sizes of 50MB pretty often, a lot of professionals are opting for web-based file sharing services. I previously wrote about how much<a title="Doing one thing Right: 6 websites that excel at just one thing." href="http://www.keithrozario.com/2011/06/doing-one-thing-right-6-websites-that-excel-at-just-one-thing.html"> I loved the interface at ge.tt</a>, plus I absolutely adore it's name. With more and more competition out there to share your files, what's a poor danish company to do?
 
 Venturebeat today reported that <a title="Venture Beat" href="http://venturebeat.com/2011/12/20/ge-tt-gets-455000-to-transfer-your-files-faster/" target="_blank">Ge.tt just got 350,000 euros of funding from skype founder Niklas Zennström</a>, with dropbox currently valued at $5 Billion and box.net being used by about 75% of Fortune 500 companies, is there place for one more file sharing service. I think there's place for a whole lot more.
 

@@ -7,7 +7,11 @@ tags = ['Apple', 'Cloud Computing', 'Mac']
 categories = ['Cloud Computing']
 +++
 
-![](/uploads/MacInTheCloud.png "MacInTheCloud")So you want to develop an iOS application for your iPhone or iPad.
+
+
+![](/uploads/MacInTheCloud.png "MacInTheCloud")
+
+So you want to develop an iOS application for your iPhone or iPad.
 
 Thinking of being the next big app to hit the appstore.
 

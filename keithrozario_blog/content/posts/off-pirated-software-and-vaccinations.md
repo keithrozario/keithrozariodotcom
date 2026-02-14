@@ -6,7 +6,11 @@ draft = false
 categories = ["Keith's Favorite Post", 'Science', 'Security &amp; Privacy']
 +++
 
+
+
 ![4699834026_5d07d3ea19](/uploads/4699834026_5d07d3ea19.jpg)
+
+
 
 Here's a quick question--do you have a 'original' version of Windows running on your PC or is it pirated?
 
@@ -26,7 +30,11 @@ Vulnerabilities aren't fun for Microsoft, but they're a fact of life--and being 
 
 So Microsoft followed the science and attempts to shrink the number of vulnerable systems to insignificance, and that can only mean <a title="Microsoft allows patches for pirated version of windows" href="http://www.tomshardware.com/news/windows-pirate-bootleg-security-patches,7666.html" target="_blank">allowing patches for pirated versions of Windows</a>, no two ways about it, a world where Microsoft didn't allow pirated version of Windows to be patched would be a dangerous world to live in.<!--more-->
 <h2>So what does this have to do with vaccination?</h2>
-![5819113192_1124684551](/uploads/5819113192_1124684551.jpg)It's the same thing. If you treat each human as an individual system within a network, then in order to reduce our vulnerability to diseases like Polio, Tuberculosis, or Hepatitis  you'd need to shrink the number of vulnerable human-beings till they become insignificant. In order words you want to patch as many humans in as short a time-frame as you can.
+
+
+![5819113192_1124684551](/uploads/5819113192_1124684551.jpg)
+
+It's the same thing. If you treat each human as an individual system within a network, then in order to reduce our vulnerability to diseases like Polio, Tuberculosis, or Hepatitis  you'd need to shrink the number of vulnerable human-beings till they become insignificant. In order words you want to patch as many humans in as short a time-frame as you can.
 
 Each vaccination jab you receive is like a software patch, that 'patches' you so you're no longer vulnerable to a disease. However, the entire system only works, if everybody plays the game. A small group of 'pirates' who refuse to get vaccinated, could end up not just extending the virus and spreading it--but also allowing the virus to mutate and evolve into something the vaccines no longer work against. In essence the pirates would allow for a virus not just to continue spreading and surviving, but the anti-vaccine proponents are actually <strong>setting the stage for these diseases to make a stronger come-back.</strong>
 
@@ -70,7 +78,11 @@ But Placebo isn't going to cure you of TB, Polio, Aids, Cancer and just about an
 
 One last thing, your Homeopathy 'Doctor' is not a Doctor!!
 <h2>Conclusion</h2>
-![8488790482_4e71cb6c5f](/uploads/8488790482_4e71cb6c5f.jpg)Vaccine deniers are not just scientifically illiterate, they are irresponsible parents that are placing they're children and the children of others at risk of contracting diseases we've work so hard to eradicate. They're quite possibly setting the stage for more to come, and the fact that they remain arrogantly unmoved by the scientific data is just appalling.
+
+
+![8488790482_4e71cb6c5f](/uploads/8488790482_4e71cb6c5f.jpg)
+
+Vaccine deniers are not just scientifically illiterate, they are irresponsible parents that are placing they're children and the children of others at risk of contracting diseases we've work so hard to eradicate. They're quite possibly setting the stage for more to come, and the fact that they remain arrogantly unmoved by the scientific data is just appalling.
 
 However, I think that vaccine deniers are just the tip of the ice-berg, the little bit we can actually see, the real problem--the 90% of the iceberg under the surface, is the terrible amount of scientific illiteracy we see in Malaysia today, from <a title="Malaysian Scientist don’t believe in Evolution?" href="http://www.keithrozario.com/2013/04/malaysian-scientist-dont-believe-evolution.html" target="_blank">Evolution deniers</a> to Vaccine deniers, to Feng Shui followers and <a title="No Surprise Malaysia scores low on Science" href="http://www.keithrozario.com/2012/12/malaysians-believe-bomohs-science.html" target="_blank">Bomoh worshippers</a>, these are all indicative of a dark-age society that has yet to come into contact with science, these things shouldn't exist in a country that is as advanced and developed as ours.
 

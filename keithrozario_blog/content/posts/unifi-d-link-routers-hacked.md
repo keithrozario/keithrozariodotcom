@@ -21,8 +21,16 @@ The hack is so simple, it requires no additional tools other your browser and qu
 </blockquote>
 
 Where XXXXX is the router IP address, and YYYY is the port on which it's operating on. Then the router will miraculously display it's security credentials to you, and you're good to go. Using Shodan, I've verified that this works with nearly every firmware <em>(pictures are blurry, click to open the full image)</em>
-<p style="text-align: center;">![7.13 firmware](/uploads/7.13-firmware.png)</p>
-<p style="text-align: center;">![7.17 firmware](/uploads/7.17-firmware.png)</p>
+<p style="text-align: center;">
+
+![7.13 firmware](/uploads/7.13-firmware.png)
+
+</p>
+<p style="text-align: center;">
+
+![7.17 firmware](/uploads/7.17-firmware.png)
+
+</p>
 D-Link have yet to release a patch for this, and the guy that published the bug didn't really follow the rules. Usually D-Link should be alerted of such a bug and given time to fix it before the vulnerability is published.
 
 However, since literally hundreds of thousands of Malaysian households are now susceptible to this attack, you need to know. More importantly, there's nothing you can do about it with your current router firmware. No counter-measure is possible, it's like living in a house where the door won't lock, or the gate won't close--how will you sleep at night?

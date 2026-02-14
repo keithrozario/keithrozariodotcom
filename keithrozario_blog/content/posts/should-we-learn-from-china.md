@@ -7,7 +7,11 @@ tags = ['Sina Weibo', 'Wikipedia']
 categories = ['Copyright and Censorship', 'Malaysia']
 +++
 
-![Tianasquare](/uploads/Tianasquare.jpg)I'm truly anxious at the recent rhetoric about 'regulating' of the internet, and fear the worst. I grew up with the internet and like to think we made a journey together, from my high school days where dial-up internet was the norm, to the blazing fast broadband I have now--things have change a lot for the both of us. I am a digital native, I know no other land other than a digitally infused one we live in today. Couple that with my unique libertarian views and my savvy for all things tech, and you can quickly see why I strongly oppose internet censorship of any kind....and I really mean any kind.
+
+
+![Tianasquare](/uploads/Tianasquare.jpg)
+
+I'm truly anxious at the recent rhetoric about 'regulating' of the internet, and fear the worst. I grew up with the internet and like to think we made a journey together, from my high school days where dial-up internet was the norm, to the blazing fast broadband I have now--things have change a lot for the both of us. I am a digital native, I know no other land other than a digitally infused one we live in today. Couple that with my unique libertarian views and my savvy for all things tech, and you can quickly see why I strongly oppose internet censorship of any kind....and I really mean any kind.
 
 So when certain groups like GAPS call on the government to<a title="Ban Facebook completely" href="http://www.theedgemalaysia.com/index.php?option=com_content&amp;task=view&amp;id=240923&amp;Itemid=77" target="_blank"> ban Facebook completely</a>, I get a fairly annoyed. This follows just days after similar groups called for Malaysia to follow in footsteps of our neighbours down south and place a price on blogging--<a title="Will Malaysia follow Singapore to reduce internet freedom" href="http://www.keithrozario.com/2013/06/will-malaysia-follow-singapore-to-reduce-internet-freedom.html" target="_blank">to the tune of SGD50,000</a>, and who can forget the day when a <a title="Ban Youtube in Malaysia?" href="http://www.keithrozario.com/2012/09/ban-youtube-in-malaysia.html" target="_blank">respected journalist in Malaysia called for the ban of Youtube</a>.
 

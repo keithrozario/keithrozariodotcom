@@ -6,7 +6,11 @@ draft = false
 categories = ['Misc']
 +++
 
-![TOGAF Certification Results in Malaysia](/uploads/TOGAF-Certification.jpg "TOGAF Certification Results") Finally after a year of procrastinating I finally sat for my TOGAF exam. I'm glad I finally did it, but I should have done it much earlier.
+
+
+![TOGAF Certification Results in Malaysia](/uploads/TOGAF-Certification.jpg "TOGAF Certification Results")
+
+ Finally after a year of procrastinating I finally sat for my TOGAF exam. I'm glad I finally did it, but I should have done it much earlier.
 
 A lot of people wonder what TOGAF really is, TOGAF is an acronym that stands for the <strong>The Open Group Architecture Framework</strong>--yes it's a mouthful and you've probably never heard of it before, but I personally believe architecture is a great place to be in these days, and ever since I moved into solution architecture (slightly more than a year ago) I've never regretted it.
 

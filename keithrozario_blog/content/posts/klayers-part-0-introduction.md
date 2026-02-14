@@ -115,5 +115,9 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6763,"sizeSlug":"large"} -->
+
+
 ![](/uploads/Klayers-Architecture.png)
+
+
 <!-- /wp:image -->

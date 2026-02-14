@@ -6,7 +6,11 @@ draft = false
 categories = ['Crowdsourcing']
 +++
 
+
+
 ![Number of Successful Kickstarter Projects in 2012](/uploads/The-Best-of-Kickstarter-2012-—-Kickstarter.png "The Best of Kickstarter 2012 — Kickstarter")
+
+
 
 Crowdfunding is exploding, and kickstarter is exploding with it.
 

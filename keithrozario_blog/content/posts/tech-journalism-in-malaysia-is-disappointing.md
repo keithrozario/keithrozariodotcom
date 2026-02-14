@@ -6,7 +6,11 @@ draft = false
 categories = ['Misc']
 +++
 
-![GOOGLEHACKED-M](/uploads/GOOGLEHACKED-M.png)Last week visitors browsing to Google's Malaysia website were greeted with a big bold image stating the website was hacked. The media had a field day proudly proclaiming that Google's website was hacked, because that was exactly what the page they visited said....Google Hacked!!
+
+
+![GOOGLEHACKED-M](/uploads/GOOGLEHACKED-M.png)
+
+Last week visitors browsing to Google's Malaysia website were greeted with a big bold image stating the website was hacked. The media had a field day proudly proclaiming that Google's website was hacked, because that was exactly what the page they visited said....Google Hacked!!
 
 Only, Google <span style="text-decoration: underline;"><strong>wasn't</strong></span> hacked.
 

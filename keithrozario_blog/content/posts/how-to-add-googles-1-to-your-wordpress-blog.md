@@ -7,7 +7,11 @@ tags = ['Blog', 'Blog Features', 'Google', 'wordpress']
 categories = ['Blog']
 +++
 
-![](/uploads/Google+1button-150x108.jpg "Google+1button")Google has just hit back at Facebook with the new +1 button. Similar to facebook's like, it's a one-click button to symbolize you 'like' the site. However, that's where the similarity ends:
+
+
+![](/uploads/Google+1button-150x108.jpg "Google+1button")
+
+Google has just hit back at Facebook with the new +1 button. Similar to facebook's like, it's a one-click button to symbolize you 'like' the site. However, that's where the similarity ends:
 
  
 
@@ -44,4 +48,7 @@ In the face of all this, the +1 is probably not as appealing as a Facebook like 
 </ol>
 There you have it, and here's your +1's will look on your google profile, click on the picture to enlarge:
 
+
+
 ![](/uploads/Google_profiles-300x173.jpg "Google_profiles")
+

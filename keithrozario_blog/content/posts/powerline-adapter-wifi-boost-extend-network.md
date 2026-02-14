@@ -6,7 +6,11 @@ draft = false
 categories = ['Misc']
 +++
 
-![AV500 Gigabit Powerline Adapter TL PA511](/uploads/AV500-Gigabit-Powerline-Adapter-TL-PA511.png)A popular question I get, is how to boost a WiFi signal. Folks struggle to get good WiFi connections on the 2nd (or 3rd) floors of their homes because the routers they have don't pump enough  'juice' to go around. This is particularly true for those that work from home, having poor WiFi while trying to have a teleconference-- just sucks. While other applications like YouTube and Facebook could use buffering or caching, a real-time conversation with someone over skype relies on good connectivity all the way from one party to the other, and it doesn't matter if you have Unifi 20Mbps, if your WiFi is laggy.
+
+
+![AV500 Gigabit Powerline Adapter TL PA511](/uploads/AV500-Gigabit-Powerline-Adapter-TL-PA511.png)
+
+A popular question I get, is how to boost a WiFi signal. Folks struggle to get good WiFi connections on the 2nd (or 3rd) floors of their homes because the routers they have don't pump enough  'juice' to go around. This is particularly true for those that work from home, having poor WiFi while trying to have a teleconference-- just sucks. While other applications like YouTube and Facebook could use buffering or caching, a real-time conversation with someone over skype relies on good connectivity all the way from one party to the other, and it doesn't matter if you have Unifi 20Mbps, if your WiFi is laggy.
 
 I thought I could fix this <a title="Asus N12 HP: The best Unifi replacement router?" href="http://www.keithrozario.com/2013/08/asus-unifi-rt-n12-hp.html">by buying a more powerful router</a>--but that didn't work. The signal strength increased, but the quality was still below par.
 
@@ -24,7 +28,11 @@ I won't even described how to set it up here, because it really was a press of b
 
 One last thing, get a Powerline adapter with AC-Passthru, which allows you to use the wall socket for your electrical appliances even with the Adapter. Some adapters don't come with AC-Passthru, which means you can't use the AC socket once you're connected. That just sucks.
 
+
+
 ![Powerline Adapter passthru](/uploads/Passthru.jpg)
+
+
 <h2>The Quality of a Powerline Adapter</h2>
 The quality of a powerline connection is dependent on two things:
 
@@ -46,7 +54,11 @@ At a distance of 10 feet from the router, both WiFi and Powerlines perform equal
 
 While the power socket itself is just 10ft from the router--the wiring for the powerline connection will need to travel from the input to the fusebox and then to the output, which could be 50ft for all I knew.And if the input and output sockets are on different phases you'll lose a couple of dB on top of that. So over close distances, WiFi is actually better, but how did it do when my laptop was upstairs?
 
-![Powerline vs. WiFi 10ft](/uploads/Powerline-vs.-WiFi-10ft.png)<a href="/uploads/Powerline-vs.-WiFi-10ft.png">
+
+
+![Powerline vs. WiFi 10ft](/uploads/Powerline-vs.-WiFi-10ft.png)
+
+<a href="/uploads/Powerline-vs.-WiFi-10ft.png">
 </a>
 <h2>Powerline vs. WiFi (2nd floor)</h2>
 Here's where the powerline adapter really shines, because the powerline experiences less degradation over distance, the gap between WiFi and Powerline grows bigger with every meter you put between yourself and the router. So while the WiFi quality dropped significantly when I moved the laptop upstairs, the Powerline connection didn't. Resulting in almost identical speeds whether you were 10ft away from your router, or 100ft.

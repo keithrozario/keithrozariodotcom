@@ -6,7 +6,11 @@ draft = false
 categories = ['Science']
 +++
 
+
+
 ![ibrahimali_calculator_rosak](/uploads/ibrahimali_2012_330_220_100.jpg)
+
+
 
  
 

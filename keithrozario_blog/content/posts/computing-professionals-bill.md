@@ -6,7 +6,11 @@ draft = false
 categories = ['CyberLaw', 'Malaysia', 'Misc']
 +++
 
-![](/uploads/Presentation_Overview-300x199.jpg "Presentation_Overview") Some laws you have to fight wars to keep....others you have to fight wars to be repealed. This is one of those laws you have to fight to prevent from ever being made a law...
+
+
+![](/uploads/Presentation_Overview-300x199.jpg "Presentation_Overview")
+
+ Some laws you have to fight wars to keep....others you have to fight wars to be repealed. This is one of those laws you have to fight to prevent from ever being made a law...
 
 On April 12th , 1861 Confederate forces attacked Union Military installation named Fort Sumter in South Carolina. The attacked marked the beginning of the American Civil War, and the United States of America would never be the same. The war was about more than just a secession from a Union, it was about preserving the right that every man was created equal and that no man or woman would ever be 'owned' again. In just over 140 years later, the United States of America elected their first Black president.If ever there was a war worth fighting for, it was the American Civil War. The Abolition of slavery was a law worth fighting for, it was worth preserving, even till death.<!--more-->
 
@@ -36,7 +40,11 @@ To top it off, we may more and more power point slides with clip-arts and 'point
 
 DAMN!!!
 
+
+
 ![](/uploads/pointy_star.jpg "pointy_star")
+
+
 
 Apologies for the loong post. This is one of topics that combines my love for politics and technology...and history as well.
 

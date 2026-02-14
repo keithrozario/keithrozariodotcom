@@ -6,7 +6,11 @@ draft = false
 categories = ['Malaysia']
 +++
 
-![Broadband connection speeds](/uploads/dsc00496.jpg)Not to beat a dead horse now, (you can read my previous articles <a href="https://www.keithrozario.com/2015/07/for-the-final-time-malaysian-internet-speeds-are-not-slow.html">here</a> and <a href="https://www.keithrozario.com/2014/05/malaysia-broadband-slow-cambodia-ookla.html">here</a>)but I'll say it one last time, internet speeds aren't exactly what we should be debating over these days. We should focus on internet penetration rates, and broadband penetration, and define these correctly.
+
+
+![Broadband connection speeds](/uploads/dsc00496.jpg)
+
+Not to beat a dead horse now, (you can read my previous articles <a href="https://www.keithrozario.com/2015/07/for-the-final-time-malaysian-internet-speeds-are-not-slow.html">here</a> and <a href="https://www.keithrozario.com/2014/05/malaysia-broadband-slow-cambodia-ookla.html">here</a>)but I'll say it one last time, internet speeds aren't exactly what we should be debating over these days. We should focus on internet penetration rates, and broadband penetration, and define these correctly.
 
 The MCMC defines broadband as anything over dial-up. Which is stupid, because a 128kbps ISDN would be considered broadband, but certainly it wouldn't feel like broadband to any user. It would crawl.
 
@@ -14,7 +18,11 @@ But at the same time, you can't set the number too high to something like 100Mbp
 
 So the question becomes, how fast is fast enough? What bandwidth is sufficient for the average Malaysian to enjoy the internet at the same level as anybody else. A lot of people buy a car without caring about the cars top speed, because very few people actually push the car to it's top speed. Why isn't it the same for internet bandwidth?<!--more-->
 <h2>Youtube sets the benchmark</h2>
-![Google Webmaster Help Youtube Page](/uploads/rsz_1rsz_google_webmasters___youtube.png)Let me offer my not so humble opinion, broadband should be categorized as 4Mbps and above, and there's a good reason for that--Youtube. This isn't trivial, from a bandwidth consumption perspective Youtube is the single most viewed site in Malaysia <em>(Facebook, Whatsapp might be used more, but they consume far less bandwidth)</em>. And my guess is that you need a minimum of 4Mbps to have a Youtube experience where you're not sitting around waiting for videos to load.
+
+
+![Google Webmaster Help Youtube Page](/uploads/rsz_1rsz_google_webmasters___youtube.png)
+
+Let me offer my not so humble opinion, broadband should be categorized as 4Mbps and above, and there's a good reason for that--Youtube. This isn't trivial, from a bandwidth consumption perspective Youtube is the single most viewed site in Malaysia <em>(Facebook, Whatsapp might be used more, but they consume far less bandwidth)</em>. And my guess is that you need a minimum of 4Mbps to have a Youtube experience where you're not sitting around waiting for videos to load.
 
 Youtube isn't just cat videos either, most of my post-university education has come from youtube, whether its learning to play the guitar, cooking chicken curry, coding in python or even my histories are mostly from youtube. So if you're talking about bandwidth, let's look at it from the perspective of use, and what you would use the bandwidth for, rather than focusing on a number. Having a Youtube experience that doesn't require you to wait for videos to download is a phenomenal threshold to cross, it greatly improves the experience.
 
@@ -32,7 +40,11 @@ But the point is what can you consume at 10Mbps, that you can't at 4Mbps, and do
 
 I'm not defending the Goverment, and I'm definitely not defending the Minister, God knows I don't like him, what I'm trying to do is steer the conversation away from looking at a single individual number to looking at the bigger picture and all the variables it entails.
 <h2>Broadband affordability</h2>
-![WTF is BitCoin](/uploads/download.jpg)For instance broadband penetration rates of 30% aren't good, and we need to make sure broadband reaches the masses, not just by laying down the Fiber to the rural areas, but by making it accessible price-wise as well.
+
+
+![WTF is BitCoin](/uploads/download.jpg)
+
+For instance broadband penetration rates of 30% aren't good, and we need to make sure broadband reaches the masses, not just by laying down the Fiber to the rural areas, but by making it accessible price-wise as well.
 
 In other words, we shouldn't just be focusing on making broadband accessible geographically , we need to also focus on making it accessible economically. RM150 is the minimum you pay for Fiber to your home, and that's expensive. We need to get that down to a number like RM100 in order for this to work.
 

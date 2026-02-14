@@ -19,5 +19,9 @@ A reader nicely pointed me to this wonderful infographic that I'd thought I'd sh
 
 Infographic courtesy of backgroundcheck.org via <a title="http://muhammadsaleem.com" href="http://muhammadsaleem.com" target="_blank">Muhammad Saleem</a>
 
+
+
 ![Mother, Can I Trust Google?](https://s3.amazonaws.com/infographics/Trust-Google-800.png)
+
+
 Hosted by: <a href="http://www.backgroundcheck.org/blog">Online Background Check Guide</a>

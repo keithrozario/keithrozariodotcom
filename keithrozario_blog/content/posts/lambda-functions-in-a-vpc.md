@@ -59,7 +59,11 @@ categories = ['Cloud Computing', 'Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6930,"sizeSlug":"large"} -->
+
+
 ![](/uploads/VPC_Lambda1.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:more -->
@@ -195,7 +199,11 @@ categories = ['Cloud Computing', 'Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6940,"sizeSlug":"large"} -->
+
+
 ![](/uploads/Screenshot-2020-02-12-at-7.45.58-AM.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:heading -->

@@ -8,7 +8,11 @@ categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++
 
 
-[caption id="attachment_5373" align="aligncenter" width="550"]![E-mail from Miliserv to Hacking team stipulating the end-customer as the Prime Ministers Department](/uploads/Prime-Ministers-Department.png) E-mail from Miliserv to Hacking team stipulating the end-customer as the Prime Ministers Department[/caption]
+[caption id="attachment_5373" align="aligncenter" width="550"]
+
+![E-mail from Miliserv to Hacking team stipulating the end-customer as the Prime Ministers Department](/uploads/Prime-Ministers-Department.png)
+
+ E-mail from Miliserv to Hacking team stipulating the end-customer as the Prime Ministers Department[/caption]
 
 
 The Prime Ministers Department has <a href="http://www.themalaymailonline.com/malaysia/article/pms-department-didnt-buy-spyware-minister-says">denied</a> (<a href="http://www.themalaysianinsider.com/malaysia/article/again-azalina-denies-putrajaya-bought-spyware">twice!</a>) that it has ever procured surveillance software from Hacking Team. Even though hundreds of e-mails in the leaked <a href="https://wikileaks.org/hackingteam/emails/">Hacking Team archive</a> point to it. The latest rebuttal, Datuk Azalina distanced her Ministry from other government agencies, encouraging reporters to seek official statement directly from other agencies accused of procuring the spyware.
@@ -20,7 +24,11 @@ To be clear, I'm not accusing anyone of anything. I'm merely reproducing what is
 So...here's an e-mail (linked <a href="https://www.dropbox.com/s/nhf46kexcbhli27/RE%2030%25%20Payment.msg?dl=">here</a>), showing Miliserv requesting Hacking Team to register the <strong>Prime Ministers Department</strong> as the End User of the system in the Licensing agreement, and here's another (below), showing Miliserv preparing to welcome 6 PMO staff to their headquarters in Milan for 'advanced training'. I have removed the names of the PMO staff (red blocks) as I believe that employees shouldn't be punished for mistakes their employers commit <em>(but you can search for it online, it comes with passport numbers as well). </em>Why send 6 staff to Milan for training if you didn't buy the spyware?
 
 <!--more-->
-![](/uploads/PMO-Training-1.png)Now why is it important that we clear this up, even after the MACC has implicitly admitted purchasing such spyware? Well, it's because of a little known agreement known as Wassenaar.
+
+
+![](/uploads/PMO-Training-1.png)
+
+Now why is it important that we clear this up, even after the MACC has implicitly admitted purchasing such spyware? Well, it's because of a little known agreement known as Wassenaar.
 
 <h2>Implications of Wassenaar</h2>
 

@@ -7,7 +7,11 @@ tags = ['Friends', 'Unibooks']
 categories = ['Malaysia']
 +++
 
-![Unibooks Malaysia](/uploads/Unibooks.png "Unibooks.com.my")A rather entrepreneurial friend of mine realized the Malaysia didn't really have any niche bookstores that offered free delivery. Sure all the medical students knew where to get their textbooks from, and the designers knew where the best design books could be bought--but for the most part that involved a long trip to somewhere to the older parts of KL just to purchase a book or two. For some that may be a worthwhile sacrifice, just like buying electronics from lowyat, but for others that may involve either driving from Penang or even further just to get your hands on a desperately needed textbook at a an affordable price, that seemed a rather big price to pay.
+
+
+![Unibooks Malaysia](/uploads/Unibooks.png "Unibooks.com.my")
+
+A rather entrepreneurial friend of mine realized the Malaysia didn't really have any niche bookstores that offered free delivery. Sure all the medical students knew where to get their textbooks from, and the designers knew where the best design books could be bought--but for the most part that involved a long trip to somewhere to the older parts of KL just to purchase a book or two. For some that may be a worthwhile sacrifice, just like buying electronics from lowyat, but for others that may involve either driving from Penang or even further just to get your hands on a desperately needed textbook at a an affordable price, that seemed a rather big price to pay.
 
 So looking into that gap, he decided to start Unibooks, and what really makes me excited for him is the speed in which he manage to create the startup from nearly scratch and the fact that we're seeing a lot of local startups flourish to meet the needs of Malaysians--the same needs that seem to be ignored by the bigger retailers.<!--more-->
 <h2>Cheap Medical Books</h2>
@@ -21,7 +25,11 @@ Armed with a title for comparison, I decided to compare this one particular book
 
 <a title="Unibooks: Harrisons Principles of Internal Medicine" href="http://unibooks.com.my/index.php?route=product/search&amp;filter_name=Harrison's" target="_blank">Unibooks sold it for just Rm325</a> a more than 70% discount from Kinokuniya and 50% cheaper than what MPH was selling it for.These guys were really cheap.
 
-![Unibooks: Harrisons Principles of Internal Medicine price](/uploads/Search-Harrison-s-Principles-of-Internal-Medicine.png "Harrisons Principles of Internal Medicine Unibooks")Of course very few people buy textbooks from the likes of MPH and Kinokuniya, but that at least gives you some understanding of the textbook prices in Malaysia. Like I mentioned, I'm sure many have far cheaper alternatives for Medical Books, but those small stores usually do not have an online presence and hence it's hard to make any sort of comparison.
+
+
+![Unibooks: Harrisons Principles of Internal Medicine price](/uploads/Search-Harrison-s-Principles-of-Internal-Medicine.png "Harrisons Principles of Internal Medicine Unibooks")
+
+Of course very few people buy textbooks from the likes of MPH and Kinokuniya, but that at least gives you some understanding of the textbook prices in Malaysia. Like I mentioned, I'm sure many have far cheaper alternatives for Medical Books, but those small stores usually do not have an online presence and hence it's hard to make any sort of comparison.
 <h2>Convenient shipping</h2>
 So, while most medical students will have a regular bookstore for them to get their medical books from--Unibooks does one better in offering free shipping nationwide. So for those studying in Penang or even in East Malaysia, procuring the books is a simple and straightforward online transaction (just like all transactions should be).
 

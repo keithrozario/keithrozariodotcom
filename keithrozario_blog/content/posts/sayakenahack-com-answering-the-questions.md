@@ -6,7 +6,11 @@ draft = false
 categories = ['Misc']
 +++
 
-![](/uploads/image2017-11-12_19-2-50.png)OK, this is my last post on sayakenahack.com, and I've got a script scheduled to run at Sunday midnight to tear down the database. So if you wanna check, you better do it now, cause in 3 days time, it'll be gone.
+
+
+![](/uploads/image2017-11-12_19-2-50.png)
+
+OK, this is my last post on sayakenahack.com, and I've got a script scheduled to run at Sunday midnight to tear down the database. So if you wanna check, you better do it now, cause in 3 days time, it'll be gone.
 
 *poof*
 
@@ -76,7 +80,11 @@ First-off, the data is masked at source. i.e. the database only has the masked d
 
 Below is the full representation of the data in the DB (for ic number 12345):
 
+
+
 ![](/uploads/JSON.png)
+
+
 
 The data is masked at source, not in transit. So even I have no way to retrieve the full phone number from the DB. That's why I can't provide folks their full phone numbers -- it just doesn't work that way.
 
@@ -118,7 +126,11 @@ That's just the tip of the icerberg of what I have on AWS. This thing is a labou
 <h2>So what</h2>
 Let's compare all of the above -- with this!!
 
+
+
 ![](/uploads/spr.png)
+
+
 
 That's the election commission website, that publishes your full name, and voting location based on a simple IC entry. The site is marked as insecure by Google Chrome because it doesn't even have TLS.
 
@@ -146,7 +158,11 @@ Just saying, maybe sayakenahack isn't a problem when the Election Commission's w
 
 This is sayakenahack.
 
+
+
 ![](/uploads/sayakenahack.png)
+
+
 
 That 1 cookie is for Google Analytics, it's the only bit of 'data capturing' I do, and it's industry standard. I collect data about who visits the site, and see what their load/lag times are, to ensure the site is operational and working well. But that doesn't capture query strings, so no IC numbers are tracked.
 
@@ -164,7 +180,11 @@ Sayakenahack forces re-direction. There is no un-encrypted version for either th
 
  
 
+
+
 ![](/uploads/sayakenahack-redirect.png)
+
+
 <h2>Yes, but these are government websites</h2>
 Yes, the government (both state and federal) are exempt from PDPA.
 
@@ -176,7 +196,11 @@ Secondly, there exist an exemption clause in the PDPA, specifically section 45(2
 (ii) the data user reasonably believes that, taking into account the <strong>special importance of public interest in freedom of expression, the publication would be in the public interest</strong>;</blockquote>
 I don't know how you define, public interest, but the site got 100,000 visits today (even with the ban kicking in at 12pm) signals to me that there is public interest.
 
+
+
 ![](/uploads/PageViews.png)
+
+
 
 I know Public Interest doesn't literally mean things that interest the public, but you can't argue that this is something people should be aware of. And don't give me bullshit about hackers querying this instead of 'real-users'. Hackers would use the API, and bypass the Google Analytics, the 100,000 is purely from the Google Analytics data.
 

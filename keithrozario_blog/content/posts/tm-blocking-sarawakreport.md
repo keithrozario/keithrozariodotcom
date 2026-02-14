@@ -6,7 +6,11 @@ draft = false
 categories = ['Copyright and Censorship', 'Malaysia']
 +++
 
-![Website Blocked](/uploads/Makluman-Notification-2015-07-19-21-49-53-756x500.png)Sarawakreport, a website covering sensitive political topics in Malaysia was <a href="http://www.themalaymailonline.com/malaysia/article/sarawak-report-blocked">blocked today by the countries most prominent ISP</a>, Telekom Malaysia (TM).
+
+
+![Website Blocked](/uploads/Makluman-Notification-2015-07-19-21-49-53-756x500.png)
+
+Sarawakreport, a website covering sensitive political topics in Malaysia was <a href="http://www.themalaymailonline.com/malaysia/article/sarawak-report-blocked">blocked today by the countries most prominent ISP</a>, Telekom Malaysia (TM).
 
 Internet users using TM's Domain Name Server (DNS) reported that the website was inaccessible, and I've confirmed that is an intentional block by TM.
 
@@ -22,7 +26,11 @@ Now you can see the issue, if TM is the sole service that you use to convert web
 
 How do I know this? You can change the settings on your computer to use alternative DNS servers (Google and OpenDNS run great free services), and these DNS servers convert SarawakReport.org to IP addresses like 104.20.27.161<em> (note that most of the time popular websites have multiple IP addresses, but that's not important for now). </em>However, if you use TM's DNS server, SarawakReport.org converts to 175.139.142.25, which is an IP address owned by TM. This also explains why users who use Proxy servers or different DNS settings will not experience any issues.
 
-[caption id="attachment_5103" align="aligncenter" width="550"]![TM-DNS](/uploads/TM-DNS.png) TM's DNS server resolving SarawakReport.org to 175.139.142.25[/caption]
+[caption id="attachment_5103" align="aligncenter" width="550"]
+
+![TM-DNS](/uploads/TM-DNS.png)
+
+ TM's DNS server resolving SarawakReport.org to 175.139.142.25[/caption]
 
 Tsk, tsk, tsk.
 

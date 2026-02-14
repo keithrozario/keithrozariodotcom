@@ -8,7 +8,11 @@ categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 
 In 2016, Chip and Pin will gradually be introduced in Malaysia, that means your Credit Cards now will prompt you for a PIN instead of signature during purchases. This will be a bit of a hassle, but it will be worth it,  here's what you need to know about it and credit card transactions in general.
 <h2>The 5 people you meet in card transaction</h2>
-![19205891971_2abaa89036_z](/uploads/19205891971_2abaa89036_z-300x300.jpg)First off, a short primer on credit card transactions. In any business transaction, there are at least 2 actors involved, a buyer and a seller. In industry lingo we call them <strong>Merchants </strong>and <strong>Cardholders</strong>. These are important terms to remember, as we'll use them extensively .
+
+
+![19205891971_2abaa89036_z](/uploads/19205891971_2abaa89036_z-300x300.jpg)
+
+First off, a short primer on credit card transactions. In any business transaction, there are at least 2 actors involved, a buyer and a seller. In industry lingo we call them <strong>Merchants </strong>and <strong>Cardholders</strong>. These are important terms to remember, as we'll use them extensively .
 
 But a card transaction is far more complicated and involves at <span style="text-decoration: underline;">least</span> 3 more actors, some of which you may not even be aware off. First, we have the party that issued the cardholder their card, the '<strong>Issuer</strong>'. If you have a credit card, chances are that credit card is tied to an line of credit issued by a bank, whether it's HSBC, or Maybank, these are issuers, who have a relationship with the card holder.
 
@@ -106,7 +110,11 @@ Chip &amp; PIN is fundamentally more secure than Chip &amp; Signature...BUT it i
 
 In security of the masses, you can never be 100% secure, but you can put in place systems that make you less of a target. Moving Chip &amp; PIN will elevate Malaysia out of the lowest rung in the technological ladder, and keep us away from 'most' of the criminals.
 <h2>Conclusion &amp; a note about liability</h2>
-![5654834876_3c5feb5678_z](/uploads/5654834876_3c5feb5678_z-300x194.jpg)Even if you didn't understand what I just said throughout this ridiculously long 2000 word post, you need to at least understand this.
+
+
+![5654834876_3c5feb5678_z](/uploads/5654834876_3c5feb5678_z-300x194.jpg)
+
+Even if you didn't understand what I just said throughout this ridiculously long 2000 word post, you need to at least understand this.
 
 In Malaysia, we have a Law that limits the liability of a cardholder to Rm250 provided they reported the lost card in a 'reasonable' amount of time. Moving to Chip and PIN may impact that significantly, and increase your liability, simply because it wasn't just a lost or stolen card, but also a lost or stolen PIN as well. Losing a physical item is 'reasonable', telling someone a secret like a PIN is something else entirely.
 

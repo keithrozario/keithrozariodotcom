@@ -6,7 +6,11 @@ draft = false
 categories = ['Copyright and Censorship', 'CyberLaw']
 +++
 
-![Tun Dr. M](/uploads/3110643778_0de66a611c_z.jpg)Tun Dr. Mahathir now says he's change his mind about internet censorship. To quote him <em>"Not knowing the power of the Internet, I promised that we (speaking as the Prime Minister of Malaysia) would not censor it. But today I have changed my mind."</em>
+
+
+![Tun Dr. M](/uploads/3110643778_0de66a611c_z.jpg)
+
+Tun Dr. Mahathir now says he's change his mind about internet censorship. To quote him <em>"Not knowing the power of the Internet, I promised that we (speaking as the Prime Minister of Malaysia) would not censor it. But today I have changed my mind."</em>
 
 Of course, everyone has a right to change their mind--but in this case Tun went from being absolutely spot-on (the internet doesn't need censorship) to dead wrong.
 

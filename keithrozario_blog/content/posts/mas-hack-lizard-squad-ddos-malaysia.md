@@ -6,7 +6,11 @@ draft = false
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++
 
+
+
 ![Real-Life DDOS attack](/uploads/11445766236_d072478f86_o.jpg)
+
+
 
 Late in January the Malaysian Airlines website was 'supposedly' hacked by Lizard Squad. You  might remember Lizard Squad as the guys who 'hacked' the XBox and Play Station network over the Christmas holidays, and I'm using a lot of 'quotes' here because Lizard Squad didn't really 'hack' XBox One or Playstation, they merely DDOS-ed the services.
 <h2><em>What is DDOS-ed I hear you say?</em></h2>
@@ -29,7 +33,11 @@ Now hacking is one thing, but hacking as a service for dodgy customers is anothe
 Lizard Squad members were beginning to be arrested across the globe, and it looked like it was over for this group...or so it seemed.
 
 As publicity for their service begin to wane, and people begun forgetting who Lizard Squad were, they struck again. Only this time they didn't perform a DOS attack, but rather went after our very own Airline--MAS. It's worth noting that if you're not from my country, that Malaysians still have an open-wound for all 3 of our aircraft that crashed in 2014, specifically for the victims of MH370, whose relatives are still hoping and praying that their loved ones are still alive. You don't make fun of an open wound like that and hope that people like you...you don't kick a country when it's grieving--that's just not what real hackers do.
-<h2><em>So what happened to Malaysian Airlines you ask?![Malaysian Airlines](/uploads/472739228_9acc811ec4_z-300x200.jpg)</em></h2>
+<h2><em>So what happened to Malaysian Airlines you ask?
+
+![Malaysian Airlines](/uploads/472739228_9acc811ec4_z-300x200.jpg)
+
+</em></h2>
 MAS was a victim not of a DOS attack, but had its DNS hijacked by Lizard Squad.
 
 DNS stands for Domain Name Server. It's the end-2-end solution that manages to translate website's name to an <a title="What is an IP address" href="http://www.keithrozario.com/2013/10/what-is-ip-address.html">IP addresses</a>. A simple way to think of it is as the telephone book for websites, but instead of giving phone numbers of people--it was giving IP addresses of Websites.

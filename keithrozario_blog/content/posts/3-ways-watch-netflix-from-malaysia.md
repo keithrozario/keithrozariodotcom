@@ -13,7 +13,11 @@ If you needed proof for just how good it is--32% of all internet traffic in the 
 
 The second problem is that it's not available in Malaysia. So even if you were willing to pay the cash, you couldn't get Netflix streamed to your home--until now that is. So here's 3 ways to stream Netflix, BBC iPlayer and even DramaFever (for the k-drama fans out there) to your home in Malaysia.<!--more-->
 <h2>Method 1: Hola unblocker</h2>
-![Hola Unblocker Watch Netflix Malaysia](/uploads/Hola-Logo.jpg)<del>Hola unblocker is a free application that allows you to un-censor your internet connection.</del>
+
+
+![Hola Unblocker Watch Netflix Malaysia](/uploads/Hola-Logo.jpg)
+
+<del>Hola unblocker is a free application that allows you to un-censor your internet connection.</del>
 
 <del>The best description I can give it is a crowdsourced VPN service, where every VPN user is also a VPN provider.So someone in China could use your connection to view Facebook, while you can use a connection from a user in the US to view Netflix. Every Hola user is both using the service and providing the service to another user somewhere else in the network.</del>
 
@@ -27,7 +31,11 @@ The second problem is that it's not available in Malaysia. So even if you were w
 
 <strong>Warning: Hola Unblocker actually <a href="http://torrentfreak.com/hola-vpn-sells-users-bandwidth-150528/">sells your internet connection</a> as an exit point on it's paid VPN service luminati. By installing Hola on your PC, you're agreeing to allow Hola to sell your exit point (and IP address) for someone else to use--making it seem like all their traffic originated from YOUR IP address. For this reason I cannot support Hola anymore and you shouldn't either. My advice is to fork out the money (USD 39.99/month) to buy Privateinternetaccess which is the next recommended option. </strong>
 <h2>Method 2: VPN (privateinternetaccess)</h2>
-![privateinternetaccess-Netflix](/uploads/privateinternetaccess-Netflix.jpg)The method I use is a paid for VPN which cost around Rm130/year. The VPN I use is <a title="Private Internet Access" href="http://privateinternetaccess.com/" target="_blank">privateinternetaccess</a>, and<a title="Best VPN for Malaysians : Privateinternetaccess" href="http://www.keithrozario.com/2013/09/best-vpn-malaysia-privateinternetaccess.html"> I wrote a post on why I chose them</a>.
+
+
+![privateinternetaccess-Netflix](/uploads/privateinternetaccess-Netflix.jpg)
+
+The method I use is a paid for VPN which cost around Rm130/year. The VPN I use is <a title="Private Internet Access" href="http://privateinternetaccess.com/" target="_blank">privateinternetaccess</a>, and<a title="Best VPN for Malaysians : Privateinternetaccess" href="http://www.keithrozario.com/2013/09/best-vpn-malaysia-privateinternetaccess.html"> I wrote a post on why I chose them</a>.
 
 Paid options come with benefits. Firstly they're inherently more secure, Hola only promises to encrypt 'some' of your traffic, but a paid-VPN will encrypt it <strong>all</strong>. Also they use openVPN which is a well known standard and considered secure. Finally the paid VPN allows for connectivity from my iPad, iPhone and even android device on top of the regular PC and Mac connections.
 
@@ -35,7 +43,11 @@ So for Rm130/year, I get a more secure and iPad friendly version of Hola. The Pa
 
 The downside is PrivateInternetAccess only provides a handful of exit nodes, which means if you wouldn't be able to access content in China since it doesn't have a Chinese exit point. Which probably explains it's much lower pricepoint as compared to other VPN providers. It also doesn't work with Hulu since Hulu blocks anonymizing services. This is an issue with all VPNs and geo-unblocking services, except Hola.
 <h2>Method 3: UnoDNS</h2>
-![UnoDNS to watch Netflix](/uploads/download1.jpg)The final method on the list is the first method I used-<a title="Watch Netflix, Hulu and even Euro2012 online from Malaysia" href="http://www.keithrozario.com/2012/06/watch-netflix-hulu-bbc-spotify-malaysia.html" target="_blank">-UnoDNS</a>.
+
+
+![UnoDNS to watch Netflix](/uploads/download1.jpg)
+
+The final method on the list is the first method I used-<a title="Watch Netflix, Hulu and even Euro2012 online from Malaysia" href="http://www.keithrozario.com/2012/06/watch-netflix-hulu-bbc-spotify-malaysia.html" target="_blank">-UnoDNS</a>.
 
 Unlike a VPN or Hola, UnoDNS only works on specific sites, and works only as a proxy and doesn't provide any additional encryption. You could argue that since they only give access to content sites--encryption isn't strictly necessary. Although I would consider this a less useful option.
 

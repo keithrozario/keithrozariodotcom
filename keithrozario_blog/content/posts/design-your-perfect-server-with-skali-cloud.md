@@ -7,13 +7,21 @@ tags = ['Amazon', 'Cloud', 'Maxis', 'Skali']
 categories = ['Cloud Computing', 'Malaysia']
 +++
 
-![](/uploads/Design-your-perfect-Server.png "Design your perfect Server")After doing some research on Malaysian Cloud offerings particularly the IaaS offerings, I noticed something rather interesting from Skali. Now I always remembered Skali as an early web startup some time back in the 90s trying to ride the internet wave but failing all along the way, this however has some promise.
+
+
+![](/uploads/Design-your-perfect-Server.png "Design your perfect Server")
+
+After doing some research on Malaysian Cloud offerings particularly the IaaS offerings, I noticed something rather interesting from Skali. Now I always remembered Skali as an early web startup some time back in the 90s trying to ride the internet wave but failing all along the way, this however has some promise.
 
 Skali takes cloud scalability to a whole different level with their cloud offerings, unlike other IaaS providers who offer a fixed number of machine types Skali offers a fully scalable machine that you can add processing power, Memory and Disk independently. In essence near unlimited amounts of options in terms of machine type compared to just 3 from Maxis Cloud.
 
 The pricing still seems high, but it can go toe-to-toe with Maxis although it would depend on the specific requirements. From just the high level you can sense that these IaaS providers are going to compete for Malaysian customers but they're competing with very niche offerings. Maxis ace up it's sleeve would be the unlimited data transfer, which Skali charges at a mind-blowing Rm2/GB. Skali on the other hand offers an entire range of machine types (possibly in the hundreds), while Maxis offers just 3.
 
-The choice between Maxis or Skali would be a simple one that would come down to how much data transfer or scalability you need in your application. That being said, let's take a look at some other offerings from Skali Cloud.<!--more--> ![](/uploads/idcpic-1-300x129.png "idcpic (1)")
+The choice between Maxis or Skali would be a simple one that would come down to how much data transfer or scalability you need in your application. That being said, let's take a look at some other offerings from Skali Cloud.<!--more--> 
+
+![](/uploads/idcpic-1-300x129.png "idcpic (1)")
+
+
 
 The Skali data center is located at the UPM-MTDC University data park in Serdang, and on a separate note is it just me or do the pillars in the picture look slanted? The point is that the data center is housed in Malaysia, similar to Maxis housing their cloud infrastructure in Shah Alam, so if you absolutely, positively need a center in Malaysia, either option would work.
 
@@ -29,6 +37,13 @@ Skali have a limited set of machine images, but all the standard windows servers
 <h2>What about the Application programming interface (API)?</h2>
 Unlike Maxis, Skali offers a good API with limited documentation. It's a step forward but it's unclear to me if the API allows you to scale up the machine type or if that has to be done manually?
 <h2>Pricing Comparison</h2>
-In terms of overall pricing however, it's a bit difficult to compare Maxis to Skali since they seem to be targetting different types of applications. However, using the golden RM900/month price point I think we can look at the offerings from a objective viewpoint. ![](/uploads/Rm900skali.jpg "Rm900(skali)")It's quite straightforward to compare Maxis and Skali because unlike AWS or Rackspace, I can very easily create a very specific Machine on Skali to match the Maxis Value plan. Then I raise the traffic GB till I reach the Rm900/month price point. What we end up with is a identical Machine to Maxis value, but offering just 210GB of Traffic as opposed to the unlimited traffic offered by Maxis. Of course this is under the assumption, that you require a Windows Machine (Rm50/month) and a fixed IP (Rm5/month). If you're using a Unix or Linux based platform then you can either save the Rm50 or choose to up your data transfer. On the high level though it's quite hard to see why you would want use Skali instead of Rackspace or the AWS offering that offer similar machines with much higher data bandwidth, this of course comes back to the discussion of do you really need a highly scalable IaaS provider?
+In terms of overall pricing however, it's a bit difficult to compare Maxis to Skali since they seem to be targetting different types of applications. However, using the golden RM900/month price point I think we can look at the offerings from a objective viewpoint. 
+
+![](/uploads/Rm900skali.jpg "Rm900(skali)")
+
+It's quite straightforward to compare Maxis and Skali because unlike AWS or Rackspace, I can very easily create a very specific Machine on Skali to match the Maxis Value plan. Then I raise the traffic GB till I reach the Rm900/month price point. What we end up with is a identical Machine to Maxis value, but offering just 210GB of Traffic as opposed to the unlimited traffic offered by Maxis. Of course this is under the assumption, that you require a Windows Machine (Rm50/month) and a fixed IP (Rm5/month). If you're using a Unix or Linux based platform then you can either save the Rm50 or choose to up your data transfer. On the high level though it's quite hard to see why you would want use Skali instead of Rackspace or the AWS offering that offer similar machines with much higher data bandwidth, this of course comes back to the discussion of do you really need a highly scalable IaaS provider?
 <h2>Conclusion</h2>
-While the post isn't conclusive and I haven't yet tried the Skali cloud I must say that I'm excited about their offerings. Apart from having a definitive differentiation factor in terms of having highly scalable machines, Skali also offers a possibility of hosting everything on a single machine for both computing and storage. It's data transfer though is a bit high. At Rm2/GB  (monthly subscription) or Rm4/GB (burst), it can easily burn a hole in your budget if you suddenly require the high data transfer, so it's something to be careful about. Overall though, Skali have a good set of machine images, a good price point, a good differentiation factor (that they make sure you know) and even an API complete with documentation to take advantage of it's high scalability. I must say, Skali do seem have their act together and it's quite obvious that this looks a lot more professional than Maxis Cloud. If you need lots of data transfer, look elsewhere, data transfer on Skali cost a lot. If you don't need lots of data transfer, but instead want highly scalable cloud offering. Skali could be the sweet spot you were craving. ![](/uploads/logo1.png "logo")
+While the post isn't conclusive and I haven't yet tried the Skali cloud I must say that I'm excited about their offerings. Apart from having a definitive differentiation factor in terms of having highly scalable machines, Skali also offers a possibility of hosting everything on a single machine for both computing and storage. It's data transfer though is a bit high. At Rm2/GB  (monthly subscription) or Rm4/GB (burst), it can easily burn a hole in your budget if you suddenly require the high data transfer, so it's something to be careful about. Overall though, Skali have a good set of machine images, a good price point, a good differentiation factor (that they make sure you know) and even an API complete with documentation to take advantage of it's high scalability. I must say, Skali do seem have their act together and it's quite obvious that this looks a lot more professional than Maxis Cloud. If you need lots of data transfer, look elsewhere, data transfer on Skali cost a lot. If you don't need lots of data transfer, but instead want highly scalable cloud offering. Skali could be the sweet spot you were craving. 
+
+![](/uploads/logo1.png "logo")
+

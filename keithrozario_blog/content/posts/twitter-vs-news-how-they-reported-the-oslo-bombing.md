@@ -7,7 +7,11 @@ tags = ['twitter']
 categories = ['Crowdsourcing', 'Misc']
 +++
 
-![](/uploads/3372984579_55d44ba8a4_m.jpg "3372984579_55d44ba8a4_m")Working for a Multinational company means I have colleagues from all over the globe, some of whom I've developed a friendly relationship with, friendly enough to 'friend' them on facebook. Today I received the tragic news of the Oslo bombings not from CNN or BBC, not even from the Google news, but over a facebook status update from a colleague of mine in Norway. The sad news of such an atrocity was heart-wrenching, but in the midst of this I decided to do a small study to see how twitter was reporting the news as opposed to the usual mainstream internet news companies.
+
+
+![](/uploads/3372984579_55d44ba8a4_m.jpg "3372984579_55d44ba8a4_m")
+
+Working for a Multinational company means I have colleagues from all over the globe, some of whom I've developed a friendly relationship with, friendly enough to 'friend' them on facebook. Today I received the tragic news of the Oslo bombings not from CNN or BBC, not even from the Google news, but over a facebook status update from a colleague of mine in Norway. The sad news of such an atrocity was heart-wrenching, but in the midst of this I decided to do a small study to see how twitter was reporting the news as opposed to the usual mainstream internet news companies.
 
 So going online I searched twitter for Norway and saw the very first tweet on the list, a condolence message from BO himself:<!--more-->
 
@@ -61,7 +65,11 @@ The difference between twitter and the rest of the news source is aggregation an
 
 A search for Norway on Google News revealed the following:
 
+
+
 ![](/uploads/Newsfeed-300x144.jpg "Newsfeed")
+
+
 
 No information about how CNN and Washington Post experts jumping the gun to blame Islamic Terrorist for the bombing, and less comprehensive than the wikipedia entry. All in one, twitter (and wikipedia) are changing the way I read the news through crowdsourcing the news feeds and getting real people to process that data so that only the good content is viewed. It the face of such a tragic outcome, I've learnt that twitter is probably a better source of news than CNN, and crowdsourcing your news isn't such  a bad idea. In fact not crowdsourcing it means it could probably end up with bias (and sometimes accurate) information.
 

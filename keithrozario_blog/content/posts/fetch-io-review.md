@@ -6,7 +6,11 @@ draft = false
 categories = ['Misc']
 +++
 
-![](/uploads/fetch_fail-300x42.jpg "fetch_fail")When I first heard about Fetch.io I was really excited, I thought finally I could collate all my downloads through one interface, and I could speed up my bit-torrent downloads by downloading my torrents through fetch.io and using blazing http to download from fetch. I was so excited I jumped on an subscribed to one month the moment it launched.<!--more-->
+
+
+![](/uploads/fetch_fail-300x42.jpg "fetch_fail")
+
+When I first heard about Fetch.io I was really excited, I thought finally I could collate all my downloads through one interface, and I could speed up my bit-torrent downloads by downloading my torrents through fetch.io and using blazing http to download from fetch. I was so excited I jumped on an subscribed to one month the moment it launched.<!--more-->
 
 Sadly fetch.io as a hit and miss affair.
 

@@ -7,7 +7,11 @@ tags = ['Broadband', 'Yes']
 categories = ['Malaysia', 'Misc', 'Security &amp; Privacy']
 +++
 
-![](/uploads/Yes-300x172.jpg "Yes")YTL Communications has been doing a pretty good job recently. The Star even went as far as claim that "<a title="YTL Comms to break Even" href="http://biz.thestar.com.my/news/story.asp?file=/2012/3/7/business/10866025&amp;sec=business" target="_blank">YTL Comms to Break Even</a>" until of course you read the article in which case it mentions that YTL require an additional 500,000 subscribers on top of it's current 300,000 to achieve that.  However, it did offer a post-paid plan which was pretty decent, and who can forget the tie-up with <a title="4G car" href="http://www.nst.com.my/top-news/country-s-1st-internet-cars-1.50780" target="_blank">Proton to offer a a 4G car</a>. Why in the world would anyone buy a car because it has 4G, on the other hand why would anyone buy a Proton? <span style="color: #888888;"><em>(disclaimer: I still drive a 2004 Proton Waja which has served me well)</em></span>
+
+
+![](/uploads/Yes-300x172.jpg "Yes")
+
+YTL Communications has been doing a pretty good job recently. The Star even went as far as claim that "<a title="YTL Comms to break Even" href="http://biz.thestar.com.my/news/story.asp?file=/2012/3/7/business/10866025&amp;sec=business" target="_blank">YTL Comms to Break Even</a>" until of course you read the article in which case it mentions that YTL require an additional 500,000 subscribers on top of it's current 300,000 to achieve that.  However, it did offer a post-paid plan which was pretty decent, and who can forget the tie-up with <a title="4G car" href="http://www.nst.com.my/top-news/country-s-1st-internet-cars-1.50780" target="_blank">Proton to offer a a 4G car</a>. Why in the world would anyone buy a car because it has 4G, on the other hand why would anyone buy a Proton? <span style="color: #888888;"><em>(disclaimer: I still drive a 2004 Proton Waja which has served me well)</em></span>
 
 However, with Yes latest postpaid offerings I imagine it's moving away from it's niche position into more competitive environments, people may use Yes as a fallback, but post-paid is where the real money is and Yes is moving in. Yes Data plans come in various price points, from RM48 for 1.5GB up to RM168 for 10GB, the left-over credits don't roll over to next month but there's no extra charge for using over your quota just a speed throttle to 128kbps. <span style="color: #888888;">(note to YES: 128Kbps is not broadband)<!--more--></span>
 

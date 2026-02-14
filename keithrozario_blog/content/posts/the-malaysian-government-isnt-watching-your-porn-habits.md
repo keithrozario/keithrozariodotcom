@@ -6,7 +6,11 @@ draft = false
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++
 
-![](/uploads/ICCACOPS.jpg)Recently, there was a poorly written article in The New Straits Times, that suggested the Malaysian Police would know if you were watching porn online.
+
+
+![](/uploads/ICCACOPS.jpg)
+
+Recently, there was a poorly written article in The New Straits Times, that suggested the Malaysian Police would know if you were watching porn online.
 
 Let me cut to the chase, the article is shit.
 

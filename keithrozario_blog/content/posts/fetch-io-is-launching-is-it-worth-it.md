@@ -8,7 +8,11 @@ categories = ['Misc']
 
 Recently I registered at <a title="Fetch" href="http://www.fetch.io" target="_blank">fetch.io</a> for a free account to try out it's service. For those who don't know, fetch.io was a site that 'fetches' files for you from rapidshare, megaupload and a host of ofther file sharing websites and 'Full Speed'. What that means is, no waiting 5 minutes for the file to begin download or throttled speeds. Fetch.io will get the file at full speed and store it on its servers for you to download. You can then download the file...once again at full speed (presumably).
 
+
+
 ![](/uploads/fetch-300x151.jpg "fetch")
+
+
 
 <!--more-->Today I got an email from them announcing they'd be launching on the 6th of July (this wednesday). What 'launching' means is that they'd change the system a bit, there will still be free accounts with 2GB of storage and 4GB of bandwidth (not bad at all), paid accounts will presumably have more. What's even more interesting is that paid accounts will have bit-torrent support so you'd be able to download .torrent files and have fetch.io download them at high speed before you download them from the server...once again at high speed.
 

@@ -7,7 +7,11 @@ tags = ['Maxis']
 categories = ['Malaysia', 'Misc']
 +++
 
-![](/uploads/rsz_2dsc02922-e1339919303425-225x300.jpg "rsz_2dsc02922")Finally after a long long wait, I managed to get my Samsung Galaxy S3 from Maxis. I got the phone last Wednesday and now after just 5 days with it, I have to say -- best Rm999 spent EVER!
+
+
+![](/uploads/rsz_2dsc02922-e1339919303425-225x300.jpg "rsz_2dsc02922")
+
+Finally after a long long wait, I managed to get my Samsung Galaxy S3 from Maxis. I got the phone last Wednesday and now after just 5 days with it, I have to say -- best Rm999 spent EVER!
 
 For those of you still curious as to how I got it for Rm999 when I recently complained about Maxis advertising a "while stocks last promotion" as a "4 day long promotion", here's a nifty little piece of information that isn't widely shared, Maxis is STILL offering the Samsung Galaxy S3 for Rm999 but only to Maxis One Club subscribers, you'd still need to subscribe to the Rm68 data plan which brings with it a good ol' 3GB of mobile data, but any smartphone needs a data plan anyway. The maths is simple, you'd need a minimum Rm48 data plan which is for 1GB/month, so the difference between the Rm68 and RM48 is Rm20/month. Over the 2 year contract, that's a Rm480 difference, the phone price itself is nearly Rm400 cheaper. So might as well, if you ask me.
 

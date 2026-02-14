@@ -6,7 +6,11 @@ draft = false
 categories = ['CyberLaw', "Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++
 
-![anonymousmask380-300x225](/uploads/anonymousmask380-300x225.jpg)Are you afraid of Hackers? Do you lie restless at night thinking of what might happen if they got into your bank account, facebook profile, or e-mail. Perhaps you're also worried about that they might hack into a forum you visit, or that they might get into your personal messages on whatsapp.
+
+
+![anonymousmask380-300x225](/uploads/anonymousmask380-300x225.jpg)
+
+Are you afraid of Hackers? Do you lie restless at night thinking of what might happen if they got into your bank account, facebook profile, or e-mail. Perhaps you're also worried about that they might hack into a forum you visit, or that they might get into your personal messages on whatsapp.
 
 It's true that hackers are able to do all of these things, but the public perception of hackers really isn't quite justified, and this false perception can lead to terrible outcomes.
 
@@ -24,13 +28,21 @@ But If I tweak up the difficulty level just a notch, like write a post on<a href
 
 I'm not blogging moghul, but I'm confident that the 200 visits a day from people trying to change WiFi passwords are from technically illiterate folks, and those folks make the majority of Malaysia<em>.</em>
 <h2>It's just like Magic</h2>
-![00MXsWP](/uploads/00MXsWP-300x255.jpg)Everyday millions of Malaysians turn on their smart-phones and laptops, without having even the slightest clue about how they work. They know that if they type "Google.com" a website with a search bar appears and they know to press the WiFi button to connect to the internet, but they don't know how their web-browser manages to find Google's servers and they don't know how WiFi authenticates or encrypts their communications.
+
+
+![00MXsWP](/uploads/00MXsWP-300x255.jpg)
+
+Everyday millions of Malaysians turn on their smart-phones and laptops, without having even the slightest clue about how they work. They know that if they type "Google.com" a website with a search bar appears and they know to press the WiFi button to connect to the internet, but they don't know how their web-browser manages to find Google's servers and they don't know how WiFi authenticates or encrypts their communications.
 
 They know what happens, they just don't know HOW it happens.
 <h3>That's magic!!</h3>
 When you see a guy pull a bunny from a hat, you know what happened, but you don't know how he did it.This ignorance allows for the magician to trick you, which is fine at a magic show, but in the real-world, the trick these hackers-cum-magicians perform have serious consequences. Technology sufficiently advanced is indistinguishable from magic, and for most people ALL the technology they see on a daily basis is 'sufficiently' advanced.
 <h2>The myth of hackers (and how they're assholes)</h2>
-![hackerman_6876](/uploads/hackerman_6876.jpg)And now we loop back to where we started.Tech-illiteracy makes it impossible for people to differentiate attacks, and to them all hacks are the same. This muddies the water between trivial attacks and serious ones and forces the general public to treat childish vandalism like as though they were acts of terrorism, because a hack is a hack and they don't know the difference.
+
+
+![hackerman_6876](/uploads/hackerman_6876.jpg)
+
+And now we loop back to where we started.Tech-illiteracy makes it impossible for people to differentiate attacks, and to them all hacks are the same. This muddies the water between trivial attacks and serious ones and forces the general public to treat childish vandalism like as though they were acts of terrorism, because a hack is a hack and they don't know the difference.
 
 None of this is recent, or exclusively Malaysian. Kevin Mitnick, the grand-daddy of hackers, was famously victimised because of what he termed the 'myth of Mitnick'. A myth was so pervasive, US Federal agents were convinced he could launch a nuclear bomb by whistling into a payphone, none of which was true, or even possible. Judges even denied him his constitutionally guaranteed bail-hearing, something the US Justice system extended to the Oklahoma City Bomber and John Allen, but not to a 20-something year old 'hacker', whose only real crime up to that point was stealing source code for a now obsolete Operating system. The best example of this 'myth' is when FBI agents would famously turn over their badges before meeting Mitnick, because they were afraid that if he found out their name, he could somehow 'hack' them. These were bad-ass FBI agents afraid of a hacker, who they already had in custody, and the reason of their fear was ignorance. To the tech-illiterate agents, Mitnick was like the dark-lord Voldermort, you don't mention this name and you certainly don't give him yours. Again, it's all like magic if you don't know how he did it.
 
@@ -42,7 +54,11 @@ So when you put some jack-ass moves from hackers and a tech-illiterate society t
 
 <em>*The media doesn't help either, when hackers are potrayed in the movies, or series, they're usually like supermen that can break into every single system there is. Hackers on tv, are usually just a fix for some lazy story-writing as the hacker can do anything, but the reality is that most hackers hone their skills in a specific field or protocol, the car hackers don't hack airplanes, and the airplane hackers doesn't go after IIS websites.</em>
 <h2>The downside of Tech-illiteracy</h2>
-![Grandma Hacker](/uploads/images.jpeg)I think we've come to a point where being tech-illiterate is no longer acceptable. If you didn't know maths, you're a cripple in this society, and if you didn't know English, you will never be hired by an MNC. But what are the implications of being tech-illiterate? 20-30 years ago, those implications were miniscule, today they're enormous, tech-illiteracy will limit your career growth and in most cases interfere with your ability to function in society.
+
+
+![Grandma Hacker](/uploads/images.jpeg)
+
+I think we've come to a point where being tech-illiterate is no longer acceptable. If you didn't know maths, you're a cripple in this society, and if you didn't know English, you will never be hired by an MNC. But what are the implications of being tech-illiterate? 20-30 years ago, those implications were miniscule, today they're enormous, tech-illiteracy will limit your career growth and in most cases interfere with your ability to function in society.
 
 Living in society today, requires a Facebook page, e-mail, online banking account, credit card, etc etc. Without these things you couldn't apply for a job, or you'd be the only person in your social click that wasn't invited to a wedding, as much as we like to reminisce about the good ol' days, the modern world is here, and you're either in it , or not. But with all that ubiquitous technology, there comes a responsibility, and most people aren't savvy enough to appreciate all the nuances of technology to use them wisely and securely.
 

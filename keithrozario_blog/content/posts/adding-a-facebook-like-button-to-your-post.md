@@ -7,7 +7,11 @@ tags = ['Blog Features', 'Facebook']
 categories = ['Blog']
 +++
 
-Adding fa![Facebook Like](/uploads/facebook_like_by_socialmouths_2-150x137.png "facebook_like_by_socialmouths_2")cebook like buttons are tricky things. It used to be I'd need to install a new plugin to have these facebook like buttons. For instance I use to use DiggDigg, which is a pretty good plugin for wordpress. However, for the initiated a code version that I could stick anywhere in my post seemed a lot more flexible to me.
+Adding fa
+
+![Facebook Like](/uploads/facebook_like_by_socialmouths_2-150x137.png "facebook_like_by_socialmouths_2")
+
+cebook like buttons are tricky things. It used to be I'd need to install a new plugin to have these facebook like buttons. For instance I use to use DiggDigg, which is a pretty good plugin for wordpress. However, for the initiated a code version that I could stick anywhere in my post seemed a lot more flexible to me.
 
 So how does it work. Simple.<!--more-->
 

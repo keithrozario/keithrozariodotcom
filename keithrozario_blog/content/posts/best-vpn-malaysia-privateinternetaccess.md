@@ -6,7 +6,11 @@ draft = false
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++
 
-![Secured_VPN](/uploads/Secured_VPN.jpg)As you've probably gauged from my recent bout of paranoia, I'm a bit of a security-freak. My PC at home, not only runs an original version of Windows (something rare in Malaysia), but also multiple anti-virus and anti-malware suites, not to mention using EMET for even more security and a software firewall to boot.
+
+
+![Secured_VPN](/uploads/Secured_VPN.jpg)
+
+As you've probably gauged from my recent bout of paranoia, I'm a bit of a security-freak. My PC at home, not only runs an original version of Windows (something rare in Malaysia), but also multiple anti-virus and anti-malware suites, not to mention using EMET for even more security and a software firewall to boot.
 
 So it sort of makes sense, that after taking all those pre-cautions I would also use a Virtual Private Network or VPN.
 
@@ -22,7 +26,11 @@ Now security isn't the only reason to use a VPN, they also come in handy for acc
 
 <strong>Reason 5:</strong> A VPN connection allows you bit-torrent without restrictions and anonymously. I've previously showed you how bit-torrent downloads could be traced to your IP address quite easily, but a VPN helps prevent that. Without a VPN, someone could do a quick search on your IP and <a title="Government Network used to download porn : Privacy is dead" href="http://www.keithrozario.com/2013/04/malaysian-government-network-download-porn-privacy-dead.html" target="_blank">determine what you've been downloading on bittorrent</a>. Also VPN connections allow you to bypass certain restrictions and filters that your ISP may have in place to throttle bit-torrent downloads (note that Unifi doesn't throttle torrent downloads). If you plan to use your VPN for this purpose make sure they don't block torrent traffic. Just check out the advert below from the people at BTGuard.
 
+
+
 ![BTGuard   Anonymous BitTorrent Services](/uploads/BTGuard-Anonymous-BitTorrent-Services.png)
+
+
 
 So in short a VPN provides you extra security, extra anonymity, the ability to access location based services and the ability to bypass censored content online. So it's really a no brainer at this point--if you want to truly get the most of your internet experience--you need a VPN.
 
@@ -52,7 +60,11 @@ Also, you want to keep tabs of price. VPN range from the very cheap to the ri-do
 <h2>Specialized App for easy access</h2>
 Also a specialized app for easy access is definitely a plus point. Setting up an OpenVPN connection on your android phone is a chore, and so a provider that has actually setup an app to make it easier for you surely helps.
 <h2>So which VPN is the best for Malaysians?</h2>
-<p style="text-align: center;">![How a VPN Tunnel Works](/uploads/How-a-VPN-Tunnel-Works-Private-Internet-Access-VPN-Service.png)</p>
+<p style="text-align: center;">
+
+![How a VPN Tunnel Works](/uploads/How-a-VPN-Tunnel-Works-Private-Internet-Access-VPN-Service.png)
+
+</p>
 I have to say after scouring the online world and looking for a good VPN provider, I finally settled for<a title="Private internet Access" href="https://www.privateinternetaccess.com/" target="_blank"> privateinternetaccess.com</a>. These guys provide a good service, at a fantastic price of just USD39.95/year, which translates to roughly Rm120-Rm140 per year. That's a great price for something that will help you extract the most from your internet connection.
 
 Privateinternetaccess is fast. Or at least, fast enough to not notice a lag in your torrent-downloads or Netflix streaming. (even in HD, check this <a title="Can you view Netflix in HD on Unifi" href="http://www.keithrozario.com/2013/08/view-netflix-hd-unifi-5mbps.html" target="_blank">link</a>)
@@ -69,7 +81,11 @@ Privateinternetaccess allows up to 5 different logins at once, perfect for a fam
 
 I personally use Privateinternetaccess, and found that I could even watch Netflix on my phone with no problems. The connection is really fast, and I can easily setup VPN access even over Maxis 3G Data, and it's fast enough that I don't notice any drop in my connection speed (both on Maxis and Unifi).
 <h2>Conclusion</h2>
-<p style="text-align: center;">![VPN_Compare](/uploads/VPN_Compare.png)</p>
+<p style="text-align: center;">
+
+![VPN_Compare](/uploads/VPN_Compare.png)
+
+</p>
 I personally use Privateinternetaccess and wouldn't recommend them if I didn't think they were a top notch service. If you're looking for a VPN provider that won't break the bank, and provides all the things you need--then head on over to <a title="Private internet access" href="https://www.privateinternetaccess.com/" target="_blank">their website</a>.
 
 If you do sign up, please consider using affiliate code: <strong>KROZARIO001 or this<a title="https://www.privateinternetaccess.com/pages/buy-vpn/KROZARIO001" href="https://www.privateinternetaccess.com/pages/buy-vpn/KROZARIO001" target="_blank"> link</a>.</strong>

@@ -13,5 +13,9 @@ On the outside, we may espouse our 'Asian' values and culture, but the cold-hard
 Today however, PornMD the self-proclaimed "biggest porn search engine" released statistics as to what Malaysians were searching on their site. The results aren't that surprising, although I was quick shocked to see Tudung on there--apparently some people find it kinky.
 
 Check out more on PornMD <a title="PornMD sex search" href="http://www.pornmd.com/sex-search" target="_blank">here</a>, or head on over to this report from Quartz that explains how a lot of <a title="East Asian fascination with Japanese Porn" href="http://qz.com/164834/popular-porn-search-terms-show-that-east-asia-has-a-serious-japan-fetish/" target="_blank">South-East Asians love Japanese Porn</a>. While you may consider Malaysians vile for searching for terms like Tudung and Rape on a porn search engine--consider though that at least we're not Pakistan, whose users searched for a far more disgusting "Girls peeing on Bed"--WTF!
-<p style="text-align: center;">![PORN-MD-MALAYSIA](/uploads/PORN-MD-MALAYSIA.png)</p>
+<p style="text-align: center;">
+
+![PORN-MD-MALAYSIA](/uploads/PORN-MD-MALAYSIA.png)
+
+</p>
 <span style="color: #888888;"><em>Correction: A previous version of this post stated that the most downloaded torrent in Malaysia was a piece of Hentai, however a reader named Darkon commented that although the downloaded file was named Hentai Ouji, it was merely regular Japanese Anime, which wasn't categorized as porn. Good one Darkon!</em></span>

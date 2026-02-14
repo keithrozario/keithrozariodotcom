@@ -7,7 +7,11 @@ tags = ['WPWebHost']
 categories = ['Blog', 'Malaysia']
 +++
 
-<span style="font-size: 13px;">![WPWebHost-Logo](/uploads/WPWebHost-Logo.jpg)</span>
+<span style="font-size: 13px;">
+
+![WPWebHost-Logo](/uploads/WPWebHost-Logo.jpg)
+
+</span>
 
 Last weekend I had an issue with my hosting provider, WPWebHost.
 

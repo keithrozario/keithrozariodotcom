@@ -7,7 +7,11 @@ tags = ['Blog Features', 'Comments', 'Disqus']
 categories = ['Blog']
 +++
 
-![](/uploads/disqus-logo-e1303318252857.png "disqus-logo") The one thing I hated in Composito (my wordpress theme) was the ugly looking comment box. Thankfully however, I found this great plugin called Disqus.
+
+
+![](/uploads/disqus-logo-e1303318252857.png "disqus-logo")
+
+ The one thing I hated in Composito (my wordpress theme) was the ugly looking comment box. Thankfully however, I found this great plugin called Disqus.
 
 <!--more-->Disqus adds extra functionality to your blog comments, including the ability to login with facebook/twitter/openID and Yahoo. It also allows for avatar display on the comments. I always felt these logons were more likely to get people to comment, only wish they had linkedIn installed as well.
 

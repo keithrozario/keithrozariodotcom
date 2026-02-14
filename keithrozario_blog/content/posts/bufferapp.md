@@ -7,7 +7,11 @@ tags = ['twitter']
 categories = ['Social Media']
 +++
 
-![Buffer App](/uploads/buffer-app-246x250-147x150.png "Buffer App")Buffer is a great tool that helps your organize and schedule your tweets to maximize your shameless attempts to promote your website on twitter.
+
+
+![Buffer App](/uploads/buffer-app-246x250-147x150.png "Buffer App")
+
+Buffer is a great tool that helps your organize and schedule your tweets to maximize your shameless attempts to promote your website on twitter.
 
 Well let's face it, I'm on twitter but with only 39 followers its not really adding any hits to my website...well maybe one or two. What's clear though is that good blog content without any social media promotion on twitterr , LinkedIN or facebook means I have to rely on Google bringing in the hits, that's like starting a company with only 1 customer and then relying on that customer only. If I'm going to get 1000 hits/ month, then I'm going to have to get serious on twitter and start churning out content that aligns with what my followers on twitter want to see.<!--more-->
 

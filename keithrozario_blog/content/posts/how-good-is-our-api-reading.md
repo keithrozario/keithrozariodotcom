@@ -6,7 +6,11 @@ draft = false
 categories = ['Misc']
 +++
 
-![Haze Malaysia](/uploads/8679939937_79ac83f81c_z-300x200.jpg)There's been some controversy recently regarding the Air Pollutant Index (API) readings in Malaysia, with some even accusing the government of intentionally downplaying the readings.
+
+
+![Haze Malaysia](/uploads/8679939937_79ac83f81c_z-300x200.jpg)
+
+There's been some controversy recently regarding the Air Pollutant Index (API) readings in Malaysia, with some even accusing the government of intentionally downplaying the readings.
 
 I intended to find out exactly how the readings were different, and as a glorified techie come wannabe programmer I decide to use a data approach to this as opposed to a theoretical one. In case you're wondering what the theoretical differences are, check out this cool article from cilisos, otherwise keep on reading.
 
@@ -24,7 +28,11 @@ Fortunately, your friendly tech evangelist has already <a href="https://www.keit
 
 Armed with these 2 datasets, I made a simple comparison between the API readings in Johor, <em>specifically in Pasir Gudang, Larkin and Kota Tinggi</em>, and the PSI readings in Singapore, <em>specifically from the North, South, East, West and Central regions of the country.</em>
 
-[caption id="attachment_5249" align="aligncenter" width="550"]![singapore-psi-malaysia-api-comparisons-wiki (1)](/uploads/singapore-psi-malaysia-api-comparisons-wiki-1-300x97.png) Image lazily copied from Cilisos.[/caption]
+[caption id="attachment_5249" align="aligncenter" width="550"]
+
+![singapore-psi-malaysia-api-comparisons-wiki (1)](/uploads/singapore-psi-malaysia-api-comparisons-wiki-1-300x97.png)
+
+ Image lazily copied from Cilisos.[/caption]
 
 Because both governments offer the same advice, for the same level of PSI and API, stands to reason that there both readings should be similar, or at least in the same range.
 
@@ -32,7 +40,11 @@ So what does the data say. Well please be patient, because I want to be sure tha
 
 Although this isn't very scientific, I decided to use two areas that I though were similar in size and distance as Singapore and Johor. So I grouped, Cheras, Batu Muda, Petaling Jaya and Shah Alam (what I called 'inner-KL'), and Pelabuhan Klang, Banting and Putrajaya (what I called 'outer-KL'). These two areas are <strong>almost</strong> an inverse of the geographic distances and size of Singapore and Johor.
 
-[caption id="attachment_5250" align="aligncenter" width="525"]![Difference](/uploads/Difference.png) Picture Showing 'Inner-KL' in Red, and Outer-KL in Blue, and a scale map of Singapore and the measurement points for Johor[/caption]
+[caption id="attachment_5250" align="aligncenter" width="525"]
+
+![Difference](/uploads/Difference.png)
+
+ Picture Showing 'Inner-KL' in Red, and Outer-KL in Blue, and a scale map of Singapore and the measurement points for Johor[/caption]
 
 Once all of that was settled, it was smooth sailing. Performing a few SQL queries on data, and cleaning up some blank measurements (btw, Singapore had just 50 missed measurements while Malaysia had 4909 over the 16 months in the dataset), I was able to get the average API/PSI reading per month for Singapore, Johor, Inner-KL and Outer-KL.
 

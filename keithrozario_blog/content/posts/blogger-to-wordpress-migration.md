@@ -7,7 +7,11 @@ tags = ['Blog Features', 'Blogger']
 categories = ['Blog']
 +++
 
-![](/uploads/blogger.jpg "blogger")I've had my blog on google powered blogger for over 8 years now. I first post on blogger was on April Fools day <strong>2003</strong>!! That's a full 8 years ago, my blog is probably older than some of it's readers. All 8 of them...
+
+
+![](/uploads/blogger.jpg "blogger")
+
+I've had my blog on google powered blogger for over 8 years now. I first post on blogger was on April Fools day <strong>2003</strong>!! That's a full 8 years ago, my blog is probably older than some of it's readers. All 8 of them...
 
 I enjoyed my time with Blogger, and this project  to move everything to keithrozario.com was not due to unhappiness with blogger, but rather trying to move things to the next level.
 

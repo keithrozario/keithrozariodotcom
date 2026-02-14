@@ -21,7 +21,11 @@ I took to twitter to report my findings -- I kinda like twitter for this, and th
 
 There's a lot more details in the tweet about how I investigated this,-- click <a href="https://twitter.com/keithrozario/status/1000639200784367616">here</a> to follow the thread. A warning though -- I regularly delete my old tweets. So get it while it's there :).
 
+
+
 ![](/uploads/Exabytes-TQ.jpg)
+
+
 <!--more-->
 <h2>That time we found invalid certificates</h2>
 Of course GovTLSAudit was purpose built to audit TLS implementations, and finding bad certificates is what it does.
@@ -32,7 +36,11 @@ The issue was them using the mdec cert for mscmalaysia, hence browsers reported 
 
 I was less impressed with Bank Negara, who till today (weeks later) have not responded.
 
+
+
 ![](/uploads/mdec-tq-1.jpg)
+
+
 
 If you download a full daily scan (available <a href="https://gov-tls-audit.sayakenahack.com/files.html">here</a>), you can do a quick filter in Excel to find all sites with misconfigured certificates, either they're expired, invalid or just self-signed.
 <h2>That time we found default credentials</h2>
@@ -41,7 +49,11 @@ Since the scans stitch together Shodan information, I decided to go for a stroll
 And sure enough after a quick stroll I found two sites with default credentials, even one that had admin/admin on their Tomcat Manager! If I remember correctly, that site belonged to the Ministry of Defence :)
 
 Fortunately, a quick email to the technical contacts on the WHOIS entries (thank God for <a href="https://krebsonsecurity.com/2018/04/security-trade-offs-in-the-new-eu-privacy-law/">WHOIS</a>), and they were taken down the very next day.
-<h2> ![](/uploads/MOD-TQ.png)Conclusion</h2>
+<h2> 
+
+![](/uploads/MOD-TQ.png)
+
+Conclusion</h2>
 I'm really happy that the project is helping secure at least some low-hanging fruits on gov domains. Also, it's good to see people respond quickly and positively to the feedback -- except BNM, but they have massive problems now, so who can blame them :)
 
 The one thing I'd recommend most folks do, is implementing a <a href="https://securitytxt.org/">security.txt</a> file on their site, it helps provide a good point of contact that goes directly to the security folks instead of the a online ticketing system that goes nowhere.

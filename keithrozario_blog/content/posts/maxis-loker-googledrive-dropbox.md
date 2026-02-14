@@ -7,7 +7,11 @@ tags = ['Amazon', 'Maxis']
 categories = ['Cloud Computing', 'Malaysia']
 +++
 
-![](/uploads/MaxisLoker-300x273.jpg "MaxisLoker")As you know, I'm not really happy with Maxis. I was utterly disappointed by their latest S3 launch, I don't think their cloud offerings of ebook portal is anything to shout at, and the if my wifes office would get decent Digi coverage, I'd switch in a heartbeat.
+
+
+![](/uploads/MaxisLoker-300x273.jpg "MaxisLoker")
+
+As you know, I'm not really happy with Maxis. I was utterly disappointed by their latest S3 launch, I don't think their cloud offerings of ebook portal is anything to shout at, and the if my wifes office would get decent Digi coverage, I'd switch in a heartbeat.
 
 That being said, this is one of the times I think Maxis has done a decent job on their Loker offering. It is quite well executed, and if I do say so myself, getting 25GB of free online storage space when you purchase an S3 from Maxis is quite an enticing offer.
 <h2><strong>So what is Loker?</strong></h2>
@@ -75,7 +79,11 @@ I'm also unable to review and comment on the Loker iPhone or Android app, partic
 <h2>Why is Maxis Loker so fast?</h2>
 Remember when I told you that the Maxis Loker service was faster than even Google drive, I was curious as to how Maxis pulled this off, and was hoping they hosed it on their own cloud, however a simple ping would point you to the answer:
 
+
+
 ![](/uploads/MaxisLokeronAWS.jpg "MaxisLokeronAWS")
+
+
 
 I was actually unaware of this, till I did some more googling, and it appears Maxis Loker is actually running of a <a title="Maxis Launch Loker" href="http://www.sys-con.com/node/2286859" target="_blank">'white-lable' personal cloud solution from a company called Funambol</a>.
 

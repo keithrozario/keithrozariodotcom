@@ -7,7 +7,11 @@ tags = ['Skype']
 categories = ['Copyright and Censorship', 'CyberLaw', 'Security &amp; Privacy']
 +++
 
-![Microsoft Eavesdropping on Skype messages](/uploads/2314400543_acd79bd7fb.jpg)The guys over at H-online reported recently that they have some pretty good evidence that good ol' Microsoft is eavesdropping onto your Skype conversations, and the results are pretty damning.
+
+
+![Microsoft Eavesdropping on Skype messages](/uploads/2314400543_acd79bd7fb.jpg)
+
+The guys over at H-online reported recently that they have some pretty good evidence that good ol' Microsoft is eavesdropping onto your Skype conversations, and the results are pretty damning.
 
 The method for detecting those sneaky little eavesdroppers was pretty ingenious though. The researchers sent two urls in their skype messages to each other. The urls pointed to servers that the researchers owned. For all practical reasons these urls were made specifically for the purpose of the test and should not be receiving any traffic from anywhere--unless of course Microsoft was listening.
 

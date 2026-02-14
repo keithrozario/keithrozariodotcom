@@ -6,7 +6,11 @@ draft = false
 categories = ['CyberLaw', 'Malaysia']
 +++
 
-![Broadband_speed_klang_malaysia](/uploads/Broadband_speed_klang_malaysia.png)Recently KiniBiz did a piece on Malaysian broadband speeds, and once again the<a title="Local broadband speeds slower than Cambodia: Why it doesn’t matter" href="http://www.keithrozario.com/2014/05/malaysia-broadband-slow-cambodia-ookla.html"> hoopla about how Malaysian broadband speeds are slow</a> arose. Kinibiz quoted an article from Asean DNA which stated that the average broadband speed in Malaysia was <em>just</em> 5.5 Mbps, while Thailand, Vietnam and Singapore had speeds that were double that (or more!)
+
+
+![Broadband_speed_klang_malaysia](/uploads/Broadband_speed_klang_malaysia.png)
+
+Recently KiniBiz did a piece on Malaysian broadband speeds, and once again the<a title="Local broadband speeds slower than Cambodia: Why it doesn’t matter" href="http://www.keithrozario.com/2014/05/malaysia-broadband-slow-cambodia-ookla.html"> hoopla about how Malaysian broadband speeds are slow</a> arose. Kinibiz quoted an article from Asean DNA which stated that the average broadband speed in Malaysia was <em>just</em> 5.5 Mbps, while Thailand, Vietnam and Singapore had speeds that were double that (or more!)
 
 The report however was inaccurate, and I think there's a need to address the hoopla, because this happens often. There was a report couple months back that said Cambodia had faster speeds than Malaysia, and I <a title="Local broadband speeds slower than Cambodia: Why it doesn’t matter" href="http://www.keithrozario.com/2014/05/malaysia-broadband-slow-cambodia-ookla.html">wrote a post addressing that</a>. This time I think, we have to really go into the data and find out what exactly is going on.
 
@@ -20,7 +24,11 @@ The number reported by Asean DNA is wrong. The average internet speed in Malaysi
 
 Here's the breakdown. You can download the file from netindex.com or just use an<a title="extract Malaysian speed test data" href="https://drive.google.com/file/d/0Bxr9pDWP2zrdeEhOZjNsaVNoT0k/edit?usp=sharing" target="_blank"> extract</a> I created with just the Malaysian data--it took some time to do this so leave a Thank you in the comments if you downloaded the data.
 
+
+
 ![Average-speed-internet-Malaysia](/uploads/Average-speed-internet-Malaysia.png)
+
+
 
 <!--more-->
 <h2>What's the big fuss of 7.5Mbps</h2>
@@ -52,7 +60,11 @@ The first part of the report stated that<em> "However this includes the Streamyx
 
 Kinibiz also stated in the 2nd part of their report<em> "a basic 5Mbps UniFi package with a 60GB cap costs US$47 or RM149"</em>. Surely the reporter for Kinibiz should have done her homework and found out that the 60GB Fair Usage Policy was a recommendation by TM, and still hasn't been enforced. In fact, I blogged last year how <a title="Maxis and TM Fair Usage Policies : Are they fair?" href="http://www.keithrozario.com/2013/06/fair-usage-policy-tm-maxis.html">the average user in Asia-Pacific downloads less than 10GB per month</a>--so the topic of a Fair Usage policy is moot at those low numbers.
 <h2>Pemandu's and MCMC's response</h2>
-![SKMM](/uploads/SKMM.jpg)First a stupid question from Kinibiz which asked the MCMC chairman Mohamed Sharil why the target is <strong>only</strong> 50Mbps by 2018 when <strong>Singapore is already able to offer 1Gp</strong>s to home users.
+
+
+![SKMM](/uploads/SKMM.jpg)
+
+First a stupid question from Kinibiz which asked the MCMC chairman Mohamed Sharil why the target is <strong>only</strong> 50Mbps by 2018 when <strong>Singapore is already able to offer 1Gp</strong>s to home users.
 
 Take a deep breath and listen to my sigh....haiiiiih!!
 

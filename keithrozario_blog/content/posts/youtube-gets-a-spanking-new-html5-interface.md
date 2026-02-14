@@ -7,7 +7,11 @@ tags = ['HTML5']
 categories = ['Blog']
 +++
 
-![](/uploads/html5logo-150x87.jpg "html5logo")What the hell is html5? Well you know how your iphone takes you to a special app to play youtube videos? Or how you can't view facebook videos on your iphone? Or why you see a lego block while you're browsing on the ipad? That's because all these videos utilize Adobe Flash to play their videos. The catch is Apple mobile devices (including Ipads,Ipods and Iphones) don't support flash for one reason or another. Which means you're not going to be able to see those great videos till Apple gets on the Flash bandwagon. There is however....an alternative, and it's name is HTML5.<!--more-->
+
+
+![](/uploads/html5logo-150x87.jpg "html5logo")
+
+What the hell is html5? Well you know how your iphone takes you to a special app to play youtube videos? Or how you can't view facebook videos on your iphone? Or why you see a lego block while you're browsing on the ipad? That's because all these videos utilize Adobe Flash to play their videos. The catch is Apple mobile devices (including Ipads,Ipods and Iphones) don't support flash for one reason or another. Which means you're not going to be able to see those great videos till Apple gets on the Flash bandwagon. There is however....an alternative, and it's name is HTML5.<!--more-->
 
 You probably remember HTML from the good ol' days of the internet, when web-links had proper names and each page ended with <strong>.html</strong> instead of <strong>.asp</strong> or <strong>.php</strong>. HTML is the language of the internet, and your web browser, is sort of a HTML interpreter. HTML<strong>5</strong> is the 'latest and greatest' version of HTML and it is awesome.
 

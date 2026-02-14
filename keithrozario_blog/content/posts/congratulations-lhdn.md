@@ -6,7 +6,11 @@ draft = false
 categories = ['Malaysia']
 +++
 
-![](/uploads/LHDN-300x232.jpg "LHDN")The <a title="http://thestar.com.my/news/story.asp?file=/2012/4/26/nation/20120426065850&amp;sec=nation" href="http://thestar.com.my/news/story.asp?file=/2012/4/26/nation/20120426065850&amp;sec=nation" target="_blank">star today reports </a>that:
+
+
+![](/uploads/LHDN-300x232.jpg "LHDN")
+
+The <a title="http://thestar.com.my/news/story.asp?file=/2012/4/26/nation/20120426065850&amp;sec=nation" href="http://thestar.com.my/news/story.asp?file=/2012/4/26/nation/20120426065850&amp;sec=nation" target="_blank">star today reports </a>that:
 <blockquote>e-Filing looks to be a definite winner among Malaysians well over half of the country's estimated 2.5 million tax-paying citizens have gone the paperless route.
 
 Inland Revenue Board (IRB) figures showed that as at yesterday, 1,621,647 Malaysians had filed their taxes, with online filings accounting for nearly 75% of the total

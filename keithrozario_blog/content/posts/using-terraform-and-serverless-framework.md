@@ -7,6 +7,8 @@ categories = ['Cloud Computing', 'Serverless']
 +++
 
 <!-- wp:image {"id":6691} -->
+
+
 ![](/uploads/800px-Guaricano-Bambini.jpeg)<figcaption>Image from <a href="https://en.wikipedia.org/wiki/Holding_hands#/media/File:Guaricano-Bambini.JPG">wikicommons</a>.</figcaption></figure>
 <!-- /wp:image -->
 
@@ -48,6 +50,8 @@ categories = ['Cloud Computing', 'Serverless']
 
 <!-- wp:image {"id":6696} -->
 <figure class="wp-block-image">![](/uploads/TerraformAndServerless1.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:more -->

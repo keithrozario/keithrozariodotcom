@@ -7,7 +7,11 @@ tags = ['Crowdsourcing']
 categories = ['Crowdsourcing']
 +++
 
-![](/uploads/Customer_Review-300x175.png "Customer_Review")A study by the Harvard Business School published in april 2012 via it's online portal<a title="HBS Working Knowledge" href="http://hbswk.hbs.edu/item/6823.html" target="_blank"> HBS Working Knowledge</a>, confirms that "<em>Expert ratings are correlated with Amazon ratings, suggesting that experts and consumers tend to agree in aggregate about the quality of a book. However, there are systematic differences between these sets of reviews.</em>" In layman terms that just means that <strong>expert ratings are just as good as the average joe commenting on Amazon</strong>. It's something I've suspected all along, that crowdsourced reviews from Amazon, tripadvisor, goodreads and IMDB is just as good as the 'professional' reviewer you see in magazines and paid adverts.
+
+
+![](/uploads/Customer_Review-300x175.png "Customer_Review")
+
+A study by the Harvard Business School published in april 2012 via it's online portal<a title="HBS Working Knowledge" href="http://hbswk.hbs.edu/item/6823.html" target="_blank"> HBS Working Knowledge</a>, confirms that "<em>Expert ratings are correlated with Amazon ratings, suggesting that experts and consumers tend to agree in aggregate about the quality of a book. However, there are systematic differences between these sets of reviews.</em>" In layman terms that just means that <strong>expert ratings are just as good as the average joe commenting on Amazon</strong>. It's something I've suspected all along, that crowdsourced reviews from Amazon, tripadvisor, goodreads and IMDB is just as good as the 'professional' reviewer you see in magazines and paid adverts.
 
 The study, which can be downloaded in it's entirety <a title="What Makes a Critic Tick? Connected Authors and the Determinants of Book Reviews" href="http://hbswk.hbs.edu/item/6823.html" target="_blank">here</a>, is a really great read, that's not too technical, but it's not overly simplistic either so be prepared with some of your high school statistics for this one.<!--more-->
 

@@ -6,7 +6,11 @@ draft = false
 categories = ['Misc']
 +++
 
-![Haze Malaysia](/uploads/8679939937_79ac83f81c_z-300x200.jpg)Every now an again, I brush off the dust from an old laptop I have in the corner, and boot-up a couple of forgotten python scripts.
+
+
+![Haze Malaysia](/uploads/8679939937_79ac83f81c_z-300x200.jpg)
+
+Every now an again, I brush off the dust from an old laptop I have in the corner, and boot-up a couple of forgotten python scripts.
 
 One of those scripts would scrap the DOE Malaysia website for API readings in Malaysia, unfortunately, those damn fools at the DOE now only publish 7-day data, and completely wipe off anything older--for some unknown reason.
 

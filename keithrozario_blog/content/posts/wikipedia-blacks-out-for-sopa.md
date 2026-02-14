@@ -7,7 +7,11 @@ tags = ['PIPA', 'SOPA', 'Wikipedia']
 categories = ['Copyright and Censorship']
 +++
 
+
+
 ![](/uploads/No-Child-Left-Behind-Act-Wikipedia-the-free-encyclopedia.png "No Child Left Behind Act   Wikipedia  the free encyclopedia")
+
+
 
 I've posted a couple of post around SOPA and PIPA, and today there was a protest from one of the most web-traffic websites of all -- WIKIPEDIA.
 

@@ -6,7 +6,11 @@ draft = false
 categories = ['CyberLaw', 'Malaysia']
 +++
 
-![How IP addressing works](/uploads/Slide2-1024x576.jpg)Recently a court in Malaysia ruled that the newly amended evidence act could presume an IP address would uniquely identify a user of a network, and in the case of an Internet IP address, enough to tie an IP to the individual subscriber. In other words if the authorities ever found out that 'your' IP address was behind a post, then you'd have to prove it wasn't you rather than they having to prove it was.
+
+
+![How IP addressing works](/uploads/Slide2-1024x576.jpg)
+
+Recently a court in Malaysia ruled that the newly amended evidence act could presume an IP address would uniquely identify a user of a network, and in the case of an Internet IP address, enough to tie an IP to the individual subscriber. In other words if the authorities ever found out that 'your' IP address was behind a post, then you'd have to prove it wasn't you rather than they having to prove it was.
 <blockquote>In <strong>Tong Seak Kan &amp; Anor v Loke Ah Kin &amp; Anor [2014] 6 CLJ 904</strong>, the Plaintiffs initiated an action for cyberspace defamation against the 1st Defendant.   In tracing the perpetrator, who had posted defamatory statements on two Google Blogspot websites, the Plaintiffs filed an action called <strong>a John Doe action in the Superior Court of California</strong>.   In compliance with the court order, <strong>Google traced the blogs to two IP (Internet Protocol) addresses which were revealed by Telekom Malaysia Bhd to be IP addresses belonging to the 1st Defendant’s account</strong>.
 <p style="text-align: right;"><a href="https://www.digitalnewsasia.com/insights/bread-kaya-malaysian-cyberlaw-cases-in-2014" target="_blank">Bread &amp; Kaya: Malaysian cyberlaw cases in 2014</a></p>
 </blockquote>

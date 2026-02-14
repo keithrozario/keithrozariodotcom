@@ -18,6 +18,10 @@ Fortunately, I found one on Amazon--and Amazon did ship to Malaysia. So after a 
 To my utter surprise--the fitbit was at my doorstep on Christmas eve. I was astounded and shocked and all those other things you feel when something unexpectedly good happens to you. So I thought in the spirit of sharing to share with you the experience I had with Amazon shipping--it may be expensive, but it arrives on time.
 
 Here's the delivery tracking from Amazon <em>(click on the image to enlarge)</em>:
-<p style="text-align: center;">![Amazon Shipping to Malaysia](/uploads/Amazon-shipping-to-malaysia-1024x536.png "Amazon-shipping-to-malaysia")</p>
+<p style="text-align: center;">
+
+![Amazon Shipping to Malaysia](/uploads/Amazon-shipping-to-malaysia-1024x536.png "Amazon-shipping-to-malaysia")
+
+</p>
 <p style="text-align: left;">So overall I did fork out an additional USD30 (which is roughly RM100), but from my experience g<a title="Kindle in Malaysia : Buying and Using a Kindle in Malaysia" href="http://www.keithrozario.com/2012/04/kindle-malaysia-buying-ebooks-amazon.html" target="_blank">rey market importers charge this much extra for things like the Kindle anyway</a>. So an additional USD30 was pretty worth it and the speed of delivery was amazing.</p>
 <p style="text-align: left;">Have you bought anything from Amazon and wanted to share your experience? My experience with other online sellers like book depository and better world books were also good, but that was free shipping which took about 2-4 weeks rather than 2-4 days.</p>

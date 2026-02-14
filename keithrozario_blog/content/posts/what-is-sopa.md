@@ -7,7 +7,11 @@ tags = ['SOPA']
 categories = ['Blog', 'CyberLaw']
 +++
 
-![](/uploads/what-is-sopa-273x300.png "what-is-sopa")A couple of days ago, I stumbled onto a website by mozilla claiming "The internet we know and love is at risk". Now I'm not one to panic but this was some serious stuff here, Mozilla is a company I admire and respect, so if it tells me something serious is going down, I stand up and pay attention.
+
+
+![](/uploads/what-is-sopa-273x300.png "what-is-sopa")
+
+A couple of days ago, I stumbled onto a website by mozilla claiming "The internet we know and love is at risk". Now I'm not one to panic but this was some serious stuff here, Mozilla is a company I admire and respect, so if it tells me something serious is going down, I stand up and pay attention.
 
 Further reading brought on a couple of key points, namely that Mozilla was talking about the new Stop Online Piracy Act (SOPA) that was designed to stop online piracy, but what it would effectively do was make give copyright holders essentially too much control over their copyrighted material. Now copyright holders undoubtedly have legal rights to their work, but giving them the right to shut down YouTube because someone sang their song and posted a video takes that a bit too far.
 

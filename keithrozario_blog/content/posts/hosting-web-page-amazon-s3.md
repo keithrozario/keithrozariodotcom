@@ -7,7 +7,11 @@ tags = ['Amazon', 'S3']
 categories = ['Blog']
 +++
 
-![](/uploads/amazon_s3_thumb2.jpg "amazon_s3_thumb2")Yesterday, I blogged on how to<a title="Sharing Files using Amazon S3" href="http://www.keithrozario.com/2011/10/sharing-files-using-s3.html" target="_blank"> share files on Amazon S3</a>, today I'll show you how you can host a webpage on amazon S3. Now Amazon S3 is a simple storage service, and all it does it store files, but if you store a html file you can change this simple storage service into a webhost.
+
+
+![](/uploads/amazon_s3_thumb2.jpg "amazon_s3_thumb2")
+
+Yesterday, I blogged on how to<a title="Sharing Files using Amazon S3" href="http://www.keithrozario.com/2011/10/sharing-files-using-s3.html" target="_blank"> share files on Amazon S3</a>, today I'll show you how you can host a webpage on amazon S3. Now Amazon S3 is a simple storage service, and all it does it store files, but if you store a html file you can change this simple storage service into a webhost.
 
 How does it work? Simple.
 
@@ -23,7 +27,11 @@ Then I upload them onto my S3 bucket. People recommend bucket explorer, but you 
 
 You should end up with something like this:
 
+
+
 ![](/uploads/objects.jpg "objects")
+
+
 
 So here, I have a htm file and a folder of the same name (but with a <strong>_files</strong> postfix). If you've had a old website in a good old days of HTML you'd recognize this structure.
 
@@ -31,10 +39,17 @@ Now the last step is just to setup the S3 as a website.
 
 Click on the bucket and right-click to select it's properties. Select the website option, then enable the website by clicking Website Enabled. Then enter the name of the htm file as the Index Document (remember this is case-sensitive). And then save it.
 
+
+
 ![](/uploads/Website_Keith.jpg "Website_Keith")
+
+
 
 To access the website, simply click on the visit the Endpoint and you're good to go!! Happy Hunting!
 
 *If you get the dreaded <strong>403 Forbidden error on your Amazon S3 bucket page</strong> with a <strong>Code: Access Denied</strong> and <strong>Message: Access Denied</strong>, then it's just a simple matter of making the folder and the file public. Right click on the folder and the file and select the Make Public option:
 
+
+
 ![](/uploads/Make_Public.jpg "Make_Public")
+

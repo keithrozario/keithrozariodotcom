@@ -7,7 +7,11 @@ categories = ['Misc']
 +++
 
 <!-- wp:image {"align":"center","id":7564,"sizeSlug":"full","linkDestination":"none"} -->
+
+
 ![](/uploads/Screenshot-2021-10-08-at-9.31.00-PM.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -32,7 +36,11 @@ $ gpg --full-generate-key</code></pre>
 <!-- /wp:code -->
 
 <!-- wp:image {"align":"center","id":7561,"sizeSlug":"large","linkDestination":"none"} -->
+
+
 ![](/uploads/GPG-generate-key-538x500.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -52,7 +60,11 @@ $ gpg --full-generate-key</code></pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7563,"sizeSlug":"large","linkDestination":"none"} -->
+
+
 ![](/uploads/GPG-List-Keys-820x182.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -136,7 +148,11 @@ save</code></pre>
 <!-- /wp:code -->
 
 <!-- wp:image {"id":7562,"sizeSlug":"large","linkDestination":"none"} -->
+
+
 ![](/uploads/List-GPG-820x311.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -159,7 +175,11 @@ gpg/card&gt; passwd</code></pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7563,"sizeSlug":"large","linkDestination":"none"} -->
+
+
 ![](/uploads/GPG-List-Keys-820x182.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -175,7 +195,11 @@ gpg/card&gt; passwd</code></pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7564,"sizeSlug":"full","linkDestination":"none"} -->
+
+
 ![](/uploads/Screenshot-2021-10-08-at-9.31.00-PM.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:heading -->

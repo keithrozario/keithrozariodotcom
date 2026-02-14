@@ -19,7 +19,11 @@ categories = ["Keith's Favorite Post", 'Malaysia', 'Science']
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":6652,"align":"center","width":233,"height":233} -->
+
+
 ![](/uploads/grab.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -83,7 +87,11 @@ categories = ["Keith's Favorite Post", 'Malaysia', 'Science']
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":6654,"align":"center","width":282,"height":190} -->
+
+
 ![](/uploads/monopoly.jpg)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -143,7 +151,11 @@ categories = ["Keith's Favorite Post", 'Malaysia', 'Science']
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":6655} -->
+
+
 ![](/uploads/self-driving.jpeg)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -223,5 +235,9 @@ categories = ["Keith's Favorite Post", 'Malaysia', 'Science']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6656} -->
+
+
 ![](/uploads/landscape-of-human-competence.png)
+
+
 <!-- /wp:image -->

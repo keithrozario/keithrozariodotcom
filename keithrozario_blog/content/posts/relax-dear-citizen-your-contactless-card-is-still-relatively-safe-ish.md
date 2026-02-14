@@ -50,7 +50,11 @@ But what about those transactions that don't require a card at all? What about t
 
 CNP transactions generally refer to online transactions where the physical card isn't present. The cardholder (or a criminal impersonator) is merely entering numbers into a web browser. I could call my wife today, give her the relevant details of my card, and get her to book me a flight to Bora-Bora, and no one would know whether she had the card or not--but the transaction would be approved.
 
-![](/uploads/CVV2.jpg)To combat fraud for CNP transactions, cardholders are forced to enter their CVV2 number to authenticate a transaction. The CVV2 number is the 3 (or 4) digit number printed at the back of your card (or front if you're using American Express). CVV2 is not stored electronically on the card, only printed on the back, since it's designed for humans to read and enter manually into web browsers. Because it's not electronically <em>stored</em>, it can't be electronically <em>read</em>.
+
+
+![](/uploads/CVV2.jpg)
+
+To combat fraud for CNP transactions, cardholders are forced to enter their CVV2 number to authenticate a transaction. The CVV2 number is the 3 (or 4) digit number printed at the back of your card (or front if you're using American Express). CVV2 is not stored electronically on the card, only printed on the back, since it's designed for humans to read and enter manually into web browsers. Because it's not electronically <em>stored</em>, it can't be electronically <em>read</em>.
 
 Which means the data read by a malicious drive-by contactless card reader <strong>isn't sufficient</strong> to perform either offline or online transactions.
 

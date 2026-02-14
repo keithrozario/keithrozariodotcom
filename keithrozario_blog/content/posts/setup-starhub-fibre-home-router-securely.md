@@ -21,7 +21,11 @@ Fire up a browser like Chrome or Firefox (God forbid you're on Internet Explorer
 
 Once there, you'll see the following screen. For most StarHub customers, just logon with the admin user and leave the password field blank--as in don't enter anything for the password.
 
-![login-screen](/uploads/Login-Screen-820x352.png)<!--more-->
+
+
+![login-screen](/uploads/Login-Screen-820x352.png)
+
+<!--more-->
 <h2>Step 2: Change your router password</h2>
 As you'd guess. The first step is to secure the router interface, to ensure no one has access to changing sensitive setting on your router.
 
@@ -31,7 +35,11 @@ While you're on this page, you might want to make sure that your 'Enable Remote 
 
 And finally don't forget to hit save.
 
+
+
 ![setup-administrator-password](/uploads/Setup-Administrator-Password-633x500.png)
+
+
 <h2>Step 3: Disable WPS</h2>
 WPS is a standard for simplified logging onto WiFi networks. They help you configure things like WiFi printers to log onto the network. But WPS is a <a href="http://www.howtogeek.com/176124/wi-fi-protected-setup-wps-is-insecure-heres-why-you-should-disable-it/">poorly secured protocol</a>, and you're better off without it. Disable WPS to ensure no one has a 'back-door' into your WiFi network.
 
@@ -39,7 +47,11 @@ From the router home page, go to Advanced (Step 1), then Wi-Fi Protected Setup (
 
 As with all other settings on the DLink router, don't forget to hit 'save. (Step 4)
 
+
+
 ![disablewps](/uploads/DisableWPS-571x500.png)
+
+
 <h2>Step 4: Disable UPnP</h2>
 Universal Plug and Play simplifies the configuration of IOT devices like webcams and printers--but they also severely impact the security of your network. The protocol allows devices to configure firewall rules on the router without user intervention--and many times hackers use these rules to access your internal device.
 
@@ -47,7 +59,11 @@ True without UPnP, you'd need to go through the hassle of port-forwarding yourse
 
 While still in the 'Advanced' tab (from the previous setup), head over to 'Advanced Network' (Step 1), ensure the Enable UPnP IGD checkbox is <strong>unchecked</strong> (Step 2) and don't forget to hit save (Step 3).
 
+
+
 ![upnp-setup](/uploads/Upnp-Setup-749x500.png)
+
+
 <h2>Step 5: Disable WAN ping</h2>
 While on the same page, you also want to disable Wan Ping Response.
 
@@ -57,7 +73,11 @@ Hackers can ping an entire IP address range to determine which addresses have co
 
 To disable Ping responses on the WAN (the internet end of your router), uncheck the 'Enable Wan Ping response' box in the Advanced-&gt;Advanced Network section of the router home page. <em>[hint: it's the same page as the previous step]</em>
 
+
+
 ![disable-wan-ping](/uploads/Disable-WAN-Ping-576x500.png)
+
+
 <h2>Step 5: Check your DDNS settings</h2>
 If you've got DDNS setup, now's a good time to double check. If you don't know what DDNS is, it's still a good idea to double-check the DDNS page on the router, to make sure no one left a nice little back-door to it.
 <h2>Step 6: Change your WiFi password</h2>

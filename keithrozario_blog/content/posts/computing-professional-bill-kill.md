@@ -6,7 +6,11 @@ draft = false
 categories = ['CyberLaw', 'Malaysia']
 +++
 
-![](/uploads/3844909605_99e776724d-300x173.jpg "3844909605_99e776724d")So there's a lot being said about the new Computing professional bill, even on this blog. For now though, if you're really interested in finding out about the legal implications of the law, check out this amazing article <a title="Computing Professionals Bill: Bar Council" href="http://www.keithrozario.com/2011/12/computing-professionals-bill.html" target="_blank">here from the Bar Council Website written by 'The Awesome' LoyarBurok</a>. Or if you're in the mood for some petition, try signing this petition <a title="Petition" href="http://www.change.org/petitions/mosti-stop-computing-professionals-bill-2011-cpb2011" target="_blank">here</a>, they're aiming for 2000 signatures, so far they're about half way through.
+
+
+![](/uploads/3844909605_99e776724d-300x173.jpg "3844909605_99e776724d")
+
+So there's a lot being said about the new Computing professional bill, even on this blog. For now though, if you're really interested in finding out about the legal implications of the law, check out this amazing article <a title="Computing Professionals Bill: Bar Council" href="http://www.keithrozario.com/2011/12/computing-professionals-bill.html" target="_blank">here from the Bar Council Website written by 'The Awesome' LoyarBurok</a>. Or if you're in the mood for some petition, try signing this petition <a title="Petition" href="http://www.change.org/petitions/mosti-stop-computing-professionals-bill-2011-cpb2011" target="_blank">here</a>, they're aiming for 2000 signatures, so far they're about half way through.
 
 You might also want to digest a point by Tony Pua (opposition MP from PJ Utara):<!--more-->
 <blockquote>What is unimaginable would be for Microsoft to have all its computer programmers in the United States registered with the Board of Computing Professionals in Malaysia, before the company could sell its software to entities providing “critical national information infrastructure” in the country! If Microsoft or Hewlett Packard or any other product developer or manufacturer involving “computer services” from overseas could be exempted from being “registered”, then why should Malaysians be penalised for being unregistered?</blockquote>

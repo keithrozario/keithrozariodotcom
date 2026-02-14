@@ -6,7 +6,11 @@ draft = false
 categories = ['Cloud Computing', 'Malaysia']
 +++
 
-![Undersea Cable Map of Malaysia](/uploads/Submarine-Cable-Map-undersea-Malaysia.png "Submarine-Cable-Map-undersea-Malaysia")A good friend and regular reader (or so I hope) of this blog sent me this <a title="Submarine Cable Map" href="http://submarine-cable-map-2013.telegeography.com/" target="_blank">link last week</a>. It's a really nifty chart of all the undersea cables in the world. Now, for those who don't know what undersea cables are, they're basically the huge data cables that carry around the data we use for the internet. While modern satellites orbit overhead, the unfortunate truth is that satellites aren't able to carry even a fraction of the bandwidth that undersea cables do, and chances are if you're reading this now--at least some of this data has gone through an undersea cable before ending up on your screen.
+
+
+![Undersea Cable Map of Malaysia](/uploads/Submarine-Cable-Map-undersea-Malaysia.png "Submarine-Cable-Map-undersea-Malaysia")
+
+A good friend and regular reader (or so I hope) of this blog sent me this <a title="Submarine Cable Map" href="http://submarine-cable-map-2013.telegeography.com/" target="_blank">link last week</a>. It's a really nifty chart of all the undersea cables in the world. Now, for those who don't know what undersea cables are, they're basically the huge data cables that carry around the data we use for the internet. While modern satellites orbit overhead, the unfortunate truth is that satellites aren't able to carry even a fraction of the bandwidth that undersea cables do, and chances are if you're reading this now--at least some of this data has gone through an undersea cable before ending up on your screen.
 
 If you look at the moment from an abstract level however, you begin to notice that these cables tend to 'cluster' around certain areas. We can see clear clusters in America, but more specifically in states like California, Florida, New Jersey and Oregon. Other places we see clusters are in Brazil, particularly Sao Paolo, and then we huge clusters in the UK (and zooming in you'll see there's huge connectivity to Ireland), Portugal and a large amount of cables going through the Suez Canal. In Asia, we see huge metropolis of these things in Japan, Korea, Shanghai and Taiwan, and finally much closer to home we see a huge clustering happening next door--in Singapore and a tiny bit of clustering happening in Sydney, Australia.<!--more-->
 

@@ -6,7 +6,11 @@ draft = false
 categories = ['CyberLaw', 'Malaysia', 'Security &amp; Privacy']
 +++
 
-![The Cyber War between Malaysia and Philippines](/uploads/Cyber-War-Malaysia-PH.jpg "Cyber-War-Malaysia-PH")A really piece written by <a href="http://www.digitalnewsasia.com/insights/malaysia-philippines-cyberwar-time-for-our-agencies-to-step-up#" data-action="profile" data-user="30123397">Asohan Aryaduray</a> on DigitalNewsAsia some time back talked about how the<a title="Cyberwar Malaysia Philippines" href="http://www.digitalnewsasia.com/insights/malaysia-philippines-cyberwar-time-for-our-agencies-to-step-up" target="_blank"> CyberWar between Malaysia and the Philippines was going on</a>, and how he wanted government agencies to step up the security of our digital assets (or at least start the discussion). Asohan claims that Malaysia perhaps has <em>"the most number of government and quasi-government agencies looking into cyber-security for a country this size; it is time for them to put their heads together and harden the nation’s cyber-defenses." </em>
+
+
+![The Cyber War between Malaysia and Philippines](/uploads/Cyber-War-Malaysia-PH.jpg "Cyber-War-Malaysia-PH")
+
+A really piece written by <a href="http://www.digitalnewsasia.com/insights/malaysia-philippines-cyberwar-time-for-our-agencies-to-step-up#" data-action="profile" data-user="30123397">Asohan Aryaduray</a> on DigitalNewsAsia some time back talked about how the<a title="Cyberwar Malaysia Philippines" href="http://www.digitalnewsasia.com/insights/malaysia-philippines-cyberwar-time-for-our-agencies-to-step-up" target="_blank"> CyberWar between Malaysia and the Philippines was going on</a>, and how he wanted government agencies to step up the security of our digital assets (or at least start the discussion). Asohan claims that Malaysia perhaps has <em>"the most number of government and quasi-government agencies looking into cyber-security for a country this size; it is time for them to put their heads together and harden the nation’s cyber-defenses." </em>
 
 He ends with a rather poignant phrase: <em>It’s war, gentlemen, and it’s time our agencies got cracking.</em>
 

@@ -7,7 +7,11 @@ categories = ["Keith's Favorite Post", 'Security &amp; Privacy', 'Serverless']
 +++
 
 <!-- wp:image {"align":"center","id":7164,"linkDestination":"media"} -->
+
+
 ![](/uploads/lambda-sts.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -75,7 +79,11 @@ categories = ["Keith's Favorite Post", 'Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7150,"sizeSlug":"large","linkDestination":"media"} -->
-![](/uploads/cold-start.png)<figcaption>Inspired by: https://www.twitch.tv/videos/647501563?t=00h07m51s</figcaption></figure>
+
+
+![](/uploads/cold-start.png)
+
+<figcaption>Inspired by: https://www.twitch.tv/videos/647501563?t=00h07m51s</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -87,7 +95,11 @@ categories = ["Keith's Favorite Post", 'Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7151,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large">![](/uploads/cold-start-full.png)
+<figure class="wp-block-image size-large">
+
+![](/uploads/cold-start-full.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -95,7 +107,11 @@ categories = ["Keith's Favorite Post", 'Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7158,"sizeSlug":"large","linkDestination":"media"} -->
+
+
 ![](/uploads/assume-role-3.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -103,7 +119,11 @@ categories = ["Keith's Favorite Post", 'Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7159,"sizeSlug":"large","linkDestination":"media"} -->
+
+
 ![](/uploads/CreateLogStream-1.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -115,7 +135,11 @@ categories = ["Keith's Favorite Post", 'Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7160,"sizeSlug":"large","linkDestination":"media"} -->
+
+
 ![](/uploads/ListBuckets-1.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -163,7 +187,11 @@ categories = ["Keith's Favorite Post", 'Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7165,"sizeSlug":"large","linkDestination":"media"} -->
+
+
 ![](/uploads/ip-accesskey.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -211,7 +239,11 @@ categories = ["Keith's Favorite Post", 'Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7161,"sizeSlug":"large","linkDestination":"media"} -->
+
+
 ![](/uploads/ListBuckets_CLI.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -247,7 +279,11 @@ categories = ["Keith's Favorite Post", 'Security &amp; Privacy', 'Serverless']
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"center","id":7167,"sizeSlug":"large","linkDestination":"media"} -->
+
+
 ![](/uploads/revoke_keys.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -287,7 +323,11 @@ categories = ["Keith's Favorite Post", 'Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7163,"sizeSlug":"large","linkDestination":"media"} -->
+
+
 ![](/uploads/serverless-role.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:heading -->

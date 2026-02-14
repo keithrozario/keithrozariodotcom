@@ -7,7 +7,11 @@ tags = ['HTML5']
 categories = ['Blog']
 +++
 
-Yesterday![](/uploads/html5logo-150x87.jpg "html5logo") I blogged about how youtube was experimenting with a html5 version of the site, today we got come-from-behind victory for skydrive who announced that they've already <strong>launched</strong> their html5 version of site. Skydrive is Microsofts answer to dropbox, but unfortunately, it fell short of the mark and personally I don't believe html5 is going to save this one.
+Yesterday
+
+![](/uploads/html5logo-150x87.jpg "html5logo")
+
+ I blogged about how youtube was experimenting with a html5 version of the site, today we got come-from-behind victory for skydrive who announced that they've already <strong>launched</strong> their html5 version of site. Skydrive is Microsofts answer to dropbox, but unfortunately, it fell short of the mark and personally I don't believe html5 is going to save this one.
 
 I couldn't log into to skydrive today, so was unable to check out how cool it became, but if you've got a skydrive account why don't you give it a try and feedback.
 

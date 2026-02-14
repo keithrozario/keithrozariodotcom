@@ -11,7 +11,11 @@ Initially I wrote about PRISM and how a lot of people felt it was a tool to<a ti
 
 However, it's of paramount importance that we understand what people are saying. No one is denying that communications aren't being intercepted on their way to Google, Facebook or Apple, instead what they are denying is that the capability to perform that interception and storage is under purview of another program called Upstream, and that analyst like Edward Snowden at the NSA were encouraged to use <strong>both </strong>PRISM and UPSTREAM.
 
-![PRISM and Upstream](/uploads/PRISM-and-Upstream.jpg) What the crudely drawn powerpoint on the left is trying to describe is the distinct-ness of the programs and how each program would complement (rather than replace) the other.
+
+
+![PRISM and Upstream](/uploads/PRISM-and-Upstream.jpg)
+
+ What the crudely drawn powerpoint on the left is trying to describe is the distinct-ness of the programs and how each program would complement (rather than replace) the other.
 
 The release of this particular slide was done shortly after the initial news broke to<em>, in the interests of aiding the debate over how Prism works. </em>
 

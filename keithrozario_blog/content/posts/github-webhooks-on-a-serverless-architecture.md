@@ -39,7 +39,11 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6547,"align":"center"} -->
+
+
 ![](/uploads/untitled2.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -71,7 +75,9 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6544,"align":"center"} -->
-<div class="wp-block-image">![](/uploads/Step_1_Github_Webhook.png)<figcaption>Webhooks</figcaption></figure></div>
+<div class="wp-block-image">
+
+![](/uploads/Step_1_Github_Webhook.png)<figcaption>Webhooks</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -232,4 +238,6 @@ Webhook, lookup a secret in AWS Secrets Manager, and then compare_digest
 
 <!-- wp:image {"id":6553} -->
 <figure class="wp-block-image">![](/uploads/Screenshot-2018-10-15-at-8.51.47-PM.png)
+
+
 <!-- /wp:image -->

@@ -6,7 +6,11 @@ draft = false
 categories = ['Blog']
 +++
 
-![](/uploads/tumblr-150x150.jpg "tumblr")I'm a bit slow to new platforms, (I've just discovered wordpress early last month), but in the battle supremo of the 3 most popular blogging platforms out there, Tumblr does have it's advantages, and they're quite many.<!--more-->
+
+
+![](/uploads/tumblr-150x150.jpg "tumblr")
+
+I'm a bit slow to new platforms, (I've just discovered wordpress early last month), but in the battle supremo of the 3 most popular blogging platforms out there, Tumblr does have it's advantages, and they're quite many.<!--more-->
 
 Tumblr is (in my view), a new way of blogging. It integrates well with facebook and twitter and allows users to post individual items separately. So you have a GREAT user interface, that is customized so that you can post photos/videos/audios as separate post.
 

@@ -7,7 +7,11 @@ categories = ['Misc']
 +++
 
 <!-- wp:image {"id":7868,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+
+
 ![](/uploads/image-7-619x500.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

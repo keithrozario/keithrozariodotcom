@@ -254,7 +254,11 @@ categories = ['Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6900,"sizeSlug":"large"} -->
+
+
 ![](/uploads/CMK-Component-View.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -286,7 +290,11 @@ categories = ['Security &amp; Privacy', 'Serverless']
 <!-- /wp:list -->
 
 <!-- wp:image {"id":6901,"sizeSlug":"large"} -->
+
+
 ![](/uploads/rotated.003.jpeg)
+
+
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -354,7 +362,11 @@ categories = ['Security &amp; Privacy', 'Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6889,"sizeSlug":"large"} -->
+
+
 ![](/uploads/KeyGeneration_KMS.001.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:heading -->

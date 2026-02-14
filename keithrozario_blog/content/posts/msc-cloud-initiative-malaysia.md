@@ -7,7 +7,11 @@ tags = ['MSC']
 categories = ['Cloud Computing', "Keith's Favorite Post", 'Malaysia']
 +++
 
-![](/uploads/msc-medc-cloud-intiative-300x285.jpg "msc-medc-cloud-intiative")Why does Amazon--arguably the biggest cloud player in the world--choose to launch it's Asia-Pacific Offering in Singapore rather than Malaysia? One would think that the prohibitively high prices of land in Singapore, coupled with it's higher base cost and employee wages would make Singapore a terrible place to put up a Huge Datacenter comprising of thousands of Servers and HVAC units.
+
+
+![](/uploads/msc-medc-cloud-intiative-300x285.jpg "msc-medc-cloud-intiative")
+
+Why does Amazon--arguably the biggest cloud player in the world--choose to launch it's Asia-Pacific Offering in Singapore rather than Malaysia? One would think that the prohibitively high prices of land in Singapore, coupled with it's higher base cost and employee wages would make Singapore a terrible place to put up a Huge Datacenter comprising of thousands of Servers and HVAC units.
 
 Just to compare Malaysia and Singapore, you can build data centers in Malaysia for a fraction of the cost, coupled with cheaper labor and support cost. Our subsidized power, also means that Amazon could benefit from lower electricity bills. Best of all, Malaysia and Singapore, aren't really that far apart, so why setup shop in Singapore for something that relies on high volume and low cost? The answer is quite simple--Singapore is where the Internet is, or rather that's where the data flows through. The internet is the information super highway, and just like any other highway the 3 most important criteria for setting up business on the internet is location, location,location.<!--more-->
 <h2>Data Cables Bring the Internet to your doorstep</h2>

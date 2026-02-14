@@ -7,7 +7,11 @@ tags = ['Blog Features', 'Fonts', 'Google']
 categories = ['Blog']
 +++
 
-<link href='http://fonts.googleapis.com/css?family=Tangerine|Special+Elite|Syncopate' rel='stylesheet' type='text/css'>![](/uploads/font_directory_logo_beta1.gif "Google Web Fonts") 
+<link href='http://fonts.googleapis.com/css?family=Tangerine|Special+Elite|Syncopate' rel='stylesheet' type='text/css'>
+
+![](/uploads/font_directory_logo_beta1.gif "Google Web Fonts")
+
+ 
 
 Ever got up in the morning and wished you could blog in <span style="font-family: 'Tangerine'; font-size: 28px; color: #2abada;">Tangerine</span>, or felt like only <span style="font-family: 'Special Elite',serif; font-size: 18px; color: #2abada;">Special Elite </span>could fully express your creative juices. How about: <span style="color: #2abada; font-family: Syncopate, serif; font-size: 28px; text-align: center;">syncopate!!</span>
 
@@ -45,7 +49,11 @@ To display them correctly, all I need to do is:
 
 3. Use my font, by getting the bit of code from the API page, it'll look like this
 
-![](/uploads/Google-Web-Fonts-300x56.png "Google Web Fonts")4. Copy that bit of code and paste it in your wordpress blog post. In my example, I switched the view from Visual to HTML, and just pasted it at the top of the post.
+
+
+![](/uploads/Google-Web-Fonts-300x56.png "Google Web Fonts")
+
+4. Copy that bit of code and paste it in your wordpress blog post. In my example, I switched the view from Visual to HTML, and just pasted it at the top of the post.
 <blockquote>&lt;link href='<a href="http://fonts.googleapis.com/css?family=Tangerine|Special+Elite|Syncopate" target="_blank">http://fonts.googleapis.com/css?family=Tangerine|Special+Elite|Syncopate</a>' rel='stylesheet' type='text/css'&gt;</blockquote>
 <span style="color: #888888;"><em>*be careful as I noticed, Wordpress automatically deletes this the moment you switch from HTML back to Visual, I would keep this step to last, just before I press the POST button on the page</em></span>
 

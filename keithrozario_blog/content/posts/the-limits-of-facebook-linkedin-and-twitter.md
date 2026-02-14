@@ -7,7 +7,11 @@ tags = ['Facebook', 'Google', 'LinkedIn']
 categories = ['Misc']
 +++
 
-![](/uploads/5052070022_73852a658e_o-100x150.jpg "The limit") Facebook has a 5000 Friend limit, meaning you can't have more than 5000 facebook friends, and once you hit this limit Facebook won't let you have any more friends.
+
+
+![](/uploads/5052070022_73852a658e_o-100x150.jpg "The limit")
+
+ Facebook has a 5000 Friend limit, meaning you can't have more than 5000 facebook friends, and once you hit this limit Facebook won't let you have any more friends.
 
 Being an excel guru, I knew that older versions of excel had a 65,536 row limit per worksheet. That meant you couldn't store more than 65,536 rows in excel, the geeks among us would recognize 65,536 as a 2 raised to the 16th power, so the number itself suggest it's a system limitation that prevented excel from exceeded 65,536 rows. Facebook on the other hand has a very nice round number of 5000. That suggests that is was  a very careful design consideration to limit the number of friends you have rather than some database limitation. Personally I don't even have 1,000 friends so it's unlikely to bother me, but it did bother quite a number of people who now have turned to fan pages to broadcast their message on facebook.<!--more-->
 

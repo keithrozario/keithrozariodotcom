@@ -6,7 +6,11 @@ draft = false
 categories = ['CyberLaw', 'Malaysia']
 +++
 
-![](/uploads/Gopinath-Jayaratnam-300x289.png "Gopinath Jayaratnam")So let's say someone in Malaysia actually was stupid enough to post something insulting Islam and it's Prophet on his Facebook page as a status message. Then let's say that same person claimed that his Facebook page was hacked.
+
+
+![](/uploads/Gopinath-Jayaratnam-300x289.png "Gopinath Jayaratnam")
+
+So let's say someone in Malaysia actually was stupid enough to post something insulting Islam and it's Prophet on his Facebook page as a status message. Then let's say that same person claimed that his Facebook page was hacked.
 
 Finally, we say there's a huge backlash against this person on the internet, so even though the comment was deleted from Facebook, it has been screenshot-ed so many times, it's now permanently etched online.
 

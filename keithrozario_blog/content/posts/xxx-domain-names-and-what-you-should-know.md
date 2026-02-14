@@ -6,7 +6,11 @@ draft = false
 categories = ['Blog', 'Misc']
 +++
 
-![](/uploads/logo2.png "logo2")The internet Corporation for assigned Names and Numbers (more affectionately known as evil ICANN) has recently announced a new .xxx domain specifically for adult content online. Basically a safe place we can store porn on the internet away from our children. What's interesting though, is that a .xxx domain are by definition associated with pornography and smut, that certain corporations and even people would not want to be a part of. For instance, I'm quite sure everyone's lining up for www.BillClinton.xxx but Bill Clinton may not be too happy about it. So in light of this rather special domain name, comes a very special process that involves ensuring regular tax-paying adult content providers can bid for domain names they want, while allowing the rest of us to also work towards preventing others from getting our names tarnished with an .xxx post-fix.
+
+
+![](/uploads/logo2.png "logo2")
+
+The internet Corporation for assigned Names and Numbers (more affectionately known as evil ICANN) has recently announced a new .xxx domain specifically for adult content online. Basically a safe place we can store porn on the internet away from our children. What's interesting though, is that a .xxx domain are by definition associated with pornography and smut, that certain corporations and even people would not want to be a part of. For instance, I'm quite sure everyone's lining up for www.BillClinton.xxx but Bill Clinton may not be too happy about it. So in light of this rather special domain name, comes a very special process that involves ensuring regular tax-paying adult content providers can bid for domain names they want, while allowing the rest of us to also work towards preventing others from getting our names tarnished with an .xxx post-fix.
 
 So can we work on preventing my name from being associated with pornography?<!--more-->
 

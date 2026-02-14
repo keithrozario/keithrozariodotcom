@@ -7,7 +7,11 @@ categories = ['Serverless']
 +++
 
 <!-- wp:image {"id":6835,"sizeSlug":"large"} -->
+
+
 ![](/uploads/GoogleCloudRun.jpg)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -195,7 +199,11 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6827,"sizeSlug":"large"} -->
+
+
 ![](/uploads/Screenshot-2019-11-18-at-9.35.16-PM.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -227,7 +235,11 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6826,"sizeSlug":"large"} -->
+
+
 ![](/uploads/Screenshot-2019-11-18-at-12.30.16-AM.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

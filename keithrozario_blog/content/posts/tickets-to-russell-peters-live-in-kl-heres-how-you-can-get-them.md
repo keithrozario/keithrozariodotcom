@@ -7,7 +7,11 @@ tags = ['Russell Peters']
 categories = ['Copyright and Censorship', 'Misc']
 +++
 
+
+
 ![](/uploads/Russell-Peters-2nd-Hand.png "Russell Peters 2nd Hand")
+
+
 
 <em><span style="color: #888888;">*update: there's been an announcement that the organizers are setting up a second show due to the huge demand. I'd recommend waiting for that before you start buying 2nd hand tickets.</span></em>
 

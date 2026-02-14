@@ -7,7 +7,11 @@ tags = ['Celcom', 'Samsung']
 categories = ['Malaysia']
 +++
 
-<p style="text-align: center;">![](/uploads/Celcom-Samsung-ATIV-PC-Package.png "Celcom-Samsung-ATIV-PC-Package")</p>
+<p style="text-align: center;">
+
+![](/uploads/Celcom-Samsung-ATIV-PC-Package.png "Celcom-Samsung-ATIV-PC-Package")
+
+</p>
 Alright, so my first sponsored post. Although it's not much, somebody gotta pay the bills, and as long as that somebody isn't me -- that's awesome.Technically this isn't my first sponsored post, I wrote a post some time back about <a title="Watch Netflix, Hulu and even Euro2012 online from Malaysia" href="http://www.keithrozario.com/2012/06/watch-netflix-hulu-bbc-spotify-malaysia.html" target="_blank">Unotelly</a>, but this is the first time I'm getting paid real, actual, hard-cold cash.
 
 So what's the post about?
@@ -41,7 +45,11 @@ To experience the Samsung ATIV Smart PC, head on down to the Blue Cube Sunway Ic
 One can only pray, they had Liquipel--and that they flushed before they dropped it in.
 
 That's a side story though, here's the list of the Celcom packages, for more info head on to the <a title="Samsung ATIV Smart PC from Celcom" href="http://www.celcom.com.my/devices/others/windows-phone/samsung-ativ-smart-pc.html" target="_blank">Celcoms website to get more info on the Samsung ATIV</a>.
-<p style="text-align: center;">![Celcom Packages for the Samsung ATIV Smart PC](/uploads/Celcom-Packages-Samsung-ATIV-Smart-PC.png "Celcom-Packages-Samsung-ATIV-Smart-PC")</p>
+<p style="text-align: center;">
+
+![Celcom Packages for the Samsung ATIV Smart PC](/uploads/Celcom-Packages-Samsung-ATIV-Smart-PC.png "Celcom-Packages-Samsung-ATIV-Smart-PC")
+
+</p>
 
 <h2>Conclusion</h2>
 If you like the Windows experience for whatever reason (I'm not judging), or like something more than a tablet, then it's time to take a look at the Samsung ATIV.

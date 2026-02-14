@@ -63,7 +63,11 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7127,"sizeSlug":"large"} -->
+
+
 ![](/uploads/log_relationships.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -71,7 +75,11 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7125,"sizeSlug":"large"} -->
+
+
 ![](/uploads/log_groups.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -95,7 +103,11 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7110,"sizeSlug":"large"} -->
+
+
 ![](/uploads/logger_example.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -103,7 +115,11 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7118,"sizeSlug":"large"} -->
+
+
 ![](/uploads/log_output-1.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -127,7 +143,11 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7108,"sizeSlug":"large"} -->
+
+
 ![](/uploads/logging_aws_powertools.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -139,7 +159,11 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7121,"sizeSlug":"large"} -->
+
+
 ![](/uploads/carbon-2.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -179,7 +203,11 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7101,"sizeSlug":"large"} -->
+
+
 ![](/uploads/Screen-Shot-2020-05-30-at-12.24.23-PM.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -195,7 +223,11 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7102,"sizeSlug":"large"} -->
+
+
 ![](/uploads/Screen-Shot-2020-05-30-at-12.26.26-PM.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -203,7 +235,11 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7103,"sizeSlug":"large"} -->
+
+
 ![](/uploads/Screen-Shot-2020-05-30-at-12.31.12-PM.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -239,7 +275,11 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7122,"sizeSlug":"large"} -->
+
+
 ![](/uploads/carbon-3.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -6,7 +6,11 @@ draft = false
 categories = ['Blog']
 +++
 
-![](/uploads/3950846568_69a959524f_o-300x300.jpg "3950846568_69a959524f_o")Last week I migrated my blog from Nearlyfreespeech (who are awesome by the way!) to dreamhost (who are also quite awesome in their own way). What prompted the move was that I'm already subscribed to a year of hosting to dreamhost at about $6/mo, while my blog at Nearlyfreespeech is still costing me money, although admittedly not much. So I thought why waste my dreamhost hosting, and instead switch over from Nearlyfreespeech to dreamhost.
+
+
+![](/uploads/3950846568_69a959524f_o-300x300.jpg "3950846568_69a959524f_o")
+
+Last week I migrated my blog from Nearlyfreespeech (who are awesome by the way!) to dreamhost (who are also quite awesome in their own way). What prompted the move was that I'm already subscribed to a year of hosting to dreamhost at about $6/mo, while my blog at Nearlyfreespeech is still costing me money, although admittedly not much. So I thought why waste my dreamhost hosting, and instead switch over from Nearlyfreespeech to dreamhost.
 
 Before I start, let's me first explain what I want to do. I want to migrate my blog from nearlyfreespech to dreamhost, in essence I want to change my hosting provider from Nearlyfreespeech to dreamhost. I do <strong>not</strong> want to change my url, I still want readers who type www.keithrozario.com to visit my blog, it's just that the blog is now hosted on a different service provider and will ultimately have a different IP.
 

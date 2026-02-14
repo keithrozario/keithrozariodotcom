@@ -7,7 +7,11 @@ tags = ['wordpress']
 categories = ['Blog', 'Misc']
 +++
 
-![](/uploads/wordpress_logo1.png "wordpress_logo")Imagine for a moment you're an ancient social activist, somewhere in Babylon or Persia, or even ancient Rome, and you've just uncovered a secret of money laundering among elected officials. Armed with this information and a burning desire to expose the elected official you march out to tell the world of his exploits and hopefully stand over him in the expectation of swift justice to be executed.
+
+
+![](/uploads/wordpress_logo1.png "wordpress_logo")
+
+Imagine for a moment you're an ancient social activist, somewhere in Babylon or Persia, or even ancient Rome, and you've just uncovered a secret of money laundering among elected officials. Armed with this information and a burning desire to expose the elected official you march out to tell the world of his exploits and hopefully stand over him in the expectation of swift justice to be executed.
 
 How would you do it?
 
@@ -25,7 +29,11 @@ Now Movable type made it easier to print, but still it took a lot of effort, ful
 <blockquote>The printing press was invented in the <a title="Holy Roman Empire" href="http://en.wikipedia.org/wiki/Holy_Roman_Empire">Holy Roman Empire</a> by the <a title="Germany" href="http://en.wikipedia.org/wiki/Germany">German</a> <a title="Johannes Gutenberg" href="http://en.wikipedia.org/wiki/Johannes_Gutenberg">Johannes Gutenberg</a> around 1440, based on existing <a title="Screw press" href="http://en.wikipedia.org/wiki/Screw_press">screw presses</a>. Gutenberg, a <a title="Goldsmith" href="http://en.wikipedia.org/wiki/Goldsmith">goldsmith</a> by profession, developed a complete printing system, which perfected the printing process through all its stages by adapting existing technologies to printing purposes, as well as making groundbreaking inventions of his own. His newly devised <a title="Matrix (printing)" href="http://en.wikipedia.org/wiki/Matrix_%28printing%29">hand mould</a> made for the first time possible the precise and rapid creation of metal <a title="Movable type" href="http://en.wikipedia.org/wiki/Movable_type">movable type</a> in large quantities, a key element in the profitability of the whole printing enterprise.</blockquote>
  
 
-![](/uploads/Scrabbletileset-300x288.png "Scrabbletileset")Think of movable type as printing with scrabble tiles. Each scrabble-like tile was arranged to form words which form sentences and then entire pages, all on a metal sheet which could then be re-used to re-print as many pages as you could afford. Movable type existed in China and Korea nearly a century before Gutenberg. "<em>The problem is that the Chinese (and Korean) language has tens of thousands of distinct characters, while the latin alphabet translates it's sounds and speeches into a small set of marks (26 letters in the English Alphabet can uniquely spell out every single word in the language) , making it perfect for mechanization</em>" (Ellen Lupton, Thinking with type)
+
+
+![](/uploads/Scrabbletileset-300x288.png "Scrabbletileset")
+
+Think of movable type as printing with scrabble tiles. Each scrabble-like tile was arranged to form words which form sentences and then entire pages, all on a metal sheet which could then be re-used to re-print as many pages as you could afford. Movable type existed in China and Korea nearly a century before Gutenberg. "<em>The problem is that the Chinese (and Korean) language has tens of thousands of distinct characters, while the latin alphabet translates it's sounds and speeches into a small set of marks (26 letters in the English Alphabet can uniquely spell out every single word in the language) , making it perfect for mechanization</em>" (Ellen Lupton, Thinking with type)
 
 It was with these scrabble-like tiles neatly arranged on metal sheets that Gutenberg printed his famous <a title="http://en.wikipedia.org/wiki/Gutenberg_Bible" href="http://en.wikipedia.org/wiki/Gutenberg_Bible" target="_blank">Gutenberg Bible</a>.With this blend of Chinese technology and the European alphabet, printing really took off, and books were beginning to fly of shelves , because the barrier to publish a book had been greatly reduced. Soon Newspapers begin to appear, and as printing technology became ever more efficient and it's cost greatly reduced, the invention of the newspaper began to prop up.
 
@@ -37,7 +45,11 @@ In the early days you had internet access, but you couldn't publish anything jus
 
 The last piece of this amazing puzzle comes in the form of blogs, as we approached the late nineties the best you could muster up in terms of websites were from sites like Geocities and Angelfire. I remember my angelfire account, where I could hold 5 webpages and up to 2MB in storage, and that was probably one of the best web platforms around. Now this was a remarkable step, because now you could publish for FREE! , just like printing reduced the barrier for publishing,  sites like GeoCities and Angelfire did just that for website publishing.Think of it as pre-historic blogging.
 
-![](/uploads/friendsreunited_1473603a-300x195.jpg "friendsreunited_1473603a")If you were around back then you'd know it wasn't all journalistic utopia. It was ugly, websites were ugly, and personal websites even more so. The reason being was that you had to write your own website in HTML, and most people don't like to code and it showed in the ugly comic sans filled, light-blue background websites that typified the 90's. While there was no financial barrier to publish, there was a technological hurdle you needed to cross, and that hurdle was to learn html...nobody had inclination or the time. So all you got was corporations publishing content online because the average joe of the street didn't have the inclination to learn html.
+
+
+![](/uploads/friendsreunited_1473603a-300x195.jpg "friendsreunited_1473603a")
+
+If you were around back then you'd know it wasn't all journalistic utopia. It was ugly, websites were ugly, and personal websites even more so. The reason being was that you had to write your own website in HTML, and most people don't like to code and it showed in the ugly comic sans filled, light-blue background websites that typified the 90's. While there was no financial barrier to publish, there was a technological hurdle you needed to cross, and that hurdle was to learn html...nobody had inclination or the time. So all you got was corporations publishing content online because the average joe of the street didn't have the inclination to learn html.
 
 Fortunately, as the 2000's approached things begin to change. <a title="Blogger" href="http://en.wikipedia.org/wiki/Blogger_%28service%29" target="_blank">Blogger </a>started to pop up and now you could blog for free, and publish you content online, and soon open-source platforms begin to emerge. With the financial barrier crossed, the last bit of puzzle was to solve the technological one, and many communities (and companies) were working on platforms that would be so user friendly anyone could start to blog.
 

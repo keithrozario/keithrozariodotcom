@@ -7,7 +7,11 @@ tags = ['Jobs', 'LinkedIn']
 categories = ['Misc']
 +++
 
+
+
 ![](/uploads/LinkedIn.jpg "LinkedIn")
+
+
 According to the <a href="http://blog.linkedin.com/2011/03/22/linkedin-100-million/">LinkedIn blog</a>, LinkedIn that ever popular 'professional' facebook like thingy now has more members than the population of Australia, Malaysia, Singapore combined. LinkedIn has grown to a more niche social network that proves Facebook isn't the only kid on the block, and niche networks like LinkedIn do have a future, for instance we're more likely to search for a job/talent via LinkedIn than via facebook, and for the most part it's probably better to keep our social (facebook) and professional (linkedIn) lives separate. <!--more-->
 
 I personally love the features, but think they could have spent more time designing the interface and making it easier to host better looking resumes on LinkedIn. That being said the features on LinkedIn beat the crap out of Jobstreet anyday.

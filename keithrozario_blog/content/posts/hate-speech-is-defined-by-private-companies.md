@@ -6,7 +6,11 @@ draft = false
 categories = ['Copyright and Censorship', 'CyberLaw', 'Social Media']
 +++
 
-![FirstAmendment](/uploads/FirstAmendment.jpg)You don't have a right to freedom of speech.
+
+
+![FirstAmendment](/uploads/FirstAmendment.jpg)
+
+You don't have a right to freedom of speech.
 
 Obviously true if you're Malaysian, but even Americans only enjoy a liberty in freedom of speech and not an absolute right.
 

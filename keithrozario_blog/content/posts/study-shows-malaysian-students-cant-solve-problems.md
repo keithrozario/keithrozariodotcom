@@ -6,7 +6,11 @@ draft = false
 categories = ['Science']
 +++
 
-<p style="text-align: center;">![PISA Results](/uploads/PISA-OECD.png)</p>
+<p style="text-align: center;">
+
+![PISA Results](/uploads/PISA-OECD.png)
+
+</p>
 The latest PISA 2012 results are out, and it comes with a twist. Instead of testing the usual 'knowledge' of the students, PISA crafted a new exam meant to test the creative problem solving skills of students in various countries.
 
 <a title="Ed Week PISA" href="http://blogs.edweek.org/edweek/inside-school-research/2014/04/pisa_problem_solving.html" target="_blank">Edweek.org</a> further explains:

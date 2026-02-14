@@ -7,7 +7,11 @@ tags = ['Firebug', 'wordpress']
 categories = ['Blog']
 +++
 
-![http://www.flickr.com/photos/fatboyke/2668411239/sizes/m/in/photostream/](/uploads/2668411239_9c8d7b2342-150x99.jpg "http://www.flickr.com/photos/fatboyke/2668411239/sizes/m/in/photostream/")I have a problem with my wordpress site, it was just too slow. It was taking me 20-30 seconds to load the page, initially I thought it was nearlyfreespeech, and was contemplating moving the blog to dreamhost (<em>both of whom happen to be amazing webhost by the way</em>).
+
+
+![http://www.flickr.com/photos/fatboyke/2668411239/sizes/m/in/photostream/](/uploads/2668411239_9c8d7b2342-150x99.jpg "http://www.flickr.com/photos/fatboyke/2668411239/sizes/m/in/photostream/")
+
+I have a problem with my wordpress site, it was just too slow. It was taking me 20-30 seconds to load the page, initially I thought it was nearlyfreespeech, and was contemplating moving the blog to dreamhost (<em>both of whom happen to be amazing webhost by the way</em>).
 
 The reason I thought it was a host problem because my browser kept displaying <em><span style="color: #888888;">'waiting for keithrozario.nfshost.com'</span></em> while the waiting, so I assumed that it was their servers response time. That however was too presumptuous on my part, and it took me a while to get to the bottom of things, but I finally figured it out.
 
@@ -15,7 +19,11 @@ I used a nifty little Firefox plugin called firebug. <!--more-->I've used firebu
 
 So armed with firebug I booted up firefox and loaded my page. Lo and Behold, the answer was staring me right in the face:
 
+
+
 ![](/uploads/imghover.js-1024x342.jpg "imghover.js")
+
+
 
 You see that line with the red font that says imghover.js, and how the timeline for that particular element stretches to 21.9s. That means that my page had a javascript (.js file) that took 21.9 seconds to load, obviously that's a problem.
 

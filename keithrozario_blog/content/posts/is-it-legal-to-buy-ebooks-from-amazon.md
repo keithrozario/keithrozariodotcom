@@ -6,7 +6,11 @@ draft = false
 categories = ['CyberLaw', 'Malaysia']
 +++
 
+
+
 ![](/uploads/rsz_1dsc022065.jpg "rsz_1dsc02206")
+
+
 In my previous post, I wrote about how I bought and Amazon Kindle, and how I can use gift cards to purchase ebooks from the Kindle store. So far the Kindle has been an amazing experience and I personally recommend you get yourself one. However, there is a downside, since there is 'technically' no legal way to obtain ebooks for your Kindle device.
 
 Today I hope to explore the legality of downloading ebooks from Amazon, and how stupid copyright laws, badly behaving book publishers and a Malaysian Sales Tax  all contribute to making it impossible for you to purchase ebooks for your Kindle while still complying with any and all laws pertaining to them.<!--more-->
@@ -63,7 +67,11 @@ Consider however, that buying partially legal at best, and considering it legal 
 <h2>How about the Ethical aspect?</h2>
 This is my favorite perspective, is it ethical to buy books from Amazon. I'm not an expert on Ethics but I believe it's ethical.
 <h2>What about local Ebooks?</h2>
+
+
 ![](/uploads/Book_Price_Comparison.jpg "Book_Price_Comparison")
+
+
 It's not clear to me if Maxis will sell you Kindle friendly book formats like .mobi , or even .epub (which you'll need to convert).
 
 A quick price comparison (image above) between Maxis Ebuuk and Amazon reveals that Maxis Ebuuk is (on average) 33.21% higher than Amazon, that's a lot of dough, but it's easily explained with the Malaysian Sales Tax of 20% (if Maxis is even paying it).

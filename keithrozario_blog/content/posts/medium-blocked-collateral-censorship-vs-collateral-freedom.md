@@ -6,7 +6,11 @@ draft = false
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia']
 +++
 
+
+
 ![Website Blocked](/uploads/Makluman-Notification-2015-07-19-21-49-53.png)
+
+
 
 So the buzz around twitter is that <a href="http://medium.com" target="_blank">Medium.com</a> has been blocked by the Malaysian Authorities, and guess what? It's true.
 

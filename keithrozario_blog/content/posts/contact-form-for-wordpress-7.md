@@ -7,7 +7,11 @@ tags = ['wordpress']
 categories = ['Blog']
 +++
 
-![Call me](/uploads/2217046976_9357393554-150x150.jpg "Contact me") Even though you've got the social network icons on the menu bar, underneath every post and your email plastered all over the website. Sometimes it's worth it to have a contact form for visitors to contact you via the webpage. This means they don't have to login into facebook/twitter or their email to contact you. There are advantages of course, if someone stumbled across your page from an airport computer, they're less likely to logon to anything there but they'd be more than willing to send you an email via your contact form. Personally I receive a lot more messages from people via the contact form then on any social media. The old way still lives :)
+
+
+![Call me](/uploads/2217046976_9357393554-150x150.jpg "Contact me")
+
+ Even though you've got the social network icons on the menu bar, underneath every post and your email plastered all over the website. Sometimes it's worth it to have a contact form for visitors to contact you via the webpage. This means they don't have to login into facebook/twitter or their email to contact you. There are advantages of course, if someone stumbled across your page from an airport computer, they're less likely to logon to anything there but they'd be more than willing to send you an email via your contact form. Personally I receive a lot more messages from people via the contact form then on any social media. The old way still lives :)
 
 <!--more-->
 

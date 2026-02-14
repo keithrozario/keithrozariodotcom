@@ -6,7 +6,11 @@ draft = false
 categories = ['Science']
 +++
 
-![Cell Phone usage at Petrol Station](/uploads/mobile_phone_usage_gas_station.jpg "mobile_phone_usage_gas_station")Sometimes good intentions lead to bad things, particularly when they're not grounded on rational science. Just like how some still believe that Wi-Fi poses a health hazard and even more common myth of how Mobile phones cause gas station fires.
+
+
+![Cell Phone usage at Petrol Station](/uploads/mobile_phone_usage_gas_station.jpg "mobile_phone_usage_gas_station")
+
+Sometimes good intentions lead to bad things, particularly when they're not grounded on rational science. Just like how some still believe that Wi-Fi poses a health hazard and even more common myth of how Mobile phones cause gas station fires.
 
 Now that's a myth that's been around a loooong time.
 

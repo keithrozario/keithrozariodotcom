@@ -7,7 +7,11 @@ tags = ['Blog Features', 'Google']
 categories = ['Blog']
 +++
 
-![](/uploads/google_apps-150x150.jpg "Google_apps")Previously, I posted about using <a title="Webmail from Google" href="http://www.keithrozario.com/2011/04/creating-a-webmail-sorta-account-for-your-domain.html" target="_blank">Google apps to take care of your websites email</a> needs. However, there was one nagging issue which always bugged me. My personal account was a gmail account, and if my website email address was hosted on google apps, that meant I could only login to one email at a time. This was troublesome especially if I was expecting an email on both accounts at once.
+
+
+![](/uploads/google_apps-150x150.jpg "Google_apps")
+
+Previously, I posted about using <a title="Webmail from Google" href="http://www.keithrozario.com/2011/04/creating-a-webmail-sorta-account-for-your-domain.html" target="_blank">Google apps to take care of your websites email</a> needs. However, there was one nagging issue which always bugged me. My personal account was a gmail account, and if my website email address was hosted on google apps, that meant I could only login to one email at a time. This was troublesome especially if I was expecting an email on both accounts at once.
 
 The workaround that solves this is simple, consolidate your email accounts into one login. This makes things a easier, and allowed me to check my websites emails (keith@keithrozario.com) while still using my personal email (keithjosephrozario@gmail.com).<!--more-->
 

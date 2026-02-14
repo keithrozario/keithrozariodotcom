@@ -6,7 +6,11 @@ draft = false
 categories = ['Malaysia', 'Misc']
 +++
 
-<p style="text-align: center;">![Writing an email to TMs CEO about my faulty Unifi](/uploads/Writing-an-email-to-TMs-CEO-about-my-faulty-Unifi.png)</p>
+<p style="text-align: center;">
+
+![Writing an email to TMs CEO about my faulty Unifi](/uploads/Writing-an-email-to-TMs-CEO-about-my-faulty-Unifi.png)
+
+</p>
 Just yesterday, I received a rather odd comment on my post about a <a title="Tm Ceo restore Unifi" href="http://www.keithrozario.com/2012/02/email-ceo-restore-unifi-services.html#comment-1010183707" target="_blank">Unifi downtime</a>. It read:
 
 [box icon="chat"]

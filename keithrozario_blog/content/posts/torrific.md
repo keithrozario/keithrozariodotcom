@@ -6,7 +6,11 @@ draft = false
 categories = ['Misc']
 +++
 
-![](/uploads/images.jpg "images")I recently wrote about how excited I was to use fetch.io, but that turned out to be a bit disappointing. Recently I discovered torrific, a web based torrent download web page.  It's as good (if not better) than fetch.io. The time taken to download the torrent may not be as super fast as fetch.io, but torrific works for most torrent files and is far more reliable than fetch.io
+
+
+![](/uploads/images.jpg "images")
+
+I recently wrote about how excited I was to use fetch.io, but that turned out to be a bit disappointing. Recently I discovered torrific, a web based torrent download web page.  It's as good (if not better) than fetch.io. The time taken to download the torrent may not be as super fast as fetch.io, but torrific works for most torrent files and is far more reliable than fetch.io
 
 Overall great experience, and I haven't even mentioned the best part....it's FREE. As in free as advice from your mother-in-law free, absolutely. I loved it, and you should try it.
 

@@ -6,7 +6,11 @@ draft = false
 categories = ['Malaysia', 'Misc']
 +++
 
-![](/uploads/Yes.jpg "Yes")I'm going a bit off tangent today and focus on Malaysias latest 4G broadband. Recently I moved house and my new area didn't yet have UniFi, so to avoid locking myself down to contracts I decided to go for a pre-paid wireless service offered by YTL called Yes.
+
+
+![](/uploads/Yes.jpg "Yes")
+
+I'm going a bit off tangent today and focus on Malaysias latest 4G broadband. Recently I moved house and my new area didn't yet have UniFi, so to avoid locking myself down to contracts I decided to go for a pre-paid wireless service offered by YTL called Yes.
 
 Initially I was a bit skeptical on the performance of yes, but it did have some things going for it. Firstly it was prepaid meaning I could terminate the usage anytime without incurring any fines. Secondly it was wireless so no wiring for my new house, and finally it a usage based thing, so if I was bit-torrenting then I could get pretty high mileage from just RM30.<!--more-->
 

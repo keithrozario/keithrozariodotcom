@@ -7,7 +7,11 @@ categories = ['AI', 'Singapore']
 +++
 
 <!-- wp:image {"id":6728} -->
+
+
 ![](/uploads/social_default-1d3b50b1eba4c2b06244425ff0c49570.jpg)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -47,7 +51,11 @@ categories = ['AI', 'Singapore']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6733} -->
+
+
 ![](/uploads/Screenshot-2019-04-22-at-9.54.23-PM.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -71,7 +79,11 @@ categories = ['AI', 'Singapore']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6727} -->
+
+
 ![](/uploads/Screenshot-2019-04-21-at-11.57.32-PM.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -83,7 +95,11 @@ categories = ['AI', 'Singapore']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6726} -->
+
+
 ![](/uploads/Screenshot-2019-04-21-at-11.58.59-PM.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -99,7 +115,11 @@ categories = ['AI', 'Singapore']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6725} -->
+
+
 ![](/uploads/Screenshot-2019-04-22-at-12.10.42-AM.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

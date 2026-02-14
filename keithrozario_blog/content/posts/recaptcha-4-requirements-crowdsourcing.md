@@ -7,7 +7,11 @@ tags = ['Captcha', 'Google', 'ReCaptcha']
 categories = ['Crowdsourcing']
 +++
 
-![](/uploads/logo2-new.gif "logo2-new")If the 5 of you can't decide where to eat lunch without saying the dreaded words "up to you", how in world can 100,000 or even 1 million people combine together to solve a problem? The answer is through a mixture of the right collaborative systems enabled by the right technology and people with the right skill-sets motivated by the right things. Get all 4 components right, and you've got yourself the answer to any problem.
+
+
+![](/uploads/logo2-new.gif "logo2-new")
+
+If the 5 of you can't decide where to eat lunch without saying the dreaded words "up to you", how in world can 100,000 or even 1 million people combine together to solve a problem? The answer is through a mixture of the right collaborative systems enabled by the right technology and people with the right skill-sets motivated by the right things. Get all 4 components right, and you've got yourself the answer to any problem.
 
 However, getting these 4 components right is very very tricky.Some might argue it's more difficult than solving the task at hand, but a handful of successful crowdsourcing projects have broken the mold and set the tone for others to follow. Today I want to focus on what is quite possibly the biggest crowdsourcing project ever, and with the exception of wikipedia is probably the most successful as well. <a title="ReCaptcha" href="http://www.google.com/recaptcha" target="_blank">ReCaptcha</a>.<!--more-->
 

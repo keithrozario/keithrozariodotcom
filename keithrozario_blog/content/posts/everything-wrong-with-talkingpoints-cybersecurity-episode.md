@@ -22,7 +22,11 @@ In 2010, Singapore's retail <a href="http://www.enterpriseinnovation.net/articl
 
 Cybercrime is a problem, but not one that is wildly out of proportion to the other issues society is facing.<!--more-->
 <h2>Problem 2: Hacking with just a phone number</h2>
+
+
 ![](/uploads/Downloading-an-Apk.png)
+
+
 
 Channel News Asia headline their article with <a href="http://www.channelnewsasia.com/news/singapore/your-phone-number-is-all-a-hacker-needs-to-track-you-steal-your/3673268.html">"Your phone number is all a hacker needs to track you, steal your info"</a>, which isn't true.
 <ol>
@@ -43,7 +47,11 @@ Normal people in society, have no idea how technology works. Headlines like thes
 
 Instead, we should prompt people to not root their phones, not click on suspicious links and for the LOVE OF GOD, don't download software onto your phones from outside the approved stores--DON'T!!
 <h2>Problem 3: WiFi sniffing</h2>
-![](/uploads/salesforce-logon.png)Then we move onto unsecured WiFi.
+
+
+![](/uploads/salesforce-logon.png)
+
+Then we move onto unsecured WiFi.
 
 But the shows confuses unsecured WiFi with keyloggers. I'm not sure how connecting to a public WiFi installs a keylogger onto your device, but the segment starts with un-secured WiFi but quickly demo's a keylogger on the phone.
 

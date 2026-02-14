@@ -12,4 +12,8 @@ A lot of people have asked me if indeed you can view Netflix or Hulu or any othe
 Yes you can! Check out the "Now Playing HD" bit on the bottom right hand of the image below.
 
 To learn how to watch Netflix or Hulu from Malaysia, check out my previous post <a title="Watch Netflix, Hulu and even Euro2012 online from Malaysia" href="http://www.keithrozario.com/2012/06/watch-netflix-hulu-bbc-spotify-malaysia.html">here</a>.
-<p style="text-align: center;">![Netflix_HD_Unifi](/uploads/Netflix_HD_Unifi.png)</p>
+<p style="text-align: center;">
+
+![Netflix_HD_Unifi](/uploads/Netflix_HD_Unifi.png)
+
+</p>

@@ -7,7 +7,11 @@ tags = ['Fair Usage', 'Maxis', 'Unifi']
 categories = ['Copyright and Censorship', 'Malaysia']
 +++
 
-<p style="text-align: center;">![Fixed Access in asia](/uploads/Fixed_access_Asia.png)</p>
+<p style="text-align: center;">
+
+![Fixed Access in asia](/uploads/Fixed_access_Asia.png)
+
+</p>
 Every six months, the great people over at Sandvine release their Global Internet Phenomenon report, which seeks to make sense of global internet traffic across the different regions of the world, and every six months I learn a lot from just gleaning through it. For instance most of the traffic in the US continues to point to just one website--Netflix, which also explains the drop in bitTorrent traffic in the US<span style="color: #c0c0c0;"><em> (why bother downloading anything when you can stream)</em></span>. However, in Malaysia, where it's difficult <a title="Watch Netflix, Hulu and even Euro2012 online from Malaysia" href="http://www.keithrozario.com/2012/06/watch-netflix-hulu-bbc-spotify-malaysia.html">(but not impossible) to get a Netflix account</a>, most of the traffic for both upstream and downstream still uses the bitTorrent protocol--which mostly means there's still a lot of illegal downloading going on in these here parts--but you can't blame us, because the alternative isn't legal downloading, it's buying a DVD--if you can find the DVD you want in the first place.
 You can view the report in it's entirety <a title="Sandvine Global Internet Phenomenon report" href="http://www.sandvine.com/downloads/documents/Phenomena_1H_2013/Sandvine_Global_Internet_Phenomena_Report_1H_2013.pdf" target="_blank">here</a>, but I just wanted to point out one cool fact.
 <h2><strong>The average monthly traffic in Asia-Pacific has dropped.</strong></h2>

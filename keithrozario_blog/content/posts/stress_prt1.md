@@ -6,7 +6,11 @@ draft = false
 categories = ['Misc']
 +++
 
-![](/uploads/2204059683_09eb09601b_m.jpg "2204059683_09eb09601b_m")I've decided to start a separate Tuesday posting that has nothing to do with the web or tech, I call it Techless Tuesday, and the topic of todays Techless Tuesday is something I've been researching for about 3 weeks now...Stress.
+
+
+![](/uploads/2204059683_09eb09601b_m.jpg "2204059683_09eb09601b_m")
+
+I've decided to start a separate Tuesday posting that has nothing to do with the web or tech, I call it Techless Tuesday, and the topic of todays Techless Tuesday is something I've been researching for about 3 weeks now...Stress.
 
 So what is Stress and what can we do about it.
 

@@ -7,7 +7,11 @@ tags = ['FBI']
 categories = ['CyberLaw', 'Malaysia', 'Security &amp; Privacy']
 +++
 
-![SexOffender](/uploads/SexOffender.jpg)This will easily be the most controversial blog post I ever wrote, so consider yourself warned.
+
+
+![SexOffender](/uploads/SexOffender.jpg)
+
+This will easily be the most controversial blog post I ever wrote, so consider yourself warned.
 
 It's controversial, because it touches on multiple taboos in our society, sex, child abuse and security theater. You see, there's been a growing call for a national sex offender registry, especially in the wake of news that a British Pedophile had sexually abused up to 200 children in Malaysia.
 

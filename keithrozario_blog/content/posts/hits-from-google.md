@@ -7,7 +7,11 @@ tags = ['Google']
 categories = ['Blog', 'Social Media']
 +++
 
-![](/uploads/google-offline-classic.jpg "google-offline-classic")I've started this blog 'journey' about 7 months ago and so far it's been great. The experience has been a real eye opener on how technology and social media work, and now I'm beginning to develop an understanding on how hits make their way over to keithrozario.com.
+
+
+![](/uploads/google-offline-classic.jpg "google-offline-classic")
+
+I've started this blog 'journey' about 7 months ago and so far it's been great. The experience has been a real eye opener on how technology and social media work, and now I'm beginning to develop an understanding on how hits make their way over to keithrozario.com.
 
 For instance, even though I grew my twitter followers from zero to 350, the traffic from twitter seems really paltry. Something of the order of 2-3 hits/month. With the amount of effort I put into twitter, to say 2-3hits/month is disappointing is an understatement. I think the reason for this is that people go on twitter to search for news, not for tutorials or how-to's.Most of my blog entries are either reviews of certain web apps or tutorials, and not so much 'news', and that's probably the reason twitter isn't getting me those hits. Another possible reason is 350 isn't the right amount of people to generate those hits.<!--more-->
 

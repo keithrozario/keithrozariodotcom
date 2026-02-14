@@ -7,7 +7,11 @@ categories = ['Serverless']
 +++
 
 <!-- wp:image {"id":6810,"width":480,"height":270,"sizeSlug":"large"} -->
+
+
 ![](/uploads/PyCon_2.001.jpeg)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -95,7 +99,11 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"ids":[6807]} -->
-<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item">![](/uploads/PyCon_img.001.jpeg)</li></ul></figure>
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item">
+
+![](/uploads/PyCon_img.001.jpeg)
+
+</li></ul></figure>
 <!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
@@ -103,7 +111,11 @@ categories = ['Serverless']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6809,"sizeSlug":"large"} -->
+
+
 ![](/uploads/PyCon_img.002-1.jpeg)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

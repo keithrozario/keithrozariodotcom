@@ -6,7 +6,11 @@ draft = false
 categories = ['Copyright and Censorship', 'Security &amp; Privacy', 'Singapore']
 +++
 
+
+
 ![anonymous_guy_fawkes](/uploads/anonymous_guy_fawkes.jpg)
+
+
 
 This week, I'll put the final touches on my move from Malaysia to Singapore.
 

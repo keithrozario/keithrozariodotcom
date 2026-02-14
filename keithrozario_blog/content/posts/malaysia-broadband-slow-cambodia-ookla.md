@@ -7,7 +7,11 @@ tags = ['MalaysiaBroadband']
 categories = ['Malaysia']
 +++
 
-<p style="text-align: center;">![Broadband_speed_klang_malaysia](/uploads/Broadband_speed_klang_malaysia.png "Broadband speeds in Malaysia") <a href="/uploads/BR1M-Barisan-Nasional.png">
+<p style="text-align: center;">
+
+![Broadband_speed_klang_malaysia](/uploads/Broadband_speed_klang_malaysia.png "Broadband speeds in Malaysia")
+
+ <a href="/uploads/BR1M-Barisan-Nasional.png">
 </a></p>
 I drive a Prius--it's a magnificent car, and if you think otherwise just ask me about the mileage.
 
@@ -31,7 +35,11 @@ Most people complain about the availability of broadband rather than the speed. 
 
 Sure, speeds will be a problem in 3-5 years, and we should think of them, but for the short-term we got the speed issue settled.
 
+
+
 ![Download Speed in Malaysia   Net Index from Ookla](/uploads/Download-Speed-in-Malaysia-Net-Index-from-Ookla.png)
+
+
 <h2>2. Latency</h2>
 Building on the car analogy, I will admit my Prius is slow. It accelerates slowly, doing 0-100kmph in over 10 seconds.
 

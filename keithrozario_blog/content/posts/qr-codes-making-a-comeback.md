@@ -7,7 +7,11 @@ tags = ['wiki', 'Wikipedia']
 categories = ['Design']
 +++
 
-![](/uploads/400px-J_Wales_TCM_013-300x214.jpg "400px-J_Wales_TCM_013")QR codes may be making that all important comeback. Apparently QR codes were all the craze a couple of months ago, but now (just like the Royal Wedding) seem to be out of fashion. Fortunately, though there seems to be life left in this brilliant invention. The Wikimedia blog recently made a strange (yet interesting) announcement that they're launching <a title="QRPedia" href="http://www.QRPedia.org" target="_blank">QRPedia</a>.
+
+
+![](/uploads/400px-J_Wales_TCM_013-300x214.jpg "400px-J_Wales_TCM_013")
+
+QR codes may be making that all important comeback. Apparently QR codes were all the craze a couple of months ago, but now (just like the Royal Wedding) seem to be out of fashion. Fortunately, though there seems to be life left in this brilliant invention. The Wikimedia blog recently made a strange (yet interesting) announcement that they're launching <a title="QRPedia" href="http://www.QRPedia.org" target="_blank">QRPedia</a>.
 
 Wikimedia are the guys behind wikipedia and they're using the great power of QR codes by offering a fantastic service via the wikipedia API.
 

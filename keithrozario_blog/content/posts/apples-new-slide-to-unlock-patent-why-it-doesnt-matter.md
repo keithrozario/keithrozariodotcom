@@ -7,7 +7,11 @@ tags = ['Apple']
 categories = ['Copyright and Censorship', 'Design']
 +++
 
+
+
 ![Apple Slide to Unlock](/uploads/US8286103B2-slide-to-unlock-patent-apple.jpg "US8286103B2-slide-to-unlock-patent-apple")
+
+
 Apple was just awarded a <a title="Apple Slide to Unlock patent" href="http://assets.sbnation.com/assets/1522863/US8286103B2.pdf" target="_blank">3rd patent for it's Slide-to-Unlock feature</a>, and while the internet is still abuzz with it, I just fail to see any reason to get excited.
 
 <strong>Yes</strong>, Apple looks to be greedy and is apparently more than happy competing with HTC and Samsung in courtrooms rather than the open market--but we all knew this already.

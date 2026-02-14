@@ -6,7 +6,11 @@ draft = false
 categories = ['Cloud Computing']
 +++
 
-![](/uploads/5810163712_ac8a7f249e_z-300x200.jpg "5810163712_ac8a7f249e_z")Cloud computing is already lowering the barrier to entry for new startups to essentially $0 hardware cost. Of course the cost itself isn't zero, but what cloud computing has done is turn that cost from a Capital Expenditure to a Operating Expenditure. So instead of buying expensive servers, switches, racks and house them in expensive data centers, you can instead rent these devices ...with no money down, and in most cases a lot cheaper than if you rented the actual physical hardware yourself.
+
+
+![](/uploads/5810163712_ac8a7f249e_z-300x200.jpg "5810163712_ac8a7f249e_z")
+
+Cloud computing is already lowering the barrier to entry for new startups to essentially $0 hardware cost. Of course the cost itself isn't zero, but what cloud computing has done is turn that cost from a Capital Expenditure to a Operating Expenditure. So instead of buying expensive servers, switches, racks and house them in expensive data centers, you can instead rent these devices ...with no money down, and in most cases a lot cheaper than if you rented the actual physical hardware yourself.
 
 So what's the catch?
 

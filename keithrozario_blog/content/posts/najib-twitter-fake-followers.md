@@ -20,19 +20,31 @@ So were these followers real?<!--more-->
 The answer isn't so straight forward, first we have to define 'real'. It's hard to tell, but Social Baker uses a variety of metrics to determine if an account is 'real' or not. The metrics include the number of followers, the number of tweets, and the validity of those tweets--however, any smart enough spam bot-net could easily fake the numbers to appear 'real' to the <a title="Social Bakers Methodology" href="http://www.socialbakers.com/twitter/fakefollowercheck/methodology/" target="_blank">Social Baker methodology</a>--but for now they're the only methodology we have.
 
 So a quick logon to social bakers reveals.....drum roll please:
-<p style="text-align: center;">![](/uploads/NajibRazak_Twitter_Followers.png "NajibRazak_Twitter_Followers")</p>
+<p style="text-align: center;">
+
+![](/uploads/NajibRazak_Twitter_Followers.png "NajibRazak_Twitter_Followers")
+
+</p>
  
 
 Najib actually performs worse then Justin, garnering a mere 44% 'good' followers. The remaining 56% were deemed either fake or empty--basically these accounts probably didn't belong to 'real' people.
 
 However, that's just one part of the coin, I wanted to find out what kind of numbers Anwar Ibrahim had, and oh boy was I surprised:
-<p style="text-align: center;">![](/uploads/AnwarIbrahim_Twitter_Followers.png "AnwarIbrahim_Twitter_Followers")</p>
+<p style="text-align: center;">
+
+![](/uploads/AnwarIbrahim_Twitter_Followers.png "AnwarIbrahim_Twitter_Followers")
+
+</p>
  
 
 Anwar does remarkably better than Najib, scoring 20% more on the 'good' followers. However, it still meant that 35% of his followers were either fake or empty. Which was a high number but still nowhere near the numbers Najib was posting.
 
 However, I didn't stop there, I wanted to see how many 'fake' twitter followers one could expect from a 'normal' person. In most cases people can't control who follows them on twitter, and there's nothing to stop spam bots from following you. So as a benchmark, I tried the Social Bakers test on myself, and the result were quite impressive <span style="text-decoration: underline;"><em>(if I do say so myself)</em></span>:
-<p style="text-align: center;">![](/uploads/KeithRozario_TwitterFollower.png "KeithRozario_TwitterFollower")</p>
+<p style="text-align: center;">
+
+![](/uploads/KeithRozario_TwitterFollower.png "KeithRozario_TwitterFollower")
+
+</p>
 So for a regular Tech Blogger with no political affliations, I do remarkably better than both our politicians. More than 75% of my followers were 'good' with just under a quarter of them deemed fake or inactive.
 
 Using myself as a benchmark proved a useful exercise, because it meant that even without buying fake twitter followers, I still choked up nearly 25% fake followers on twitter, which means that Anwar Ibrahim's 35% fake follower rate wasn't too far off the mark, however I still can't account for Najib Razaks 56% without getting a bit suspicious -but only a bit.

@@ -7,7 +7,11 @@ tags = ['LTE', 'Maxis']
 categories = ['Malaysia']
 +++
 
+
+
 ![iPhone 5 no LTE support from Maxis Malaysia](/uploads/iPhone-5-LTE-Malaysia.jpg "iPhone-5-LTE-Malaysia")
+
+
 
 Maxis announced that their network now supports LTE on the iPhone 5, which is a bit strange to me. Initially the MCMC announced that the telcos awarded the LTE frequencies <a title="LTE in Malaysia has No iPhone5 support" href="http://www.keithrozario.com/2012/12/iphone-5-4g-lte-malaysia-maxis.html">were given band 7 of the spectrum--which wasn't compatible with the iPhone 5</a>.
 

@@ -7,7 +7,11 @@ tags = ['Jobs', 'resume']
 categories = ['Design']
 +++
 
-One of the reasons I starte![](/uploads/resume-300x242.jpg "resume")d this blog was to try out new things and see if I could land a job with an impressive website. I love my current job, but it's a bit unstable, so I'd thought it'll be wise to remain marketable. It's one thing to tell people I'm a Business Analyst with strong technical skills, and a whole other thing to display a full blown webpage with yourname.com.
+One of the reasons I starte
+
+![](/uploads/resume-300x242.jpg "resume")
+
+d this blog was to try out new things and see if I could land a job with an impressive website. I love my current job, but it's a bit unstable, so I'd thought it'll be wise to remain marketable. It's one thing to tell people I'm a Business Analyst with strong technical skills, and a whole other thing to display a full blown webpage with yourname.com.
 
 So I searched the web for resume templates, my initial idea was to have 2 wordpress themes. One for the main blog, another for the resume. However, I discovered it'll be a whole lot easier to just find a CSS/HTML template and copy that to a separate location and link it from my blog.<!--more-->
 

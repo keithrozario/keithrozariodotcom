@@ -6,7 +6,11 @@ draft = false
 categories = ['Malaysia']
 +++
 
-![Proton FLX Crass NCAP](/uploads/blog-proton-flx.png)Am I embarrassed to be Malaysian?
+
+
+![Proton FLX Crass NCAP](/uploads/blog-proton-flx.png)
+
+Am I embarrassed to be Malaysian?
 
 Nope, I can never be embarrassed to be Malaysian, this is my home country. I'm not just from Malaysia--I'm from Klang.
 

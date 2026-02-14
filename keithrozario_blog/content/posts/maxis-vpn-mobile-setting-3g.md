@@ -6,7 +6,11 @@ draft = false
 categories = ['Malaysia', 'Misc']
 +++
 
-[caption id="attachment_2505" align="aligncenter" width="271"]![](/uploads/rsz_maxis-vpn-setting.png "rsz_maxis-vpn-setting") Maxis VPN Setting[/caption]
+[caption id="attachment_2505" align="aligncenter" width="271"]
+
+![](/uploads/rsz_maxis-vpn-setting.png "rsz_maxis-vpn-setting")
+
+ Maxis VPN Setting[/caption]
 
 Just a quick post for a Wednesday, as most of you know I just recently purchased my Samsung Galaxy S3 courtesy of the Maxis One Club. With that S3, I also purchased a RM68/month mobile data plan for 3G.
 

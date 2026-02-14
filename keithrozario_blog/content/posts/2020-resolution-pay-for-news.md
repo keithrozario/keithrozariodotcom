@@ -7,7 +7,11 @@ categories = ['Misc']
 +++
 
 <!-- wp:image {"id":6874,"sizeSlug":"large"} -->
+
+
 ![](/uploads/world-news-free-illustration.jpg)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -107,7 +111,11 @@ categories = ['Misc']
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":6868,"width":261,"height":450,"sizeSlug":"large"} -->
+
+
 ![](/uploads/EJawSWkU4AAR9sk.jpg)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

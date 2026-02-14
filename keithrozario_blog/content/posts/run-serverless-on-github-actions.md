@@ -88,7 +88,11 @@ $ npm install --save-dev serverless-step-functions</pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6955,"sizeSlug":"large"} -->
+
+
 ![](/uploads/Screenshot-2020-02-27-at-7.14.37-AM.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -140,7 +144,11 @@ $ npm install --save-dev serverless-step-functions</pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6947,"sizeSlug":"large"} -->
+
+
 ![](/uploads/feature_branch_flow.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -172,7 +180,11 @@ $ npm install --save-dev serverless-step-functions</pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6951,"sizeSlug":"large"} -->
+
+
 ![](/uploads/feature_branch_flow2.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -260,7 +272,11 @@ $ npm install --save-dev serverless-step-functions</pre>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6952,"sizeSlug":"large"} -->
+
+
 ![](/uploads/Different_repo.png)
+
+
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

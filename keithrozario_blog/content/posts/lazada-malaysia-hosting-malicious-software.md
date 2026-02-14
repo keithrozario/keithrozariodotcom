@@ -6,13 +6,21 @@ draft = false
 categories = ['Malaysia']
 +++
 
+
+
 ![Lazada Infected by Malware Warning from Google](/uploads/lazada_malware_waning.jpg "lazada_malware_waning")
+
+
 <h5><em>Lazada.com.my contains malware. Your computer might catch a virus if you visit this site. Google has found malicious software may be installed on your computer if you proceed.</em></h5>
 WOW, Lazada Malaysia apparently has been infected with some rather nasty infection. My version of Google Chrome prompted this when I tried to visit the site today. Hope everything is alright over there in Lazada headquarters.
 
 In fact, Google is populating it on their search results as well, must be a rather nasty one:
 
-![](/uploads/Lazada_malware_google_search.png "Lazada_malware_google_search") 
+
+
+![](/uploads/Lazada_malware_google_search.png "Lazada_malware_google_search")
+
+ 
 
 It can get really nasty trying to disinfect a site. Good luck to the guys over at Lazada, what's more worrying if Lazada actually carried credit card and personal data, I wonder if they secured it thoroughly and whether this breach could point to something even more serious over at Lazada headquarters.
 
@@ -48,4 +56,7 @@ Would someone from Lazada help me understand what went wrong here?
 
 To view the full Google Safe Browsing Diagnostic page for Lazada.com.my, enlarge the image below:
 
+
+
 ![Google Safe Browsing diagnostic page for www.lazada.com.my](/uploads/Google-Safe-Browsing-diagnostic-page-for-www.lazada.com_.my_.png "Google Safe Browsing diagnostic page for www.lazada.com.my")
+

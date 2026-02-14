@@ -17,7 +17,11 @@ Wouldn't touch Asus routers ever again! I've left the initial post below for you
 
 Screenshot of the 3 Asus service centers in Klang--none of which are service centers anymore (their contracts have expired), and Asus should remove them from the website.
 
-[caption id="attachment_4496" align="aligncenter" width="550"]![None of these are service centers anymore](/uploads/ASUSTeK-Computer-Inc.-Support-Find-service-locations-2014-07-20-16-36-36.png) None of these are service centers anymore[/caption]
+[caption id="attachment_4496" align="aligncenter" width="550"]
+
+![None of these are service centers anymore](/uploads/ASUSTeK-Computer-Inc.-Support-Find-service-locations-2014-07-20-16-36-36.png)
+
+ None of these are service centers anymore[/caption]
 
 Original Post below this line:
 
@@ -27,7 +31,11 @@ Original Post below this line:
 
 <hr />
 
-[caption id="attachment_4003" align="aligncenter" width="550"]![My rather un-professional grainy picture of the Asus router. ](/uploads/rsz_asus_rt_n12_hp_router_malaysia.jpg) My rather un-professional grainy picture of the Asus router. Look at how Tall it is.[/caption]
+[caption id="attachment_4003" align="aligncenter" width="550"]
+
+![My rather un-professional grainy picture of the Asus router. ](/uploads/rsz_asus_rt_n12_hp_router_malaysia.jpg)
+
+ My rather un-professional grainy picture of the Asus router. Look at how Tall it is.[/caption]
 
 The first thing you notice about the Asus N12HP is that it's TALL, and I mean like if Yao Ming married Kareem Abdul Jaabar and had kids it would like this router. Those long antennas really make the router look like a child who'd undergone a growth spurt in the all the wrong awkward places.
 
@@ -60,8 +68,16 @@ So if your male ego is directly tied to the strength of your WiFi--then you real
 However, you also have to keep in mind, that while this is a slightly more premium priced router, the features are basic. You're essentially paying for a basic router with improved wireless signal strength, that's it!
 <h2>So how powerful is the Signal strength</h2>
 Since I only had one Asus router for comparison, I could only run a comparison of the Asus against the stock Dlink and the results were impressive:
-<p style="text-align: center;">![Xcirrus_Asus](/uploads/Xcirrus_Asus.png)</p>
-<p style="text-align: center;">![Xcirrus_Dlink](/uploads/Xcirrus_Dlink.png)</p>
+<p style="text-align: center;">
+
+![Xcirrus_Asus](/uploads/Xcirrus_Asus.png)
+
+</p>
+<p style="text-align: center;">
+
+![Xcirrus_Dlink](/uploads/Xcirrus_Dlink.png)
+
+</p>
 The test was simple, first I switched on the Asus router, and measured the signal strength from my upstairs bedroom. Then I turned the Asus off and turned the D-Link on and perform the same test. With the routers placed in the exact same location in the downstairs hall, and my laptop not moved in my room, It's remarkably clear that the Dlink signal strength is nowhere near the Asus. What's more surprising though, is my neighbours D-Link router still manages to be just a whisker poorer than mine, in my own home! Which just goes to show my point that your signal strength has a lot to do with router location, rather than just pure router signal strength.
 
 That being said, your Dlink is nowhere near as powerful as the N12HP.
@@ -71,8 +87,16 @@ Of course signal strength is just a number. I wanted to see how the routers woul
 Just how unfair?
 
 Well transferring a 700+MB file over WiFi yielded the following results:
-<p style="text-align: center;">![Asus RT 12N HP Speed results](/uploads/Asus_ubuntu_transfer.png "Asus RT 12N HP Speed Test")</p>
-<p style="text-align: center;">![D-Link Dir 615 transfer results](/uploads/Dlink_ubuntu_transfer.png "D-Link Dir 615 Transfer test")</p>
+<p style="text-align: center;">
+
+![Asus RT 12N HP Speed results](/uploads/Asus_ubuntu_transfer.png "Asus RT 12N HP Speed Test")
+
+</p>
+<p style="text-align: center;">
+
+![D-Link Dir 615 transfer results](/uploads/Dlink_ubuntu_transfer.png "D-Link Dir 615 Transfer test")
+
+</p>
  
 
  
@@ -82,7 +106,11 @@ In laymen terms, the Asus was <strong>23 times faster</strong> than the D-Link (
 In short if you live in a double-storey house, the  standard D-Link router isn't going to give you the best experience your Unifi connection can achieve. Instead you'll be limited to poor network connectivity that degrades exponentially for every bit of distance you put between your router and device.
 
 Further testing the LAN speed only serve to prove my point. Running the same test on the N12 HP, reveal a standard transfer rate of about 8-9MB/s. That works out to around 64-72Mbps (although the screenshot below says 59-73), which is roughly 50% of the theoretical limit of the 802.11n. There's still room for improvement, but that's probably as quick as you're going to get with an entry level router.
-<p style="text-align: center;">![LAN Speed Test_3](/uploads/LAN-Speed-Test_3.png)</p>
+<p style="text-align: center;">
+
+![LAN Speed Test_3](/uploads/LAN-Speed-Test_3.png)
+
+</p>
 
 <h2>Other features</h2>
 The Asus also comes with some other rather nifty features, including Parental control, multiple SSIDs and even QoS. Though these features are best left untouched if  you don't know what you're doing.

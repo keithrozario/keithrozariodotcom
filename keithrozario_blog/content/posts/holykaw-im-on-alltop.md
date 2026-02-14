@@ -7,7 +7,11 @@ tags = ['Blog', 'Blog Features', 'wordpress']
 categories = ['Blog']
 +++
 
-![](/uploads/alltop.png "alltop")A lot of my blogs are tech-centric with a focus on web 2.0 technology. However, this decision to start this 'new' blog and abandon my old political slanted blogger blog was in part due to a book I read by Guy Kawasaki. Guy seems to be of the opinion that good is good enough, and if you're going to do something...do something first, and then improve it as you go along.
+
+
+![](/uploads/alltop.png "alltop")
+
+A lot of my blogs are tech-centric with a focus on web 2.0 technology. However, this decision to start this 'new' blog and abandon my old political slanted blogger blog was in part due to a book I read by Guy Kawasaki. Guy seems to be of the opinion that good is good enough, and if you're going to do something...do something first, and then improve it as you go along.
 
 In that spirit of doing first and improving along the way, I started <a title="Keith's Blog" href="http://www.keithrozario.com" target="_blank"><em><span style="color: #888888;"><strong>www.keithrozario.com</strong></span></em></a>, which is the blog you're reading right now. I'm absolutely loving blogging about tech and it's an inner passion I should have pursued much much earlier in life.<!--more-->
 
@@ -19,7 +23,11 @@ The core content of this post, the reason why I'm beaming with a smile today is 
 
 Here's that email in all it's glory:
 
+
+
 ![](/uploads/Alltop_email-1024x434.jpg "Alltop_email")
+
+
 
  
 

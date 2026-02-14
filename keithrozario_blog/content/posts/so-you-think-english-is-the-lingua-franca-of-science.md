@@ -6,7 +6,11 @@ draft = false
 categories = ["Keith's Favorite Post", 'Malaysia', 'Science']
 +++
 
-![Nanoscience center](/uploads/4788073408_9a86eee920-300x199.jpg)I get annoyed when parent associations insist that the Government needs to teach science and maths in English. They argue that because English is the lingua-franca of science, teaching science in English will help students learn more effectively without needing them to translate scientific terms from the vernacular. They add that teaching Science and Maths in English is a great way to improve the standard of English in schools.
+
+
+![Nanoscience center](/uploads/4788073408_9a86eee920-300x199.jpg)
+
+I get annoyed when parent associations insist that the Government needs to teach science and maths in English. They argue that because English is the lingua-franca of science, teaching science in English will help students learn more effectively without needing them to translate scientific terms from the vernacular. They add that teaching Science and Maths in English is a great way to improve the standard of English in schools.
 
 It would great if those points were true, but they're not.
 <h2>English as the Lingua franca of Science?</h2>
@@ -22,7 +26,11 @@ The point is, that if these ancient text were translated into English at some po
 
 When you say Lingua-franca of science, in the context of what children actually learn in primary and secondary school--it isn't English.<!--more-->
 <h2>Scientific Terms in English</h2>
-[caption id="attachment_5347" align="alignright" width="300"]![hyponatremia_final](/uploads/hyponatremia_final-300x300.jpg) Hyponatremia isn't English.[/caption]
+[caption id="attachment_5347" align="alignright" width="300"]
+
+![hyponatremia_final](/uploads/hyponatremia_final-300x300.jpg)
+
+ Hyponatremia isn't English.[/caption]
 
 But Keith you shout..., the terms are all in English, and learning Science in English is the only way we avoid the confusion of the different terms.
 

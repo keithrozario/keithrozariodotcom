@@ -7,7 +7,11 @@ tags = ['Blog Features', 'Cache', 'HyperCache', 'W3 Total Cache']
 categories = ['Blog']
 +++
 
-![](/uploads/satollo-small-140x150.jpg "HyperCache creator")Wordpress is the best blogging platform out there. It's the best blogging platform ever. It's great, but there is one downside. It's SLOOOOW. How Slow, depending on what you post up. People are a lot more forgiving on a PC, but if you're surfing on EDGE through your mobile phone, or browsing on a slow connection, it's very very slow. Painfully slow.
+
+
+![](/uploads/satollo-small-140x150.jpg "HyperCache creator")
+
+Wordpress is the best blogging platform out there. It's the best blogging platform ever. It's great, but there is one downside. It's SLOOOOW. How Slow, depending on what you post up. People are a lot more forgiving on a PC, but if you're surfing on EDGE through your mobile phone, or browsing on a slow connection, it's very very slow. Painfully slow.
 
 There is a great solution though<!--more-->It's called caching.
 <h2>What is Cache?</h2>

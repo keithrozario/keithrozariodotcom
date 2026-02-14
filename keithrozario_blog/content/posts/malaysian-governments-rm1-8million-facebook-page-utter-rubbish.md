@@ -7,7 +7,11 @@ tags = ['social network']
 categories = ['Misc']
 +++
 
-![](/uploads/facebook12-150x130.jpg "facebook1")It's not often I get to write about 2 topics I'm deeply passionate about, politics and technology. So when I got wind that my very own government (whom I voted against by the way) spent nearly <a title="Biggest waste of money..EVER!" href="http://www.asianewsnet.net/home/news.php?sec=1&amp;id=19528" target="_blank">USD600k on a facebook page</a> you can imagine how I blew my top. Now let's be honest, RM1.8 million isn't going to make Malaysia bankrupt but it does represent huge amount of government expenditure into something that cost peanuts to develop.<!--more-->
+
+
+![](/uploads/facebook12-150x130.jpg "facebook1")
+
+It's not often I get to write about 2 topics I'm deeply passionate about, politics and technology. So when I got wind that my very own government (whom I voted against by the way) spent nearly <a title="Biggest waste of money..EVER!" href="http://www.asianewsnet.net/home/news.php?sec=1&amp;id=19528" target="_blank">USD600k on a facebook page</a> you can imagine how I blew my top. Now let's be honest, RM1.8 million isn't going to make Malaysia bankrupt but it does represent huge amount of government expenditure into something that cost peanuts to develop.<!--more-->
 
 The question of course is <strong>why</strong>, is it because our politicians don't know what their spending on? Or is it because they're pocketing deep amounts of cut backs ..i don't know. What I do know is that it doesn't take Rm1.8 million to build a facebook page, and spending money on this isn't going to bring in the tourist.
 

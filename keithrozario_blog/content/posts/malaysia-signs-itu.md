@@ -6,7 +6,11 @@ draft = false
 categories = ['CyberLaw', 'Malaysia']
 +++
 
-![](/uploads/building-blocks-slide.png "building-blocks-slide")<span style="color: #888888;">About 2,000 delegates representing major telecommunication industry players, experts and representatives from nearly 200 member countries of the International Telecommunication Union (ITU) assemble here to discuss the International Telecommunication Regulations (ITR) at theWorld Conference of International Telecommunications 2012 (WCIT).</span>
+
+
+![](/uploads/building-blocks-slide.png "building-blocks-slide")
+
+<span style="color: #888888;">About 2,000 delegates representing major telecommunication industry players, experts and representatives from nearly 200 member countries of the International Telecommunication Union (ITU) assemble here to discuss the International Telecommunication Regulations (ITR) at theWorld Conference of International Telecommunications 2012 (WCIT).</span>
 
 <span style="color: #888888;">Shouldering the responsibility as a member of the ITU Council for Asia- Pacific, Malaysia is expected to highlight the important issue of telecommunication network security and the right to protect the sovereignty of a country.</span>
 

@@ -7,7 +7,11 @@ tags = ['Google', 'Right to be Forgotten']
 categories = ['Copyright and Censorship', 'Security &amp; Privacy']
 +++
 
-![Right to be Forgotten](/uploads/5460749455_99b896fc51_z.jpg)The truth is we all have something to hide--secrets we wished the world would never know. A political stance we once had, a video of ourselves after too many drinks, or even just a sentence we once uttered at a party somewhere. If you think you've got nothing to hide--you should think harder.
+
+
+![Right to be Forgotten](/uploads/5460749455_99b896fc51_z.jpg)
+
+The truth is we all have something to hide--secrets we wished the world would never know. A political stance we once had, a video of ourselves after too many drinks, or even just a sentence we once uttered at a party somewhere. If you think you've got nothing to hide--you should think harder.
 
 So, when European Court of Justice recently ruled that Google had to comply with certain request from individuals to remove links to websites with their personal information--privacy advocates were delighted that we now had the 'right to be forgotten'. Mario Gonzalez had requested Google to remove a link to a digitized article in <i>La Vanguardia</i> newspaper about an auction for his foreclosed home. Google refused, Mario sued, and the links were removed--only they weren't.
 

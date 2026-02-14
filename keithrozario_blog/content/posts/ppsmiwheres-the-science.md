@@ -6,7 +6,11 @@ draft = false
 categories = ['Malaysia', 'Misc']
 +++
 
-![](/uploads/4788073408_9a86eee920.jpg "Nanoscience center")A couple of hundred years ago, if you wanted to find out what was inside a horses mouth, you'd go to a quite corner and sit for a while and contemplate <em>what was in a horses mouth</em>. This sounds anathema to anyone reading a blog in the 21st century, but it was quite common in the days of Aristotle. Our brains are hard-wired for imagination, in fact happiness expert Daniel Gilbert actually goes further and says we're the only species that can imagine our future selves. It's the reason he says, why Ben and Jerrys doesn't have Liver and Onion flavored ice-cream. It isn't because someone actually made Liver and Onion flavored ice-cream it's because we can predict that Liver and Onion flavored ice cream is probably not a good idea.<!--more-->
+
+
+![](/uploads/4788073408_9a86eee920.jpg "Nanoscience center")
+
+A couple of hundred years ago, if you wanted to find out what was inside a horses mouth, you'd go to a quite corner and sit for a while and contemplate <em>what was in a horses mouth</em>. This sounds anathema to anyone reading a blog in the 21st century, but it was quite common in the days of Aristotle. Our brains are hard-wired for imagination, in fact happiness expert Daniel Gilbert actually goes further and says we're the only species that can imagine our future selves. It's the reason he says, why Ben and Jerrys doesn't have Liver and Onion flavored ice-cream. It isn't because someone actually made Liver and Onion flavored ice-cream it's because we can predict that Liver and Onion flavored ice cream is probably not a good idea.<!--more-->
 
 In the not so distant past, people could figure out that feathers would fall slower than hammers, and it's easy to think that heavier objects fall faster than lighter objects. It makes perfect sense really, that few of us discover this outside a science classroom.
 

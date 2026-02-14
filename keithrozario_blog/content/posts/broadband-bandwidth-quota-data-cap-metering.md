@@ -6,7 +6,11 @@ draft = false
 categories = ['CyberLaw']
 +++
 
-![Broadband meter caps](/uploads/pitydafool.jpg "pitydafool")When Maxis, or Telekom or Digi claim that you've used all your bandwidth quota--can you really trust them? A good article from consumerist reported that even American telcos are <a title="Broadband meters" href="http://gigaom.com/2013/02/07/more-bad-news-about-broadband-caps-many-meters-are-inaccurate/" target="_blank">facing difficulty counting the bytes their users use</a>.
+
+
+![Broadband meter caps](/uploads/pitydafool.jpg "pitydafool")
+
+When Maxis, or Telekom or Digi claim that you've used all your bandwidth quota--can you really trust them? A good article from consumerist reported that even American telcos are <a title="Broadband meters" href="http://gigaom.com/2013/02/07/more-bad-news-about-broadband-caps-many-meters-are-inaccurate/" target="_blank">facing difficulty counting the bytes their users use</a>.
 
 For the most part this is OK if your ISP provides you unlimited quota, in which case it doesn't matter how much you use. However, if your ISP is either charging you per byte (like Yes 4G prepaid) or capping your speeds once you exceed a certain threshold, then they'd better be sure that they're accurately counting the number of bytes you're using before they starting capping speeds. So if you've got a bandwidth quota or a data cap, it's in your interest to ensure your ISP is measuring your usage accurately, otherwise you could potentially be billed for data you never used.
 

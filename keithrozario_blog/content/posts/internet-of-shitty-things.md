@@ -6,7 +6,11 @@ draft = false
 categories = ['AI', 'CyberLaw', 'Security &amp; Privacy']
 +++
 
-![b66b95478f](/uploads/b66b95478f-300x188.jpg)Brian Krebs is the most reputable name in CyberSecurity reporting, his <a href="http://www.krebsonsecurity.com">krebsonsecurity</a> website is the best source of 'real' journalism on the subject.
+
+
+![b66b95478f](/uploads/b66b95478f-300x188.jpg)
+
+Brian Krebs is the most reputable name in CyberSecurity reporting, his <a href="http://www.krebsonsecurity.com">krebsonsecurity</a> website is the best source of 'real' journalism on the subject.
 
 But reputation works both ways, the same thing that makes him popular in some circles, makes him unpopular in other. He's had criminal hackers send him <a href="http://www.vice.com/read/i-interviewed-the-fraudster-who-frames-people-for-heroin-possession">heroin in the mail</a> and even have <a href="http://krebsonsecurity.com/2013/03/the-world-has-no-room-for-cowards/">SWAT teams descend on his home with guns all blazing</a> (in a phenomenon called <a href="https://en.wikipedia.org/wiki/Swatting">swatting!</a>). Reporting and exposing underground cyber-criminals comes at a price, you don't piss of darknet crime lords without taking a few hits along the way.
 
@@ -67,7 +71,11 @@ So what can we do?
 
 This is a fundamental issue with the way the internet works, and a solution to address the problem is way above my pay-grade, but that hasn't stopped me from speculating before---and it's not stopping me now.
 <h2>What's next for IOT devices?</h2>
-![iot-devices](/uploads/IOT-Devices.png)In the short-term we're going to see these attacks gradually get bigger, and hit more critical servers.
+
+
+![iot-devices](/uploads/IOT-Devices.png)
+
+In the short-term we're going to see these attacks gradually get bigger, and hit more critical servers.
 
 In the mid-term we're going to see digital walls erected across what is now a borderless network (well except for China, they already have a wall). At some point, network owners and ISPs are going to block 'offending' IP addresses to limit their exposure to such attacks, and some networks risk losing complete access if there's too much malicious traffic being generated from them. ISPs are going to start cutting out people's internet connection the moment they detect malicious out-going traffic--if you own a DVR that's taking part in a DDOS attack, be prepared to have your Facebook disconnected.
 
@@ -75,7 +83,11 @@ In the long-term, we'll see more government regulation around IOT devices and co
 
 For one, IOT devices are going to have shitty security for the foreseeable future, because at those price points nobody gives a shit. Secondly even the most secure computer deployed by a novice on his home network is going to be easily hacked by a skilled hacker. If banks with security professionals can have their network's compromised, these home network are not going to pose a tall hurdle to skilled hackers.
 
-![Proton FLX Crass NCAP](/uploads/blog-proton-flx.png)Finally, the long-long-term solution will be, that some responsibility for securing these devices will shift to the end user.There is a shared responsibility between a car manufacturer and the car owner for the safety of the car, both to the occupants and other road users. The same will apply for IOT devices.
+
+
+![Proton FLX Crass NCAP](/uploads/blog-proton-flx.png)
+
+Finally, the long-long-term solution will be, that some responsibility for securing these devices will shift to the end user.There is a shared responsibility between a car manufacturer and the car owner for the safety of the car, both to the occupants and other road users. The same will apply for IOT devices.
 
 If you install and IOT device in your home, and are negligent in securing it, then you'd have to take responsibility when it gets hacked and used for DDOS attack. Similarly if there's a software flaw in the IOT device and the manufacturer refuses to issue a patch, then they'd have to be responsible.
 

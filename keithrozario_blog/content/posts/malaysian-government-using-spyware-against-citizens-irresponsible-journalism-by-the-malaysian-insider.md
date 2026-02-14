@@ -7,7 +7,11 @@ tags = ['Spyware']
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia', 'Security &amp; Privacy']
 +++
 
-![FinSpy server found in Malaysia](/uploads/FinSpy-Malaysia-insider-Lied.jpg "FinSpy Malaysia")I've been pretty busy the past few months, and my post count has been pretty low, and although I just returned from a 2 week trip abroad and am now flushed full of work, I decided to burn a bit of the midnight oil today because the Malaysian Insider completely pissed me off.
+
+
+![FinSpy server found in Malaysia](/uploads/FinSpy-Malaysia-insider-Lied.jpg "FinSpy Malaysia")
+
+I've been pretty busy the past few months, and my post count has been pretty low, and although I just returned from a 2 week trip abroad and am now flushed full of work, I decided to burn a bit of the midnight oil today because the Malaysian Insider completely pissed me off.
 
 It all started with an article from Lim Kit Siangs blog, which read "<strong>Malaysia uses spyware against citizens, NYT reports</strong>". The post was merely a cut-and-copy reproduction of a Malaysian Insider article that had the same headline. The headline really got my blood churning and it was followed up with an even more mouth watering opening paragraph:
 

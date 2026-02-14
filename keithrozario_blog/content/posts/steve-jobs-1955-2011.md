@@ -7,7 +7,11 @@ tags = ['Apple']
 categories = ['Misc']
 +++
 
+
+
 ![](/uploads/Steve_Jobs-300x188.png "Steve_Jobs")
+
+
 
 Apple has lost a visionary and creative genius, and the world has lost an amazing human being....<!--more-->
 

@@ -12,7 +12,11 @@ So in theory, the IP address could have belonged to a shared cybercafe where eve
 
 That of course, begs the question--how can you fix this. Well the answer to these automated scripts has been around for quite sometime now, its called a <a title="Why ReCaptcha works: The 4 requirements of Crowdsourcing" href="http://www.keithrozario.com/2011/12/recaptcha-4-requirements-crowdsourcing.html">CAPTCHA</a> and it looks like this:
 
+
+
 ![What is CAPTCHA](/uploads/What-is-reCAPTCHA-.png)
+
+
 
 You've seen this before, a Captcha is a simple test of human-ness,
 

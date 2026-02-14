@@ -7,7 +7,11 @@ tags = ['Netflix']
 categories = ['Copyright and Censorship', 'Malaysia']
 +++
 
-![](/uploads/318462-facebook-netflix.jpg "318462-facebook-netflix")Maternity leave has long been plaguing womens career, women would usually take an extended leave and risk falling behind their male counterparts. As an extension to this, employers were also hesitant to hire women (particularly pregnant women) since it meant a legally mandated leave of absence that their male colleagues would never take.
+
+
+![](/uploads/318462-facebook-netflix.jpg "318462-facebook-netflix")
+
+Maternity leave has long been plaguing womens career, women would usually take an extended leave and risk falling behind their male counterparts. As an extension to this, employers were also hesitant to hire women (particularly pregnant women) since it meant a legally mandated leave of absence that their male colleagues would never take.
 
 Governments have tried to stem this discrimination by passing various enactments preventing employers from discriminating against women and even providing incentives to employers to promote women within their organizations. These changes however--never really worked.
 

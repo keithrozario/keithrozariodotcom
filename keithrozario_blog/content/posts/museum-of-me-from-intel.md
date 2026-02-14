@@ -7,7 +7,11 @@ tags = ['Cool Designs']
 categories = ['Design']
 +++
 
-Popular Websit![](/uploads/museum_of_me-300x130.jpg "museum_of_me")e <a href="http://gizmodo.com/5807233/intels-museum-of-me-exhibit-reminds-us-why-we-shouldnt-use-facebook" target="_blank">Gizmodo</a>, today posted a link to Intels new Museum of me that allows Facebook users to grab information from their facebook profiles and post them up in a really cool museum like format.
+Popular Websit
+
+![](/uploads/museum_of_me-300x130.jpg "museum_of_me")
+
+e <a href="http://gizmodo.com/5807233/intels-museum-of-me-exhibit-reminds-us-why-we-shouldnt-use-facebook" target="_blank">Gizmodo</a>, today posted a link to Intels new Museum of me that allows Facebook users to grab information from their facebook profiles and post them up in a really cool museum like format.
 
 I've been unable to view it, I suspect it's due to the fact that 100,000+ people have liked it since it launched barely hours ago. Talk about an internet sensation. It remains to be seen though if the website itself is overloaded of facebook has blocked the auths from intel. It sounds totally cool, but what you're essentially doing is granting permission to a corporation to view you personal data...all of it. Not just the stuff you fill up in a form but all the stuff on your facebook. <!--more-->
 
