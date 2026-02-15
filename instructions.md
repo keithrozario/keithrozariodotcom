@@ -44,12 +44,16 @@ To preview your blog locally with live-reloading:
 
 ## 3. Managing Images
 
-*   **Uploads:** All your existing WordPress images are in `static/uploads/`.
-*   **Adding New Images:** Place any new images in `static/uploads/`.
-*   **Referencing Images:** In your Markdown posts, reference them using absolute paths:
+*   **Uploads Location:** All images are stored in `assets/uploads/`. This allows Hugo to process them using Hugo Pipes (resizing, optimizing).
+*   **Adding New Images:** Place any new images in `assets/uploads/`.
+*   **Referencing Images:** Use standard Markdown syntax. Do NOT use HTML tags (like `<figure>` or `<div>`) around images, as this prevents Hugo from processing them:
     ```markdown
     ![Alt text](/uploads/your-image.png)
     ```
+*   **Responsive Resizing:** 
+    - The blog uses a custom image render hook (`layouts/_default/_markup/render-image.html`).
+    - If an image width is greater than 1024px, Hugo automatically generates a `srcset` with multiple sizes (480w, 768w, 1024w) for responsive loading.
+    - Images are lazily loaded by default for performance.
 
 ## 4. Building for Production
 

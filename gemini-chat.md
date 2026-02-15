@@ -1452,3 +1452,79 @@ The verification confirms that the images in all three posts ("Chip and Pin", "G
 -   **Access Keys in AWS Lambda:** Images like `lambda-sts.png`, `cold-start.png`, etc., are rendering as `<img>`.
 
 The issue is fully resolved.
+
+---
+
+## USER 🧑‍💻
+
+Ok, please update the instructions.md file to ensure the user knows which location to upload images too, and a brief note on the how images get re-sized.
+
+---
+
+## MODEL ✨
+
+I will read the `instructions.md` file to determine the best location for the new information. Then, I'll update the file to include the correct image upload path and a brief explanation of the responsive image resizing process.**Tool Command**:
+```json
+{
+  "name": "read_file",
+  "args": {
+    "file_path": "instructions.md"
+  }
+}
+```
+
+---
+
+## USER 🧑‍💻
+
+**Tool Response**:
+```json
+{
+  "id": "read_file-1771121510800-538eba16fec41",
+  "name": "read_file",
+  "response": {
+    "output": "# Blog Management Instructions\n\nThis blog has been converted from WordPress to Hugo using the `terminal` theme.\n\n## 1. Serving the site locally\n\nTo preview your blog locally with live-reloading:\n\n1.  **Navigate to the blog directory:**\n    ```bash\n    cd keithrozario_blog\n    ```\n2.  **Start the Hugo server:**\n    ```bash\n    hugo server\n    ```\n    *Note: If `hugo` is not installed on your system, you can download it from the [Hugo GitHub Releases](https://github.com/gohugoio/hugo/releases).*\n\n3.  **View the site:**\n    Open your browser and go to `http://localhost:1313`.\n\n## 2. Adding a new post\n\n1.  **Create the post file:**\n    From inside the `keithrozario_blog` directory, run:\n    ```bash\n    hugo new posts/my-new-post.md\n    ```\n2.  **Edit the content:**\n    Open `content/posts/my-new-post.md` in your favorite editor.\n3.  **Update Front Matter:**\n    The top of the file contains \"Front Matter\" in TOML format. Ensure it looks like this:\n    ```toml\n    +++\n    title = \"My New Post\"\n    date = \"2026-02-14T12:00:00Z\"\n    draft = false\n    tags = [\"example\", \"hugo\"]\n    categories = [\"General\"]\n    +++\n    ```\n4.  **Add your content:**\n    Write your post using standard Markdown below the second `+++`.\n\n## 3. Managing Images\n\n*   **Uploads:** All your existing WordPress images are in `static/uploads/`.\n*   **Adding New Images:** Place any new images in `static/uploads/`.\n*   **Referencing Images:** In your Markdown posts, reference them using absolute paths:\n    ```markdown\n    ![Alt text](/uploads/your-image.png)\n    ```\n\n## 4. Building for Production\n\nTo generate the final static files (found in the `public/` folder):\n```bash\ncd keithrozario_blog\nhugo\n```\n"
+  }
+}
+```
+
+---
+
+## MODEL ✨
+
+I'll update the `instructions.md` file to reflect the new image management workflow. I'll correct the upload path to `assets/uploads/` and add a section explaining Hugo's responsive image processing, including how it automatically generates `srcset` for large images. I'll also emphasize the use of pure Markdown syntax for images to ensure the render hook functions correctly.**Tool Command**:
+```json
+{
+  "name": "replace",
+  "args": {
+    "old_string": "## 3. Managing Images\n\n*   **Uploads:** All your existing WordPress images are in `static/uploads/`.\n*   **Adding New Images:** Place any new images in `static/uploads/`.\n*   **Referencing Images:** In your Markdown posts, reference them using absolute paths:\n    ```markdown\n    ![Alt text](/uploads/your-image.png)\n    ```",
+    "file_path": "/home/keith_krozario_altostrat_com/projects/keithrozario_dot_com/instructions.md",
+    "new_string": "## 3. Managing Images\n\n*   **Uploads Location:** All images are stored in `assets/uploads/`. This allows Hugo to process them using Hugo Pipes (resizing, optimizing).\n*   **Adding New Images:** Place any new images in `assets/uploads/`.\n*   **Referencing Images:** Use standard Markdown syntax. Do NOT use HTML tags (like `<figure>` or `<div>`) around images, as this prevents Hugo from processing them:\n    ```markdown\n    ![Alt text](/uploads/your-image.png)\n    ```\n*   **Responsive Resizing:** \n    - The blog uses a custom image render hook (`layouts/_default/_markup/render-image.html`).\n    - If an image width is greater than 1024px, Hugo automatically generates a `srcset` with multiple sizes (480w, 768w, 1024w) for responsive loading.\n    - Images are lazily loaded by default for performance.",
+    "expected_replacements": 1,
+    "instruction": "Update image management section with new asset path and resizing note."
+  }
+}
+```
+
+---
+
+## USER 🧑‍💻
+
+**Tool Response**:
+```json
+{
+  "id": "replace-1771121515367-f32b36ad7e069",
+  "name": "replace",
+  "response": {
+    "output": "Successfully modified file: /home/keith_krozario_altostrat_com/projects/keithrozario_dot_com/instructions.md (1 replacements)."
+  }
+}
+```
+
+---
+
+## MODEL ✨
+
+The `instructions.md` file has been updated with the correct image upload path and a note on responsive resizing.
+
+Is there anything else I can help you with?
