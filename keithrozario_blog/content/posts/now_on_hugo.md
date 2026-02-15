@@ -1,10 +1,8 @@
 +++
-title = "Now_on_hugo"
+title = "Now On Hugo"
 date = "2026-02-15T10:21:10+08:00"
 author = "keithRozario"
 authorTwitter = "keithrozario" #do not include @
-tags = ["", ""]
-keywords = ["", ""]
 description = "keithRozario.com is now on Hugo"
 showFullContent = false
 readingTime = false
@@ -13,7 +11,7 @@ hideComments = false
 
 
 This blog is finally on Hugo hosted on Github Pages. I've been meaning to do this for years, but never had the time, patience and skill to execute the change. To be honest, I still don't have the time, patience and skill to do it -- but fortunately for me I have a coding assistant.
-
+i
 ## Why move away from Wordpress
 
 I loved Wordpress when it first started, but everyone loves things when they start. Over time, the PHP upgrades, the maintaining of Apache scripts and configurations, and the bloated feeling of the extra UI really started to degrade the experience of writing in Wordpress. The UI went from simple Microsoft-word like to some monstrosity of AI infused crap.
