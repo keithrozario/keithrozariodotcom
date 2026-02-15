@@ -1734,3 +1734,791 @@ I'll revise `instructions.md` to serve as a comprehensive guide for managing the
 I have updated the `instructions.md` file.
 
 I'm done with the request. Is there anything else you need?
+
+---
+
+## USER 🧑‍💻
+
+There's a [] below each post in the main page, why is that?
+
+---
+
+## MODEL ✨
+
+I'll start by checking the `keithrozario_blog/layouts/` directory to identify which template is responsible for rendering the post list on the main page. I'll inspect `list.html` or `index.html` to find the code generating the empty brackets `[]` and determine if it's related to missing tags, categories, or some other metadata.**Tool Command**:
+```json
+{
+  "name": "run_shell_command",
+  "args": {
+    "command": "grep -r \"\\[\" keithrozario_blog/layouts/\nfind keithrozario_blog/layouts -name \"list.html\"\nfind keithrozario_blog/themes/terminal/layouts -name \"list.html\""
+  }
+}
+```
+
+---
+
+## USER 🧑‍💻
+
+**Tool Response**:
+```json
+{
+  "id": "run_shell_command-1771126608395-89c9e101021fb",
+  "name": "run_shell_command",
+  "response": {
+    "output": "Output: keithrozario_blog/layouts/_default/single.html:        {{ . | replaceRE \"(<h[1-9] id=\\\"([^\\\"]+)\\\".+)(</h[1-9]+>)\" `${1}<a href=\"#${2}\" class=\"hanchor\" ariaLabel=\"Anchor\">#</a> ${3}` | safeHTML }}\nkeithrozario_blog/themes/terminal/layouts/_default/list.html\nProcess Group PGID: 25157"
+  }
+}
+```
+
+---
+
+## MODEL ✨
+
+I suspect the brackets `[]` are coming from `keithrozario_blog/themes/terminal/layouts/_default/list.html` or possibly `index.html` if it exists separately.
+
+Let's read `keithrozario_blog/themes/terminal/layouts/_default/list.html`.
+
+Wait, the theme is `terminal`. I should check if there are any overrides in `keithrozario_blog/layouts/`.
+`find keithrozario_blog/layouts -name "list.html"` returned nothing.
+So it's using the theme's default list layout.
+
+Let's read `keithrozario_blog/themes/terminal/layouts/_default/list.html`.
+
+**Tool Command**:
+```json
+{
+  "name": "read_file",
+  "args": {
+    "file_path": "keithrozario_blog/themes/terminal/layouts/_default/list.html"
+  }
+}
+```
+
+---
+
+## USER 🧑‍💻
+
+**Tool Response**:
+```json
+{
+  "id": "read_file-1771126622308-60639bdc8437",
+  "name": "read_file",
+  "response": {
+    "output": "{{ define \"main\" }}\n  {{ with .Content }}\n    <div class=\"index-content\">\n      {{ . }}\n    </div>\n  {{ end }}\n  <div class=\"posts\">\n    {{ range .Paginator.Pages }}\n      <article class=\"post on-list\">\n        <h2 class=\"post-title\">\n          <a href=\"{{ .Permalink }}\">{{ .Title | markdownify }}</a>\n        </h2>\n        <div class=\"post-meta\">\n          {{- if .Date -}}\n            <time class=\"post-date\">\n              {{- partial \"post-date\" . -}}\n            </time>\n          {{- end -}}\n          {{- with .Params.Author -}}\n            <span class=\"post-author\">{{- . -}}</span>\n          {{- end -}}\n        </div>\n\n        {{ if .Params.tags }}\n          <span class=\"post-tags\">\n            {{ range .Params.tags }}\n            #<a href=\"{{ (urlize (printf \"tags/%s/\" . )) | absLangURL }}\">\n              {{- . -}}\n            </a>&nbsp;\n            {{ end }}\n          </span>\n        {{ end }}\n\n        {{ partial \"cover.html\" . }}\n\n        <div class=\"post-content\">\n          {{ if .Params.showFullContent }}\n            {{ .Content }}\n          {{ else if .Description }}\n            <p>{{ .Description | markdownify }}</p>\n          {{ else }}\n            {{ .Summary }}\n          {{ end }}\n        </div>\n\n        {{ if not .Params.showFullContent }}\n           <div>\n            <a class=\"read-more button inline\" href=\"{{ .RelPermalink }}\">[{{ $.Site.Params.ReadMore }}]</a>\n          </div>\n        {{ end }}\n      </article>\n    {{ end }}\n\n    {{ partial \"pagination.html\" . }}\n  </div>\n{{ end }}\n"
+  }
+}
+```
+
+---
+
+## MODEL ✨
+
+I see this line:
+`<a class="read-more button inline" href="{{ .RelPermalink }}">[{{ $.Site.Params.ReadMore }}]</a>`
+
+It prints `[` followed by `$.Site.Params.ReadMore` followed by `]`.
+
+If `$.Site.Params.ReadMore` is empty or not set in `hugo.toml`, it will render as `[]`.
+
+Let's check `hugo.toml`.
+
+**Tool Command**:
+```json
+{
+  "name": "read_file",
+  "args": {
+    "file_path": "keithrozario_blog/hugo.toml"
+  }
+}
+```
+
+---
+
+## USER 🧑‍💻
+
+**Tool Response**:
+```json
+{
+  "id": "read_file-1771126629492-f363d28fe1902",
+  "name": "read_file",
+  "response": {
+    "output": "baseURL = 'https://www.keithrozario.com/'\nlanguageCode = 'en-us'\ntitle = 'keithrozario.com'\ntheme = 'terminal'\n\n[markup]\n  [markup.goldmark]\n    [markup.goldmark.renderer]\n      unsafe = true\n\n[permalinks]\n  posts = \"/:year/:month/:slug/\"\n\n[params]\n  contentTypeName = \"posts\"\n  themeColor = \"viking\"\n  showMenuItems = 5\n  \n  [params.logo]\n    logoText = \"keithRozario\"\n  \n[menu]\n  [[menu.main]]\n    identifier = \"posts\"\n    name = \"Posts\"\n    url = \"/posts\"\n\n  [[menu.main]]\n    identifier = \"security\"\n    name = \"Security\"\n    url = \"/categories/security-amp-privacy\"\n\n  [[menu.main]]\n    identifier = \"serverless\"\n    name = \"Serverless\"\n    url = \"/categories/serverless\"\n\n  [[menu.main]]\n    identifier = \"favorites\"\n    name = \"Favorites\"\n    url = \"/categories/keiths-favorite-post\"\n\n  [[menu.main]]\n    identifier = \"contact\"\n    name = \"Contact Me\"\n    url = \"/contact\"\n"
+  }
+}
+```
+
+---
+
+## MODEL ✨
+
+Indeed, `[params]` section does NOT have `ReadMore` defined.
+
+I need to add `ReadMore = "Read more"` (or similar text) to `[params]` in `keithrozario_blog/hugo.toml`.
+
+Wait, the template code is:
+`[{{ $.Site.Params.ReadMore }}]`
+
+If I set `ReadMore = "Read more"`, it will render as `[Read more]`. This looks correct for a "terminal" theme style.
+
+I will update `keithrozario_blog/hugo.toml` to include `ReadMore = "Read more"`.
+
+Also, I should check if there are other missing params that might be useful, like `Author`?
+The template uses `.Params.Author` (post author), not site author.
+
+Let's just fix the `ReadMore` for now.
+
+Wait, `list.html` logic:
+```html
+        {{ if not .Params.showFullContent }}
+           <div>
+            <a class="read-more button inline" href="{{ .RelPermalink }}">[{{ $.Site.Params.ReadMore }}]</a>
+          </div>
+        {{ end }}
+```
+This is inside the loop `{{ range .Paginator.Pages }}`.
+So if `showFullContent` is false (default), it shows the "Read more" button.
+
+I will add the parameter.
+
+One detail: `keithrozario_blog/hugo.toml` uses TOML format.
+So under `[params]`, I add `ReadMore = "Read more"`.
+
+```toml
+[params]
+  contentTypeName = "posts"
+  themeColor = "viking"
+  showMenuItems = 5
+  ReadMore = "Read more"
+```
+
+Let's apply this change.
+
+---
+
+## USER 🧑‍💻
+
+yes apply the change.
+
+---
+
+## MODEL ✨
+
+I'll update the `keithrozario_blog/hugo.toml` file to include the `ReadMore` parameter, which will fix the empty `[]` appearing on the post list. After that, I'll commit and push the change to trigger a redeployment and verify the fix on the live site.**Tool Command**:
+```json
+{
+  "name": "replace",
+  "args": {
+    "instruction": "Add ReadMore parameter to [params] in hugo.toml to fix empty brackets in post list.",
+    "new_string": "[params]\n  contentTypeName = \"posts\"\n  themeColor = \"viking\"\n  showMenuItems = 5\n  ReadMore = \"Read more\"",
+    "old_string": "[params]\n  contentTypeName = \"posts\"\n  themeColor = \"viking\"\n  showMenuItems = 5",
+    "expected_replacements": 1,
+    "file_path": "/home/keith_krozario_altostrat_com/projects/keithrozario_dot_com/keithrozario_blog/hugo.toml"
+  }
+}
+```
+
+---
+
+## USER 🧑‍💻
+
+**Tool Response**:
+```json
+{
+  "id": "replace-1771126712980-f4d55d9afb51b",
+  "name": "replace",
+  "response": {
+    "output": "Successfully modified file: /home/keith_krozario_altostrat_com/projects/keithrozario_dot_com/keithrozario_blog/hugo.toml (1 replacements)."
+  }
+}
+```
+
+---
+
+## MODEL ✨
+
+I'll commit the update to `hugo.toml` with a message about fixing the "Read more" button and push it to the `main` branch. I'll then monitor the deployment and once finished, I'll verify the fix by checking the live site's homepage to ensure the buttons now correctly display "[Read more]".**Tool Command**:
+```json
+{
+  "name": "run_shell_command",
+  "args": {
+    "command": "git add keithrozario_blog/hugo.toml\ngit commit -m \"Fix: Set ReadMore parameter for 'Read more' buttons\"\ngit push origin main\ngh run watch"
+  }
+}
+```
+
+---
+
+## USER 🧑‍💻
+
+**Tool Response**:
+```json
+{
+  "id": "run_shell_command-1771126735683-7dab228d479d1",
+  "name": "run_shell_command",
+  "response": {
+    "error": "[Operation Cancelled] Reason: Operation cancelled"
+  }
+}
+```
+
+---
+
+## USER 🧑‍💻
+
+When I use hugo new it generates a template, can I control what fields the template has?
+
+---
+
+## MODEL ✨
+
+I'll start by reading the default archetype file to understand the current template structure used when generating new posts. This will allow me to provide specific advice on how to customize the front matter fields.**Tool Command**:
+```json
+{
+  "name": "read_file",
+  "args": {
+    "file_path": "keithrozario_blog/archetypes/default.md"
+  }
+}
+```
+
+---
+
+## USER 🧑‍💻
+
+**Tool Response**:
+```json
+{
+  "id": "read_file-1771126834925-5297e8da2019d",
+  "name": "read_file",
+  "response": {
+    "output": "+++\ndate = '{{ .Date }}'\ndraft = true\ntitle = '{{ replace .File.ContentBaseName \"-\" \" \" | title }}'\n+++\n"
+  }
+}
+```
+
+---
+
+## MODEL ✨
+
+Yes, you can absolutely control this!
+
+When you run `hugo new posts/my-post.md`, Hugo uses a template called an **archetype**. By default, it uses the file at `keithrozario_blog/archetypes/default.md`.
+
+Currently, your archetype looks like this:
+```toml
++++
+date = '{{ .Date }}'
+draft = true
+title = '{{ replace .File.ContentBaseName "-" " " | title }}'
++++
+```
+
+You can edit `keithrozario_blog/archetypes/default.md` to include any fields you want (like `categories`, `tags`, `slug`, `author`, or even custom fields).
+
+Would you like me to update it to include standard fields like `categories` and `tags` so they are there by default?
+
+For example, I could change it to:
+```toml
++++
+title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+date = '{{ .Date }}'
+draft = true
+categories = []
+tags = []
+# slug = "" # Optional: Un-comment to set a custom URL slug
++++
+```
+
+---
+
+## USER 🧑‍💻
+
+Currently it ask for things like author, and twitter handle etc, where is that set?
+
+---
+
+## MODEL ✨
+
+If Hugo is asking for `author` or `twitter handle`, it means that either:
+1.  The `default.md` archetype has those fields.
+2.  Or you might be using a *different* archetype for your post type?
+3.  Or you might be running `hugo new --kind ...`.
+
+But `default.md` only has `date`, `draft`, and `title`.
+
+Wait, the theme might provide its own archetypes in `themes/terminal/archetypes/`. Hugo checks theme archetypes if `keithrozario_blog/archetypes/` doesn't have a matching file for the specific content type (e.g. `posts.md`).
+
+Let's check if the theme has archetypes.
+
+**Tool Command**:
+```json
+{
+  "name": "run_shell_command",
+  "args": {
+    "command": "ls -R keithrozario_blog/themes/terminal/archetypes/"
+  }
+}
+```
+
+---
+
+## USER 🧑‍💻
+
+**Tool Response**:
+```json
+{
+  "id": "run_shell_command-1771126895780-06ba197239aef",
+  "name": "run_shell_command",
+  "response": {
+    "output": "Output: keithrozario_blog/themes/terminal/archetypes/:\nposts.md\nProcess Group PGID: 25177"
+  }
+}
+```
+
+---
+
+## MODEL ✨
+
+Ah, the theme has a `posts.md` archetype!
+When you run `hugo new posts/foo.md`, Hugo checks:
+1.  `keithrozario_blog/archetypes/posts.md` (Not found)
+2.  `keithrozario_blog/archetypes/default.md` (Not used, because "posts.md" matches better)
+3.  `keithrozario_blog/themes/terminal/archetypes/posts.md` (Found! Used.)
+
+Let's read `keithrozario_blog/themes/terminal/archetypes/posts.md`.
+
+**Tool Command**:
+```json
+{
+  "name": "read_file",
+  "args": {
+    "file_path": "keithrozario_blog/themes/terminal/archetypes/posts.md"
+  }
+}
+```
+
+---
+
+## USER 🧑‍💻
+
+**Tool Response**:
+```json
+{
+  "id": "read_file-1771126914423-821d8c5719dda",
+  "name": "read_file",
+  "response": {
+    "output": "+++\ntitle = \"{{ replace .TranslationBaseName \"-\" \" \" | title }}\"\ndate = \"{{ .Date }}\"\n#dateFormat = \"2006-01-02\" # This value can be configured for per-post date formatting\nauthor = \"\"\nauthorTwitter = \"\" #do not include @\ncover = \"\"\ntags = [\"\", \"\"]\nkeywords = [\"\", \"\"]\ndescription = \"\"\nshowFullContent = false\nreadingTime = false\nhideComments = false\n+++\n"
+  }
+}
+```
+
+---
+
+## MODEL ✨
+
+This confirms it. The theme provides a default archetype with many fields, some of which you might not want.
+
+**To customize:**
+You can create your own `archetypes/posts.md` file inside your site directory (not inside the theme). This will override the theme's archetype.
+
+Would you like me to:
+1.  **Create** `keithrozario_blog/archetypes/posts.md`.
+2.  **Copy** the fields you *want* (Title, Date, Draft, Tags, Categories).
+3.  **Exclude** the ones you don't (Author, Twitter, etc.).
+
+This way, when you run `hugo new posts/...`, you get *your* clean template.
+
+---
+
+## USER 🧑‍💻
+
+I watnt Title, Date, Draft, Categories, description. I want to default to false the settings of showFullContent, readingTime. Set to true hideComments.
+
+---
+
+## MODEL ✨
+
+I'll create a custom archetype file for posts at `keithrozario_blog/archetypes/posts.md`. This will override the theme's default settings and ensure that every time you create a new post, it includes exactly the fields you want with your preferred default values.
+
+**Tool Command**:
+```json
+{
+  "name": "write_file",
+  "args": {
+    "content": "+++\ntitle = \"{{ replace .TranslationBaseName \"-\" \" \" | title }}\"\ndate = \"{{ .Date }}\"\ndraft = true\ncategories = []\ndescription = \"\"\nshowFullContent = false\nreadingTime = false\nhideComments = true\n+++\n",
+    "file_path": "/home/keith_krozario_altostrat_com/projects/keithrozario_dot_com/keithrozario_blog/archetypes/posts.md"
+  }
+}
+```
+
+---
+
+## USER 🧑‍💻
+
+**Tool Response**:
+```json
+{
+  "id": "write_file-1771127031278-794bab65f9102",
+  "name": "write_file",
+  "response": {
+    "output": "Successfully created and wrote to new file: /home/keith_krozario_altostrat_com/projects/keithrozario_dot_com/keithrozario_blog/archetypes/posts.md."
+  }
+}
+```
+
+---
+
+## MODEL ✨
+
+I've created your custom post archetype. Now, whenever you run `hugo new posts/your-post-name.md`, it will automatically use these settings. 
+
+Is there anything else you'd like to adjust?
+
+---
+
+## USER 🧑‍💻
+
+In each posts there is a line below the title that has the format like "2026-02-15  :: keithRozario" I want to keep the date but remove the author.
+
+---
+
+## MODEL ✨
+
+I'll start by locating the template responsible for rendering the post header. I'll search for the date formatting string or the class `post-date` within the `layouts` directory to pinpoint the exact file and lines that need modification. This will ensure I target the correct template, likely `single.html` or a partial, to remove the author display while preserving the date.**Tool Command**:
+```json
+{
+  "name": "run_shell_command",
+  "args": {
+    "command": "grep -r \"post-date\" keithrozario_blog/themes/terminal/layouts/\ngrep -r \"keithRozario\" keithrozario_blog/themes/terminal/layouts/"
+  }
+}
+```
+
+---
+
+## USER 🧑‍💻
+
+**Tool Response**:
+```json
+{
+  "id": "run_shell_command-1771127104488-8ac33a0e59ff8",
+  "name": "run_shell_command",
+  "response": {
+    "output": "Output: keithrozario_blog/themes/terminal/layouts/_default/term.html:            <time class=\"post-date\">\nkeithrozario_blog/themes/terminal/layouts/_default/list.html:            <time class=\"post-date\">\nkeithrozario_blog/themes/terminal/layouts/_default/list.html:              {{- partial \"post-date\" . -}}\nkeithrozario_blog/themes/terminal/layouts/_default/index.html:            <time class=\"post-date\">\nkeithrozario_blog/themes/terminal/layouts/_default/index.html:              {{- partial \"post-date\" . -}}\nkeithrozario_blog/themes/terminal/layouts/_default/single.html:      <time class=\"post-date\">\nkeithrozario_blog/themes/terminal/layouts/_default/single.html:        {{- partial \"post-date\" . -}}\nExit Code: 1\nProcess Group PGID: 25184"
+  }
+}
+```
+
+---
+
+## MODEL ✨
+
+I suspect the issue is in `keithrozario_blog/themes/terminal/layouts/_default/single.html`.
+
+Let's read that file.
+
+Also, `keithRozario` might be hardcoded as `logoText` in `hugo.toml`, but that's the site logo.
+The line "2026-02-15 :: keithRozario" looks like `date :: author`.
+
+Let's check `single.html`.
+
+**Tool Command**:
+```json
+{
+  "name": "read_file",
+  "args": {
+    "file_path": "keithrozario_blog/themes/terminal/layouts/_default/single.html"
+  }
+}
+```
+
+---
+
+## USER 🧑‍💻
+
+**Tool Response**:
+```json
+{
+  "id": "read_file-1771127111881-7f7b73db20cf2",
+  "name": "read_file",
+  "response": {
+    "output": "{{ define \"main\" }}\n<article class=\"post\">\n  <h1 class=\"post-title\">\n    <a href=\"{{ .Permalink }}\">{{ .Title | markdownify }}</a>\n  </h1>\n  <div class=\"post-meta\">\n    {{- if .Date -}}\n      <time class=\"post-date\">\n        {{- partial \"post-date\" . -}}\n        {{- if and $.Site.Params.showLastUpdated .Lastmod -}}\n          &nbsp;{{- partial \"post-lastmod\" . -}}\n        {{- end -}}\n      </time>\n    {{- end -}}\n    {{- with .Params.Author -}}\n      <span class=\"post-author\">{{ . }}</span>\n    {{- end -}}\n    {{- if and (.Param \"readingTime\") (eq (.Param \"readingTime\") true) -}}\n      <span class=\"post-reading-time\">{{ .ReadingTime }} {{ $.Site.Params.minuteReadingTime | default \"min read\" }} ({{ .WordCount }} {{ $.Site.Params.words | default \"words\" }})</span>\n    {{- end -}}\n  </div>\n\n  {{ if .Params.tags }}\n    <span class=\"post-tags\">\n      {{ range .Params.tags }}\n      #<a href=\"{{ (urlize (printf \"tags/%s/\" .)) | absLangURL }}\">{{ . }}</a>&nbsp;\n      {{ end }}\n    </span>\n  {{ end }}\n  {{ partial \"cover.html\" . }}\n\n  {{ if (.Params.Toc | default .Site.Params.Toc) }}\n    <div class=\"table-of-contents\">\n      <h2>\n        {{ (.Params.TocTitle | default .Site.Params.TocTitle) | default \"Table of Contents\" }}\n      </h2>\n      {{ .TableOfContents }}\n    </div>\n  {{ end }}\n\n  <div class=\"post-content\">\n    {{- with .Content -}}\n      <div>\n        {{ . | replaceRE \"(<h[1-9] id=\\\"([^\\\"]+)\\\".+)(</h[1-9]+>)\" `${1}<a href=\"#${2}\" class=\"hanchor\" ariaLabel=\"Anchor\">#</a> ${3}` | safeHTML }}\n      </div>\n    {{- end -}}\n  </div>\n\n  {{ if eq .Type $.Site.Params.contentTypeName }}\n    {{ partial \"posts_pagination.html\" . }}\n  {{ end }}\n\n  {{ if not (.Params.hideComments | default false) }}\n    {{ partial \"comments.html\" . }}\n  {{ end }}\n</article>\n{{ end }}\n"
+  }
+}
+```
+
+---
+
+## MODEL ✨
+
+Wait, I don't see `::` here.
+`{{- with .Params.Author -}}<span class="post-author">{{ . }}</span>{{- end -}}`
+If `.Params.Author` is set, it renders the author name.
+If the theme has custom logic in `post-date` partial, let's check that.
+
+Also, `hugo.toml` has `logoText = "keithRozario"`.
+Is it possible the site title/logo is being displayed?
+
+No, the user said "below the title".
+
+If the post front matter has `Author = "keithRozario"`, it would display "keithRozario".
+But `posts.md` archetype had `author = ""` (empty) until I changed it.
+Legacy posts migrated from WordPress might have `author` or `creator`?
+
+Let's check a migrated post front matter.
+
+**Tool Command**:
+```json
+{
+  "name": "run_shell_command",
+  "args": {
+    "command": "head -n 10 keithrozario_blog/content/posts/access-keys-in-aws-lambda.md"
+  }
+}
+```
+
+---
+
+## USER 🧑‍💻
+
+**Tool Response**:
+```json
+{
+  "id": "run_shell_command-1771127121176-44a5f394bfe4a",
+  "name": "run_shell_command",
+  "response": {
+    "output": "Output: +++\ntitle = \"Access Keys in AWS Lambda\"\nslug = \"access-keys-in-aws-lambda\"\ndate = \"2020-06-14T17:55:51\"\ndraft = false\ncategories = [\"Keith's Favorite Post\", 'Security &amp; Privacy', 'Serverless']\n+++\n\n<!-- wp:image {\"align\":\"center\",\"id\":7164,\"linkDestination\":\"media\"} -->\nProcess Group PGID: 25189"
+  }
+}
+```
+
+---
+
+## MODEL ✨
+
+The migrated post has NO `author` field.
+So where is "keithRozario" coming from?
+It might be from `hugo.toml` `params.logo`.
+Or `author` is falling back to site author?
+
+The template `single.html` has:
+```html
+    {{- with .Params.Author -}}
+      <span class="post-author">{{ . }}</span>
+    {{- end -}}
+```
+It only renders if `.Params.Author` is set.
+If the post front matter doesn't have `Author`, it won't render.
+
+But the user says: `2026-02-15 :: keithRozario`.
+Wait, "::" is a specific separator.
+
+Let's grep for `::`.
+
+**Tool Command**:
+```json
+{
+  "name": "run_shell_command",
+  "args": {
+    "command": "grep -r \"::\" keithrozario_blog/themes/terminal/layouts/"
+  }
+}
+```
+
+---
+
+## USER 🧑‍💻
+
+**Tool Response**:
+```json
+{
+  "id": "run_shell_command-1771127127636-b8fa40e61551c",
+  "name": "run_shell_command",
+  "response": {
+    "output": "Output: keithrozario_blog/themes/terminal/layouts/_default/baseof.html:    <title>{{ if .IsHome }}{{ $.Site.Title }}{{ else }}{{ .Title }} :: {{ $.Site.Title }}{{ end }}</title>\nkeithrozario_blog/themes/terminal/layouts/partials/pagination.html:      ::\nkeithrozario_blog/themes/terminal/layouts/partials/posts_pagination.html:      ::\nkeithrozario_blog/themes/terminal/layouts/partials/footer.html:      <span>:: <a href=\"https://github.com/panr/hugo-theme-terminal\" target=\"_blank\">Theme</a> made by <a href=\"https://github.com/panr\" target=\"_blank\">panr</a></span>\nProcess Group PGID: 25193"
+  }
+}
+```
+
+---
+
+## MODEL ✨
+
+`baseof.html` uses `::` in the `<title>`.
+`posts_pagination.html` uses `::`.
+`footer.html` uses `::`.
+
+None of these are "below the title".
+
+Could it be in `post-date.html`?
+`keithrozario_blog/themes/terminal/layouts/partials/post-date.html`.
+
+**Tool Command**:
+```json
+{
+  "name": "read_file",
+  "args": {
+    "file_path": "keithrozario_blog/themes/terminal/layouts/partials/post-date.html"
+  }
+}
+```
+
+---
+
+## USER 🧑‍💻
+
+**Tool Response**:
+```json
+{
+  "id": "read_file-1771127151399-c324e2db19dcd",
+  "name": "read_file",
+  "response": {
+    "output": "{{- $date := .Date -}}\n{{- with .Params.dateFormat -}}\n  {{- $date | time.Format . -}}\n{{- else -}}\n  {{- with .Site.Params.dateFormat -}}\n    {{- $date | time.Format . -}}\n  {{- else -}}\n    {{- $date | time.Format \"2006-01-02\" -}}\n  {{- end -}}\n{{- end -}}"
+  }
+}
+```
+
+---
+
+## MODEL ✨
+
+No `::` there.
+
+Wait, maybe the user is misinterpreting the UI.
+Or maybe `post-meta` CSS style has `::before` or `::after`?
+But user says "2026-02-15 :: keithRozario".
+`keithRozario` IS the site title `title = 'keithrozario.com'` or `logoText = "keithRozario"` in `hugo.toml`.
+
+If I look at `single.html` again:
+```html
+<div class="post-meta">
+    {{- if .Date -}}
+      <time class="post-date">
+        {{- partial "post-date" . -}}
+        {{- if and $.Site.Params.showLastUpdated .Lastmod -}}
+          &nbsp;{{- partial "post-lastmod" . -}}
+        {{- end -}}
+      </time>
+    {{- end -}}
+    {{- with .Params.Author -}}
+      <span class="post-author">{{ . }}</span>
+    {{- end -}}
+```
+It renders DATE. Then AUTHOR.
+There is no `::` between them in the template.
+
+**Hypothesis:**
+The `post-author` span is rendering `keithRozario`.
+But why?
+The post front matter doesn't have `Author`.
+Does the theme automatically fallback to `Site.Params.Author` or `Site.Title`?
+The template says `.Params.Author`.
+In Hugo, `.Params` usually refers to page params.
+However, if I look at `hugo.toml`, there is no `Author` param.
+
+Wait, looking at `keithrozario_blog/themes/terminal/layouts/_default/single.html` again.
+Is it possible that `.Params.Author` defaults to site author if not set? No.
+
+Wait, I recall seeing `author = ""` in the theme's `posts.md` archetype.
+Maybe `default.md` archetype had it too? No.
+My new `posts.md` doesn't have it.
+
+**Let's check the CSS.**
+Maybe `::` is added via CSS `content: " :: "`?
+
+But more importantly, WHERE is `keithRozario` coming from?
+It matches `logoText`.
+
+If I curl a live post, what do I see?
+`curl -s https://keithrozario.com/2020/06/access-keys-in-aws-lambda/`
+
+**Tool Command**:
+```json
+{
+  "name": "run_shell_command",
+  "args": {
+    "command": "curl -s -L https://keithrozario.com/2020/06/access-keys-in-aws-lambda/ | grep \"post-meta\" -A 5"
+  }
+}
+```
+
+---
+
+## USER 🧑‍💻
+
+**Tool Response**:
+```json
+{
+  "id": "run_shell_command-1771127160229-6dff2e541d303",
+  "name": "run_shell_command",
+  "response": {
+    "output": "Output: \"><meta property=\"og:url\" content=\"https://keithrozario.com/2020/06/access-keys-in-aws-lambda/\"><meta property=\"og:site_name\" content=\"keithrozario.com\"><meta property=\"og:image\" content=\"https://keithrozario.com/og-image.png\"><meta property=\"og:image:width\" content=\"1200\"><meta property=\"og:image:height\" content=\"627\"><meta property=\"article:section\" content=\"Keith's Favorite Post\"><meta property=\"article:section\" content=\"Security &amp;amp; Privacy\"><meta property=\"article:section\" content=\"Serverless\"><meta property=\"article:published_time\" content=\"2020-06-14 17:55:51 +0000 UTC\"><link rel=\"shortcut icon\" href=https://keithrozario.com/favicon.ico></head><body><div class=container><header class=header><div class=header__inner><div class=header__logo><a href=https://keithrozario.com/><div class=logo>keithRozario</div></a></div><ul class=\"menu menu--mobile\"><li class=menu__trigger>Menu&nbsp;▾</li><li><ul class=menu__dropdown><li><a href=/contact>Contact Me</a></li><li><a href=/categories/keiths-favorite-post>Favorites</a></li><li><a href=/posts>Posts</a></li><li><a href=/categories/security-amp-privacy>Security</a></li><li><a href=/categories/serverless>Serverless</a></li></ul></li></ul></div><nav class=navigation-menu><ul class=\"navigation-menu__inner menu--desktop\"><li><a href=/contact>Contact Me</a></li><li><a href=/categories/keiths-favorite-post>Favorites</a></li><li><a href=/posts>Posts</a></li><li><a href=/categories/security-amp-privacy>Security</a></li><li><a href=/categories/serverless>Serverless</a></li></ul></nav></header><div class=content><article class=post><h1 class=post-title><a href=https://keithrozario.com/2020/06/access-keys-in-aws-lambda/>Access Keys in AWS Lambda</a></h1><div class=post-meta><time class=post-date>2020-06-14</time></div><div class=post-content><div><p><img src=/uploads/lambda-sts.png alt loading=lazy></p><p>Let's look at AWS Access Keys inside a Lambda function, from how they are populated into the function's <a href=https://docs.aws.amazon.com/lambda/latest/dg/runtimes-context.html target=_blank rel=\"noreferrer noopener\">execution context</a>, how long they last, how to exfiltrate them out and use them, and how we might detect an compromised access keys.</p><p>But before that, let's go through some basics. Lambda functions run on <a href=https://aws.amazon.com/blogs/aws/firecracker-lightweight-virtualization-for-serverless-computing/ target=_blank rel=\"noreferrer noopener\">Firecracker</a>, a microVM technology developed by Amazon. MicroVMs are like docker containers, but provide VM level isolation between instances. But because we're not going to cover container breakouts here, for the purpose of this post we'll use the term container to refer to these microVMs.</p><p>Anyway...</p><p>Lambda constantly spins up containers to respond to events, such as http calls via API Gateway, a file landing in an S3 bucket, or even an invoke command executed from your aws-cli.</p><p>These containers interact with AWS services in the same exact way as any code in EC2, Fargate or even your local machine -- i.e. they use a version of the AWS SDK (e.g. boto3) and authenticate with IAM access keys. There isn't any magic here, it's just with serverless we can remain blissfully ignorant of the underlying mechanism.</p><p>But occasionally it's a good idea to dig deep and try to understand what goes on under the hood, and that's what this post seeks to do.</p><p>So where in the container are the access keys stored? Well, we know that AWS SDKs reference credentials in 3 places:</p><ul><li>Environment Variables</li><li>The <code>~/.aws/credentials</code> file</li><li>The Instance Metadata Service (IMDS)</li></ul><p>If we check, we'll find that our IAM access keys for lambda functions are stored in the environment variables of the execution context, namely:</p><ul><li>AWS_ACCESS_KEY_ID</li><li>AWS_SECRET_ACCESS_KEY</li><li>AWS_SESSION_TOKEN</li></ul><p>You can easily verify this, by printing out those environment variables in your runtime (e.g. <code>$AWS_ACCESS_KEY_ID</code>) and see for yourself.</p><p>OK, now we know where the access stored keys are stored, but how did they end up here and what kind of access keys are they? For that, we need to look at the life-cycle of a Lambda function...</p><h2>Access Keys in a Function</h2><p>Every lambda function starts as a piece of code stored within the Lambda service. When the function is first invoked, it undergoes a <strong>cold-start</strong>, which creates an execution context for that function before executing it. If the subsequent invocation occurs shortly after, Lambda re-uses that execution context, resulting a much quicker <strong>warm-start</strong>.</p><p>A cold-start involves finding some compute resource within the Lambda service, and creating the container to run our code within those resources. The warm-start simply reuses that container, and is therefore faster. But a cold start isn't a once-in-a-lifetime event, it occurs fairly often as Lambda purges old containers off the platform to make way for new ones.</p><p><img src=/uploads/cold-start_hu_114737835e6094a8.png srcset=\"/uploads/cold-start_hu_f6fd549662a20510.png 480w,\n/uploads/cold-start_hu_114737835e6094a8.png 768w,\n/uploads/cold-start_hu_22f78371b6e85ca8.png 1024w,\n/uploads/cold-start.png 1173w\" sizes=\"(max-width: 480px) 480px, (max-width: 768px) 768px, (max-width: 1024px) 1024px, 100vw\" alt loading=lazy></p><figcaption>Inspired by: https://www.twitch.tv/videos/647501563?t=00h07m51s</figcaption></figure><p>This picture was inspired by a wonderful talk from James Beswick linked <a href=\"https://www.twitch.tv/videos/647501563?t=00h07m51s\" target=_blank rel=\"noreferrer noopener\">here</a>. But we still don't see any injection of access keys ... for that we need to dig into Cloudtrail logs.</p><p>In Cloudtrail, we discover that a cold-start doesn't just create the container, it also creates an <code>sts:AssumeRole</code> and <code>logs:CreateLogStream</code> event. I don't know precisely where these events occur during the cold-start, but imagine it's something like this:</p><figure class=\"wp-block-image size-large\"><p><img src=/uploads/cold-start-full_hu_8ffeb94597653022.png srcset=\"/uploads/cold-start-full_hu_f9827c02d2b6f17d.png 480w,\n/uploads/cold-start-full_hu_8ffeb94597653022.png 768w,\n/uploads/cold-start-full_hu_a6753d93a2689f8a.png 1024w,\nProcess Group PGID: 25197"
+  }
+}
+```
+
+---
+
+## MODEL ✨
+
+Output:
+`<h1 class=post-title><a href=...>Access Keys in AWS Lambda</a></h1><div class=post-meta><time class=post-date>2020-06-14</time></div>`
+
+There is **NO** author in the `post-meta` div.
+It only contains `<time class=post-date>2020-06-14</time>`.
+
+However, the user says: "In each posts there is a line below the title that has the format like "2026-02-15 :: keithRozario""
+
+Wait, `keithRozario` matches the `logoText`.
+Is it possible the user is looking at the browser tab title?
+`<title>Access Keys in AWS Lambda :: keithrozario.com</title>` (from grep output earlier).
+
+User said: "In each posts there is a line below the title..."
+This usually refers to the page content.
+
+Maybe the user is running `hugo server` locally and sees something different?
+Or maybe they are talking about the **List** page?
+
+Let's check `list.html` output from curl.
+`curl -s https://keithrozario.com/posts/`
+
+**Tool Command**:
+```json
+{
+  "name": "run_shell_command",
+  "args": {
+    "command": "curl -s -L https://keithrozario.com/posts/ | head -n 50"
+  }
+}
+```
+
+---
+
+## USER 🧑‍💻
+
+**Tool Response**:
+```json
+{
+  "id": "run_shell_command-1771127199539-3af09d5869545",
+  "name": "run_shell_command",
+  "response": {
+    "error": "[Operation Cancelled] Reason: Operation cancelled"
+  }
+}
+```
+
+---
+
+## USER 🧑‍💻
+
+It's ok, I think if I don't set the author nothing appears. You've changed the format, that should be sufficient. THank you.
+
+---
+
+## MODEL ✨
+
+You're very welcome! You are correct—in this theme, the author field is conditional. By removing it from your new archetype, it won't appear on any future posts you create. For existing posts, as long as the `author` field is missing from the front matter, it will remain hidden.
+
+I've updated the **archetypes**, fixed the **Read More** buttons, and improved the **instructions** for you. Your blog is now well-configured for clean, responsive image handling and easy post creation.
+
+Let me know if you need anything else!

@@ -1,8 +1,6 @@
 +++
 title = "Now On Hugo"
 date = "2026-02-15T10:21:10+08:00"
-author = "keithRozario"
-authorTwitter = "keithrozario" #do not include @
 description = "keithRozario.com is now on Hugo"
 showFullContent = false
 readingTime = false
