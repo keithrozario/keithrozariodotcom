@@ -96,7 +96,7 @@ def parse_wordpress_xml_robust(xml_file, output_dir):
                 md = f"![{alt}]({src}"
                 if title: md += f' "{title}"'
                 md += ")"
-                return md
+                return f"\n\n{md}\n\n"
 
             post_content = re.sub(r'<img\s+([^>]+)>', img_replacer, post_content)
             
@@ -109,10 +109,11 @@ def parse_wordpress_xml_robust(xml_file, output_dir):
                 # Capture ![alt](src "title")
                 md_img_regex = r'(!\[.*?\]\(.*?\))'
                 
-                post_content = re.sub(r'<figure[^>]*>\s*' + md_img_regex + r'\s*</figure>', r'\1', post_content, flags=re.DOTALL)
-                post_content = re.sub(r'<div[^>]*>\s*' + md_img_regex + r'\s*</div>', r'\1', post_content, flags=re.DOTALL)
-                post_content = re.sub(r'<center[^>]*>\s*' + md_img_regex + r'\s*</center>', r'\1', post_content, flags=re.DOTALL)
-                post_content = re.sub(r'<p>\s*' + md_img_regex + r'\s*</p>', r'\1', post_content, flags=re.DOTALL)
+                post_content = re.sub(r'<figure[^>]*>\s*' + md_img_regex + r'\s*</figure>', r'\n\n\1\n\n', post_content, flags=re.DOTALL)
+                post_content = re.sub(r'<div[^>]*>\s*' + md_img_regex + r'\s*</div>', r'\n\n\1\n\n', post_content, flags=re.DOTALL)
+                post_content = re.sub(r'<center[^>]*>\s*' + md_img_regex + r'\s*</center>', r'\n\n\1\n\n', post_content, flags=re.DOTALL)
+                post_content = re.sub(r'<p>\s*' + md_img_regex + r'\s*</p>', r'\n\n\1\n\n', post_content, flags=re.DOTALL)
+                post_content = re.sub(r'<a[^>]*>\s*' + md_img_regex + r'\s*</a>', r'\n\n\1\n\n', post_content, flags=re.DOTALL)
 
             post_content = post_content.replace('&nbsp;', ' ')
             
