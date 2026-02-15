@@ -1528,3 +1528,209 @@ I'll update the `instructions.md` file to reflect the new image management workf
 The `instructions.md` file has been updated with the correct image upload path and a note on responsive resizing.
 
 Is there anything else I can help you with?
+
+---
+
+## USER 🧑‍💻
+
+Take a look at @instructions.md and make some suggestions on how we can clearly communicate the users how to add new post, with images, and how the post are built and published.
+--- Content from referenced files ---
+Content from @instructions.md:
+# Blog Management Instructions
+
+This blog has been converted from WordPress to Hugo using the `terminal` theme.
+
+## 1. Serving the site locally
+
+To preview your blog locally with live-reloading:
+
+1.  **Navigate to the blog directory:**
+    ```bash
+    cd keithrozario_blog
+    ```
+2.  **Start the Hugo server:**
+    ```bash
+    hugo server
+    ```
+    *Note: If `hugo` is not installed on your system, you can download it from the [Hugo GitHub Releases](https://github.com/gohugoio/hugo/releases).*
+
+3.  **View the site:**
+    Open your browser and go to `http://localhost:1313`.
+
+## 2. Adding a new post
+
+1.  **Create the post file:**
+    From inside the `keithrozario_blog` directory, run:
+    ```bash
+    hugo new posts/my-new-post.md
+    ```
+2.  **Edit the content:**
+    Open `content/posts/my-new-post.md` in your favorite editor.
+3.  **Update Front Matter:**
+    The top of the file contains "Front Matter" in TOML format. Ensure it looks like this:
+    ```toml
+    +++
+    title = "My New Post"
+    date = "2026-02-14T12:00:00Z"
+    draft = false
+    tags = ["example", "hugo"]
+    categories = ["General"]
+    +++
+    ```
+4.  **Add your content:**
+    Write your post using standard Markdown below the second `+++`.
+
+## 3. Managing Images
+
+*   **Uploads Location:** All images are stored in `assets/uploads/`. This allows Hugo to process them using Hugo Pipes (resizing, optimizing).
+*   **Adding New Images:** Place any new images in `assets/uploads/`.
+*   **Referencing Images:** Use standard Markdown syntax. Do NOT use HTML tags (like `<figure>` or `<div>`) around images, as this prevents Hugo from processing them:
+    ```markdown
+    ![Alt text](/uploads/your-image.png)
+    ```
+*   **Responsive Resizing:** 
+    - The blog uses a custom image render hook (`layouts/_default/_markup/render-image.html`).
+    - If an image width is greater than 1024px, Hugo automatically generates a `srcset` with multiple sizes (480w, 768w, 1024w) for responsive loading.
+    - Images are lazily loaded by default for performance.
+
+## 4. Building for Production
+
+To generate the final static files (found in the `public/` folder):
+```bash
+cd keithrozario_blog
+hugo
+```
+--- End of content ---
+
+---
+
+## MODEL ✨
+
+I'll start by checking the Hugo configuration and the GitHub Actions workflow to confirm exactly how URLs are generated and how the site is deployed. This will ensure the instructions I write are 100% accurate.
+
+First, I'll read `keithrozario_blog/hugo.toml` and `.github/workflows/deploy.yaml`.**Tool Command**:
+```json
+{
+  "name": "run_shell_command",
+  "args": {
+    "command": "cat keithrozario_blog/hugo.toml\ncat .github/workflows/deploy.yaml"
+  }
+}
+```
+
+---
+
+## USER 🧑‍💻
+
+**Tool Response**:
+```json
+{
+  "id": "run_shell_command-1771121724527-cd5db161b3eb3",
+  "name": "run_shell_command",
+  "response": {
+    "output": "Output: baseURL = 'https://www.keithrozario.com/'\nlanguageCode = 'en-us'\ntitle = 'keithrozario.com'\ntheme = 'terminal'\n\n[markup]\n  [markup.goldmark]\n    [markup.goldmark.renderer]\n      unsafe = true\n\n[permalinks]\n  posts = \"/:year/:month/:slug/\"\n\n[params]\n  contentTypeName = \"posts\"\n  themeColor = \"viking\"\n  showMenuItems = 5\n  \n  [params.logo]\n    logoText = \"keithRozario\"\n  \n[menu]\n  [[menu.main]]\n    identifier = \"posts\"\n    name = \"Posts\"\n    url = \"/posts\"\n\n  [[menu.main]]\n    identifier = \"security\"\n    name = \"Security\"\n    url = \"/categories/security-amp-privacy\"\n\n  [[menu.main]]\n    identifier = \"serverless\"\n    name = \"Serverless\"\n    url = \"/categories/serverless\"\n\n  [[menu.main]]\n    identifier = \"favorites\"\n    name = \"Favorites\"\n    url = \"/categories/keiths-favorite-post\"\n\n  [[menu.main]]\n    identifier = \"contact\"\n    name = \"Contact Me\"\n    url = \"/contact\"\nname: Deploy Hugo site to Pages\n\non:\n  # Runs on pushes targeting the default branch\n  push:\n    branches: [\"main\"]\n\n  # Allows you to run this workflow manually from the Actions tab\n  workflow_dispatch:\n\n# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages\npermissions:\n  contents: read\n  pages: write\n  id-token: write\n\n# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.\n# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.\nconcurrency:\n  group: \"pages\"\n  cancel-in-progress: false\n\n# Default to bash\ndefaults:\n  run:\n    shell: bash\n\njobs:\n  # Build job\n  build:\n    runs-on: ubuntu-latest\n    steps:\n      - name: Checkout\n        uses: actions/checkout@v4\n        with:\n          submodules: recursive\n          fetch-depth: 0\n\n      - name: Setup Hugo\n        uses: peaceiris/actions-hugo@v3\n        with:\n          hugo-version: 'latest'\n          extended: true\n\n      - name: Setup Pages\n        id: pages\n        uses: actions/configure-pages@v5\n\n      - name: Install Node.js dependencies\n        run: \"[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true\"\n\n      - name: Build with Hugo\n        env:\n          # For maximum backward compatibility with Hugo modules\n          HUGO_ENVIRONMENT: production\n          HUGO_ENV: production\n        run: |\n          cd keithrozario_blog && hugo \\\n            --gc \\\n            --minify \\\n            --baseURL \"${{ steps.pages.outputs.base_url }}/\"\n\n      - name: Upload artifact\n        uses: actions/upload-pages-artifact@v3\n        with:\n          path: ./keithrozario_blog/public\n\n  # Deployment job\n  deploy:\n    environment:\n      name: github-pages\n      url: ${{ steps.deployment.outputs.page_url }}\n    runs-on: ubuntu-latest\n    needs: build\n    steps:\n      - name: Deploy to GitHub Pages\n        id: deployment\n        uses: actions/deploy-pages@v4\nProcess Group PGID: 24112"
+  }
+}
+```
+
+---
+
+## MODEL ✨
+
+**Analysis:**
+
+1.  **URL Structure:**
+    - `[permalinks] posts = "/:year/:month/:slug/"`
+    - This confirms that posts will follow the `year/month/slug` structure automatically based on the `date` in front matter.
+    - If the user provides `slug = "my-slug"` in front matter, it will use that. If not, it will slugify the title.
+    - So for new posts, the user just needs to set a `date` and `title`. They can optionally set `slug` if they want a specific URL segment.
+
+2.  **Deployment:**
+    - `deploy.yaml` runs `hugo` command inside the workflow.
+    - This means the user **does NOT** need to commit the `public/` folder.
+    - They just need to commit the source (`content/`, `assets/`, etc.).
+    - The action `peaceiris/actions-hugo` installs Hugo extended.
+    - The command is `cd keithrozario_blog && hugo ...`.
+
+**Conclusion:**
+The current `instructions.md` says:
+> To generate the final static files (found in the public/ folder):
+> `hugo`
+
+This is correct for *local* builds, but misleading for *publishing*. I should clarify that committing to `main` triggers the build and deploy.
+
+**Drafting Improvements:**
+
+1.  **Create New Post:**
+    - Command: `hugo new posts/title.md`.
+    - Front matter: Explain `title`, `date`, `draft`, `categories`.
+    - Mention that `slug` is optional but good for clean URLs.
+    - Mention the permalink structure is automatic (`/:year/:month/:slug/`).
+
+2.  **Images:**
+    - Explicitly state: Place in `keithrozario_blog/assets/uploads/`.
+    - Reference: `![Alt](/uploads/image.png)`.
+    - Note: No HTML.
+
+3.  **Publishing:**
+    - Step 1: `git add .`
+    - Step 2: `git commit -m "New post: Title"`
+    - Step 3: `git push origin main`
+    - Note: GitHub Actions will handle the rest.
+
+I will update `instructions.md` now. I'll rewrite it to be a complete guide.
+
+Wait, I should check if `assets/uploads` exists. I know I moved files there, but let's double check the path relative to project root.
+Project root: `/home/keith_krozario_altostrat_com/projects/keithrozario_dot_com/`
+Hugo root: `keithrozario_blog/`
+So images go into `keithrozario_blog/assets/uploads/`.
+
+Let's do it.
+
+One detail: `migrate_robust.py` was generating slugs explicitly to match legacy URLs. For *new* posts, does the user care about specific slugs? Probably not as much, but mentioning `slug` is good practice.
+
+I will update the file.
+
+---
+
+## USER 🧑‍💻
+
+Go ahead
+
+---
+
+## MODEL ✨
+
+I'll revise `instructions.md` to serve as a comprehensive guide for managing the blog. This update will clarify the process for creating new posts, managing images (including the crucial role of the `assets/uploads/` directory), and deploying changes via Git. I'll also add a dedicated section explaining the permalink structure to ensure consistent URL generation.**Tool Command**:
+```json
+{
+  "name": "write_file",
+  "args": {
+    "file_path": "/home/keith_krozario_altostrat_com/projects/keithrozario_dot_com/instructions.md",
+    "content": "# Blog Management Instructions\n\nThis blog has been converted from WordPress to Hugo using the `terminal` theme. The source code is hosted on GitHub, and deployment is handled automatically via GitHub Actions.\n\n## 1. Serving the site locally\n\nTo preview your blog locally with live-reloading:\n\n1.  **Navigate to the blog directory:**\n    ```bash\n    cd keithrozario_blog\n    ```\n2.  **Start the Hugo server:**\n    ```bash\n    hugo server\n    ```\n    *Note: If `hugo` is not installed on your system, you can download it from the [Hugo GitHub Releases](https://github.com/gohugoio/hugo/releases).*\n\n3.  **View the site:**\n    Open your browser and go to `http://localhost:1313`.\n\n## 2. Adding a new post\n\n1.  **Create the post file:**\n    From inside the `keithrozario_blog` directory, run:\n    ```bash\n    hugo new posts/my-new-post.md\n    ```\n2.  **Edit the content:**\n    Open `content/posts/my-new-post.md` in your favorite editor.\n3.  **Update Front Matter:**\n    The top of the file contains \"Front Matter\" in TOML format. Ensure it looks like this:\n    ```toml\n    +++\n    title = \"My New Post\"\n    date = \"2026-02-14T12:00:00Z\"\n    draft = false\n    tags = [\"example\", \"hugo\"]\n    categories = [\"General\"]\n    +++\n    ```\n    *Tip: The URL will automatically be generated as `/year/month/slug/` based on the date and title. You can override the slug by adding `slug = \"my-custom-url\"` to the front matter.*\n\n4.  **Add your content:**\n    Write your post using standard Markdown below the second `+++`.\n\n## 3. Managing Images\n\n*   **Location:** All images MUST be stored in `keithrozario_blog/assets/uploads/`.\n    *   *Why?* Placing images here allows Hugo to process them (resize, optimize) using Hugo Pipes.\n*   **Adding New Images:** Simply copy your image files (e.g., `my-image.png`) into `keithrozario_blog/assets/uploads/`.\n*   **Referencing Images:** Use standard Markdown syntax. **Do NOT use HTML tags** (like `<figure>` or `<div>`) around images, as this prevents Hugo from processing them:\n    ```markdown\n    ![Alt text](/uploads/my-image.png)\n    ```\n*   **Responsive Behavior:** \n    - The site uses a custom render hook (`layouts/_default/_markup/render-image.html`).\n    - Large images (>1024px width) are automatically resized to multiple widths (480px, 768px, 1024px) and served with `srcset` for faster loading on mobile devices.\n    - Images are lazy-loaded by default.\n\n## 4. Publishing Changes\n\nYou do **not** need to manually build the site. GitHub Actions will automatically build and deploy your changes when you push to the `main` branch.\n\n1.  **Stage your changes:**\n    ```bash\n    git add .\n    ```\n2.  **Commit your changes:**\n    ```bash\n    git commit -m \"Add new post: My New Post\"\n    ```\n3.  **Push to GitHub:**\n    ```bash\n    git push origin main\n    ```\n\n4.  **Wait for Deployment:**\n    - Go to the \"Actions\" tab in your GitHub repository to see the deployment progress.\n    - Once the workflow completes (usually 1-2 minutes), your changes will be live at `https://keithrozario.com`.\n"
+  }
+}
+```
+
+---
+
+## USER 🧑‍💻
+
+**Tool Response**:
+```json
+{
+  "id": "write_file-1771121900036-06a3783a5ffa7",
+  "name": "write_file",
+  "response": {
+    "output": "Successfully overwrote file: /home/keith_krozario_altostrat_com/projects/keithrozario_dot_com/instructions.md."
+  }
+}
+```
+
+---
+
+## MODEL ✨
+
+I have updated the `instructions.md` file.
+
+I'm done with the request. Is there anything else you need?
