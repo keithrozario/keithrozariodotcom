@@ -1,8 +1,8 @@
 +++
 title = "Reverse Centaurs and HITL"
 date = "2026-02-21T10:05:26+08:00"
-draft = true
-categories = []
+draft = false
+categories = ["agentic"]
 description = ""
 showFullContent = false
 readingTime = false
