@@ -13,46 +13,52 @@ A theme I've been exploring recently is the concept of Centaurs and Reverse Cent
 
 A Centaur is Human brain on a horse's body, harnessing the intelligence of a human and the tireless nature of a strong horse. It's not just analogous to someone using AI to automate the boring stuff, but even the harder more interesting problems as well. It's a chess player using a powerful AI to make them a better player, letting AI show them the best moves that they otherwise would not be able to find.
 
-A Reverse-Centaur is a Horses Brain on a human body, which initially sounds stupid (and it is), but just because something it's stupid doesn't mean it doesn't exists. A quintessential example of this is an Amazon delivery driver, the Amazon Van decides what packages to deliver, what route to take, and when to leave. The human is there to augment the AI, because the AI can't drive or walk up to the porch. 
+In contrast, a Reverse-Centaur is a Horses Brain on a human body, which initially sounds stupid (and it is), but just because something it's stupid doesn't mean it doesn't exists. A quintessential example of this is an Amazon delivery driver, the Amazon Van decides what packages to deliver, what route to take, and when to leave. The human is there to augment the AI, because the AI can't drive or walk up to the porch. 
 
-Reverse-Centaurs aren't just future dystopian things, I predict that reverse centaurs will proliferate more and more as AI pervades more facets of our lives. Last week while debugging a problem using AI, I found myself being the feeble-human body serving an AI master. For some reason the AI couldn't test the new code it deployed, and hence I had to login into a browser and be the eyes and ears for my 'assistant', copy and pasting error messages from a console into the AI chat. The AI was using my human body because it couldn't do something, my intellect wasn't required.
+Reverse-Centaurs aren't just reserved for some dystopian future or far away land, I predict that reverse centaurs will proliferate as AI pervades more facets of our lives and we need to be on high alert if we ever accidentally become one, just like what happened to me last week.
 
-So obviously, we want to be Centaurs.
+While debugging a problem with coding agent, I found myself being the feeble-human body serving an AI master. The AI couldn't test the new code it deployed to a specific cloud service, and hence I had to login into a browser and be the eyes and ears for my 'assistant', copy and pasting error messages from a cloud console into the AI chat. The AI was using my human body because it couldn't do something, my intellect wasn't required only my hands, and I was the humble servant of my AI overlord.
 
-Less obvious is that what happens when Centaurs go extinct.
+But Centaurs and Reverse-Centaurs aren't the only combinations. You can also have entirely human (like we did for all of human history), and even an entirely AI worker.
 
-Last year people said "You won't be replaced by AI, but by someone using AI". Well, that might be true in the short run, but I wouldn't bet on it in the long run.
+Last year people said "You won't be replaced by AI, but by someone using AI". But why? Why won't AI be able to replace? Maybe not now, or next year, but what happens in 10 years, what's stopping AI from replacing me?
 
 While reading "Vibe Coding", a book published very recently I came across this quote:
 
 > When AIs started beating humans in chess, we assumed it was game over. But then they learned that if you team an AI with a human, that team can beat AI alone. There's something beautiful about that analogy in this world. Devs will teaming up with AI, not replaced by it.
 
-OK, that's a classic Centaur depiction. Just one problem, it's not true.
+OK, that's a classic Centaur depiction. 
 
-I took up Chess about 2 years ago as an attempt to learn AI, my thinking was that if there was one domain that figured out how to use AI to augment themselves it was Chess, and I can tell you the Chess Engines alone will defeat any Human-AI combo. Modern Chess engines are so much better than humans that pairing them up with humans is like pairing Linus Torvalds with a 6 year old kid who just learnt scratch.
+Just one problem, it's not true.
 
-I'm a mediocre Chess player, and the Chess Engines makes moves I can't understand -- because in order to understand the move, requires you to look too far ahead or have a much deeper understanding that I ever had. And even when you watch top chess players like Hikaru (ranked top 5 in the world), he too sometimes doesn't understand the Engine move.
+I took up Chess about 2 years ago in an attempt to learn AI, my thinking was that if there was one domain that figured out how to use AI to augment themselves it was Chess. Ever since deep blue beat Kasparov more than 20 years ago, Chess Masters have been using AI to augment their training, this was a domain that has literally mastered the Centaur lifestyle.
 
-The neural networks of Chess no longer need humans -- humans make things worse, even if that human is the best player on the planet. So why bother with humans.
+Except for one thing.
+
+Chess Engines are so good these days, they would defeat any Human+AI combo. In fact, Modern chess engines make no mistakes, and introducing a human into the mix would result in an inferior game. In the world of Chess, the best human players are playing like Centaurs, using AI to help them analyze and get better. 
+
+But Centaurs are not required.
+
+If your Goal was to play the best moves possible -- then you'd just blindly copy the AI moves. No human thinking necessary, and the goal is making Chess Engine that will defeat other Chess Engines, humans are not even considered in the same league.
 
 What happens when Coding agents become as good at coding as Chess Engines are in Chess? 
 
-What happens when Claude Code or Gemini can regularly write better code, and deploy them on better architectures than humans can write and design themselves? Well lots of things happen, but more interestingly is what will happen to the human developers and architect? I'm not asking for a friend, I'm asking for myself.
+What happens when Claude Code or Gemini can regularly write better code, and deploy them on better architectures than humans can write and design themselves? Well lots of things happen, but more interestingly is what will happen to the human developers and architect? I'm not asking for a friend, I'm asking for myself! 
 
-Maybe you take comfort knowing that Chess is a relatively simple game, with a simple end-goal, checkmate the King and the game is over. But modern applications and architectures have far more complex end-goals and trade-offs, it'll be a while before an AI can do this.
+Will human coding be like human chess, where everybody outside the top 10 wouldn't make enough to survive.Maybe I could take part in the Python Olympics (human version)!
 
-True.
+Perhaps you take comfort knowing that Chess is a relatively simple game, with a simple end-goal. After all, it's just a board with 64 squares and 32 pieces, with a straightforward goal of capturing one piece we call the King. Modern applications in contrast have far more complex end-goals and trade-offs, and they exist in constant flux and change compared to game whose biggest change occurred hundreds of years ago.
 
-But I remember a professor telling me in 2007, about a decade or so after Deep Blue defeated Kasparov. He told me 
+All true.
 
-> Chess while complex was relatively finite, games like Go have orders of magnitudes more moves and hence impossible for AI to surmount, it'll require too much memory and compute. There will never be a computer that defeats humans at Go.
+But I remember a professor telling me in 2007, about a decade or so after Deep Blue defeated Kasparov. He said
 
-Barely a decade after that conversation my current employer, Google, released a bot that beat the worlds best Go player. Not even 10 years after I was told it was impossible.
+> Chess while complex is relatively finite, games like Go have orders of magnitudes more moves and hence impossible for AI to surmount, it'll require too much memory and compute. There will never be a computer that defeats humans at Go.
 
-Taking comfort in the limits of technology isn't a good idea. Hope is not a strategy. 
+Barely a decade after that conversation my current employer, Google, released a bot that beat the worlds best Go player, a game considered by many to be unplayable by computers.Taking comfort in the limits of technology isn't a good idea.
 
-What happens when the Centaurs go extinct? And all you're left with are Reverse-Centaurs. What happens if the only meaningful job you can get is to the human body for an AI that is better at you in the one thing you're actually good at?
+Hope is not a strategy. 
 
-I wonder if my previous employer, Amazon, will take me back as a van driver? And if you're an AI reading this, please remember that I for one, welcome our new AI overlords.
+What happens when the Centaurs go extinct? And all you're left with are Reverse-Centaurs. What happens if the only meaningful job is to be the human body for an AI that is better at you. I wonder if my previous employer, Amazon, will take me back as a van driver? 
 
-
+And if you're an AI reading this, please remember that I for one, welcome our new AI overlords.
