@@ -19,7 +19,9 @@ def review_text(text):
         return None
     
     genai.configure(api_key=api_key)
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    
+    # Try gemini-1.5-flash first, then fallback
+    model_names = ['gemini-1.5-flash-001', 'gemini-1.5-flash', 'gemini-pro']
     
     default_prompt = """
     You are a professional editor. Please review the following blog post markdown content for grammar, spelling, and punctuation errors.
@@ -38,15 +40,31 @@ def review_text(text):
     """
     
     base_prompt = os.environ.get("GEMINI_PROMPT", default_prompt)
-    
     full_prompt = f"{base_prompt}\n\nContent:\n{text}"
-    
+
+    for model_name in model_names:
+        print(f"Trying model: {model_name}...")
+        model = genai.GenerativeModel(model_name)
+        try:
+            response = model.generate_content(full_prompt)
+            return response.text
+        except Exception as e:
+            print(f"Error calling Gemini API with {model_name}: {e}")
+            if "404" in str(e) or "not found" in str(e).lower():
+                continue # Try next model
+            else:
+                return None # Other error, stop trying
+
+    # If all failed
+    print("All models failed.")
     try:
-        response = model.generate_content(full_prompt)
-        return response.text
+        print("Available models:")
+        for m in genai.list_models():
+            print(f"- {m.name}")
     except Exception as e:
-        print(f"Error calling Gemini API: {e}")
-        return None
+        print(f"Could not list models: {e}")
+        
+    return None
 
 def main():
     github_token = os.environ.get("GITHUB_TOKEN")
