@@ -1,5 +1,7 @@
 import os
 import sys
+import json
+import re
 import google.generativeai as genai
 from github import Github
 
@@ -17,7 +19,7 @@ def add_line_numbers(text):
     numbered_lines = [f"{i+1}: {line}" for i, line in enumerate(lines)]
     return "\n".join(numbered_lines)
 
-def review_text(text):
+def review_text_json(text):
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         print("GEMINI_API_KEY not found.")
@@ -25,13 +27,12 @@ def review_text(text):
     
     genai.configure(api_key=api_key)
     
-    # Try gemini-2.0-flash first, then fallback
     model_names = ['gemini-2.0-flash', 'gemini-flash-latest', 'gemini-pro-latest']
     
-    # Pre-process text to add line numbers
     numbered_text = add_line_numbers(text)
     
-    default_prompt = """
+    # Prompt explicitly asking for JSON
+    prompt = """
     You are a professional editor reviewing a blog post.
     The content below has line numbers added to the beginning of each line (e.g., "10: ...").
     
@@ -41,41 +42,63 @@ def review_text(text):
     - Punctuation issues.
     - Awkward phrasing.
     
-    IMPORTANT: You must reference the Line Number for every issue you find.
+    Ignore the Hugo frontmatter (content enclosed by the first two '---' separators at the start of the file).
     
-    Format your response as a list:
-    - **Line [Number]:** [Issue description]. Suggested change: "[Correction]"
+    Return your review as a JSON list of objects. Each object must have:
+    - "line": The integer line number where the issue is found.
+    - "original": The exact text of the line (or part of it) being corrected.
+    - "suggestion": The full corrected text for that line (or lines).
+    - "explanation": A brief explanation of the issue.
     
-    If a line has no issues, do not mention it.
-    If the entire text is perfect, just say "No issues found."
+    Example output format:
+    [
+        {
+            "line": 10,
+            "original": "Thier is a error.",
+            "suggestion": "There is an error.",
+            "explanation": "Corrected spelling of 'There' and grammar."
+        }
+    ]
+    
+    If no issues are found, return an empty list: []
+    Do NOT output markdown formatting (like ```json), just the raw JSON if possible, or wrap in ```json block.
     """
     
-    base_prompt = os.environ.get("GEMINI_PROMPT", default_prompt)
-    full_prompt = f"{base_prompt}\n\nContent:\n{numbered_text}"
+    full_prompt = f"{prompt}\n\nContent:\n{numbered_text}"
 
     for model_name in model_names:
         print(f"Trying model: {model_name}...")
         model = genai.GenerativeModel(model_name)
         try:
             response = model.generate_content(full_prompt)
-            return response.text
+            # Try to extract JSON from response
+            text_response = response.text.strip()
+            
+            # Remove markdown code block if present
+            if text_response.startswith("```json"):
+                text_response = text_response[7:]
+            if text_response.startswith("```"):
+                text_response = text_response[3:]
+            if text_response.endswith("```"):
+                text_response = text_response[:-3]
+                
+            text_response = text_response.strip()
+            
+            return json.loads(text_response)
+            
+        except json.JSONDecodeError as e:
+            print(f"Error decoding JSON from {model_name}: {e}. Response was: {response.text[:100]}...")
+            continue # Try next model or fail
+            
         except Exception as e:
             print(f"Error calling Gemini API with {model_name}: {e}")
             error_str = str(e).lower()
             if "404" in error_str or "not found" in error_str or "429" in error_str or "quota" in error_str or "limit" in error_str:
-                continue # Try next model
+                continue 
             else:
-                return None # Other error, stop trying
+                return None 
 
-    # If all failed
     print("All models failed.")
-    try:
-        print("Available models:")
-        for m in genai.list_models():
-            print(f"- {m.name}")
-    except Exception as e:
-        print(f"Could not list models: {e}")
-        
     return None
 
 def main():
@@ -86,6 +109,7 @@ def main():
     github_token = os.environ.get("GITHUB_TOKEN")
     repo_name = os.environ.get("GITHUB_REPOSITORY")
     pr_number = os.environ.get("PR_NUMBER")
+    dry_run = os.environ.get("DRY_RUN", "").lower() == "true"
 
     if not all([github_token, repo_name, pr_number]):
         print("Missing environment variables: GITHUB_TOKEN, GITHUB_REPOSITORY, or PR_NUMBER.")
@@ -101,15 +125,13 @@ def main():
         g = Github(github_token)
         print(f"Reviewing PR #{pr_number} in {repo_name}")
         
-        files = get_pr_files(g, repo_name, pr_number)
+        repo = g.get_repo(repo_name)
+        pr = repo.get_pull(pr_number)
+        files = pr.get_files()
         
-        comments = []
+        draft_comments = []
         
         for file in files:
-            # Robust filtering:
-            # 1. Must be in the posts directory.
-            # 2. Must be a markdown file.
-            # 3. Must be added or modified (not deleted or renamed without modification).
             is_post = file.filename.startswith("keithrozario_blog/content/posts/")
             is_markdown = file.filename.endswith(".md")
             is_changed = file.status in ["added", "modified"]
@@ -118,7 +140,6 @@ def main():
                 print(f"Processing {file.filename} (Status: {file.status})...")
                 
                 try:
-                    # Check if file exists locally (it should after checkout)
                     if not os.path.exists(file.filename):
                         print(f"File {file.filename} not found locally. Skipping.")
                         continue
@@ -127,34 +148,55 @@ def main():
                         content = f.read()
                     
                     if not content.strip():
-                        print(f"File {file.filename} is empty. Skipping.")
                         continue
 
-                    review = review_text(content)
+                    review_data = review_text_json(content)
                     
-                    if review:
-                        comments.append(f"## Review for `{file.filename}`\n\n{review}")
+                    if review_data:
+                        for item in review_data:
+                            line_num = item.get("line")
+                            suggestion = item.get("suggestion")
+                            explanation = item.get("explanation")
+                            
+                            if line_num and suggestion:
+                                body = f"{explanation}\n```suggestion\n{suggestion}\n```"
+                                
+                                # Use PyGithub's structure for create_review comments
+                                # Note: 'line' parameter requires the file to be part of the review.
+                                # Review comments must be on lines part of the diff? 
+                                # For 'added' files, all lines are new. For 'modified', only changed lines.
+                                # If we comment on a line not in the diff, create_review might fail or ignore it.
+                                # We'll try. If it fails, we might need fallback.
+                                
+                                draft_comments.append({
+                                    "path": file.filename,
+                                    "line": int(line_num),
+                                    "body": body
+                                })
                     else:
                         print(f"No review generated for {file.filename}.")
                         
                 except Exception as e:
                     print(f"Error processing file {file.filename}: {e}")
                     continue
-            else:
-                 # verbose logging for skipped files if needed, currently silent to avoid noise
-                 pass
 
-        if comments:
-            repo = g.get_repo(repo_name)
-            pr = repo.get_pull(pr_number)
-            full_comment = "# Blog Post Review (Gemini)\n\n" + "\n\n---\n\n".join(comments)
-            
-            if os.environ.get("DRY_RUN", "").lower() == "true":
-                print("\n[DRY RUN] Generated Comment:\n")
-                print(full_comment)
+        if draft_comments:
+            if dry_run:
+                print("\n[DRY RUN] Generated Review Comments:\n")
+                print(json.dumps(draft_comments, indent=2))
             else:
-                pr.create_issue_comment(full_comment)
-                print("Review posted successfully.")
+                try:
+                    # Post a PR review with all comments
+                    pr.create_review(
+                        commit=pr.head.sha,
+                        body="Gemini Automated Review",
+                        event="COMMENT",
+                        comments=draft_comments
+                    )
+                    print("Review comments posted successfully.")
+                except Exception as e:
+                    print(f"Failed to post review comments: {e}")
+                    # Fallback? Maybe post as issue comment if review fails
         else:
             print("No applicable files to review or no issues found.")
             
