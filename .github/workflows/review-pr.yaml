@@ -1,0 +1,36 @@
+name: Review PR with Gemini
+
+on:
+  pull_request:
+    branches: [ "main" ]
+    paths:
+      - 'keithrozario_blog/content/posts/**/*.md'
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v2
+        with:
+          enable-cache: true
+          version: "latest"
+
+      - name: Install dependencies
+        working-directory: scripts
+        run: uv sync
+
+      - name: Run Review Script
+        working-directory: scripts
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: uv run review_posts.py
