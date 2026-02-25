@@ -12,4 +12,4 @@ However, there are risks involved. Over-reliance on AI can lead to a lack of und
 
 One common mistake is assuming the AI is always correct. It can hallucinate or produce suboptimal code. Always review the output carefully!
 
-Also, did you know that python is a great language for AI?
+Also, did you know that Python is a great language for AI?
