@@ -12,6 +12,11 @@ def get_pr_files(g, repo_name, pr_number):
         print(f"Error fetching PR files: {e}")
         return []
 
+def add_line_numbers(text):
+    lines = text.splitlines()
+    numbered_lines = [f"{i+1}: {line}" for i, line in enumerate(lines)]
+    return "\n".join(numbered_lines)
+
 def review_text(text):
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
@@ -23,24 +28,30 @@ def review_text(text):
     # Try gemini-2.0-flash first, then fallback
     model_names = ['gemini-2.0-flash', 'gemini-flash-latest', 'gemini-pro-latest']
     
+    # Pre-process text to add line numbers
+    numbered_text = add_line_numbers(text)
+    
     default_prompt = """
-    You are a professional editor. Please review the following blog post markdown content for grammar, spelling, and punctuation errors.
+    You are a professional editor reviewing a blog post.
+    The content below has line numbers added to the beginning of each line (e.g., "10: ...").
     
-    Focus on:
-    - Typographical errors.
-    - Grammatical mistakes.
+    Please review the content for:
+    - Spelling mistakes.
+    - Grammatical errors.
     - Punctuation issues.
+    - Awkward phrasing.
     
-    Do NOT focus on:
-    - Style or tone (unless it's egregious).
-    - Code blocks (ignore content within fenced code blocks).
+    IMPORTANT: You must reference the Line Number for every issue you find.
     
-    Format your response as a markdown list of specific issues found, referencing the approximate location or context if possible.
-    If no issues are found, simply say "No issues found."
+    Format your response as a list:
+    - **Line [Number]:** [Issue description]. Suggested change: "[Correction]"
+    
+    If a line has no issues, do not mention it.
+    If the entire text is perfect, just say "No issues found."
     """
     
     base_prompt = os.environ.get("GEMINI_PROMPT", default_prompt)
-    full_prompt = f"{base_prompt}\n\nContent:\n{text}"
+    full_prompt = f"{base_prompt}\n\nContent:\n{numbered_text}"
 
     for model_name in model_names:
         print(f"Trying model: {model_name}...")

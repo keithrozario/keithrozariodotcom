@@ -33,16 +33,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
-          GEMINI_PROMPT: |
-            You are a professional editor reviewing a blog post.
-            
-            Your goal is to identify:
-            - Spelling mistakes.
-            - Grammatical errors.
-            - Punctuation issues.
-            - Awkward phrasing.
-            
-            Please provide the review in a clear, bulleted list. 
-            For each issue, quote the original text and suggest a correction.
-            If the text is perfect, just say "No issues found."
         run: uv run review_posts.py
