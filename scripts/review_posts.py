@@ -27,41 +27,43 @@ def review_text_json(text):
     
     genai.configure(api_key=api_key)
     
-    model_names = ['gemini-2.0-flash', 'gemini-flash-latest', 'gemini-pro-latest']
+    # Prioritize gemini-flash-latest as requested
+    model_names = ['gemini-flash-latest', 'gemini-2.0-flash', 'gemini-pro-latest']
     
     numbered_text = add_line_numbers(text)
     
-    # Prompt explicitly asking for JSON
+    # Improved Prompt
     prompt = """
     You are a professional editor reviewing a blog post.
     The content below has line numbers added to the beginning of each line (e.g., "10: ...").
     
-    Please review the content for:
-    - Spelling mistakes.
-    - Grammatical errors.
-    - Punctuation issues.
-    - Awkward phrasing.
+    **Goal:** Identify objective errors in spelling, grammar, and punctuation.
     
-    Ignore the Hugo frontmatter (content enclosed by the first two '---' separators at the start of the file).
+    **Guidelines:**
+    1.  **Maintain Author's Voice:** Do NOT suggest stylistic changes unless the phrasing is confusing or grammatically incorrect. Respect the author's tone.
+    2.  **Ignore Code:** Do NOT review or correct content inside code blocks (fenced with ```).
+    3.  **Ignore Frontmatter:** Ignore the Hugo frontmatter (metadata between the first two '---' separators).
+    4.  **Be Concise:** Keep explanations short and direct.
     
-    Return your review as a JSON list of objects. Each object must have:
-    - "line": The integer line number where the issue is found.
-    - "original": The exact text of the line (or part of it) being corrected.
-    - "suggestion": The full corrected text for that line (or lines).
-    - "explanation": A brief explanation of the issue.
+    **Output Format:**
+    Return a **JSON list** of objects. Each object must have:
+    - `"line"`: (Integer) The line number where the issue is found.
+    - `"original"`: (String) The exact text being corrected.
+    - `"suggestion"`: (String) The fully corrected text for that line.
+    - `"explanation"`: (String) A brief explanation of the error.
     
-    Example output format:
+    **Example:**
     [
         {
-            "line": 10,
+            "line": 42,
             "original": "Thier is a error.",
             "suggestion": "There is an error.",
-            "explanation": "Corrected spelling of 'There' and grammar."
+            "explanation": "Spelling correction ('Thier' -> 'There')."
         }
     ]
     
-    If no issues are found, return an empty list: []
-    Do NOT output markdown formatting (like ```json), just the raw JSON if possible, or wrap in ```json block.
+    If no issues are found, return an empty list: `[]`.
+    Output **ONLY** valid JSON. Do not use markdown code blocks (```json) if possible, but if you do, the script will handle it.
     """
     
     full_prompt = f"{prompt}\n\nContent:\n{numbered_text}"
@@ -77,8 +79,9 @@ def review_text_json(text):
             # Remove markdown code block if present
             if text_response.startswith("```json"):
                 text_response = text_response[7:]
-            if text_response.startswith("```"):
+            elif text_response.startswith("```"):
                 text_response = text_response[3:]
+            
             if text_response.endswith("```"):
                 text_response = text_response[:-3]
                 
@@ -161,13 +164,6 @@ def main():
                             if line_num and suggestion:
                                 body = f"{explanation}\n```suggestion\n{suggestion}\n```"
                                 
-                                # Use PyGithub's structure for create_review comments
-                                # Note: 'line' parameter requires the file to be part of the review.
-                                # Review comments must be on lines part of the diff? 
-                                # For 'added' files, all lines are new. For 'modified', only changed lines.
-                                # If we comment on a line not in the diff, create_review might fail or ignore it.
-                                # We'll try. If it fails, we might need fallback.
-                                
                                 draft_comments.append({
                                     "path": file.filename,
                                     "line": int(line_num),
@@ -197,7 +193,6 @@ def main():
                     print("Review comments posted successfully.")
                 except Exception as e:
                     print(f"Failed to post review comments: {e}")
-                    # Fallback? Maybe post as issue comment if review fails
         else:
             print("No applicable files to review or no issues found.")
             
