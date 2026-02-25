@@ -6,7 +6,7 @@ draft = false
 categories = ['Tech']
 +++
 
-Artificial Intelligence is rapidley changing the landscape of software engineering. From code generation to automated testing, AI tools are becoming indispensible.
+Artificial Intelligence is rapidly changing the landscape of software engineering. From code generation to automated testing, AI tools are becoming indispensable.
 
 However, there are risks involved. Over-reliance on AI can lead to a lack of understanding of the underlying code. Developers must remain vigilant and ensure they understand what the AI is producing.
 
