@@ -19,6 +19,38 @@ def add_line_numbers(text):
     numbered_lines = [f"{i+1}: {line}" for i, line in enumerate(lines)]
     return "\n".join(numbered_lines)
 
+def get_hunk_lines(patch):
+    """
+    Parses a git patch string and returns a set of valid line numbers 
+    (lines present in the new version of the file that are part of the diff hunks).
+    """
+    if not patch:
+        return set()
+        
+    valid_lines = set()
+    # Regex to match hunk headers: @@ -old_start,old_len +new_start,new_len @@
+    hunk_header_pattern = re.compile(r"^@@ -\d+(?:,\d+)? \+(\d+)(?:,(\d+))? @@")
+    current_line_number = 0
+    
+    lines = patch.split('\n')
+    
+    for line in lines:
+        if line.startswith('@@'):
+            match = hunk_header_pattern.match(line)
+            if match:
+                start_line = int(match.group(1))
+                current_line_number = start_line
+            continue
+            
+        if line.startswith('-'):
+            continue
+            
+        if line.startswith('+') or line.startswith(' '):
+            valid_lines.add(current_line_number)
+            current_line_number += 1
+            
+    return valid_lines
+
 def review_text_json(text):
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
@@ -137,7 +169,7 @@ def main():
         for file in files:
             is_post = file.filename.startswith("keithrozario_blog/content/posts/")
             is_markdown = file.filename.endswith(".md")
-            is_changed = file.status in ["added", "modified"]
+            is_changed = file.status in ["added", "modified", "renamed"]
             
             if is_post and is_markdown and is_changed:
                 print(f"Processing {file.filename} (Status: {file.status})...")
@@ -146,6 +178,13 @@ def main():
                     if not os.path.exists(file.filename):
                         print(f"File {file.filename} not found locally. Skipping.")
                         continue
+
+                    # Parse valid lines from patch
+                    valid_lines = get_hunk_lines(file.patch)
+                    if not valid_lines:
+                         print(f"No patch info (valid diff hunks) found for {file.filename}. This might mean the file is binary or too large, or no textual changes.")
+                         # If we can't determine valid lines, we skip to avoid API errors
+                         continue
                         
                     with open(file.filename, 'r', encoding='utf-8') as f:
                         content = f.read()
@@ -157,16 +196,26 @@ def main():
                     
                     if review_data:
                         for item in review_data:
-                            line_num = item.get("line")
+                            try:
+                                line_num = int(item.get("line"))
+                            except (ValueError, TypeError):
+                                print(f"Invalid line number in response: {item.get('line')}")
+                                continue
+
                             suggestion = item.get("suggestion")
                             explanation = item.get("explanation")
                             
                             if line_num and suggestion:
+                                # Check if line is within the diff
+                                if line_num not in valid_lines:
+                                    print(f"Skipping comment on line {line_num} (outside of diff hunks).")
+                                    continue
+
                                 body = f"{explanation}\n```suggestion\n{suggestion}\n```"
                                 
                                 draft_comments.append({
                                     "path": file.filename,
-                                    "line": int(line_num),
+                                    "line": line_num,
                                     "body": body
                                 })
                     else:
@@ -193,8 +242,11 @@ def main():
                     print("Review comments posted successfully.")
                 except Exception as e:
                     print(f"Failed to post review comments: {e}")
+                    # Fallback: Print comments to log if API fails
+                    print("Draft comments were:")
+                    print(json.dumps(draft_comments, indent=2))
         else:
-            print("No applicable files to review or no issues found.")
+            print("No applicable files to review or no issues found in changed lines.")
             
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
