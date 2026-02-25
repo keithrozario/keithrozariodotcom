@@ -14,34 +14,35 @@ jobs:
   review:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
+      - name: Install uv
+        uses: astral-sh/setup-uv@v2
+        with:
+          enable-cache: true
+          version: "latest"
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install google-generativeai PyGithub
+      - name: Install dependencies
+        working-directory: scripts
+        run: uv sync
 
-    - name: Run Review Script
-      env:
-        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        GITHUB_REPOSITORY: ${{ github.repository }}
-        PR_NUMBER: ${{ github.event.pull_request.number }}
-        GEMINI_PROMPT: |
-          You are a professional editor reviewing a blog post.
-          
-          Your goal is to identify:
-          - Spelling mistakes.
-          - Grammatical errors.
-          - Punctuation issues.
-          - Awkward phrasing.
-          
-          Please provide the review in a clear, bulleted list. 
-          For each issue, quote the original text and suggest a correction.
-          If the text is perfect, just say "No issues found."
-      run: python scripts/review_posts.py
+      - name: Run Review Script
+        working-directory: scripts
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          GEMINI_PROMPT: |
+            You are a professional editor reviewing a blog post.
+            
+            Your goal is to identify:
+            - Spelling mistakes.
+            - Grammatical errors.
+            - Punctuation issues.
+            - Awkward phrasing.
+            
+            Please provide the review in a clear, bulleted list. 
+            For each issue, quote the original text and suggest a correction.
+            If the text is perfect, just say "No issues found."
+        run: uv run review_posts.py

@@ -20,8 +20,8 @@ def review_text(text):
     
     genai.configure(api_key=api_key)
     
-    # Try gemini-1.5-flash first, then fallback
-    model_names = ['gemini-1.5-flash-001', 'gemini-1.5-flash', 'gemini-pro']
+    # Try gemini-2.0-flash first, then fallback
+    model_names = ['gemini-2.0-flash', 'gemini-flash-latest', 'gemini-pro-latest']
     
     default_prompt = """
     You are a professional editor. Please review the following blog post markdown content for grammar, spelling, and punctuation errors.
@@ -50,7 +50,8 @@ def review_text(text):
             return response.text
         except Exception as e:
             print(f"Error calling Gemini API with {model_name}: {e}")
-            if "404" in str(e) or "not found" in str(e).lower():
+            error_str = str(e).lower()
+            if "404" in error_str or "not found" in error_str or "429" in error_str or "quota" in error_str or "limit" in error_str:
                 continue # Try next model
             else:
                 return None # Other error, stop trying
@@ -67,6 +68,10 @@ def review_text(text):
     return None
 
 def main():
+    # Ensure we are at repo root
+    if os.path.basename(os.getcwd()) == "scripts":
+        os.chdir("..")
+
     github_token = os.environ.get("GITHUB_TOKEN")
     repo_name = os.environ.get("GITHUB_REPOSITORY")
     pr_number = os.environ.get("PR_NUMBER")
@@ -132,8 +137,13 @@ def main():
             repo = g.get_repo(repo_name)
             pr = repo.get_pull(pr_number)
             full_comment = "# Blog Post Review (Gemini)\n\n" + "\n\n---\n\n".join(comments)
-            pr.create_issue_comment(full_comment)
-            print("Review posted successfully.")
+            
+            if os.environ.get("DRY_RUN", "").lower() == "true":
+                print("\n[DRY RUN] Generated Comment:\n")
+                print(full_comment)
+            else:
+                pr.create_issue_comment(full_comment)
+                print("Review posted successfully.")
         else:
             print("No applicable files to review or no issues found.")
             
