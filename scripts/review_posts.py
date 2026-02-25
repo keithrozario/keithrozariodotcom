@@ -187,8 +187,9 @@ def main():
             else:
                 try:
                     # Post a PR review with all comments
+                    commit_obj = repo.get_commit(pr.head.sha)
                     pr.create_review(
-                        commit=pr.head.sha,
+                        commit=commit_obj,
                         body="Gemini Automated Review",
                         event="COMMENT",
                         comments=draft_comments
