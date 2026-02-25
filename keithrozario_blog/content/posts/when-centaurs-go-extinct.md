@@ -1,7 +1,7 @@
 +++
 title = "When Centaurs Go Extinct"
 date = "2026-02-23T11:08:09+08:00"
-draft = false
+draft = true
 categories = []
 description = ""
 showFullContent = false
