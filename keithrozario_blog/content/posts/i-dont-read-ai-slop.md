@@ -31,7 +31,7 @@ If you abdicate this to an LLM, you've stopped thinking, and your 'content' does
 
 [This](https://www.bigtechnology.com/p/writing-crystalized-thinking-at-amazon) article further crystallized it for me. 
 
-Amazon's writing culture was a remarkable thing, a culture that is now being eaten alive by GenAI slop (apparently!). Writing is a wonderful thing, you can bluff your way through a slide-deck or a verbal presentation, but you it's impossible to bluff your way through a written 6-page document.
+Amazon's writing culture was a remarkable thing, a culture that is now being eaten alive by GenAI slop (apparently!). Writing is a wonderful thing; you can bluff your way through a slide-deck or a verbal presentation, but it's impossible to bluff your way through a written 6-page document.
 
 A well-written article is a sign of clarity. If you're unable to write one, it just means you haven't thought things through yet. Writing (and rewriting) your thoughts over and over again clarifies the thoughts in your mind and solidifies your understanding.
 
