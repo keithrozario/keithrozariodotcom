@@ -33,6 +33,6 @@ If you abdicate this to an LLM, you've stopped thinking, and your 'content' does
 
 Amazon's writing culture was a remarkable thing, a culture that is now being eaten alive by GenAI slop (apparently!). Writing is a wonderful thing, you can bluff your way through a slide-deck or a verbal presentation, but you it's impossible to bluff your way through a written 6-page document.
 
-A well written article is a sign of clarity. If you're unable to write one, it just means you haven't thought things through yet. Writing (and rewriting) your thoughts over and over again, clarifies the thoughts in your mind and solidifies your understanding.
+A well-written article is a sign of clarity. If you're unable to write one, it just means you haven't thought things through yet. Writing (and rewriting) your thoughts over and over again clarifies the thoughts in your mind and solidifies your understanding.
 
 So if you send me AI slop, I will disregard it. I will not expend my energies on something you yourself did not feel worthy of your attention. I suspect many others feel the same way -- so think wisely before you allow a bot to send your emails.
