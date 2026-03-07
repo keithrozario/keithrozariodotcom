@@ -27,7 +27,7 @@ If you're unwilling to expend an effort in communicating your thoughts, don't ex
 
 Writing is thinking clearly.
 
-If you abdicate this to an LLM, you've stopped thinking, and your 'content' does not deserve anyone's time. With code this is even more pronounced. A pull-requests, even a badly written one, if created by a human is deserving of at least a review -- but a pull-request written automatically by AI in seconds, with minimal effort is deserving of nothing! 
+If you abdicate this to an LLM, you've stopped thinking, and your 'content' does not deserve anyone's time. With code this is even more pronounced. A pull-request, even a badly written one, if created by a human, is deserving of at least a review -- but a pull-request written automatically by AI in seconds, with minimal effort is deserving of nothing!
 
 [This](https://www.bigtechnology.com/p/writing-crystalized-thinking-at-amazon) article further crystallized it for me. 
 
