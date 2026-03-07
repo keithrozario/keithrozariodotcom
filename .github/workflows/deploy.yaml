@@ -37,9 +37,9 @@ jobs:
           fetch-depth: 0
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
+        uses: peaceiris/actions-hugo@75d2e84710de30f6ff7268e08f310b60ef14033f # v3
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.147.8'
           extended: true
 
       - name: Setup Pages
