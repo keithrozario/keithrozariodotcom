@@ -10,9 +10,9 @@ hideComments = true
 +++
 
 > Finally, LLM-generated prose undermines a social contract of sorts: absent LLMs, it is presumed that of the reader and the writer, it is the writer that has undertaken the greater intellectual exertion. (That is, it is more work to write than to read!) For the reader, this is important: should they struggle with an idea, they can reasonably assume that the writer themselves understands it — and it is the least a reader can do to labor to make sense of it.
-
+> <br><br>
 > So our guideline is to generally **not** use LLMs to write, but this shouldn’t be thought of as an absolute — and it doesn’t mean that an LLM can’t be used as part of the writing process. Just please: consider your responsibility to yourself, to your own ideas — and to the reader.
-
+><br><br>
 > http://rfd.shared.oxide.computer/rfd/0576
 
 I find the above quote so wonderful, and if you have time I cannot recommend enough that you read the entire post from Oxide.
