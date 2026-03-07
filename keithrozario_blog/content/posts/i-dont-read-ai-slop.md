@@ -15,7 +15,7 @@ hideComments = true
 
 > http://rfd.shared.oxide.computer/rfd/0576
 
-I find the above quote so wonderful, and if you have time I cannot recommend enough, that you read the entire post from oxide.
+I find the above quote so wonderful, and if you have time I cannot recommend enough that you read the entire post from Oxide.
 
 Last week, I received my first LLM generated email response.
 
