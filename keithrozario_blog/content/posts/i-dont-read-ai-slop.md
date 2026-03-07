@@ -23,7 +23,7 @@ I cannot know for sure it was LLM generated, but there were hints in the prose, 
 
 I had stopped responding to this person. I had lost any respect I had for the sender. If I wanted to get a response from Gemini, I would go to Gemini myself.
 
-If you're unwilling to expend an effort in communicating your thoughts, don't expect someone else to expend an effort trying to digest them. It's both disrespectful to the user and to you as a writer.
+If you're unwilling to expend effort in communicating your thoughts, don't expect someone else to expend effort trying to digest them. It's both disrespectful to the user and to you as a writer.
 
 Writing is thinking clearly.
 
