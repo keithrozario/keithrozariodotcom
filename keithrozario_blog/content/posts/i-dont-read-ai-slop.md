@@ -1,7 +1,7 @@
 +++
 title = "I Dont Read Ai Slop"
 date = "2026-02-26T19:49:07+04:00"
-draft = true
+draft = false
 categories = []
 description = ""
 showFullContent = false
