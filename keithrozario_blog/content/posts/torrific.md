@@ -3,6 +3,7 @@ title = "Http torrent downloads with Torrific"
 slug = "torrific"
 date = "2011-08-30T21:42:38"
 draft = false
+aliases = ["/2011/08/torrific.html"]
 categories = ['Misc']
 +++
 

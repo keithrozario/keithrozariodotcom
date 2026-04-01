@@ -3,6 +3,7 @@ title = "Hackers and terrorist"
 slug = "hackers-and-terrorist"
 date = "2015-11-23T20:29:09"
 draft = false
+aliases = ["/2015/11/hackers-and-terrorist.html"]
 categories = ['CyberLaw', "Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++
 

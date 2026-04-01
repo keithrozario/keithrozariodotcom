@@ -3,6 +3,7 @@ title = "Ivermectin"
 slug = "ivermectin"
 date = "2021-08-25T09:10:28"
 draft = false
+aliases = ["/2021/08/ivermectin.html"]
 categories = ['Misc']
 +++
 

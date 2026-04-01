@@ -3,6 +3,7 @@ title = "Maxis Launches ebook portal "
 slug = "maxis-launches-ebook-portal"
 date = "2012-04-23T18:03:24"
 draft = false
+aliases = ["/2012/04/maxis-launches-ebook-portal.html"]
 tags = ['Amazon', 'Maxis']
 categories = ['Malaysia', 'Misc']
 +++

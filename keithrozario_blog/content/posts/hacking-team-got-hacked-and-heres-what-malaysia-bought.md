@@ -3,6 +3,7 @@ title = "Hacking Team got Hacked, and here's what Malaysia Bought"
 slug = "hacking-team-got-hacked-and-heres-what-malaysia-bought"
 date = "2015-07-16T10:04:35"
 draft = false
+aliases = ["/2015/07/hacking-team-got-hacked-and-heres-what-malaysia-bought.html"]
 tags = ['Spyware']
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++

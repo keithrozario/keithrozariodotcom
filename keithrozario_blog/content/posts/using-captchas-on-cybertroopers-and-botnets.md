@@ -3,6 +3,7 @@ title = "Using Captchas on cybertroopers and botnets"
 slug = "using-captchas-on-cybertroopers-and-botnets"
 date = "2013-07-11T08:00:01"
 draft = false
+aliases = ["/2013/07/using-captchas-on-cybertroopers-and-botnets.html"]
 categories = ['Copyright and Censorship', 'Crowdsourcing', 'Malaysia']
 +++
 

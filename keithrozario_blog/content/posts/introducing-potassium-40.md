@@ -3,6 +3,7 @@ title = "Introducing potassium-40"
 slug = "introducing-potassium-40"
 date = "2018-12-20T21:38:27"
 draft = false
+aliases = ["/2018/12/introducing-potassium-40.html"]
 categories = ['Misc']
 +++
 

@@ -3,6 +3,7 @@ title = "Part 8: False prepaid registrations"
 slug = "part-8-false-prepaid-registrations"
 date = "2017-12-20T11:00:08"
 draft = false
+aliases = ["/2017/12/part-8-false-prepaid-registrations.html"]
 categories = ['Misc']
 +++
 

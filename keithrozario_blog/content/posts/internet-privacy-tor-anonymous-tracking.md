@@ -3,6 +3,7 @@ title = "Internet Privacy with TOR: Should the internet be anonymous"
 slug = "internet-privacy-tor-anonymous-tracking"
 date = "2012-06-21T07:42:54"
 draft = false
+aliases = ["/2012/06/internet-privacy-tor-anonymous-tracking.html"]
 tags = ['Anonymous', 'TOR']
 categories = ['Copyright and Censorship', 'CyberLaw', 'Security &amp; Privacy']
 +++

@@ -3,6 +3,7 @@ title = "Computing Professionals Bill: 10 reasons to kill the bill"
 slug = "computing-professional-bill-kill"
 date = "2011-12-15T11:53:39"
 draft = false
+aliases = ["/2011/12/computing-professional-bill-kill.html"]
 categories = ['CyberLaw', 'Malaysia']
 +++
 

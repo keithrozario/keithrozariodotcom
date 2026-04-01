@@ -3,6 +3,7 @@ title = "What the TPP says about copyright"
 slug = "what-the-tpp-says-about-copyright"
 date = "2013-06-17T07:00:44"
 draft = false
+aliases = ["/2013/06/what-the-tpp-says-about-copyright.html"]
 tags = ['TPP']
 categories = ['Copyright and Censorship']
 +++

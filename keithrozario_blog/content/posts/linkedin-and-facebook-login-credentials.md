@@ -3,6 +3,7 @@ title = "LinkedIn and Facebook Login Credentials"
 slug = "linkedin-and-facebook-login-credentials"
 date = "2011-05-17T02:59:52"
 draft = false
+aliases = ["/2011/05/linkedin-and-facebook-login-credentials.html"]
 tags = ['Blog Features', 'Facebook', 'LinkedIn']
 categories = ['Blog']
 +++

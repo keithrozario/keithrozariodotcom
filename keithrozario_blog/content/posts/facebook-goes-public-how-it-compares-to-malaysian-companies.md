@@ -3,6 +3,7 @@ title = "Facebook goes public : How it compares to Malaysian companies"
 slug = "facebook-goes-public-how-it-compares-to-malaysian-companies"
 date = "2012-05-18T16:44:26"
 draft = false
+aliases = ["/2012/05/facebook-goes-public-how-it-compares-to-malaysian-companies.html"]
 tags = ['Facebook']
 categories = ['Misc', 'Social Media']
 +++

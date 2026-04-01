@@ -3,6 +3,7 @@ title = "Why you should never post anything into Public Space."
 slug = "why-you-should-never-post-anything-into-public-space"
 date = "2011-05-30T06:59:31"
 draft = false
+aliases = ["/2011/05/why-you-should-never-post-anything-into-public-space.html"]
 categories = ['Misc']
 +++
 

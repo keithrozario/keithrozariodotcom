@@ -3,6 +3,7 @@ title = "Contact me"
 slug = "about-me"
 date = "2011-04-23T10:41:21"
 draft = false
+aliases = ["/2011/04/about-me.html"]
 +++
 
 Hey there, if you're hoping to reach Keith you've come to the right place.

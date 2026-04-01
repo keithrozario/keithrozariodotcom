@@ -3,6 +3,7 @@ title = "WTF is a bitcoin?"
 slug = "wtf-is-a-bitcoin"
 date = "2014-04-27T11:21:00"
 draft = false
+aliases = ["/2014/04/wtf-is-a-bitcoin.html"]
 tags = ['BitCoin']
 categories = ['Security &amp; Privacy', 'WhatisIT']
 +++

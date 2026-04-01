@@ -3,6 +3,7 @@ title = "Klayers Part 1: Building Lambda Layers with Lambda Functions"
 slug = "klayers-part-1-building-lambda-layers-with-lambda-functions"
 date = "2019-08-18T22:17:30"
 draft = false
+aliases = ["/2019/08/klayers-part-1-building-lambda-layers-with-lambda-functions.html"]
 categories = ['Serverless']
 +++
 

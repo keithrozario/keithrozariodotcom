@@ -3,6 +3,7 @@ title = "How Computer Security Research works: Facebook 20,000 prize"
 slug = "computer-security-research-works-facebook-20000"
 date = "2013-07-05T08:00:44"
 draft = false
+aliases = ["/2013/07/computer-security-research-works-facebook-20000.html"]
 categories = ['Security &amp; Privacy']
 +++
 

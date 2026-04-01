@@ -3,6 +3,7 @@ title = "Logging within AWS Lambda Functions (python edition)"
 slug = "logging-within-lambda-functions"
 date = "2020-04-30T19:14:18"
 draft = false
+aliases = ["/2020/04/logging-within-lambda-functions.html"]
 categories = ['Serverless']
 +++
 

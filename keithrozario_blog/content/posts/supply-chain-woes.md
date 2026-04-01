@@ -3,6 +3,7 @@ title = "Supply Chain Woes"
 slug = "supply-chain-woes"
 date = "2018-10-07T22:27:21"
 draft = false
+aliases = ["/2018/10/supply-chain-woes.html"]
 categories = ['Misc']
 +++
 

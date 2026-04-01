@@ -3,6 +3,7 @@ title = "The Internet is slow because of illegal downloads"
 slug = "internet-is-slow-because-of-illegal-download"
 date = "2016-06-18T12:20:54"
 draft = false
+aliases = ["/2016/06/internet-is-slow-because-of-illegal-download.html"]
 categories = ['Copyright and Censorship', "Keith's Favorite Post", 'Malaysia']
 +++
 

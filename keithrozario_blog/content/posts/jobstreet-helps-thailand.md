@@ -3,6 +3,7 @@ title = "Jobstreet does its bit for Thailand"
 slug = "jobstreet-helps-thailand"
 date = "2011-12-14T11:23:59"
 draft = false
+aliases = ["/2011/12/jobstreet-helps-thailand.html"]
 categories = ['Malaysia', 'Misc']
 +++
 

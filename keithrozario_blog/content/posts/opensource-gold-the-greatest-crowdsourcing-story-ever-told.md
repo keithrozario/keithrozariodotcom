@@ -3,6 +3,7 @@ title = "OpenSource Gold: The greatest Crowdsourcing story ever told"
 slug = "opensource-gold-the-greatest-crowdsourcing-story-ever-told"
 date = "2012-07-06T08:00:08"
 draft = false
+aliases = ["/2012/07/opensource-gold-the-greatest-crowdsourcing-story-ever-told.html"]
 tags = ['Don Tapscott', 'Goldcorp']
 categories = ['Crowdsourcing']
 +++

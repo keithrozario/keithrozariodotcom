@@ -3,6 +3,7 @@ title = "How many FAKE followers does Najib have on twitter?"
 slug = "najib-twitter-fake-followers"
 date = "2013-04-12T05:00:59"
 draft = false
+aliases = ["/2013/04/najib-twitter-fake-followers.html"]
 tags = ['twitter']
 categories = ['Malaysia', 'Social Media']
 +++

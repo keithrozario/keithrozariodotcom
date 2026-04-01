@@ -3,6 +3,7 @@ title = "MDeC Private Meeting with ODI"
 slug = "mdec-meeting-with-odi-open-data"
 date = "2015-04-05T20:00:17"
 draft = false
+aliases = ["/2015/04/mdec-meeting-with-odi-open-data.html"]
 categories = ['Big Data', 'Malaysia']
 +++
 

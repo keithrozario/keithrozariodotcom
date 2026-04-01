@@ -3,6 +3,7 @@ title = "For the FINAL time, Malaysian internet speeds are NOT slow."
 slug = "for-the-final-time-malaysian-internet-speeds-are-not-slow"
 date = "2015-07-01T23:09:54"
 draft = false
+aliases = ["/2015/07/for-the-final-time-malaysian-internet-speeds-are-not-slow.html"]
 tags = ['Broadband']
 categories = ['Malaysia', 'Misc']
 +++

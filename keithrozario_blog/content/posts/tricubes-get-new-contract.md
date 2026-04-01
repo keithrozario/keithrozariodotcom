@@ -3,6 +3,7 @@ title = "Tricubes gets new RM6million contract"
 slug = "tricubes-get-new-contract"
 date = "2012-01-04T13:21:33"
 draft = false
+aliases = ["/2012/01/tricubes-get-new-contract.html"]
 tags = ['Tricubes']
 categories = ['Malaysia', 'Misc']
 +++

@@ -3,6 +3,7 @@ title = "Sharding SQS"
 slug = "sharding-sqs"
 date = "2020-05-10T00:01:17"
 draft = false
+aliases = ["/2020/05/sharding-sqs.html"]
 categories = ['Serverless']
 +++
 

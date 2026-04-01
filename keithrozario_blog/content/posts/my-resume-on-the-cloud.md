@@ -3,6 +3,7 @@ title = "My Resume on the cloud"
 slug = "my-resume-on-the-cloud"
 date = "2011-11-21T00:20:09"
 draft = false
+aliases = ["/2011/11/my-resume-on-the-cloud.html"]
 categories = ['Social Media']
 +++
 

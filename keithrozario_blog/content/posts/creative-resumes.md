@@ -3,6 +3,7 @@ title = "Creative Resumes"
 slug = "creative-resumes"
 date = "2011-05-18T11:08:14"
 draft = false
+aliases = ["/2011/05/creative-resumes.html"]
 tags = ['Cool Designs', 'resume']
 categories = ['Design']
 +++

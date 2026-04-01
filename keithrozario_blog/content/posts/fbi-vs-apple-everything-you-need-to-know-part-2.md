@@ -3,6 +3,7 @@ title = "FBI vs. Apple : Everything you need to know part 2"
 slug = "fbi-vs-apple-everything-you-need-to-know-part-2"
 date = "2016-03-07T00:00:04"
 draft = false
+aliases = ["/2016/03/fbi-vs-apple-everything-you-need-to-know-part-2.html"]
 tags = ['Apple', 'Encryption', 'FBI']
 categories = ['CyberLaw', 'Security &amp; Privacy']
 +++

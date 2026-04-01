@@ -3,6 +3,7 @@ title = "The Tyranny of Best Practice"
 slug = "the-tyranny-of-best-practice"
 date = "2024-08-12T14:00:45"
 draft = false
+aliases = ["/2024/08/the-tyranny-of-best-practice.html"]
 categories = ['Misc']
 +++
 

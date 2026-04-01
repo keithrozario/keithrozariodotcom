@@ -3,6 +3,7 @@ title = "The METR Study"
 slug = "the-metr-study"
 date = "2025-12-07T15:55:36"
 draft = false
+aliases = ["/2025/12/the-metr-study.html"]
 categories = ['Misc']
 +++
 

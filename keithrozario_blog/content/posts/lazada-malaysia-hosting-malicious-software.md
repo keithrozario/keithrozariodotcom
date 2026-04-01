@@ -3,6 +3,7 @@ title = "Google: Lazada.com.my Malaysia is hosting Malware"
 slug = "lazada-malaysia-hosting-malicious-software"
 date = "2012-08-08T13:57:11"
 draft = false
+aliases = ["/2012/08/lazada-malaysia-hosting-malicious-software.html"]
 categories = ['Malaysia']
 +++
 

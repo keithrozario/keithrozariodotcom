@@ -3,6 +3,7 @@ title = "Yes.my : A review of Malaysias 4G broadband"
 slug = "ytl-yes-4g-review-mobile-internet"
 date = "2011-08-17T11:51:19"
 draft = false
+aliases = ["/2011/08/ytl-yes-4g-review-mobile-internet.html"]
 categories = ['Malaysia', 'Misc']
 +++
 

@@ -3,6 +3,7 @@ title = "Can Malaysia produce the next Facebook or Google?"
 slug = "can-malaysia-produce-the-next-facebook-or-google"
 date = "2013-03-10T22:17:21"
 draft = false
+aliases = ["/2013/03/can-malaysia-produce-the-next-facebook-or-google.html"]
 categories = ['Misc']
 +++
 

@@ -3,6 +3,7 @@ title = "Why the 3-D printed gun is an overblown concern"
 slug = "why-the-3-d-printed-gun-is-an-overblown-concern"
 date = "2014-10-13T11:14:36"
 draft = false
+aliases = ["/2014/10/why-the-3-d-printed-gun-is-an-overblown-concern.html"]
 categories = ['Misc']
 +++
 

@@ -3,6 +3,7 @@ title = "F-Secure hackathon result"
 slug = "f-secure-hackathon-malaysia-result"
 date = "2013-04-28T07:00:41"
 draft = false
+aliases = ["/2013/04/f-secure-hackathon-malaysia-result.html"]
 tags = ['F-Secure']
 categories = ['Malaysia', 'Misc']
 +++

@@ -3,6 +3,7 @@ title = "Keith's Adventures in DynamoDB Land"
 slug = "keiths-adventures-in-dynamodb-land"
 date = "2020-06-28T23:22:56"
 draft = false
+aliases = ["/2020/06/keiths-adventures-in-dynamodb-land.html"]
 categories = ['Misc']
 +++
 

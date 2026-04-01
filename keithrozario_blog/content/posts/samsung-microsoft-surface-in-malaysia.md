@@ -3,6 +3,7 @@ title = "Samsung Microsoft Surface in Malaysia"
 slug = "samsung-microsoft-surface-in-malaysia"
 date = "2012-06-29T13:28:18"
 draft = false
+aliases = ["/2012/06/samsung-microsoft-surface-in-malaysia.html"]
 tags = ['Microsoft', 'Samsung']
 categories = ['Malaysia']
 +++

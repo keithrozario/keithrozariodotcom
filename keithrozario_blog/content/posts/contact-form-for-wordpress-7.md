@@ -3,6 +3,7 @@ title = "Contact Form for Wordpress: Contact form 7"
 slug = "contact-form-for-wordpress-7"
 date = "2011-04-25T17:22:14"
 draft = false
+aliases = ["/2011/04/contact-form-for-wordpress-7.html"]
 tags = ['wordpress']
 categories = ['Blog']
 +++

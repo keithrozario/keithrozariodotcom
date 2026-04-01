@@ -3,6 +3,7 @@ title = "MCMC looking to 'control' social media at GE13: A worrying trend"
 slug = "mcmc-looking-to-control-social-media-at-ge13-a-worrying-trend"
 date = "2013-03-03T15:19:37"
 draft = false
+aliases = ["/2013/03/mcmc-looking-to-control-social-media-at-ge13-a-worrying-trend.html"]
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia']
 +++
 

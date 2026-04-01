@@ -3,6 +3,7 @@ title = "What is big data"
 slug = "what-is-big-data"
 date = "2012-07-16T07:00:13"
 draft = false
+aliases = ["/2012/07/what-is-big-data.html"]
 tags = ['Apache', 'Google', 'Hadoop', 'SAP']
 categories = ['Big Data', 'Misc']
 +++

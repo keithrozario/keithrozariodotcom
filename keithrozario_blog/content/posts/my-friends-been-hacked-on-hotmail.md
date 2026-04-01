@@ -3,6 +3,7 @@ title = "My Friends been hacked on Hotmail"
 slug = "my-friends-been-hacked-on-hotmail"
 date = "2011-07-19T10:20:56"
 draft = false
+aliases = ["/2011/07/my-friends-been-hacked-on-hotmail.html"]
 categories = ['Misc']
 +++
 

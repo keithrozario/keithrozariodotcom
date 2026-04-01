@@ -3,6 +3,7 @@ title = "Use Minutes.io for your meeting minutes"
 slug = "use-minutes-io-for-your-meeting-minutes"
 date = "2011-06-07T16:25:34"
 draft = false
+aliases = ["/2011/06/use-minutes-io-for-your-meeting-minutes.html"]
 categories = ['Design']
 +++
 

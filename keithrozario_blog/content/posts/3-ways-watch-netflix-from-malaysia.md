@@ -3,6 +3,7 @@ title = "3 Ways to watch Netflix from Malaysia"
 slug = "3-ways-watch-netflix-from-malaysia"
 date = "2014-06-20T09:00:57"
 draft = false
+aliases = ["/2014/06/3-ways-watch-netflix-from-malaysia.html"]
 tags = ['Netflix Malaysia']
 categories = ['Copyright and Censorship', 'Malaysia']
 +++

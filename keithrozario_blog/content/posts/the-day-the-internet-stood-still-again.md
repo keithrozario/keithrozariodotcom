@@ -3,6 +3,7 @@ title = "The day the internet stood still--AGAIN!"
 slug = "the-day-the-internet-stood-still-again"
 date = "2015-06-17T13:02:04"
 draft = false
+aliases = ["/2015/06/the-day-the-internet-stood-still-again.html"]
 categories = ['Malaysia', 'WhatisIT']
 +++
 

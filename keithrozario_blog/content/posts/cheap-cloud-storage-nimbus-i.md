@@ -3,6 +3,7 @@ title = "REALLY cheap Cloud Storage"
 slug = "cheap-cloud-storage-nimbus-i"
 date = "2012-05-31T15:24:37"
 draft = false
+aliases = ["/2012/05/cheap-cloud-storage-nimbus-i.html"]
 tags = ['Nimbus.IO']
 categories = ['Cloud Computing', 'Cloud Storage']
 +++

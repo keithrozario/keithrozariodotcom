@@ -3,6 +3,7 @@ title = "What if Ikea designed sci-fi manuals"
 slug = "what-if-ikea-designed"
 date = "2011-05-10T10:42:00"
 draft = false
+aliases = ["/2011/05/what-if-ikea-designed.html"]
 tags = ['Cool Designs', 'Ikea']
 categories = ['Design']
 +++

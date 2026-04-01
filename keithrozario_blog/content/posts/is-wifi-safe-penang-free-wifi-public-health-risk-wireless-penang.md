@@ -3,6 +3,7 @@ title = "Are Free Public WiFi initiatives safe? Or do they pose a Health Risk?"
 slug = "is-wifi-safe-penang-free-wifi-public-health-risk-wireless-penang"
 date = "2013-02-15T07:00:51"
 draft = false
+aliases = ["/2013/02/is-wifi-safe-penang-free-wifi-public-health-risk-wireless-penang.html"]
 tags = ['WiFi', 'Wireless@Penang']
 categories = ['CyberLaw', 'Malaysia', 'Science']
 +++

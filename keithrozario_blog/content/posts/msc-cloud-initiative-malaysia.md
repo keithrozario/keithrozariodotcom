@@ -3,6 +3,7 @@ title = "MSC Cloud Initiative : Why it's a bridge too far"
 slug = "msc-cloud-initiative-malaysia"
 date = "2012-08-03T11:33:57"
 draft = false
+aliases = ["/2012/08/msc-cloud-initiative-malaysia.html"]
 tags = ['MSC']
 categories = ['Cloud Computing', "Keith's Favorite Post", 'Malaysia']
 +++

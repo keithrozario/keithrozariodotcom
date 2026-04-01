@@ -3,6 +3,7 @@ title = "2018 in Review"
 slug = "my-year-in-review"
 date = "2018-12-24T16:56:12"
 draft = false
+aliases = ["/2018/12/my-year-in-review.html"]
 categories = ['Misc']
 +++
 

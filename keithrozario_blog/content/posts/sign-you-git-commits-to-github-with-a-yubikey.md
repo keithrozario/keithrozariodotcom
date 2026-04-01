@@ -3,6 +3,7 @@ title = "Sign you Git Commits to Github with A Yubikey"
 slug = "sign-you-git-commits-to-github-with-a-yubikey"
 date = "2021-10-08T21:34:22"
 draft = false
+aliases = ["/2021/10/sign-you-git-commits-to-github-with-a-yubikey.html"]
 categories = ['Misc']
 +++
 

@@ -3,6 +3,7 @@ title = "Googles Wi-Fi strategy: The Power of Defaults"
 slug = "google-choose-an-opt-out"
 date = "2011-11-30T19:51:09"
 draft = false
+aliases = ["/2011/11/google-choose-an-opt-out.html"]
 categories = ['Misc']
 +++
 

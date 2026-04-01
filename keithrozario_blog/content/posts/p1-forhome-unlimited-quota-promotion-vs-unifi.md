@@ -3,6 +3,7 @@ title = "Packet One ForHome Quota promotion vs. Unifi"
 slug = "p1-forhome-unlimited-quota-promotion-vs-unifi"
 date = "2013-09-24T08:00:30"
 draft = false
+aliases = ["/2013/09/p1-forhome-unlimited-quota-promotion-vs-unifi.html"]
 categories = ['Malaysia']
 +++
 

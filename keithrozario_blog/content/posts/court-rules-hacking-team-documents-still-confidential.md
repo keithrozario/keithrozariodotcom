@@ -3,6 +3,7 @@ title = "Court rules Hacking Team documents still confidential"
 slug = "court-rules-hacking-team-documents-still-confidential"
 date = "2016-02-19T08:00:51"
 draft = false
+aliases = ["/2016/02/court-rules-hacking-team-documents-still-confidential.html"]
 categories = ['Copyright and Censorship', 'CyberLaw']
 +++
 

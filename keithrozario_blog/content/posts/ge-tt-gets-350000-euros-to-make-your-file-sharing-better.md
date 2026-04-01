@@ -3,6 +3,7 @@ title = "Ge.tt gets 350,000 Euros to make your file sharing better"
 slug = "ge-tt-gets-350000-euros-to-make-your-file-sharing-better"
 date = "2012-01-03T09:21:08"
 draft = false
+aliases = ["/2012/01/ge-tt-gets-350000-euros-to-make-your-file-sharing-better.html"]
 tags = ['filesharing']
 categories = ['Cloud Computing']
 +++

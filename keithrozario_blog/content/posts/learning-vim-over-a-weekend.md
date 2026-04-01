@@ -3,6 +3,7 @@ title = "Learning VIM over a Weekend"
 slug = "learning-vim-over-a-weekend"
 date = "2021-06-06T18:18:59"
 draft = false
+aliases = ["/2021/06/learning-vim-over-a-weekend.html"]
 categories = ['Misc']
 +++
 

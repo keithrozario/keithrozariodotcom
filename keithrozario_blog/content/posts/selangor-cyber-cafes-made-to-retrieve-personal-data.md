@@ -3,6 +3,7 @@ title = "Selangor Cyber Cafes made to retrieve personal data"
 slug = "selangor-cyber-cafes-made-to-retrieve-personal-data"
 date = "2013-01-01T18:15:09"
 draft = false
+aliases = ["/2013/01/selangor-cyber-cafes-made-to-retrieve-personal-data.html"]
 categories = ['CyberLaw', 'Malaysia']
 +++
 

@@ -3,6 +3,7 @@ title = "Another Day, Another breach"
 slug = "another-day-another-breach"
 date = "2018-02-04T10:14:17"
 draft = false
+aliases = ["/2018/02/another-day-another-breach.html"]
 categories = ['Misc']
 +++
 

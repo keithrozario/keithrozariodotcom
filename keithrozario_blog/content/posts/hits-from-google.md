@@ -3,6 +3,7 @@ title = "Understanding those hits from Google"
 slug = "hits-from-google"
 date = "2011-11-07T15:07:05"
 draft = false
+aliases = ["/2011/11/hits-from-google.html"]
 tags = ['Google']
 categories = ['Blog', 'Social Media']
 +++

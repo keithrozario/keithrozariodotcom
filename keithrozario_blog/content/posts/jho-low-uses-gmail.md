@@ -3,6 +3,7 @@ title = "Jho Low uses Gmail? Why emails can't be considered evidence"
 slug = "jho-low-uses-gmail"
 date = "2015-03-07T15:11:26"
 draft = false
+aliases = ["/2015/03/jho-low-uses-gmail.html"]
 categories = ['CyberLaw', 'Security &amp; Privacy']
 +++
 

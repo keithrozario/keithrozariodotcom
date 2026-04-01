@@ -3,6 +3,7 @@ title = ".my domains hacked: Why SSL is more important than ever"
 slug = "my-domains-hacked-why-ssl-is-more-important-than-ever"
 date = "2013-07-02T15:34:29"
 draft = false
+aliases = ["/2013/07/my-domains-hacked-why-ssl-is-more-important-than-ever.html"]
 categories = ['Security &amp; Privacy']
 +++
 

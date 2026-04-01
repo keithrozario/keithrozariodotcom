@@ -3,6 +3,7 @@ title = "My 2020 resolution: Pay for news!"
 slug = "2020-resolution-pay-for-news"
 date = "2020-01-01T16:54:02"
 draft = false
+aliases = ["/2020/01/2020-resolution-pay-for-news.html"]
 categories = ['Misc']
 +++
 

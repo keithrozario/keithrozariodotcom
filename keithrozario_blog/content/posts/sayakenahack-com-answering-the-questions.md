@@ -3,6 +3,7 @@ title = "Sayakenahack.com answering the questions"
 slug = "sayakenahack-com-answering-the-questions"
 date = "2017-11-16T23:50:35"
 draft = false
+aliases = ["/2017/11/sayakenahack-com-answering-the-questions.html"]
 categories = ['Misc']
 +++
 

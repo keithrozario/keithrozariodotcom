@@ -3,6 +3,7 @@ title = "First Day Review: Dreamhost web hosting"
 slug = "first-day-review-dreamhost-web-hosting"
 date = "2011-05-14T02:15:29"
 draft = false
+aliases = ["/2011/05/first-day-review-dreamhost-web-hosting.html"]
 tags = ['Hosting']
 categories = ['Blog']
 +++

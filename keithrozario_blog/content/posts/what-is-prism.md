@@ -3,6 +3,7 @@ title = "What is PRISM?"
 slug = "what-is-prism"
 date = "2013-06-17T08:00:08"
 draft = false
+aliases = ["/2013/06/what-is-prism.html"]
 categories = ['Copyright and Censorship', 'CyberLaw', "Keith's Favorite Post", 'Security &amp; Privacy']
 +++
 

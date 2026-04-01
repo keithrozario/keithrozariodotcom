@@ -3,6 +3,7 @@ title = "Of pirated software and vaccinations"
 slug = "off-pirated-software-and-vaccinations"
 date = "2013-09-15T23:32:57"
 draft = false
+aliases = ["/2013/09/off-pirated-software-and-vaccinations.html"]
 categories = ["Keith's Favorite Post", 'Science', 'Security &amp; Privacy']
 +++
 

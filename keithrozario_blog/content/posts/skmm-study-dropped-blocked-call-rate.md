@@ -3,6 +3,7 @@ title = "SKMM Study: The Best and Worst Telco in KL"
 slug = "skmm-study-dropped-blocked-call-rate"
 date = "2012-12-24T08:00:45"
 draft = false
+aliases = ["/2012/12/skmm-study-dropped-blocked-call-rate.html"]
 tags = ['Celcom', 'Digi', 'Maxis']
 categories = ["Keith's Favorite Post", 'Malaysia']
 +++

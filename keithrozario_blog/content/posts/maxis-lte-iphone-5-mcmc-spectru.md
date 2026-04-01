@@ -3,6 +3,7 @@ title = "Maxis announces LTE support for iPhone 5 "
 slug = "maxis-lte-iphone-5-mcmc-spectru"
 date = "2013-04-20T07:00:41"
 draft = false
+aliases = ["/2013/04/maxis-lte-iphone-5-mcmc-spectru.html"]
 tags = ['LTE', 'Maxis']
 categories = ['Malaysia']
 +++

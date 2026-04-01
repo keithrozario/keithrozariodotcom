@@ -3,6 +3,7 @@ title = "Random thoughts"
 slug = "random-thoughts"
 date = "2016-08-20T22:13:56"
 draft = false
+aliases = ["/2016/08/random-thoughts.html"]
 categories = ['Misc']
 +++
 

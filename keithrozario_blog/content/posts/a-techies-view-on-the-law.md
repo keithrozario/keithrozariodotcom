@@ -3,6 +3,7 @@ title = "A Techie's view on the Law"
 slug = "a-techies-view-on-the-law"
 date = "2014-09-08T22:30:09"
 draft = false
+aliases = ["/2014/09/a-techies-view-on-the-law.html"]
 categories = ['CyberLaw', 'Security &amp; Privacy']
 +++
 

@@ -3,6 +3,7 @@ title = "Unifi vs. Yes : The speed showdown"
 slug = "unifi-speedtest-vs-4g-yes"
 date = "2012-02-12T12:59:16"
 draft = false
+aliases = ["/2012/02/unifi-speedtest-vs-4g-yes.html"]
 tags = ['Broadband', 'speedtest', 'Unifi', 'Yes']
 categories = ['Malaysia']
 +++

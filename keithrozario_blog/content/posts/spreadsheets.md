@@ -3,6 +3,7 @@ title = "Spreadsheets"
 slug = "spreadsheets"
 date = "2020-10-30T07:02:00"
 draft = false
+aliases = ["/2020/10/spreadsheets.html"]
 categories = ['Misc']
 +++
 

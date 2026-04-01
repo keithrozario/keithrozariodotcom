@@ -3,6 +3,7 @@ title = "DOH! : Mark Zuckerberg is the No.1 Google+ user"
 slug = "mark-zuckerberg-is-no-1"
 date = "2011-10-19T14:17:44"
 draft = false
+aliases = ["/2011/10/mark-zuckerberg-is-no-1.html"]
 tags = ['Facebook', 'Google']
 categories = ['Social Media']
 +++

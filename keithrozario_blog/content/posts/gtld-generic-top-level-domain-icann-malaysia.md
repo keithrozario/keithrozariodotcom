@@ -3,6 +3,7 @@ title = "10 Strange things about the ICANN Generic Top Level Domains (gTLD)"
 slug = "gtld-generic-top-level-domain-icann-malaysia"
 date = "2012-06-14T17:51:43"
 draft = false
+aliases = ["/2012/06/gtld-generic-top-level-domain-icann-malaysia.html"]
 tags = ['Amazon', 'Google']
 categories = ['Malaysia', 'Misc']
 +++

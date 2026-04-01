@@ -3,6 +3,7 @@ title = "Singapore Historical PSI Readings in Excel"
 slug = "singapore-historical-psi-readings-in-excel"
 date = "2016-03-25T08:00:51"
 draft = false
+aliases = ["/2016/03/singapore-historical-psi-readings-in-excel.html"]
 categories = ['Misc']
 +++
 

@@ -3,6 +3,7 @@ title = "Crowdsourcing Week Singapore : Registration and Promo Code"
 slug = "crowdsourcing-week-singapore-promo-codes-discounttickets"
 date = "2013-04-14T16:24:48"
 draft = false
+aliases = ["/2013/04/crowdsourcing-week-singapore-promo-codes-discounttickets.html"]
 tags = ['Crowdsourcing Week Singapore', 'discount']
 categories = ['Crowdsourcing']
 +++

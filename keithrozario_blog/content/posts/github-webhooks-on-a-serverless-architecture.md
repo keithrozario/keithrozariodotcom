@@ -3,6 +3,7 @@ title = "GitHub webhooks with Serverless"
 slug = "github-webhooks-on-a-serverless-architecture"
 date = "2018-10-15T22:37:54"
 draft = false
+aliases = ["/2018/10/github-webhooks-on-a-serverless-architecture.html"]
 categories = ['Misc']
 +++
 

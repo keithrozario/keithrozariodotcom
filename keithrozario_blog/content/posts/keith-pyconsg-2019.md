@@ -3,6 +3,7 @@ title = "Keith @ PyconSG 2019"
 slug = "keith-pyconsg-2019"
 date = "2019-12-12T23:29:30"
 draft = false
+aliases = ["/2019/12/keith-pyconsg-2019.html"]
 categories = ['Serverless', 'Singapore', 'talks']
 +++
 

@@ -3,6 +3,7 @@ title = "Medium blocked: Collateral Censorship vs. Collateral Freedom"
 slug = "medium-blocked-collateral-censorship-vs-collateral-freedom"
 date = "2016-01-24T16:53:23"
 draft = false
+aliases = ["/2016/01/medium-blocked-collateral-censorship-vs-collateral-freedom.html"]
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia']
 +++
 

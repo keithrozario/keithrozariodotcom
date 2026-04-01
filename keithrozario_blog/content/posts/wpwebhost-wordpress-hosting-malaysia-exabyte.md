@@ -3,6 +3,7 @@ title = "WPWebHost : Wordpress Hosting in Malaysia from Exabytes"
 slug = "wpwebhost-wordpress-hosting-malaysia-exabyte"
 date = "2012-09-19T12:10:04"
 draft = false
+aliases = ["/2012/09/wpwebhost-wordpress-hosting-malaysia-exabyte.html"]
 tags = ['Exabytes', 'WPWebHost']
 categories = ['Blog', 'Malaysia']
 +++

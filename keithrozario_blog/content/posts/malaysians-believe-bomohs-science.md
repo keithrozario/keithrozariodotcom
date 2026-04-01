@@ -3,6 +3,7 @@ title = "No Surprise Malaysia scores low on Science"
 slug = "malaysians-believe-bomohs-science"
 date = "2012-12-26T08:00:14"
 draft = false
+aliases = ["/2012/12/malaysians-believe-bomohs-science.html"]
 categories = ['Malaysia', 'Science']
 +++
 

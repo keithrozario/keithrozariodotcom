@@ -3,6 +3,7 @@ title = "Change WiFi password on Maxis home fiber router"
 slug = "change-wifi-password-on-maxis-home-fiber-router"
 date = "2015-09-05T15:33:16"
 draft = false
+aliases = ["/2015/09/change-wifi-password-on-maxis-home-fiber-router.html"]
 categories = ['Malaysia', 'Misc']
 +++
 

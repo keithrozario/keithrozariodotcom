@@ -3,6 +3,7 @@ title = "CPU Wars: Why didn't I think of this #damnit"
 slug = "cpu-wars-why-didnt-i-think-of-this-damnit"
 date = "2012-06-03T08:24:41"
 draft = false
+aliases = ["/2012/06/cpu-wars-why-didnt-i-think-of-this-damnit.html"]
 categories = ['Misc']
 +++
 

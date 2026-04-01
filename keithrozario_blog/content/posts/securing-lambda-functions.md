@@ -3,6 +3,7 @@ title = "Securing Lambda Functions"
 slug = "securing-lambda-functions"
 date = "2019-02-17T21:21:16"
 draft = false
+aliases = ["/2019/02/securing-lambda-functions.html"]
 categories = ['Security &amp; Privacy', 'Serverless']
 +++
 

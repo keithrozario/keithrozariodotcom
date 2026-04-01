@@ -3,6 +3,7 @@ title = "Kerajaan Malaysian Mengintip Rakyat Malaysia sendiri"
 slug = "kerajaan-barisan-nasional-malaysia-mengintip-rakyat-warganegara-finspy-finfisher"
 date = "2013-05-03T09:30:40"
 draft = false
+aliases = ["/2013/05/kerajaan-barisan-nasional-malaysia-mengintip-rakyat-warganegara-finspy-finfisher.html"]
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia']
 +++
 

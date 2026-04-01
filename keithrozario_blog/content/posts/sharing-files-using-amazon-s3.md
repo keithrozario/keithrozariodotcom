@@ -3,6 +3,7 @@ title = "Sharing Files using Amazon S3"
 slug = "sharing-files-using-amazon-s3"
 date = "2011-10-27T15:43:46"
 draft = false
+aliases = ["/2011/10/sharing-files-using-amazon-s3.html"]
 tags = ['Amazon', 'S3']
 categories = ['Blog', 'Cloud Computing', 'Cloud Storage']
 +++

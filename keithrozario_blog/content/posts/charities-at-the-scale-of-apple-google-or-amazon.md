@@ -3,6 +3,7 @@ title = "Charities at the scale of Apple, Google or Amazon"
 slug = "charities-at-the-scale-of-apple-google-or-amazon"
 date = "2013-03-19T08:00:58"
 draft = false
+aliases = ["/2013/03/charities-at-the-scale-of-apple-google-or-amazon.html"]
 categories = ['Misc']
 +++
 

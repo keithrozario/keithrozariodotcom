@@ -3,6 +3,7 @@ title = "Things I read over and OVER again"
 slug = "things-i-read-over-and-over-again"
 date = "2025-02-26T16:29:57"
 draft = false
+aliases = ["/2025/02/things-i-read-over-and-over-again.html"]
 +++
 
 A list of articles/post/videos I come back to over and over again.

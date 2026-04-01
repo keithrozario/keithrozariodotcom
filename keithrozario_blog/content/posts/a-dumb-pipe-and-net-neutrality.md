@@ -3,6 +3,7 @@ title = "A dumb-pipe and Net Neutrality"
 slug = "a-dumb-pipe-and-net-neutrality"
 date = "2015-09-02T09:56:05"
 draft = false
+aliases = ["/2015/09/a-dumb-pipe-and-net-neutrality.html"]
 categories = ['Misc']
 +++
 

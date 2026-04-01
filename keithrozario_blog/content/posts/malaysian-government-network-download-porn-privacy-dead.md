@@ -3,6 +3,7 @@ title = "Government Network used to download porn : Privacy is dead"
 slug = "malaysian-government-network-download-porn-privacy-dead"
 date = "2013-04-24T07:00:15"
 draft = false
+aliases = ["/2013/04/malaysian-government-network-download-porn-privacy-dead.html"]
 tags = ['Porn']
 categories = ['Copyright and Censorship', 'CyberLaw', "Keith's Favorite Post", 'Malaysia']
 +++

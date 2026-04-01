@@ -3,6 +3,7 @@ title = "About Me"
 slug = "tech-evangelist"
 date = "2013-05-26T17:39:46"
 draft = false
+aliases = ["/2013/05/tech-evangelist.html"]
 +++
 
 <!-- wp:image {"align":"center","id":7264,"width":138,"height":138,"sizeSlug":"large"} -->

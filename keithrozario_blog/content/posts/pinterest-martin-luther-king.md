@@ -3,6 +3,7 @@ title = "Pinterest + Martin Luther King ="
 slug = "pinterest-martin-luther-king"
 date = "2012-02-23T13:51:27"
 draft = false
+aliases = ["/2012/02/pinterest-martin-luther-king.html"]
 categories = ['CyberLaw', 'Design', 'Misc']
 +++
 

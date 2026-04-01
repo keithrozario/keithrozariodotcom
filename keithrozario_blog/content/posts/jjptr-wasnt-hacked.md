@@ -3,6 +3,7 @@ title = "JJPTR wasn't hacked"
 slug = "jjptr-wasnt-hacked"
 date = "2017-05-01T10:28:42"
 draft = false
+aliases = ["/2017/05/jjptr-wasnt-hacked.html"]
 categories = ['Misc']
 +++
 

@@ -3,6 +3,7 @@ title = "IT Career in Malaysia : Why Information Technology rocks"
 slug = "it-career-malaysia"
 date = "2012-11-12T08:00:28"
 draft = false
+aliases = ["/2012/11/it-career-malaysia.html"]
 categories = ["Keith's Favorite Post", 'Malaysia', 'Science']
 +++
 

@@ -3,6 +3,7 @@ title = "Why you readers are leaving your site: It's slow"
 slug = "why-you-readers-are-leaving-your-site-its-slow"
 date = "2012-03-16T16:25:58"
 draft = false
+aliases = ["/2012/03/why-you-readers-are-leaving-your-site-its-slow.html"]
 tags = ['wordpress']
 categories = ['Blog']
 +++

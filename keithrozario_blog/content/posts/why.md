@@ -3,6 +3,7 @@ title = "Why?!"
 slug = "why"
 date = "2020-01-05T23:04:32"
 draft = false
+aliases = ["/2020/01/why.html"]
 categories = ['Misc']
 +++
 

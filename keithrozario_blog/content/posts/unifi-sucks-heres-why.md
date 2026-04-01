@@ -3,6 +3,7 @@ title = "Unifi sucks: Here's why"
 slug = "unifi-sucks-heres-why"
 date = "2012-02-03T11:35:33"
 draft = false
+aliases = ["/2012/02/unifi-sucks-heres-why.html"]
 tags = ['Broadband', 'TM', 'Unifi']
 categories = ['Malaysia']
 +++

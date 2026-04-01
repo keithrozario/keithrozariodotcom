@@ -3,6 +3,7 @@ title = "My Last Hope on Unifi: Twitter"
 slug = "my-last-hope-on-unifi-twitter"
 date = "2012-02-08T17:01:54"
 draft = false
+aliases = ["/2012/02/my-last-hope-on-unifi-twitter.html"]
 tags = ['Broadband', 'Unifi']
 categories = ['Malaysia']
 +++

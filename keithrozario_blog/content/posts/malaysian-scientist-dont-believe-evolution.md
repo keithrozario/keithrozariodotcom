@@ -3,6 +3,7 @@ title = "Malaysian Scientist don't believe in Evolution?"
 slug = "malaysian-scientist-dont-believe-evolution"
 date = "2013-04-07T07:00:50"
 draft = false
+aliases = ["/2013/04/malaysian-scientist-dont-believe-evolution.html"]
 tags = ['MASTIC']
 categories = ['Malaysia', 'Science']
 +++

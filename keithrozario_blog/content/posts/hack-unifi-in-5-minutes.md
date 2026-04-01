@@ -3,6 +3,7 @@ title = "How I hacked 4 Unifi accounts in under 5 minutes"
 slug = "hack-unifi-in-5-minutes"
 date = "2014-01-02T22:00:14"
 draft = false
+aliases = ["/2014/01/hack-unifi-in-5-minutes.html"]
 categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++
 

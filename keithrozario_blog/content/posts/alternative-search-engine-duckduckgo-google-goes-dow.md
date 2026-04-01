@@ -3,6 +3,7 @@ title = "What happens when Google goes down?"
 slug = "alternative-search-engine-duckduckgo-google-goes-dow"
 date = "2012-02-20T18:35:07"
 draft = false
+aliases = ["/2012/02/alternative-search-engine-duckduckgo-google-goes-dow.html"]
 tags = ['duckduckgo', 'Google', 'ixquick', 'searchengine']
 categories = ['Misc']
 +++

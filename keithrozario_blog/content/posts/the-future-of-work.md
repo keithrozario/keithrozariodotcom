@@ -3,6 +3,7 @@ title = "The Future of work"
 slug = "the-future-of-work"
 date = "2021-05-02T21:45:47"
 draft = false
+aliases = ["/2021/05/the-future-of-work.html"]
 categories = ['Misc']
 +++
 

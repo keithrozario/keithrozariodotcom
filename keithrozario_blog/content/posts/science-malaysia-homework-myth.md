@@ -3,6 +3,7 @@ title = "Science in Malaysia : Myth #1 Homework "
 slug = "science-malaysia-homework-myth"
 date = "2012-12-18T08:00:28"
 draft = false
+aliases = ["/2012/12/science-malaysia-homework-myth.html"]
 tags = ['Science Education']
 categories = ['Malaysia']
 +++

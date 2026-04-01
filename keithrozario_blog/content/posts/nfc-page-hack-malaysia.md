@@ -3,6 +3,7 @@ title = "NFC page hacked"
 slug = "nfc-page-hack-malaysia"
 date = "2012-08-03T09:47:29"
 draft = false
+aliases = ["/2012/08/nfc-page-hack-malaysia.html"]
 tags = ['NFC']
 categories = ['Malaysia']
 +++

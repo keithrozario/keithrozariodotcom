@@ -3,6 +3,7 @@ title = "Cloud Run -- is it the ultimate Fat lambda?"
 slug = "cloud-run-is-it-the-ultimate-fat-lambda"
 date = "2019-11-18T22:39:07"
 draft = false
+aliases = ["/2019/11/cloud-run-is-it-the-ultimate-fat-lambda.html"]
 categories = ['Serverless']
 +++
 

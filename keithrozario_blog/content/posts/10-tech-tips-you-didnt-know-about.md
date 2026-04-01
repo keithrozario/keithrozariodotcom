@@ -3,6 +3,7 @@ title = "10 Tech tips you didn't know about"
 slug = "10-tech-tips-you-didnt-know-about"
 date = "2013-04-30T07:00:42"
 draft = false
+aliases = ["/2013/04/10-tech-tips-you-didnt-know-about.html"]
 categories = ['Misc']
 +++
 

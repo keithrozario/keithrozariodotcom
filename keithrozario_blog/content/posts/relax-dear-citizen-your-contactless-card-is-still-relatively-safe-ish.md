@@ -3,6 +3,7 @@ title = "Relax dear-citizen your contactless card is relatively safe---ish"
 slug = "relax-dear-citizen-your-contactless-card-is-still-relatively-safe-ish"
 date = "2016-12-31T10:37:17"
 draft = false
+aliases = ["/2016/12/relax-dear-citizen-your-contactless-card-is-still-relatively-safe-ish.html"]
 tags = ['Card']
 categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++

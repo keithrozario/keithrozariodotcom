@@ -3,6 +3,7 @@ title = "The Monty Hall Problem in Excel"
 slug = "the-monty-hall-problem-in-excel"
 date = "2014-06-07T17:06:05"
 draft = false
+aliases = ["/2014/06/the-monty-hall-problem-in-excel.html"]
 tags = ['MontyHallExcel']
 categories = ['Misc', 'Science']
 +++

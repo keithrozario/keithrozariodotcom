@@ -3,6 +3,7 @@ title = "Tickets to Russell Peters Live in KL: Here's how you can get them"
 slug = "tickets-to-russell-peters-live-in-kl-heres-how-you-can-get-them"
 date = "2012-04-19T17:37:55"
 draft = false
+aliases = ["/2012/04/tickets-to-russell-peters-live-in-kl-heres-how-you-can-get-them.html"]
 tags = ['Russell Peters']
 categories = ['Copyright and Censorship', 'Misc']
 +++

@@ -3,6 +3,7 @@ title = "The limits of Facebook, LinkedIn and Twitter"
 slug = "the-limits-of-facebook-linkedin-and-twitter"
 date = "2011-05-12T16:01:33"
 draft = false
+aliases = ["/2011/05/the-limits-of-facebook-linkedin-and-twitter.html"]
 tags = ['Facebook', 'Google', 'LinkedIn']
 categories = ['Misc']
 +++

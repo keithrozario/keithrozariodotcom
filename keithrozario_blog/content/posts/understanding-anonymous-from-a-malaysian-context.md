@@ -3,6 +3,7 @@ title = "Understanding Anonymous from a Malaysian context"
 slug = "understanding-anonymous-from-a-malaysian-context"
 date = "2015-08-15T15:33:35"
 draft = false
+aliases = ["/2015/08/understanding-anonymous-from-a-malaysian-context.html"]
 categories = ["Keith's Favorite Post", 'Malaysia']
 +++
 

@@ -3,6 +3,7 @@ title = "PMO purchases of Hacking Team software"
 slug = "no-the-prime-minister-doesnt-need-spyware"
 date = "2016-01-11T08:00:32"
 draft = false
+aliases = ["/2016/01/no-the-prime-minister-doesnt-need-spyware.html"]
 tags = ['Spyware']
 categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++

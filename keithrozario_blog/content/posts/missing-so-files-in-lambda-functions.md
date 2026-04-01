@@ -3,6 +3,7 @@ title = "Missing .SO files in Lambda functions"
 slug = "missing-so-files-in-lambda-functions"
 date = "2021-08-09T11:14:28"
 draft = false
+aliases = ["/2021/08/missing-so-files-in-lambda-functions.html"]
 categories = ['Misc']
 +++
 

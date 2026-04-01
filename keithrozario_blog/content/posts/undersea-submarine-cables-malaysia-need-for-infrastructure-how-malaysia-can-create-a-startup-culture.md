@@ -3,6 +3,7 @@ title = "Undersea Cables in Malaysia : The Need for infrastructure"
 slug = "undersea-submarine-cables-malaysia-need-for-infrastructure-how-malaysia-can-create-a-startup-culture"
 date = "2013-02-07T07:00:19"
 draft = false
+aliases = ["/2013/02/undersea-submarine-cables-malaysia-need-for-infrastructure-how-malaysia-can-create-a-startup-culture.html"]
 categories = ['Cloud Computing', 'Malaysia']
 +++
 

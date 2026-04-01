@@ -3,6 +3,7 @@ title = "The new and improved keithRozario.com"
 slug = "the-new-and-improved-keithrozario-com"
 date = "2015-03-27T16:07:21"
 draft = false
+aliases = ["/2015/03/the-new-and-improved-keithrozario-com.html"]
 categories = ['Misc']
 +++
 

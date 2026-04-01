@@ -3,6 +3,7 @@ title = "Setting up a Dlink DDNS for your Unifi Router"
 slug = "setting-up-dlink-ddns-unifi-router"
 date = "2012-09-22T22:47:55"
 draft = false
+aliases = ["/2012/09/setting-up-dlink-ddns-unifi-router.html"]
 tags = ['dlink', 'Unifi']
 categories = ['Malaysia']
 +++

@@ -3,6 +3,7 @@ title = "Goodbye Google Buzz, Hello Google+"
 slug = "google-buzz-google-plus"
 date = "2011-12-06T23:02:10"
 draft = false
+aliases = ["/2011/12/google-buzz-google-plus.html"]
 tags = ['Google']
 categories = ['Blog', 'Social Media']
 +++

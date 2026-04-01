@@ -3,6 +3,7 @@ title = "Internet connections speeds in Malaysia"
 slug = "internet-connections-speeds-in-malaysia"
 date = "2015-10-02T12:46:47"
 draft = false
+aliases = ["/2015/10/internet-connections-speeds-in-malaysia.html"]
 categories = ['Malaysia']
 +++
 

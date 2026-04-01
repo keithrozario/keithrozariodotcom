@@ -3,6 +3,7 @@ title = "Keith's on BFM Talking about spyware--again!!"
 slug = "keithrozario-on-bfm-talking-about-spyware"
 date = "2016-02-10T12:05:17"
 draft = false
+aliases = ["/2016/02/keithrozario-on-bfm-talking-about-spyware.html"]
 tags = ['Spyware']
 categories = ['Copyright and Censorship', "Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++

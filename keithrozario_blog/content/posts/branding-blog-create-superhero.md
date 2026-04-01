@@ -3,6 +3,7 @@ title = "Branding my blog Step 1: Creating a Superhero "
 slug = "branding-blog-create-superhero"
 date = "2011-11-09T09:59:00"
 draft = false
+aliases = ["/2011/11/branding-blog-create-superhero.html"]
 tags = ['Blog', 'Marketing']
 categories = ['Blog', 'Social Media']
 +++

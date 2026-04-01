@@ -3,6 +3,7 @@ title = "WooRank: A must have tool for bloggers"
 slug = "woorank-a-must-have-tool-for-bloggers"
 date = "2011-06-10T10:31:45"
 draft = false
+aliases = ["/2011/06/woorank-a-must-have-tool-for-bloggers.html"]
 tags = ['SEO']
 categories = ['Blog']
 +++

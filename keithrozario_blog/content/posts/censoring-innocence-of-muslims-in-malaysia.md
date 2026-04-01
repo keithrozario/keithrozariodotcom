@@ -3,6 +3,7 @@ title = "Censoring Innocence of Muslims in Malaysia"
 slug = "censoring-innocence-of-muslims-in-malaysia"
 date = "2012-09-17T15:21:38"
 draft = false
+aliases = ["/2012/09/censoring-innocence-of-muslims-in-malaysia.html"]
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia']
 +++
 

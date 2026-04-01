@@ -3,6 +3,7 @@ title = "Technology saves lives, but it isn't perfect"
 slug = "technology-saves-lives-but-it-kills-too"
 date = "2016-07-02T18:07:38"
 draft = false
+aliases = ["/2016/07/technology-saves-lives-but-it-kills-too.html"]
 categories = ['AI']
 +++
 

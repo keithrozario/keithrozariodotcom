@@ -3,6 +3,7 @@ title = "Multi-Accounts for AWS with Google &#39;+&#39; emails."
 slug = "multi-accounts-for-aws-with-google-emails"
 date = "2019-12-15T12:51:01"
 draft = false
+aliases = ["/2019/12/multi-accounts-for-aws-with-google-emails.html"]
 categories = ['Misc']
 +++
 

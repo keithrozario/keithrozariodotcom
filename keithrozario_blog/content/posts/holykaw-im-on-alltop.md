@@ -3,6 +3,7 @@ title = "Holykaw! I'm on Alltop"
 slug = "holykaw-im-on-alltop"
 date = "2011-06-26T09:05:53"
 draft = false
+aliases = ["/2011/06/holykaw-im-on-alltop.html"]
 tags = ['Blog', 'Blog Features', 'wordpress']
 categories = ['Blog']
 +++

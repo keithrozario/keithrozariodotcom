@@ -3,6 +3,7 @@ title = "One year of Blogging on Nearlyfreespeech"
 slug = "one-year-of-blogging-on-nearlyfreespeech"
 date = "2012-04-16T13:00:48"
 draft = false
+aliases = ["/2012/04/one-year-of-blogging-on-nearlyfreespeech.html"]
 tags = ['Analytics', 'Blog', 'Blog Features', 'NearlyFreeSpeech', 'wordpress']
 categories = ['Blog']
 +++

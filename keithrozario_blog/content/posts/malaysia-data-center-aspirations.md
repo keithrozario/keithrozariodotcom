@@ -3,6 +3,7 @@ title = "Malaysia Data Center aspirations"
 slug = "malaysia-data-center-aspirations"
 date = "2013-05-01T07:00:53"
 draft = false
+aliases = ["/2013/05/malaysia-data-center-aspirations.html"]
 categories = ['Cloud Computing', 'Malaysia']
 +++
 

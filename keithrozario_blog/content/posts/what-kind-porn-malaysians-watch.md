@@ -3,6 +3,7 @@ title = "What kind of Porn do Malaysians watch"
 slug = "what-kind-porn-malaysians-watch"
 date = "2014-01-10T17:39:45"
 draft = false
+aliases = ["/2014/01/what-kind-porn-malaysians-watch.html"]
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++
 

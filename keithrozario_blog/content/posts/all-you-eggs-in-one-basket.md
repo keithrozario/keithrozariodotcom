@@ -3,6 +3,7 @@ title = "All you eggs in one basket"
 slug = "all-you-eggs-in-one-basket"
 date = "2016-10-02T20:45:49"
 draft = false
+aliases = ["/2016/10/all-you-eggs-in-one-basket.html"]
 categories = ['Misc']
 +++
 

@@ -3,6 +3,7 @@ title = "Ibrahim Ali gets his maths wrong"
 slug = "ibrahim-ali-maths-wrong"
 date = "2013-09-20T16:45:42"
 draft = false
+aliases = ["/2013/09/ibrahim-ali-maths-wrong.html"]
 categories = ['Science']
 +++
 

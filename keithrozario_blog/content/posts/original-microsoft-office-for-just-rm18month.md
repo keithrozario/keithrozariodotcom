@@ -3,6 +3,7 @@ title = "Original Microsoft Office for just Rm18/month"
 slug = "original-microsoft-office-for-just-rm18month"
 date = "2012-03-04T14:32:28"
 draft = false
+aliases = ["/2012/03/original-microsoft-office-for-just-rm18month.html"]
 tags = ['Microsoft', 'Office365', 'SaaS']
 categories = ['Cloud Computing']
 +++

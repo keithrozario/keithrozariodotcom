@@ -3,6 +3,7 @@ title = "Design your perfect server with Skali Cloud"
 slug = "design-your-perfect-server-with-skali-cloud"
 date = "2012-04-06T12:18:38"
 draft = false
+aliases = ["/2012/04/design-your-perfect-server-with-skali-cloud.html"]
 tags = ['Amazon', 'Cloud', 'Maxis', 'Skali']
 categories = ['Cloud Computing', 'Malaysia']
 +++

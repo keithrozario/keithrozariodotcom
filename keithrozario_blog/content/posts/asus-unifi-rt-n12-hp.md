@@ -3,6 +3,7 @@ title = "Asus N12 HP: The best Unifi replacement router?"
 slug = "asus-unifi-rt-n12-hp"
 date = "2013-08-20T18:24:45"
 draft = false
+aliases = ["/2013/08/asus-unifi-rt-n12-hp.html"]
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++
 

@@ -3,6 +3,7 @@ title = "Digging into Wordpress"
 slug = "digging-into-wordpress"
 date = "2011-05-21T14:58:36"
 draft = false
+aliases = ["/2011/05/digging-into-wordpress.html"]
 tags = ['wordpress']
 categories = ['Blog']
 +++

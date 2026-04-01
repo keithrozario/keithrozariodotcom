@@ -3,6 +3,7 @@ title = "Malaysians Against the Trans-Pacific Partnership Agreement"
 slug = "malaysians-against-the-trans-pacific-partnership-agreement"
 date = "2012-05-19T16:51:57"
 draft = false
+aliases = ["/2012/05/malaysians-against-the-trans-pacific-partnership-agreement.html"]
 tags = ['TPP']
 categories = ['Copyright and Censorship', "Keith's Favorite Post"]
 +++

@@ -3,6 +3,7 @@ title = "Making Sense of Google Analytics data"
 slug = "making-sense-of-google-analytics-data"
 date = "2011-07-06T17:34:30"
 draft = false
+aliases = ["/2011/07/making-sense-of-google-analytics-data.html"]
 tags = ['Google', 'wordpress']
 categories = ['Blog']
 +++

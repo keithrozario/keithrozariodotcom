@@ -3,6 +3,7 @@ title = "Using Terraform and Serverless Framework"
 slug = "using-terraform-and-serverless-framework"
 date = "2019-03-03T19:10:54"
 draft = false
+aliases = ["/2019/03/using-terraform-and-serverless-framework.html"]
 categories = ['Cloud Computing', 'Serverless']
 +++
 

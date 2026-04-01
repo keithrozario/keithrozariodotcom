@@ -3,6 +3,7 @@ title = "Fair Usage Policy: Data caps and Torrent filters"
 slug = "fair-usage-policy-data-caps-torrent-filter"
 date = "2013-06-25T08:00:14"
 draft = false
+aliases = ["/2013/06/fair-usage-policy-data-caps-torrent-filter.html"]
 tags = ['Maxis', 'Torrent', 'Unifi']
 categories = ["Keith's Favorite Post", 'Malaysia']
 +++

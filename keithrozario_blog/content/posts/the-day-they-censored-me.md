@@ -3,6 +3,7 @@ title = "The day they censored me"
 slug = "the-day-they-censored-me"
 date = "2015-03-09T09:48:57"
 draft = false
+aliases = ["/2015/03/the-day-they-censored-me.html"]
 categories = ['Copyright and Censorship']
 +++
 

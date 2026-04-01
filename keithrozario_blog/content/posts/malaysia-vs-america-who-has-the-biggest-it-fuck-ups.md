@@ -3,6 +3,7 @@ title = "Malaysia vs. America : Who has the biggest IT fuck-ups?"
 slug = "malaysia-vs-america-who-has-the-biggest-it-fuck-ups"
 date = "2014-10-13T11:17:06"
 draft = false
+aliases = ["/2014/10/malaysia-vs-america-who-has-the-biggest-it-fuck-ups.html"]
 categories = ['Misc']
 +++
 

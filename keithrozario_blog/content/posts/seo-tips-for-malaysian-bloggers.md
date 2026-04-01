@@ -3,6 +3,7 @@ title = "SEO Tips for Malaysian Bloggers"
 slug = "seo-tips-for-malaysian-bloggers"
 date = "2012-10-05T19:03:45"
 draft = false
+aliases = ["/2012/10/seo-tips-for-malaysian-bloggers.html"]
 tags = ['Google']
 categories = ['Blog', 'Malaysia']
 +++

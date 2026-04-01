@@ -3,6 +3,7 @@ title = "Skali Cloud: A review ultra-scalable skali Cloud"
 slug = "skali-cloud-a-review-ultra-scalable-skali-cloud"
 date = "2012-06-11T12:57:44"
 draft = false
+aliases = ["/2012/06/skali-cloud-a-review-ultra-scalable-skali-cloud.html"]
 tags = ['Skali']
 categories = ['Cloud Computing']
 +++

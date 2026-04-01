@@ -3,6 +3,7 @@ title = "Personal Data Protection Act 2010 Malaysia"
 slug = "personal-data-protection-act-2010-malaysia"
 date = "2012-07-30T06:00:19"
 draft = false
+aliases = ["/2012/07/personal-data-protection-act-2010-malaysia.html"]
 tags = ['Laws']
 categories = ['Copyright and Censorship', 'CyberLaw', "Keith's Favorite Post", 'Malaysia']
 +++

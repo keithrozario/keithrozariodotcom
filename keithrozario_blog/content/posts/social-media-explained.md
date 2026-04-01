@@ -3,6 +3,7 @@ title = "Social Media Explained"
 slug = "social-media-explained"
 date = "2012-02-07T18:49:02"
 draft = false
+aliases = ["/2012/02/social-media-explained.html"]
 tags = ['Facebook', 'Foursquare', 'G+', 'Instagram', 'Last.FM', 'LinkedIn', 'Pinterest', 'twitter', 'Youtube']
 categories = ['Social Media']
 +++

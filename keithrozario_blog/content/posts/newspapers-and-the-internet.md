@@ -3,6 +3,7 @@ title = "The internet is killing newspapers and how we can change that"
 slug = "newspapers-and-the-internet"
 date = "2011-11-26T23:27:27"
 draft = false
+aliases = ["/2011/11/newspapers-and-the-internet.html"]
 categories = ['Misc', 'Social Media']
 +++
 

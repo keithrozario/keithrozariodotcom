@@ -3,6 +3,7 @@ title = "PRISM and Tempora"
 slug = "prism-tempora"
 date = "2013-06-26T08:00:02"
 draft = false
+aliases = ["/2013/06/prism-tempora.html"]
 tags = ['GCHQ', 'NSA', 'PRISM', 'Tempora']
 categories = ['CyberLaw', 'Security &amp; Privacy']
 +++

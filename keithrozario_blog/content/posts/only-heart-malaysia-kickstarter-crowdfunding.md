@@ -3,6 +3,7 @@ title = "Kickstarter Malaysia: A collection of Malaysian Kickstarter Projects"
 slug = "only-heart-malaysia-kickstarter-crowdfunding"
 date = "2012-07-23T08:00:46"
 draft = false
+aliases = ["/2012/07/only-heart-malaysia-kickstarter-crowdfunding.html"]
 tags = ['kickstarter']
 categories = ['Crowdsourcing', 'Design']
 +++

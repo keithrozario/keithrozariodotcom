@@ -3,6 +3,7 @@ title = "Confirmed: Crowdsourced reviews are better than Professional critics"
 slug = "crowdsourced-reviews-better-than-professional"
 date = "2012-06-07T08:31:13"
 draft = false
+aliases = ["/2012/06/crowdsourced-reviews-better-than-professional.html"]
 tags = ['Crowdsourcing']
 categories = ['Crowdsourcing']
 +++

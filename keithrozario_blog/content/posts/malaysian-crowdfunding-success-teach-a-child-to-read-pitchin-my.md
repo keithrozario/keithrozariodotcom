@@ -3,6 +3,7 @@ title = "Pitchin.my Crowdfunding success in Teach a Child to Read"
 slug = "malaysian-crowdfunding-success-teach-a-child-to-read-pitchin-my"
 date = "2013-04-22T07:00:13"
 draft = false
+aliases = ["/2013/04/malaysian-crowdfunding-success-teach-a-child-to-read-pitchin-my.html"]
 tags = ['kickstarter', 'pitchin.my']
 categories = ['Crowdsourcing', "Keith's Favorite Post", 'Malaysia']
 +++

@@ -3,6 +3,7 @@ title = "Why I keep a blog?"
 slug = "why-keep-a-blog"
 date = "2011-11-02T00:35:19"
 draft = false
+aliases = ["/2011/11/why-keep-a-blog.html"]
 tags = ['Blog', 'Personal']
 categories = ['Blog']
 +++

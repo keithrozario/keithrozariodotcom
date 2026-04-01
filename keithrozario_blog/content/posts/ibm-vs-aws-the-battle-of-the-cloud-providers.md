@@ -3,6 +3,7 @@ title = "IBM vs. AWS the battle of the cloud providers"
 slug = "ibm-vs-aws-the-battle-of-the-cloud-providers"
 date = "2013-08-22T08:00:36"
 draft = false
+aliases = ["/2013/08/ibm-vs-aws-the-battle-of-the-cloud-providers.html"]
 categories = ['Cloud Computing']
 +++
 

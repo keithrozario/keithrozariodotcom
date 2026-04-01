@@ -3,6 +3,7 @@ title = "The right to be forgotten"
 slug = "the-right-to-be-forgotten"
 date = "2014-06-02T09:43:52"
 draft = false
+aliases = ["/2014/06/the-right-to-be-forgotten.html"]
 tags = ['Google', 'Right to be Forgotten']
 categories = ['Copyright and Censorship', 'Security &amp; Privacy']
 +++

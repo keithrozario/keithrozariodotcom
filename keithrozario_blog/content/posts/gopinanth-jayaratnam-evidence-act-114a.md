@@ -3,6 +3,7 @@ title = "Let's put the evidence act into action"
 slug = "gopinanth-jayaratnam-evidence-act-114a"
 date = "2012-09-28T22:30:44"
 draft = false
+aliases = ["/2012/09/gopinanth-jayaratnam-evidence-act-114a.html"]
 categories = ['CyberLaw', 'Malaysia']
 +++
 

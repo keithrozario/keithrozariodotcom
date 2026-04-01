@@ -3,6 +3,7 @@ title = "Updating a GitHub repo from a Lambda Function using Bash!"
 slug = "using-the-bash-custom-runtime-to-update-the-github-repo"
 date = "2019-09-09T23:14:24"
 draft = false
+aliases = ["/2019/09/using-the-bash-custom-runtime-to-update-the-github-repo.html"]
 categories = ['Serverless']
 +++
 

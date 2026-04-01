@@ -3,6 +3,7 @@ title = "Data Coverage Down Under"
 slug = "data-coverage-down-under"
 date = "2012-09-01T09:37:19"
 draft = false
+aliases = ["/2012/09/data-coverage-down-under.html"]
 tags = ['Digi', 'Optus', 'Tune Talk']
 categories = ['Malaysia']
 +++

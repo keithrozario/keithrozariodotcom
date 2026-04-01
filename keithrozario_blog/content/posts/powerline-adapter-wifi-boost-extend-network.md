@@ -3,6 +3,7 @@ title = "Powerline adapter for better networking at home"
 slug = "powerline-adapter-wifi-boost-extend-network"
 date = "2014-06-17T09:00:30"
 draft = false
+aliases = ["/2014/06/powerline-adapter-wifi-boost-extend-network.html"]
 categories = ['Misc']
 +++
 

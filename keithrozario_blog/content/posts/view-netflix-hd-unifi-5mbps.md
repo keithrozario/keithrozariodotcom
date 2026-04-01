@@ -3,6 +3,7 @@ title = "Can you view Netflix in HD on Unifi"
 slug = "view-netflix-hd-unifi-5mbps"
 date = "2013-08-08T15:05:51"
 draft = false
+aliases = ["/2013/08/view-netflix-hd-unifi-5mbps.html"]
 tags = ['Netflix', 'Unifi']
 categories = ['Misc']
 +++

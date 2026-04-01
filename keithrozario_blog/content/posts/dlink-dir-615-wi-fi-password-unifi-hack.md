@@ -3,6 +3,7 @@ title = "Is your Wi-Fi safe?"
 slug = "dlink-dir-615-wi-fi-password-unifi-hack"
 date = "2012-07-01T08:00:28"
 draft = false
+aliases = ["/2012/07/dlink-dir-615-wi-fi-password-unifi-hack.html"]
 tags = ['D-Link', 'TM', 'Unifi']
 categories = ['CyberLaw', "Keith's Favorite Post", 'Malaysia']
 +++

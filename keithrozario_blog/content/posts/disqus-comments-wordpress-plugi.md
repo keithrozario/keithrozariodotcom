@@ -3,6 +3,7 @@ title = "Disqus: The best comments plugin for Wordpress there is"
 slug = "disqus-comments-wordpress-plugi"
 date = "2011-04-20T16:52:31"
 draft = false
+aliases = ["/2011/04/disqus-comments-wordpress-plugi.html"]
 tags = ['Blog Features', 'Comments', 'Disqus']
 categories = ['Blog']
 +++

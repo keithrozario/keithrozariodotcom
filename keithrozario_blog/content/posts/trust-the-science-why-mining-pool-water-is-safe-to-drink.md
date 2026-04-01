@@ -3,6 +3,7 @@ title = "Trust the science: Why mining pool water is safe to drink"
 slug = "trust-the-science-why-mining-pool-water-is-safe-to-drink"
 date = "2014-05-10T16:49:24"
 draft = false
+aliases = ["/2014/05/trust-the-science-why-mining-pool-water-is-safe-to-drink.html"]
 tags = ['Water']
 categories = ['Malaysia', 'Science']
 +++

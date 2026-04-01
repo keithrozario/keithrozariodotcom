@@ -3,6 +3,7 @@ title = "Best VPN for Malaysians : Privateinternetaccess"
 slug = "best-vpn-malaysia-privateinternetaccess"
 date = "2013-09-02T08:00:38"
 draft = false
+aliases = ["/2013/09/best-vpn-malaysia-privateinternetaccess.html"]
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++
 

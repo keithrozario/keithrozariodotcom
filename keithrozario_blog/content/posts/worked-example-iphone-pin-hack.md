@@ -3,6 +3,7 @@ title = "Worked Example: iPhone PIN Hack"
 slug = "worked-example-iphone-pin-hack"
 date = "2015-04-10T22:00:24"
 draft = false
+aliases = ["/2015/04/worked-example-iphone-pin-hack.html"]
 categories = ['Security &amp; Privacy']
 +++
 

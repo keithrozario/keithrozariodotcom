@@ -3,6 +3,7 @@ title = "Maxis Loker: A review"
 slug = "maxis-loker-googledrive-dropbox"
 date = "2012-06-04T10:27:50"
 draft = false
+aliases = ["/2012/06/maxis-loker-googledrive-dropbox.html"]
 tags = ['Amazon', 'Maxis']
 categories = ['Cloud Computing', 'Malaysia']
 +++

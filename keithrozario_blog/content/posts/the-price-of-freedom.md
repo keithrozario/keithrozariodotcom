@@ -3,6 +3,7 @@ title = "The price of freedom"
 slug = "the-price-of-freedom"
 date = "2015-12-18T08:00:54"
 draft = false
+aliases = ["/2015/12/the-price-of-freedom.html"]
 categories = ['Misc']
 +++
 

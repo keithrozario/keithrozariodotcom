@@ -3,6 +3,7 @@ title = "Should we learn from China?"
 slug = "should-we-learn-from-china"
 date = "2013-06-06T08:00:14"
 draft = false
+aliases = ["/2013/06/should-we-learn-from-china.html"]
 tags = ['Sina Weibo', 'Wikipedia']
 categories = ['Copyright and Censorship', 'Malaysia']
 +++

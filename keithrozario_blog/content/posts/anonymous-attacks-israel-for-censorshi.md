@@ -3,6 +3,7 @@ title = "Anonymous downs Israeli web sites to protest web embargo"
 slug = "anonymous-attacks-israel-for-censorshi"
 date = "2012-11-18T23:12:32"
 draft = false
+aliases = ["/2012/11/anonymous-attacks-israel-for-censorshi.html"]
 tags = ['Anonymous', 'Israel']
 categories = ['Copyright and Censorship', 'CyberLaw']
 +++

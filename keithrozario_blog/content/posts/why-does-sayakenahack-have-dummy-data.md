@@ -3,6 +3,7 @@ title = "Why does SayaKenaHack have dummy data?"
 slug = "why-does-sayakenahack-have-dummy-data"
 date = "2017-11-15T00:49:17"
 draft = false
+aliases = ["/2017/11/why-does-sayakenahack-have-dummy-data.html"]
 tags = ['sayakenahack']
 categories = ["Keith's Favorite Post", 'Malaysia']
 +++

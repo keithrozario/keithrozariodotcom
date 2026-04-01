@@ -3,6 +3,7 @@ title = "Creative Vcard designs"
 slug = "creative-vcard-designs"
 date = "2011-06-13T02:32:44"
 draft = false
+aliases = ["/2011/06/creative-vcard-designs.html"]
 tags = ['Cool Designs']
 categories = ['Design']
 +++

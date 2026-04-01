@@ -3,6 +3,7 @@ title = "LinkedIn reaches 100 million members"
 slug = "linkedin-reaches-100-million-members"
 date = "2011-04-19T09:42:47"
 draft = false
+aliases = ["/2011/04/linkedin-reaches-100-million-members.html"]
 tags = ['Jobs', 'LinkedIn']
 categories = ['Misc']
 +++

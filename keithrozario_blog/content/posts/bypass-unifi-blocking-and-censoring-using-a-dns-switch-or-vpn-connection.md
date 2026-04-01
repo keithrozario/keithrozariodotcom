@@ -3,6 +3,7 @@ title = "Bypass Unifi blocking and censoring using a DNS switch or VPN connectio
 slug = "bypass-unifi-blocking-and-censoring-using-a-dns-switch-or-vpn-connection"
 date = "2012-03-06T23:43:38"
 draft = false
+aliases = ["/2012/03/bypass-unifi-blocking-and-censoring-using-a-dns-switch-or-vpn-connection.html"]
 tags = ['SOPA', 'Unifi']
 categories = ['Copyright and Censorship', 'Malaysia']
 +++

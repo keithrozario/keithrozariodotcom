@@ -3,6 +3,7 @@ title = "Apple vs. FBI: Everything you need to know"
 slug = "apple-vs-fbi-everything-you-need-to-know"
 date = "2016-02-20T09:26:04"
 draft = false
+aliases = ["/2016/02/apple-vs-fbi-everything-you-need-to-know.html"]
 categories = ['CyberLaw', "Keith's Favorite Post", 'Security &amp; Privacy']
 +++
 

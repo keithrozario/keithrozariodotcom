@@ -3,6 +3,7 @@ title = "Chip And Pin : An intro for Malaysians"
 slug = "chip-and-pin-an-intro-for-malaysians"
 date = "2015-10-29T11:59:54"
 draft = false
+aliases = ["/2015/10/chip-and-pin-an-intro-for-malaysians.html"]
 categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++
 

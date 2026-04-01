@@ -3,6 +3,7 @@ title = "Mobile Phones at Gas Stations : They're Safe"
 slug = "gas-station-mobile-safety"
 date = "2013-02-21T07:00:59"
 draft = false
+aliases = ["/2013/02/gas-station-mobile-safety.html"]
 categories = ['Science']
 +++
 

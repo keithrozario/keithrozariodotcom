@@ -3,6 +3,7 @@ title = "MyProcurement: All government tenders in one Excel file"
 slug = "myprocurement-all-government-tenders-in-one-excel-file"
 date = "2014-09-16T22:54:40"
 draft = false
+aliases = ["/2014/09/myprocurement-all-government-tenders-in-one-excel-file.html"]
 categories = ['Big Data', 'CyberLaw', 'Malaysia']
 +++
 

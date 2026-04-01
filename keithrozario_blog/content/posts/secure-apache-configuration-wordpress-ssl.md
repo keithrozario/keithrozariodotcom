@@ -3,6 +3,7 @@ title = "Secure Apache configuration for Wordpress & SSL"
 slug = "secure-apache-configuration-wordpress-ssl"
 date = "2015-03-30T20:00:47"
 draft = false
+aliases = ["/2015/03/secure-apache-configuration-wordpress-ssl.html"]
 categories = ['Blog', 'Security &amp; Privacy']
 +++
 

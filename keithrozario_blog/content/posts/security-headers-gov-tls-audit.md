@@ -3,6 +3,7 @@ title = "Security Headers for Gov-TLS-Audit"
 slug = "security-headers-gov-tls-audit"
 date = "2018-07-08T22:00:56"
 draft = false
+aliases = ["/2018/07/security-headers-gov-tls-audit.html"]
 tags = ['GovTLS', 'Malaysian Government']
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++

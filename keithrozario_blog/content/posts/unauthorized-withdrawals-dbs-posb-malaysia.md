@@ -3,6 +3,7 @@ title = "Unauthorized withdrawals hit DBS and POSB customers, withdrawals done i
 slug = "unauthorized-withdrawals-dbs-posb-malaysia"
 date = "2012-01-27T18:47:12"
 draft = false
+aliases = ["/2012/01/unauthorized-withdrawals-dbs-posb-malaysia.html"]
 categories = ['CyberLaw', 'Malaysia', 'Misc']
 +++
 

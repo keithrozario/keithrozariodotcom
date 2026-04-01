@@ -3,6 +3,7 @@ title = "I'm Sorry, the Malaysian Government IS spying on you"
 slug = "the-malaysian-government-is-spying-on-you-finspy-fisher"
 date = "2013-05-03T09:06:52"
 draft = false
+aliases = ["/2013/05/the-malaysian-government-is-spying-on-you-finspy-fisher.html"]
 tags = ['Spyware']
 categories = ['Copyright and Censorship', 'CyberLaw', "Keith's Favorite Post", 'Malaysia']
 +++

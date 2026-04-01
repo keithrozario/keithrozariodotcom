@@ -3,6 +3,7 @@ title = "Cool poster! "
 slug = "cool-poster"
 date = "2011-07-03T23:22:19"
 draft = false
+aliases = ["/2011/07/cool-poster.html"]
 categories = ['Design']
 +++
 

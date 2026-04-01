@@ -3,6 +3,7 @@ title = "PSI vs. API, Malaysia vs. Singapore air quality readings"
 slug = "how-good-is-our-api-reading"
 date = "2015-10-23T13:50:12"
 draft = false
+aliases = ["/2015/10/how-good-is-our-api-reading.html"]
 categories = ['Misc']
 +++
 

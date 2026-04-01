@@ -3,6 +3,7 @@ title = "QR codes making a comeback with Wikipedia?"
 slug = "qr-codes-making-a-comeback"
 date = "2011-10-01T18:40:26"
 draft = false
+aliases = ["/2011/10/qr-codes-making-a-comeback.html"]
 tags = ['wiki', 'Wikipedia']
 categories = ['Design']
 +++

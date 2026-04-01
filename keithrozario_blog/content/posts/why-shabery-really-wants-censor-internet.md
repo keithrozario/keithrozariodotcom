@@ -3,6 +3,7 @@ title = "Why Dato' Sri Shabery Really wants to censor the internet"
 slug = "why-shabery-really-wants-censor-internet"
 date = "2013-07-30T09:18:29"
 draft = false
+aliases = ["/2013/07/why-shabery-really-wants-censor-internet.html"]
 categories = ['Copyright and Censorship', 'CyberLaw']
 +++
 

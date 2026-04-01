@@ -3,6 +3,7 @@ title = "The Snowden Revelations"
 slug = "the-snowden-revelations"
 date = "2015-04-01T20:00:31"
 draft = false
+aliases = ["/2015/04/the-snowden-revelations.html"]
 categories = ['Copyright and Censorship', 'Security &amp; Privacy']
 +++
 

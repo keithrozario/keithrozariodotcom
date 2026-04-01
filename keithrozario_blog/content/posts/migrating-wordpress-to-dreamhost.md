@@ -3,6 +3,7 @@ title = "Migrating wordpress to Dreamhost"
 slug = "migrating-wordpress-to-dreamhost"
 date = "2011-12-07T20:44:09"
 draft = false
+aliases = ["/2011/12/migrating-wordpress-to-dreamhost.html"]
 categories = ['Blog']
 +++
 

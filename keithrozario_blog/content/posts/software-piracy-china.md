@@ -3,6 +3,7 @@ title = "Software piracy in China : Can the Yankees really complain?"
 slug = "software-piracy-china"
 date = "2012-10-21T09:00:40"
 draft = false
+aliases = ["/2012/10/software-piracy-china.html"]
 tags = ['Microsoft']
 categories = ['Copyright and Censorship', 'CyberLaw', "Keith's Favorite Post"]
 +++

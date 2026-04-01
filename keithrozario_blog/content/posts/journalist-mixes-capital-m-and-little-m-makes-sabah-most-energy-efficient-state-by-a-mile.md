@@ -3,6 +3,7 @@ title = "Journalist mixes capital 'M' and little 'm', makes Sabah most energy ef
 slug = "journalist-mixes-capital-m-and-little-m-makes-sabah-most-energy-efficient-state-by-a-mile"
 date = "2013-09-25T22:22:01"
 draft = false
+aliases = ["/2013/09/journalist-mixes-capital-m-and-little-m-makes-sabah-most-energy-efficient-state-by-a-mile.html"]
 categories = ['Science']
 +++
 

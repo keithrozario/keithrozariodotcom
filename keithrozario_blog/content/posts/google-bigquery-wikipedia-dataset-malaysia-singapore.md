@@ -3,6 +3,7 @@ title = "Google bigquery"
 slug = "google-bigquery-wikipedia-dataset-malaysia-singapore"
 date = "2012-07-17T07:00:16"
 draft = false
+aliases = ["/2012/07/google-bigquery-wikipedia-dataset-malaysia-singapore.html"]
 tags = ['Google']
 categories = ['Misc']
 +++

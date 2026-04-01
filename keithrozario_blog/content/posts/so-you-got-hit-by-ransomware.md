@@ -3,6 +3,7 @@ title = "So you got hit by Ransomware"
 slug = "so-you-got-hit-by-ransomware"
 date = "2017-02-23T21:28:54"
 draft = false
+aliases = ["/2017/02/so-you-got-hit-by-ransomware.html"]
 tags = ['Ransomware']
 categories = ['Security &amp; Privacy']
 +++

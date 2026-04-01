@@ -3,6 +3,7 @@ title = "Intels Museum of Me and privacy concerns it entails"
 slug = "museum-of-me-from-intel"
 date = "2011-06-01T14:39:37"
 draft = false
+aliases = ["/2011/06/museum-of-me-from-intel.html"]
 tags = ['Cool Designs']
 categories = ['Design']
 +++

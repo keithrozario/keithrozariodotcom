@@ -3,6 +3,7 @@ title = "How to determine your Unifi router MAC ID"
 slug = "how-to-determine-your-unifi-router-mac-id"
 date = "2015-01-27T08:00:00"
 draft = false
+aliases = ["/2015/01/how-to-determine-your-unifi-router-mac-id.html"]
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++
 

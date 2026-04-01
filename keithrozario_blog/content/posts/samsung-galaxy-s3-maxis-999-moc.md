@@ -3,6 +3,7 @@ title = "Finally got my Samsung Galaxy S3"
 slug = "samsung-galaxy-s3-maxis-999-moc"
 date = "2012-06-18T08:14:46"
 draft = false
+aliases = ["/2012/06/samsung-galaxy-s3-maxis-999-moc.html"]
 tags = ['Maxis']
 categories = ['Malaysia', 'Misc']
 +++

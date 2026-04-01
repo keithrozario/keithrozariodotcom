@@ -3,6 +3,7 @@ title = "Unique facebook Icons"
 slug = "unique-facebook-icons"
 date = "2011-05-11T15:26:22"
 draft = false
+aliases = ["/2011/05/unique-facebook-icons.html"]
 tags = ['Cool Designs', 'Facebook']
 categories = ['Design']
 +++

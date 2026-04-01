@@ -3,6 +3,7 @@ title = "Internet Censorship is an invasion of privacy"
 slug = "internet-censorship-is-an-invasion-of-privacy"
 date = "2014-04-06T16:49:24"
 draft = false
+aliases = ["/2014/04/internet-censorship-is-an-invasion-of-privacy.html"]
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia']
 +++
 

@@ -3,6 +3,7 @@ title = "Google Trust Issue"
 slug = "google-trust-issue"
 date = "2012-04-20T11:26:54"
 draft = false
+aliases = ["/2012/04/google-trust-issue.html"]
 tags = ['Google']
 categories = ['Security &amp; Privacy']
 +++

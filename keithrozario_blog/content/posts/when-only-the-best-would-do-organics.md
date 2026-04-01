@@ -3,6 +3,7 @@ title = "When only the best would do: Organics"
 slug = "when-only-the-best-would-do-organics"
 date = "2012-02-06T23:19:56"
 draft = false
+aliases = ["/2012/02/when-only-the-best-would-do-organics.html"]
 categories = ['Misc']
 +++
 

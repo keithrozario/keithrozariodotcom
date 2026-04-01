@@ -3,6 +3,7 @@ title = "Watch Netflix, Hulu and even Euro2012 online from Malaysia"
 slug = "watch-netflix-hulu-bbc-spotify-malaysia"
 date = "2012-06-14T15:02:36"
 draft = false
+aliases = ["/2012/06/watch-netflix-hulu-bbc-spotify-malaysia.html"]
 tags = ['Unotelly']
 categories = ['Copyright and Censorship', "Keith's Favorite Post", 'Malaysia']
 +++

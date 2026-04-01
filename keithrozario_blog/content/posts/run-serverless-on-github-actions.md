@@ -3,6 +3,7 @@ title = "Run serverless on GitHub actions"
 slug = "run-serverless-on-github-actions"
 date = "2020-02-27T20:26:31"
 draft = false
+aliases = ["/2020/02/run-serverless-on-github-actions.html"]
 categories = ['Security &amp; Privacy', 'Serverless']
 +++
 

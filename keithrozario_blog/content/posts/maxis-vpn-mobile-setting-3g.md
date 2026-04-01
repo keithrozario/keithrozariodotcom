@@ -3,6 +3,7 @@ title = "How to enable VPN connectivity on Maxis Mobile"
 slug = "maxis-vpn-mobile-setting-3g"
 date = "2012-07-11T14:37:58"
 draft = false
+aliases = ["/2012/07/maxis-vpn-mobile-setting-3g.html"]
 categories = ['Malaysia', 'Misc']
 +++
 

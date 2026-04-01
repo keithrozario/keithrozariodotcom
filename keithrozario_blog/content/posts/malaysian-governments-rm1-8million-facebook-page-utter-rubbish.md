@@ -3,6 +3,7 @@ title = "Malaysian Governments Rm1.8million Facebook page: Utter Rubbish"
 slug = "malaysian-governments-rm1-8million-facebook-page-utter-rubbish"
 date = "2011-06-30T22:22:53"
 draft = false
+aliases = ["/2011/06/malaysian-governments-rm1-8million-facebook-page-utter-rubbish.html"]
 tags = ['social network']
 categories = ['Misc']
 +++

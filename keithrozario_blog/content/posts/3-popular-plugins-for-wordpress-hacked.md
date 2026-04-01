@@ -3,6 +3,7 @@ title = "3 popular plugins for Wordpress hacked!"
 slug = "3-popular-plugins-for-wordpress-hacked"
 date = "2011-06-23T00:55:00"
 draft = false
+aliases = ["/2011/06/3-popular-plugins-for-wordpress-hacked.html"]
 tags = ['wordpress']
 categories = ['Blog']
 +++

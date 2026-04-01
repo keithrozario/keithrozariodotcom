@@ -3,6 +3,7 @@ title = "Malaysian Cyberwar: Is it an external war or is it civil"
 slug = "malaysian-cyberwar-is-it-an-external-war-or-is-it-civil"
 date = "2013-03-18T00:00:41"
 draft = false
+aliases = ["/2013/03/malaysian-cyberwar-is-it-an-external-war-or-is-it-civil.html"]
 categories = ['CyberLaw', 'Malaysia', 'Security &amp; Privacy']
 +++
 

@@ -3,6 +3,7 @@ title = "Entrepreneur or Employee"
 slug = "entrepreneur-or-employee"
 date = "2011-05-25T01:47:33"
 draft = false
+aliases = ["/2011/05/entrepreneur-or-employee.html"]
 categories = ['Misc']
 +++
 

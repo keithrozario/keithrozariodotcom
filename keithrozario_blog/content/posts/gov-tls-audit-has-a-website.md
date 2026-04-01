@@ -3,6 +3,7 @@ title = "Gov TLS Audit has a website!"
 slug = "gov-tls-audit-has-a-website"
 date = "2018-04-27T18:12:24"
 draft = false
+aliases = ["/2018/04/gov-tls-audit-has-a-website.html"]
 categories = ['Misc']
 +++
 

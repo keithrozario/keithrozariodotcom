@@ -3,6 +3,7 @@ title = "Russell Peters : A case for copyright"
 slug = "russell-peters-a-case-for-copyright"
 date = "2012-04-17T16:36:40"
 draft = false
+aliases = ["/2012/04/russell-peters-a-case-for-copyright.html"]
 categories = ['Copyright and Censorship', 'Malaysia']
 +++
 

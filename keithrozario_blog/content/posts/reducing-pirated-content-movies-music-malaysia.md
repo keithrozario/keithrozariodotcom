@@ -3,6 +3,7 @@ title = "Netflix accounts for 32% of internet traffic : What it means for pirate
 slug = "reducing-pirated-content-movies-music-malaysia"
 date = "2012-06-11T22:14:11"
 draft = false
+aliases = ["/2012/06/reducing-pirated-content-movies-music-malaysia.html"]
 tags = ['Netflix']
 categories = ['Copyright and Censorship', 'Malaysia']
 +++

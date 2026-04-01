@@ -3,6 +3,7 @@ title = "The start of the blog."
 slug = "the-start-of-the-blog"
 date = "2011-04-17T07:14:20"
 draft = false
+aliases = ["/2011/04/the-start-of-the-blog.html"]
 categories = ['Blog']
 +++
 

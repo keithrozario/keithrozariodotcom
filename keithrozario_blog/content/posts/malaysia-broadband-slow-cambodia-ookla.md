@@ -3,6 +3,7 @@ title = "Local broadband speeds slower than Cambodia: Why it doesn't matter"
 slug = "malaysia-broadband-slow-cambodia-ookla"
 date = "2014-05-12T23:02:53"
 draft = false
+aliases = ["/2014/05/malaysia-broadband-slow-cambodia-ookla.html"]
 tags = ['MalaysiaBroadband']
 categories = ['Malaysia']
 +++

@@ -3,6 +3,7 @@ title = "I'm an Ikea Hacker...woot!!"
 slug = "expedit-lack-standing-des"
 date = "2011-08-30T21:18:08"
 draft = false
+aliases = ["/2011/08/expedit-lack-standing-des.html"]
 tags = ['Ikea']
 categories = ['Design', 'Misc']
 +++

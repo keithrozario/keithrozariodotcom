@@ -3,6 +3,7 @@ title = "Mahathir censored on facebook"
 slug = "mahathir-censored-on-facebook"
 date = "2013-08-03T12:14:00"
 draft = false
+aliases = ["/2013/08/mahathir-censored-on-facebook.html"]
 categories = ['Copyright and Censorship']
 +++
 

@@ -3,6 +3,7 @@ title = "Crowdfunding : Best of Kickstarter 2012"
 slug = "best-of-kickstarter-2012-crowdfundin"
 date = "2013-04-08T07:00:07"
 draft = false
+aliases = ["/2013/04/best-of-kickstarter-2012-crowdfundin.html"]
 categories = ['Crowdsourcing']
 +++
 

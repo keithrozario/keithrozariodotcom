@@ -3,6 +3,7 @@ title = "A TED talk to point out the stupidity of Copyright Mathematics"
 slug = "copyright-mathematic"
 date = "2012-03-26T22:46:06"
 draft = false
+aliases = ["/2012/03/copyright-mathematic.html"]
 categories = ['Copyright and Censorship']
 +++
 

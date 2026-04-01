@@ -3,6 +3,7 @@ title = "This is how fast Amazon is in Singapore"
 slug = "network-speed-singapore-amazon"
 date = "2014-04-28T17:01:05"
 draft = false
+aliases = ["/2014/04/network-speed-singapore-amazon.html"]
 tags = ['AWS']
 categories = ['Cloud Computing']
 +++

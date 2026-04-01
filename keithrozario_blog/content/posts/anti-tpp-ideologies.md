@@ -3,6 +3,7 @@ title = "Anti-TPP Ideologies?"
 slug = "anti-tpp-ideologies"
 date = "2015-12-19T08:00:52"
 draft = false
+aliases = ["/2015/12/anti-tpp-ideologies.html"]
 tags = ['TPP']
 categories = ['Misc']
 +++

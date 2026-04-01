@@ -3,6 +3,7 @@ title = "Kindle in Malaysia : Buying and Using a Kindle in Malaysia"
 slug = "kindle-malaysia-buying-ebooks-amazon"
 date = "2012-04-29T20:04:40"
 draft = false
+aliases = ["/2012/04/kindle-malaysia-buying-ebooks-amazon.html"]
 tags = ['Amazon']
 categories = ['Copyright and Censorship', 'Malaysia']
 +++

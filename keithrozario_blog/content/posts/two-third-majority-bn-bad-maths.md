@@ -3,6 +3,7 @@ title = "Some rather odd Maths"
 slug = "two-third-majority-bn-bad-maths"
 date = "2013-01-26T21:55:24"
 draft = false
+aliases = ["/2013/01/two-third-majority-bn-bad-maths.html"]
 categories = ['Science']
 +++
 

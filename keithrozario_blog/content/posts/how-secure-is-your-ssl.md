@@ -3,6 +3,7 @@ title = "How secure are the webpages of Malaysian Banks and Telco"
 slug = "how-secure-is-your-ssl"
 date = "2013-06-20T08:00:51"
 draft = false
+aliases = ["/2013/06/how-secure-is-your-ssl.html"]
 tags = ['CIMB', 'Digi', 'LHDN', 'Lowyat', 'Malaysiakini', 'Maxis']
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++

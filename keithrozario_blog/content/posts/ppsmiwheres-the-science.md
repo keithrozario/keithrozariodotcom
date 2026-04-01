@@ -3,6 +3,7 @@ title = "PPSMI:Where's the Science?"
 slug = "ppsmiwheres-the-science"
 date = "2012-01-01T16:30:32"
 draft = false
+aliases = ["/2012/01/ppsmiwheres-the-science.html"]
 categories = ['Malaysia', 'Misc']
 +++
 

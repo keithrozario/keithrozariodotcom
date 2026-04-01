@@ -3,6 +3,7 @@ title = "Can we use crowdsourcing for Autistic people?"
 slug = "can-we-u-se-crowdsourcing-for-autistic-people"
 date = "2012-01-29T17:12:17"
 draft = false
+aliases = ["/2012/01/can-we-u-se-crowdsourcing-for-autistic-people.html"]
 tags = ['Asperger syndrome', 'Autism', 'Disability']
 categories = ['Crowdsourcing']
 +++

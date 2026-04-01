@@ -3,6 +3,7 @@ title = "You own your software supply chain"
 slug = "you-own-your-software-supply-chain"
 date = "2019-08-05T20:58:41"
 draft = false
+aliases = ["/2019/08/you-own-your-software-supply-chain.html"]
 categories = ['Security &amp; Privacy']
 +++
 

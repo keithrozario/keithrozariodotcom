@@ -3,6 +3,7 @@ title = "MACC says Facebook at work is Corruption"
 slug = "macc-facebook-working-hours-corruption-facebook-effects-employee-productivity"
 date = "2013-01-14T07:00:39"
 draft = false
+aliases = ["/2013/01/macc-facebook-working-hours-corruption-facebook-effects-employee-productivity.html"]
 categories = ["Keith's Favorite Post", 'Malaysia', 'Science', 'Social Media']
 +++
 

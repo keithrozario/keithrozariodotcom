@@ -3,6 +3,7 @@ title = "Installing those damn social media widgets."
 slug = "installing-those-damn-social-media-widgets"
 date = "2011-04-17T08:29:43"
 draft = false
+aliases = ["/2011/04/installing-those-damn-social-media-widgets.html"]
 tags = ['Blog Features', 'Social Media']
 categories = ['Blog']
 +++

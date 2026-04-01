@@ -3,6 +3,7 @@ title = "Is Malaysia's Broadband slow--no it isn't. "
 slug = "is-malaysias-broadband-slow-no-it-isnt"
 date = "2014-09-14T23:31:20"
 draft = false
+aliases = ["/2014/09/is-malaysias-broadband-slow-no-it-isnt.html"]
 categories = ['CyberLaw', 'Malaysia']
 +++
 

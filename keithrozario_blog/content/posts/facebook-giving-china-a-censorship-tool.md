@@ -3,6 +3,7 @@ title = "Facebook giving China a censorship tool?"
 slug = "facebook-giving-china-a-censorship-tool"
 date = "2016-11-27T11:15:07"
 draft = false
+aliases = ["/2016/11/facebook-giving-china-a-censorship-tool.html"]
 categories = ['Copyright and Censorship', 'Social Media']
 +++
 

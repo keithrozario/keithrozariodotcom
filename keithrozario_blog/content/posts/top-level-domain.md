@@ -3,6 +3,7 @@ title = "Top Level Domains and their importance"
 slug = "top-level-domain"
 date = "2011-09-24T12:28:05"
 draft = false
+aliases = ["/2011/09/top-level-domain.html"]
 tags = ['Blog', 'wordpress']
 categories = ['Blog']
 +++

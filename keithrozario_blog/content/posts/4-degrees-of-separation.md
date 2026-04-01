@@ -3,6 +3,7 @@ title = "We're not separated by 6 degrees of separation: It's now only 4.74"
 slug = "4-degrees-of-separation"
 date = "2011-11-28T23:24:44"
 draft = false
+aliases = ["/2011/11/4-degrees-of-separation.html"]
 tags = ['Facebook']
 categories = ['Misc', 'Social Media']
 +++

@@ -3,6 +3,7 @@ title = "Crowdsourcing used to identify UK rioters"
 slug = "crowdsourcing-uk-rioters"
 date = "2011-08-21T21:05:10"
 draft = false
+aliases = ["/2011/08/crowdsourcing-uk-rioters.html"]
 tags = ['Crowdsourcing', 'Google']
 categories = ['Crowdsourcing', 'Social Media']
 +++

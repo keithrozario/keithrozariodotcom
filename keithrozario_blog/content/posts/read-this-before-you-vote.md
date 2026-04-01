@@ -3,6 +3,7 @@ title = "Read this before GE14"
 slug = "read-this-before-you-vote"
 date = "2018-04-03T01:28:56"
 draft = false
+aliases = ["/2018/04/read-this-before-you-vote.html"]
 categories = ["Keith's Favorite Post", 'Singapore']
 +++
 

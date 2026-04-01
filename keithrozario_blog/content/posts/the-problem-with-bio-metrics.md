@@ -3,6 +3,7 @@ title = "The problem with bio-metrics"
 slug = "the-problem-with-bio-metrics"
 date = "2015-10-18T15:59:49"
 draft = false
+aliases = ["/2015/10/the-problem-with-bio-metrics.html"]
 categories = ['CyberLaw', 'Security &amp; Privacy']
 +++
 

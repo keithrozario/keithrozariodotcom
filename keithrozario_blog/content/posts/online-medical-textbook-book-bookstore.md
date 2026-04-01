@@ -3,6 +3,7 @@ title = "Online Medical books in Malaysia: Unibooks.com.my"
 slug = "online-medical-textbook-book-bookstore"
 date = "2012-11-01T08:00:25"
 draft = false
+aliases = ["/2012/11/online-medical-textbook-book-bookstore.html"]
 tags = ['Friends', 'Unibooks']
 categories = ['Malaysia']
 +++

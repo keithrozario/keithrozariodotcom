@@ -3,6 +3,7 @@ title = "Questions we need to ask about spyware"
 slug = "questions-we-need-to-ask-about-spyware"
 date = "2016-01-11T08:01:57"
 draft = false
+aliases = ["/2016/01/questions-we-need-to-ask-about-spyware.html"]
 tags = ['Spyware']
 categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy', 'WhatisIT']
 +++

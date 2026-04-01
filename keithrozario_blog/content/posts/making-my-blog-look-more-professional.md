@@ -3,6 +3,7 @@ title = "Making my blog 'look' more professional."
 slug = "making-my-blog-look-more-professional"
 date = "2011-04-17T14:12:11"
 draft = false
+aliases = ["/2011/04/making-my-blog-look-more-professional.html"]
 tags = ['Blog Features', 'NearlyFreeSpeech']
 categories = ['Blog']
 +++

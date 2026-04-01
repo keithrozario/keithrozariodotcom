@@ -3,6 +3,7 @@ title = "notes.io : A great way to jot down notes online."
 slug = "notes-io-a-great-way-to-jot-down-notes-online"
 date = "2011-06-28T08:54:04"
 draft = false
+aliases = ["/2011/06/notes-io-a-great-way-to-jot-down-notes-online.html"]
 categories = ['Design', 'Misc']
 +++
 

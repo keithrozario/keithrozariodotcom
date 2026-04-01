@@ -3,6 +3,7 @@ title = "How SSL works: A presentation on Slideshare"
 slug = "how-ssl-works-powerpoint-slideshar"
 date = "2012-08-10T12:27:51"
 draft = false
+aliases = ["/2012/08/how-ssl-works-powerpoint-slideshar.html"]
 tags = ['Microsoft', 'Slideshare']
 categories = ['Misc']
 +++

@@ -3,6 +3,7 @@ title = "Why ReCaptcha works: The 4 requirements of Crowdsourcing"
 slug = "recaptcha-4-requirements-crowdsourcing"
 date = "2011-12-17T18:34:31"
 draft = false
+aliases = ["/2011/12/recaptcha-4-requirements-crowdsourcing.html"]
 tags = ['Captcha', 'Google', 'ReCaptcha']
 categories = ['Crowdsourcing']
 +++

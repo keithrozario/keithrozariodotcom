@@ -3,6 +3,7 @@ title = "Why my people will never be Ministers"
 slug = "why-my-people-will-never-be-ministers"
 date = "2018-07-03T00:29:59"
 draft = false
+aliases = ["/2018/07/why-my-people-will-never-be-ministers.html"]
 categories = ['Misc']
 +++
 

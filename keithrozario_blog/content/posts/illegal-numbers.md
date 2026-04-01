@@ -3,6 +3,7 @@ title = "Illegal numbers?"
 slug = "illegal-numbers"
 date = "2013-05-16T07:00:51"
 draft = false
+aliases = ["/2013/05/illegal-numbers.html"]
 categories = ['Misc', 'Science']
 +++
 

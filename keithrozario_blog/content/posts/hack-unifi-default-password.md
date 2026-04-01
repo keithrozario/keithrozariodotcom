@@ -3,6 +3,7 @@ title = "Hack TM Unifi: In case you've lost your default password"
 slug = "hack-unifi-default-password"
 date = "2013-08-12T08:00:21"
 draft = false
+aliases = ["/2013/08/hack-unifi-default-password.html"]
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++
 

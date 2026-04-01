@@ -3,6 +3,7 @@ title = "Thoughts on SingHealth Data Breach"
 slug = "thoughts-on-singhealth-data-breach"
 date = "2018-08-04T20:56:59"
 draft = false
+aliases = ["/2018/08/thoughts-on-singhealth-data-breach.html"]
 tags = ['dataBreach', 'Singapore']
 categories = ['Security &amp; Privacy', 'Singapore']
 +++

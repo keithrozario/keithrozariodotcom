@@ -3,6 +3,7 @@ title = "When Lightning strikes the Cloud: Amazon Outage"
 slug = "google-cloud-amazon-outage-hurricane"
 date = "2012-07-12T04:00:43"
 draft = false
+aliases = ["/2012/07/google-cloud-amazon-outage-hurricane.html"]
 tags = ['Amazon', 'Google', 'Heroku', 'Instagram', 'Netflix']
 categories = ['Cloud Computing']
 +++

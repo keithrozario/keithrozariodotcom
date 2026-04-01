@@ -3,6 +3,7 @@ title = "4 Reasons you need an RSS feed"
 slug = "4-reasons-you-need-an-rss-feed"
 date = "2012-04-12T14:49:43"
 draft = false
+aliases = ["/2012/04/4-reasons-you-need-an-rss-feed.html"]
 tags = ['Google', 'Jobs', 'Jobstreet', 'RSS', 'twitter']
 categories = ['Blog', 'Malaysia', 'Misc']
 +++

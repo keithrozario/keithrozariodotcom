@@ -3,6 +3,7 @@ title = "How many samples are enough to build the Kidex highway?"
 slug = "how-many-is-enough-kidex-highway-say-no"
 date = "2014-05-18T22:04:10"
 draft = false
+aliases = ["/2014/05/how-many-is-enough-kidex-highway-say-no.html"]
 tags = ['Kidex']
 categories = ['Malaysia', 'Misc']
 +++

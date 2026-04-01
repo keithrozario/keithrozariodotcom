@@ -3,6 +3,7 @@ title = "How to add Google's +1 to your wordpress blog"
 slug = "how-to-add-googles-1-to-your-wordpress-blog"
 date = "2011-06-06T01:45:33"
 draft = false
+aliases = ["/2011/06/how-to-add-googles-1-to-your-wordpress-blog.html"]
 tags = ['Blog', 'Blog Features', 'Google', 'wordpress']
 categories = ['Blog']
 +++

@@ -3,6 +3,7 @@ title = "Instagram Camera: Coolest thing EVER!!"
 slug = "instagram-socialmatic-camera-indiegogo-crowdfund-malaysia"
 date = "2012-07-02T17:31:21"
 draft = false
+aliases = ["/2012/07/instagram-socialmatic-camera-indiegogo-crowdfund-malaysia.html"]
 tags = ['Facebook', 'Instagram']
 categories = ['Crowdsourcing', 'Design', 'Social Media']
 +++

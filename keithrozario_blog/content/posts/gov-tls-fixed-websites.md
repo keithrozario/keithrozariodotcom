@@ -3,6 +3,7 @@ title = "3 times GovTLS helped fixed government websites"
 slug = "gov-tls-fixed-websites"
 date = "2018-06-16T09:21:52"
 draft = false
+aliases = ["/2018/06/gov-tls-fixed-websites.html"]
 tags = ['GovTLS', 'Malaysian Government']
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++

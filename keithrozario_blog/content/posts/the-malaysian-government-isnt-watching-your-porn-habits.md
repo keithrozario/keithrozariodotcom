@@ -3,6 +3,7 @@ title = "The Malaysian Government isn't watching your porn habits"
 slug = "the-malaysian-government-isnt-watching-your-porn-habits"
 date = "2018-07-15T00:10:35"
 draft = false
+aliases = ["/2018/07/the-malaysian-government-isnt-watching-your-porn-habits.html"]
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++
 

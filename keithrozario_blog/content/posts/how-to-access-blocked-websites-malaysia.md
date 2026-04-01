@@ -3,6 +3,7 @@ title = "Top 4 ways to access blocked sites"
 slug = "how-to-access-blocked-websites-malaysia"
 date = "2013-05-04T18:40:15"
 draft = false
+aliases = ["/2013/05/how-to-access-blocked-websites-malaysia.html"]
 categories = ['Copyright and Censorship', 'Malaysia']
 +++
 

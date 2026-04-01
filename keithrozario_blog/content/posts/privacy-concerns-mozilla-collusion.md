@@ -3,6 +3,7 @@ title = "Scary Scary Privacy Concerns Online"
 slug = "privacy-concerns-mozilla-collusion"
 date = "2012-05-20T15:40:39"
 draft = false
+aliases = ["/2012/05/privacy-concerns-mozilla-collusion.html"]
 tags = ['Mozilla']
 categories = ['CyberLaw', 'Security &amp; Privacy']
 +++

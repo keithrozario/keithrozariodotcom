@@ -3,6 +3,7 @@ title = "Tech Journalism in Malaysia is disappointing"
 slug = "tech-journalism-in-malaysia-is-disappointing"
 date = "2015-04-21T02:08:12"
 draft = false
+aliases = ["/2015/04/tech-journalism-in-malaysia-is-disappointing.html"]
 categories = ['Misc']
 +++
 

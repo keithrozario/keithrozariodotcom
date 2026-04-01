@@ -3,6 +3,7 @@ title = "Amazon Cloud Player"
 slug = "amazon-cloud-player"
 date = "2011-11-22T18:33:01"
 draft = false
+aliases = ["/2011/11/amazon-cloud-player.html"]
 tags = ['Amazon', 'Cloud', 'Music']
 categories = ['Cloud Computing']
 +++

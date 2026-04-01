@@ -3,6 +3,7 @@ title = "The Security Offences Bill 2012 -Technology Perspective"
 slug = "security-offences-bill-2012-special-measures-technology-perspective"
 date = "2013-07-09T08:00:17"
 draft = false
+aliases = ["/2013/07/security-offences-bill-2012-special-measures-technology-perspective.html"]
 categories = ['CyberLaw', 'Malaysia', 'Security &amp; Privacy']
 +++
 

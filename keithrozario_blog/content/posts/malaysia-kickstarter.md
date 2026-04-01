@@ -3,6 +3,7 @@ title = "Malaysian kickstarter success story"
 slug = "malaysia-kickstarter"
 date = "2012-10-18T08:00:36"
 draft = false
+aliases = ["/2012/10/malaysia-kickstarter.html"]
 tags = ['kickstarter']
 categories = ['Crowdsourcing']
 +++

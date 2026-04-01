@@ -3,6 +3,7 @@ title = "Keith on BFM"
 slug = "keith-on-bfm"
 date = "2015-11-26T22:44:45"
 draft = false
+aliases = ["/2015/11/keith-on-bfm.html"]
 categories = ['Misc']
 +++
 

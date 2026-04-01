@@ -3,6 +3,7 @@ title = "Twitter vs. News: How they reported the Oslo bombing"
 slug = "twitter-vs-news-how-they-reported-the-oslo-bombing"
 date = "2011-07-23T17:23:11"
 draft = false
+aliases = ["/2011/07/twitter-vs-news-how-they-reported-the-oslo-bombing.html"]
 tags = ['twitter']
 categories = ['Crowdsourcing', 'Misc']
 +++

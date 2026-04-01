@@ -3,6 +3,7 @@ title = "Starting your own Groupon site"
 slug = "starting-your-own-groupon-site"
 date = "2011-09-03T13:13:02"
 draft = false
+aliases = ["/2011/09/starting-your-own-groupon-site.html"]
 categories = ['Misc']
 +++
 

@@ -3,6 +3,7 @@ title = "Full Disk Encryption with the keys inside"
 slug = "full-disk-encryption-with-the-keys-inside"
 date = "2016-04-09T12:52:55"
 draft = false
+aliases = ["/2016/04/full-disk-encryption-with-the-keys-inside.html"]
 tags = ['EMV', 'Iphone']
 categories = ['Security &amp; Privacy']
 +++

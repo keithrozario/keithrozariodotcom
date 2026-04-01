@@ -3,6 +3,7 @@ title = "Wordpress on Amazon Web Services (AWS)"
 slug = "how-to-install-wordpress-on-aws-cloud-computing"
 date = "2011-10-08T20:50:14"
 draft = false
+aliases = ["/2011/10/how-to-install-wordpress-on-aws-cloud-computing.html"]
 tags = ['Amazon', 'Cloud', 'wordpress']
 categories = ['Blog', 'Cloud Computing']
 +++

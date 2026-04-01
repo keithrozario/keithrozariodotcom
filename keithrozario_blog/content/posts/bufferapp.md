@@ -3,6 +3,7 @@ title = "Bufferapp : Schedule your Tweets"
 slug = "bufferapp"
 date = "2011-07-28T10:33:57"
 draft = false
+aliases = ["/2011/07/bufferapp.html"]
 tags = ['twitter']
 categories = ['Social Media']
 +++

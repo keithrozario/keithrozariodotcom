@@ -3,6 +3,7 @@ title = "The relationship between surveillance and censorship"
 slug = "the-relationship-between-surveillance-and-censorship"
 date = "2016-03-27T16:01:30"
 draft = false
+aliases = ["/2016/03/the-relationship-between-surveillance-and-censorship.html"]
 categories = ['Misc']
 +++
 

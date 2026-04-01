@@ -3,6 +3,7 @@ title = "Sayakenahack architecture"
 slug = "sayakenahack-architecture"
 date = "2017-11-23T07:23:19"
 draft = false
+aliases = ["/2017/11/sayakenahack-architecture.html"]
 categories = ['Misc']
 +++
 

@@ -3,6 +3,7 @@ title = "Cracking Passwords with the Cloud"
 slug = "cracking-passwords-with-the-cloud-vertical-vs-horizontal"
 date = "2012-08-20T19:56:34"
 draft = false
+aliases = ["/2012/08/cracking-passwords-with-the-cloud-vertical-vs-horizontal.html"]
 tags = ['Accent', 'Amazon']
 categories = ['Cloud Computing']
 +++

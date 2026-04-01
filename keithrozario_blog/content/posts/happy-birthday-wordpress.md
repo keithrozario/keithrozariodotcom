@@ -3,6 +3,7 @@ title = "Happy Birthday Wordpress!! Why Khairy won't be the next PM"
 slug = "happy-birthday-wordpress"
 date = "2012-05-28T15:17:52"
 draft = false
+aliases = ["/2012/05/happy-birthday-wordpress.html"]
 tags = ['wordpress']
 categories = ['Blog', 'Misc']
 +++

@@ -3,6 +3,7 @@ title = "Amazon releases new icons for AWS"
 slug = "amazon-new-icons-for-aws"
 date = "2011-12-06T08:55:37"
 draft = false
+aliases = ["/2011/12/amazon-new-icons-for-aws.html"]
 tags = ['Amazon']
 categories = ['Cloud Computing', 'Design']
 +++

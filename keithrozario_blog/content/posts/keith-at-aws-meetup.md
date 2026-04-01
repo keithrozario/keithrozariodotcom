@@ -3,6 +3,7 @@ title = "Keith at AWS Meetup"
 slug = "keith-at-aws-meetup"
 date = "2019-02-03T11:02:16"
 draft = false
+aliases = ["/2019/02/keith-at-aws-meetup.html"]
 categories = ['Serverless']
 +++
 

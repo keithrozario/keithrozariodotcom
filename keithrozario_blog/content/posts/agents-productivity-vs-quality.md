@@ -3,6 +3,7 @@ title = "Agents productivity vs. Quality"
 slug = "agents-productivity-vs-quality"
 date = "2026-01-12T14:14:37"
 draft = false
+aliases = ["/2026/01/agents-productivity-vs-quality.html"]
 categories = ['Misc']
 +++
 

@@ -3,6 +3,7 @@ title = "Why Malaysia should never send anyone into space again--EVER!!"
 slug = "why-malaysia-should-never-send-anyone-into-space-again-ever"
 date = "2013-10-05T22:22:45"
 draft = false
+aliases = ["/2013/10/why-malaysia-should-never-send-anyone-into-space-again-ever.html"]
 categories = ["Keith's Favorite Post", 'Science']
 +++
 

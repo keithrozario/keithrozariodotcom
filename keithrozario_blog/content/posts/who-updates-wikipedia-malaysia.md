@@ -3,6 +3,7 @@ title = "Wikipedia from a Malaysian perspective"
 slug = "who-updates-wikipedia-malaysia"
 date = "2012-07-18T04:00:34"
 draft = false
+aliases = ["/2012/07/who-updates-wikipedia-malaysia.html"]
 categories = ['Big Data', 'Crowdsourcing', "Keith's Favorite Post"]
 +++
 

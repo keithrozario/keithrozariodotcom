@@ -3,6 +3,7 @@ title = "Crowdsourcing: The way of the future?"
 slug = "what-is-crowdsourcing-crowd-source"
 date = "2011-08-09T11:49:31"
 draft = false
+aliases = ["/2011/08/what-is-crowdsourcing-crowd-source.html"]
 tags = ['Tech Trends']
 categories = ['Crowdsourcing', 'Misc']
 +++

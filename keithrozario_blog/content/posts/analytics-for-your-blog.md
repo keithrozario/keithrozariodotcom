@@ -3,6 +3,7 @@ title = "Analytics for your blog"
 slug = "analytics-for-your-blog"
 date = "2011-04-18T16:57:56"
 draft = false
+aliases = ["/2011/04/analytics-for-your-blog.html"]
 tags = ['Analytics', 'Blog Features', 'Google']
 categories = ['Blog']
 +++

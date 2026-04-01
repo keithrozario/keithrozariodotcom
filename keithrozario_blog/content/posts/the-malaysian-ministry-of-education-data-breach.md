@@ -3,6 +3,7 @@ title = "The Malaysian Ministry of Education Data Breach"
 slug = "the-malaysian-ministry-of-education-data-breach"
 date = "2018-06-18T22:44:08"
 draft = false
+aliases = ["/2018/06/the-malaysian-ministry-of-education-data-breach.html"]
 tags = ['dataBreach']
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++

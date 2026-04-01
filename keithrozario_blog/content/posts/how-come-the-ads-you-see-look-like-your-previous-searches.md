@@ -3,6 +3,7 @@ title = "How come the ads you see look like your previous searches?"
 slug = "how-come-the-ads-you-see-look-like-your-previous-searches"
 date = "2012-05-03T10:38:19"
 draft = false
+aliases = ["/2012/05/how-come-the-ads-you-see-look-like-your-previous-searches.html"]
 tags = ['Google']
 categories = ['Misc', 'Security &amp; Privacy']
 +++

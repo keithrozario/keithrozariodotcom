@@ -3,6 +3,7 @@ title = "MaxisCloud : A silver lining in terms of data transfer"
 slug = "maxiscloud-a-silver-lining-in-terms-of-data-transfer"
 date = "2012-04-03T23:41:00"
 draft = false
+aliases = ["/2012/04/maxiscloud-a-silver-lining-in-terms-of-data-transfer.html"]
 categories = ['Cloud Computing', 'Malaysia']
 +++
 

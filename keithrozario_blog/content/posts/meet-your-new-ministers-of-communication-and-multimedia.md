@@ -3,6 +3,7 @@ title = "Meet your new Ministers of Communication and Multimedia"
 slug = "meet-your-new-ministers-of-communication-and-multimedia"
 date = "2013-05-20T07:00:54"
 draft = false
+aliases = ["/2013/05/meet-your-new-ministers-of-communication-and-multimedia.html"]
 tags = ['MCMC']
 categories = ['Malaysia']
 +++

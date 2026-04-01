@@ -3,6 +3,7 @@ title = "Copyright laws get dumber: Trans-Pacific Partnership (TPP) agreement"
 slug = "copyright-law-malaysia-tpp"
 date = "2012-02-18T21:22:28"
 draft = false
+aliases = ["/2012/02/copyright-law-malaysia-tpp.html"]
 tags = ['SOPA']
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia']
 +++

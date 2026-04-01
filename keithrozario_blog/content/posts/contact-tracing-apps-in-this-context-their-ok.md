@@ -3,6 +3,7 @@ title = "Contact Tracing Apps: they're OK."
 slug = "contact-tracing-apps-in-this-context-their-ok"
 date = "2020-05-10T16:46:28"
 draft = false
+aliases = ["/2020/05/contact-tracing-apps-in-this-context-their-ok.html"]
 categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++
 

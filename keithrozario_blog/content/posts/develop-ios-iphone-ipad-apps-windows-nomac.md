@@ -3,6 +3,7 @@ title = "MacinCloud: Develop iPad / iPhone apps on Windows"
 slug = "develop-ios-iphone-ipad-apps-windows-nomac"
 date = "2012-05-16T11:10:53"
 draft = false
+aliases = ["/2012/05/develop-ios-iphone-ipad-apps-windows-nomac.html"]
 tags = ['Apple', 'Cloud Computing', 'Mac']
 categories = ['Cloud Computing']
 +++

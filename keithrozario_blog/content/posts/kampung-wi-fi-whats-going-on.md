@@ -3,6 +3,7 @@ title = "Kampung Wi-Fi: What's going on?"
 slug = "kampung-wi-fi-whats-going-on"
 date = "2012-01-07T11:35:27"
 draft = false
+aliases = ["/2012/01/kampung-wi-fi-whats-going-on.html"]
 categories = ['Malaysia', 'Misc']
 +++
 

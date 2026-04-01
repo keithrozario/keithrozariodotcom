@@ -3,6 +3,7 @@ title = "Sumptuous Erotica and Barisan Nasional"
 slug = "sumptuous-erotica-alvin-vivian-barisan-nasional"
 date = "2012-10-23T08:00:19"
 draft = false
+aliases = ["/2012/10/sumptuous-erotica-alvin-vivian-barisan-nasional.html"]
 tags = ['skmm']
 categories = ['Copyright and Censorship', 'CyberLaw']
 +++

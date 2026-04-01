@@ -3,6 +3,7 @@ title = "Updating Wordpress: Step by Step"
 slug = "updating-wordpress-step-by-step"
 date = "2011-07-14T11:11:42"
 draft = false
+aliases = ["/2011/07/updating-wordpress-step-by-step.html"]
 tags = ['wordpress']
 categories = ['Blog']
 +++

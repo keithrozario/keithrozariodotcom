@@ -3,6 +3,7 @@ title = "Writing Millions of rows into DynamoDB"
 slug = "writing-millions-of-rows-into-dynamodb"
 date = "2017-12-09T23:03:56"
 draft = false
+aliases = ["/2017/12/writing-millions-of-rows-into-dynamodb.html"]
 categories = ['Misc']
 +++
 

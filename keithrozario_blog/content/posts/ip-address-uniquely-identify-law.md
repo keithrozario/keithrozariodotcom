@@ -3,6 +3,7 @@ title = "Should an IP address be used to Identify someone?"
 slug = "ip-address-uniquely-identify-law"
 date = "2015-04-29T11:00:29"
 draft = false
+aliases = ["/2015/04/ip-address-uniquely-identify-law.html"]
 categories = ['CyberLaw', 'Malaysia']
 +++
 

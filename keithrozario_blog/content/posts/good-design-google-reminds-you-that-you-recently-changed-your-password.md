@@ -3,6 +3,7 @@ title = "Good Design: Google reminds you that you recently changed your password
 slug = "good-design-google-reminds-you-that-you-recently-changed-your-password"
 date = "2012-02-01T11:29:53"
 draft = false
+aliases = ["/2012/02/good-design-google-reminds-you-that-you-recently-changed-your-password.html"]
 tags = ['Google']
 categories = ['Design', 'Security &amp; Privacy', 'Social Media']
 +++

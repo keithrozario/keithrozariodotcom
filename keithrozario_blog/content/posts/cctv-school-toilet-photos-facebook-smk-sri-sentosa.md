@@ -3,6 +3,7 @@ title = "CCTV in toilets vs. Photos on facebook"
 slug = "cctv-school-toilet-photos-facebook-smk-sri-sentosa"
 date = "2013-09-14T21:56:49"
 draft = false
+aliases = ["/2013/09/cctv-school-toilet-photos-facebook-smk-sri-sentosa.html"]
 tags = ['CCTV']
 categories = ['Security &amp; Privacy']
 +++

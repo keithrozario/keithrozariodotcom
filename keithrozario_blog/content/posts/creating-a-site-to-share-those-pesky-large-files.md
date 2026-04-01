@@ -3,6 +3,7 @@ title = "Creating a site to share those pesky LARGE files"
 slug = "creating-a-site-to-share-those-pesky-large-files"
 date = "2011-06-03T14:24:29"
 draft = false
+aliases = ["/2011/06/creating-a-site-to-share-those-pesky-large-files.html"]
 tags = ['Blog Features', 'PHP']
 categories = ['Blog']
 +++

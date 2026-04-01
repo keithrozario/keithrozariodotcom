@@ -3,6 +3,7 @@ title = "Keith's on #HITBGSEC"
 slug = "keiths-on-hitbgsec"
 date = "2018-10-01T22:59:52"
 draft = false
+aliases = ["/2018/10/keiths-on-hitbgsec.html"]
 categories = ['Misc']
 +++
 

@@ -3,6 +3,7 @@ title = "Making the world safe for Technology"
 slug = "keeping-the-world-safe-for-technology"
 date = "2016-04-23T16:12:49"
 draft = false
+aliases = ["/2016/04/keeping-the-world-safe-for-technology.html"]
 tags = ['FBI']
 categories = ['Security &amp; Privacy']
 +++

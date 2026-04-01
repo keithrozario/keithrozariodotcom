@@ -3,6 +3,7 @@ title = "Computing Professionals Bill: This is IT"
 slug = "computing-professionals-bill"
 date = "2011-12-13T23:22:39"
 draft = false
+aliases = ["/2011/12/computing-professionals-bill.html"]
 categories = ['CyberLaw', 'Malaysia', 'Misc']
 +++
 

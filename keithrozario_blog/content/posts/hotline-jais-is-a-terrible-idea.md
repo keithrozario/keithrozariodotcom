@@ -3,6 +3,7 @@ title = "Hotline Jais is a terrible idea!"
 slug = "hotline-jais-is-a-terrible-idea"
 date = "2016-10-08T14:40:06"
 draft = false
+aliases = ["/2016/10/hotline-jais-is-a-terrible-idea.html"]
 categories = ['Misc']
 +++
 

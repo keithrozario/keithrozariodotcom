@@ -3,6 +3,7 @@ title = "The PM's year end cyber-security message"
 slug = "najib-razak-cybersecurity-year-end-message-malaysia"
 date = "2015-12-04T08:00:46"
 draft = false
+aliases = ["/2015/12/najib-razak-cybersecurity-year-end-message-malaysia.html"]
 categories = ['CyberLaw', "Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++
 

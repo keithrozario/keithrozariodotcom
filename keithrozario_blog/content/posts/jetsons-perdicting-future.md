@@ -3,6 +3,7 @@ title = "What the Jetsons can teach us about predicting the future"
 slug = "jetsons-perdicting-future"
 date = "2011-11-23T14:43:26"
 draft = false
+aliases = ["/2011/11/jetsons-perdicting-future.html"]
 tags = ['Prediction']
 categories = ['Blog', 'Cloud Computing']
 +++

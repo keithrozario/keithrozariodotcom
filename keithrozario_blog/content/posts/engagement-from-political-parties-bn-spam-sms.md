@@ -3,6 +3,7 @@ title = "Political parties don't know how to engage"
 slug = "engagement-from-political-parties-bn-spam-sms"
 date = "2013-05-01T14:53:22"
 draft = false
+aliases = ["/2013/05/engagement-from-political-parties-bn-spam-sms.html"]
 tags = ['BN SPAM SMS']
 categories = ['Malaysia', 'Social Media']
 +++

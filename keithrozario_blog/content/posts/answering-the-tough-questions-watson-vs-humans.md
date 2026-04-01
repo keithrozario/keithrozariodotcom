@@ -3,6 +3,7 @@ title = "Answering the tough questions: Watson vs. Humans"
 slug = "answering-the-tough-questions-watson-vs-humans"
 date = "2012-08-30T08:05:19"
 draft = false
+aliases = ["/2012/08/answering-the-tough-questions-watson-vs-humans.html"]
 tags = ['IBM']
 categories = ['Big Data', 'Misc']
 +++

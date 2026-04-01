@@ -3,6 +3,7 @@ title = "Using the Crowds to Predict : Crowdsourcing week article"
 slug = "using-the-crowds-to-predict-crowdsourcing-week-article"
 date = "2013-02-06T22:06:17"
 draft = false
+aliases = ["/2013/02/using-the-crowds-to-predict-crowdsourcing-week-article.html"]
 tags = ['crowdsourcing week']
 categories = ['Crowdsourcing']
 +++

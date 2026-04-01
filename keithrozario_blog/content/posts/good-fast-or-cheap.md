@@ -3,6 +3,7 @@ title = "Good, fast, or Cheap?"
 slug = "good-fast-or-cheap"
 date = "2025-07-23T12:59:06"
 draft = false
+aliases = ["/2025/07/good-fast-or-cheap.html"]
 categories = ['Misc']
 +++
 

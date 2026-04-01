@@ -3,6 +3,7 @@ title = "UC Berkeley says it: Google Apps beats Office365, but not by much"
 slug = "uc-berkeley-google-apps-beats-office365"
 date = "2012-01-09T23:08:48"
 draft = false
+aliases = ["/2012/01/uc-berkeley-google-apps-beats-office365.html"]
 tags = ['Google', 'Google Apps', 'Microsoft', 'Office365']
 categories = ['Cloud Computing']
 +++

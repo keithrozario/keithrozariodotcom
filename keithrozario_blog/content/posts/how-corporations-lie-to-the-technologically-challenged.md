@@ -3,6 +3,7 @@ title = "How corporations lie to the technologically challenged"
 slug = "how-corporations-lie-to-the-technologically-challenged"
 date = "2015-09-28T11:50:39"
 draft = false
+aliases = ["/2015/09/how-corporations-lie-to-the-technologically-challenged.html"]
 categories = ['CyberLaw', 'Malaysia', 'Security &amp; Privacy']
 +++
 

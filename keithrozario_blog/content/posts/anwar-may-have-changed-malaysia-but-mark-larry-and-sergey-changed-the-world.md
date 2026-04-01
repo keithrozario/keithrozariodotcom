@@ -3,6 +3,7 @@ title = "Anwar may have changed Malaysia, but Mark, Larry and Sergey changed the
 slug = "anwar-may-have-changed-malaysia-but-mark-larry-and-sergey-changed-the-world"
 date = "2013-04-18T08:00:26"
 draft = false
+aliases = ["/2013/04/anwar-may-have-changed-malaysia-but-mark-larry-and-sergey-changed-the-world.html"]
 categories = ['Malaysia', 'Misc', 'Social Media']
 +++
 

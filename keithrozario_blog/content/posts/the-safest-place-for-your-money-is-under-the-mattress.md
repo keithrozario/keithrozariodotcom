@@ -3,6 +3,7 @@ title = "The safest place for your money is under the mattress"
 slug = "the-safest-place-for-your-money-is-under-the-mattress"
 date = "2016-09-12T08:38:24"
 draft = false
+aliases = ["/2016/09/the-safest-place-for-your-money-is-under-the-mattress.html"]
 categories = ['CyberLaw', "Keith's Favorite Post", 'Security &amp; Privacy', 'Singapore']
 +++
 

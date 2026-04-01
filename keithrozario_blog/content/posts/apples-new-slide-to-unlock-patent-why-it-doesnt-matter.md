@@ -3,6 +3,7 @@ title = "Apple's new Slide-To-Unlock patent : Why it doesn't matter"
 slug = "apples-new-slide-to-unlock-patent-why-it-doesnt-matter"
 date = "2012-10-12T13:00:26"
 draft = false
+aliases = ["/2012/10/apples-new-slide-to-unlock-patent-why-it-doesnt-matter.html"]
 tags = ['Apple']
 categories = ['Copyright and Censorship', 'Design']
 +++

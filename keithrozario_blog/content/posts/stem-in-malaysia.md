@@ -3,6 +3,7 @@ title = "STEM in Malaysia"
 slug = "stem-in-malaysia"
 date = "2013-09-29T07:00:37"
 draft = false
+aliases = ["/2013/09/stem-in-malaysia.html"]
 categories = ['Science']
 +++
 

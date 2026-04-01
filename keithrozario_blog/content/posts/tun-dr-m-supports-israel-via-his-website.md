@@ -3,6 +3,7 @@ title = "Tun Dr M supports Israel via his website"
 slug = "tun-dr-m-supports-israel-via-his-website"
 date = "2014-02-10T20:54:13"
 draft = false
+aliases = ["/2014/02/tun-dr-m-supports-israel-via-his-website.html"]
 categories = ['Misc']
 +++
 

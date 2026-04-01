@@ -3,6 +3,7 @@ title = "Maxis agent attacking a Unifi customer?"
 slug = "maxis-agent-attacking-a-unifi-customer"
 date = "2013-08-22T23:13:54"
 draft = false
+aliases = ["/2013/08/maxis-agent-attacking-a-unifi-customer.html"]
 categories = ['Malaysia', 'Misc']
 +++
 

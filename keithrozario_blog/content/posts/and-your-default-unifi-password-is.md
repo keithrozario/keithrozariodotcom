@@ -3,6 +3,7 @@ title = "And your Default Unifi Password is..."
 slug = "and-your-default-unifi-password-is"
 date = "2013-01-07T07:00:40"
 draft = false
+aliases = ["/2013/01/and-your-default-unifi-password-is.html"]
 tags = ['Unifi']
 categories = ['Malaysia']
 +++

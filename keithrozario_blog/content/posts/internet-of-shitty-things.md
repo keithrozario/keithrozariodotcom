@@ -3,6 +3,7 @@ title = "Internet of shitty things!"
 slug = "internet-of-shitty-things"
 date = "2016-10-24T23:05:27"
 draft = false
+aliases = ["/2016/10/internet-of-shitty-things.html"]
 categories = ['AI', 'CyberLaw', 'Security &amp; Privacy']
 +++
 

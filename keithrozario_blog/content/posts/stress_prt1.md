@@ -3,6 +3,7 @@ title = "Techless Tuesday: Stress isn't just mental"
 slug = "stress_prt1"
 date = "2011-09-07T09:37:49"
 draft = false
+aliases = ["/2011/09/stress_prt1.html"]
 categories = ['Misc']
 +++
 

@@ -3,6 +3,7 @@ title = "Heartbleed explained in under 2 minutes"
 slug = "heartbleed-explained-in-under-2-minutes"
 date = "2014-04-25T12:09:09"
 draft = false
+aliases = ["/2014/04/heartbleed-explained-in-under-2-minutes.html"]
 tags = ['Heartbleed', 'OpenSSL']
 categories = ['Security &amp; Privacy']
 +++

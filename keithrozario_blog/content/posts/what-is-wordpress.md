@@ -3,6 +3,7 @@ title = "What is wordpress?"
 slug = "what-is-wordpress"
 date = "2012-07-21T04:00:57"
 draft = false
+aliases = ["/2012/07/what-is-wordpress.html"]
 categories = ['Blog']
 +++
 

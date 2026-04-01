@@ -3,6 +3,7 @@ title = "Data guys versus Lawyers and Politicians"
 slug = "data-guys-versus-lawyers-and-politicians"
 date = "2012-11-22T08:00:59"
 draft = false
+aliases = ["/2012/11/data-guys-versus-lawyers-and-politicians.html"]
 categories = ['Big Data']
 +++
 

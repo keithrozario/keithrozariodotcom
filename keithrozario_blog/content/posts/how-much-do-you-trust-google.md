@@ -3,6 +3,7 @@ title = "How much do you trust Google?"
 slug = "how-much-do-you-trust-google"
 date = "2012-01-11T23:14:46"
 draft = false
+aliases = ["/2012/01/how-much-do-you-trust-google.html"]
 tags = ['Google']
 categories = ['Crowdsourcing', 'Malaysia']
 +++

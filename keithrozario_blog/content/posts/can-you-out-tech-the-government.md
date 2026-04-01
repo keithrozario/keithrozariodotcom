@@ -3,6 +3,7 @@ title = "Can you out-tech the government?"
 slug = "can-you-out-tech-the-government"
 date = "2013-06-10T08:00:25"
 draft = false
+aliases = ["/2013/06/can-you-out-tech-the-government.html"]
 tags = ['Spyware']
 categories = ['Copyright and Censorship', 'CyberLaw', "Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++

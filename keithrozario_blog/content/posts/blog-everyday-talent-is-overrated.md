@@ -3,6 +3,7 @@ title = "Why you should Blog everyday: Because Talent is over-rated"
 slug = "blog-everyday-talent-is-overrated"
 date = "2011-11-21T23:47:22"
 draft = false
+aliases = ["/2011/11/blog-everyday-talent-is-overrated.html"]
 categories = ['Blog']
 +++
 

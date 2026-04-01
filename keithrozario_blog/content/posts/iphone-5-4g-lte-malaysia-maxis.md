@@ -3,6 +3,7 @@ title = "LTE in Malaysia has No iPhone5 support"
 slug = "iphone-5-4g-lte-malaysia-maxis"
 date = "2012-12-13T23:40:13"
 draft = false
+aliases = ["/2012/12/iphone-5-4g-lte-malaysia-maxis.html"]
 categories = ['Malaysia']
 +++
 

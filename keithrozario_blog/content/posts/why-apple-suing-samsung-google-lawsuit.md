@@ -3,6 +3,7 @@ title = "Why Apple is really suing Samsung"
 slug = "why-apple-suing-samsung-google-lawsuit"
 date = "2012-10-02T08:00:45"
 draft = false
+aliases = ["/2012/10/why-apple-suing-samsung-google-lawsuit.html"]
 tags = ['Apple', 'Google', 'Samsung']
 categories = ['Copyright and Censorship', 'Design', "Keith's Favorite Post"]
 +++

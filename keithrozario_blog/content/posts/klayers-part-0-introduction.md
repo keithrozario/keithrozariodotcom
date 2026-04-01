@@ -3,6 +3,7 @@ title = "Klayers Part 0: Introduction"
 slug = "klayers-part-0-introduction"
 date = "2019-08-13T00:36:40"
 draft = false
+aliases = ["/2019/08/klayers-part-0-introduction.html"]
 categories = ['Serverless']
 +++
 

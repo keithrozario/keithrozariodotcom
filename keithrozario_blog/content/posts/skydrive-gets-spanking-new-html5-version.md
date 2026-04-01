@@ -3,6 +3,7 @@ title = "Skydrive gets Spanking new HTML5 version"
 slug = "skydrive-gets-spanking-new-html5-version"
 date = "2011-06-21T03:06:41"
 draft = false
+aliases = ["/2011/06/skydrive-gets-spanking-new-html5-version.html"]
 tags = ['HTML5']
 categories = ['Blog']
 +++

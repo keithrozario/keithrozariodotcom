@@ -3,6 +3,7 @@ title = "Why we fear 'hackers': Dangers of Technical Illiteracy"
 slug = "why-we-fear-hackers-dangers-of-technical-illiteracy"
 date = "2015-08-23T20:00:56"
 draft = false
+aliases = ["/2015/08/why-we-fear-hackers-dangers-of-technical-illiteracy.html"]
 categories = ['CyberLaw', "Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++
 

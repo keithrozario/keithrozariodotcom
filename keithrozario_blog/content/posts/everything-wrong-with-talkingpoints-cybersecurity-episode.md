@@ -3,6 +3,7 @@ title = "Everything wrong with TalkingPoint's \"Cybersecurity\" episode"
 slug = "everything-wrong-with-talkingpoints-cybersecurity-episode"
 date = "2017-04-19T23:50:46"
 draft = false
+aliases = ["/2017/04/everything-wrong-with-talkingpoints-cybersecurity-episode.html"]
 categories = ['Security &amp; Privacy', 'Singapore']
 +++
 

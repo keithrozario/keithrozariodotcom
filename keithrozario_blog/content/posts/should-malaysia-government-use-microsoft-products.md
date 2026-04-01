@@ -3,6 +3,7 @@ title = "Should the government use Microsoft products?"
 slug = "should-malaysia-government-use-microsoft-products"
 date = "2013-07-02T08:00:26"
 draft = false
+aliases = ["/2013/07/should-malaysia-government-use-microsoft-products.html"]
 categories = ['CyberLaw', 'Security &amp; Privacy']
 +++
 

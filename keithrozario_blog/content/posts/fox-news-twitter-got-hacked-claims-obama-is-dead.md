@@ -3,6 +3,7 @@ title = "Fox News Twitter got hacked, claims Obama is dead"
 slug = "fox-news-twitter-got-hacked-claims-obama-is-dead"
 date = "2011-07-04T16:51:12"
 draft = false
+aliases = ["/2011/07/fox-news-twitter-got-hacked-claims-obama-is-dead.html"]
 tags = ['twitter']
 categories = ['Misc']
 +++

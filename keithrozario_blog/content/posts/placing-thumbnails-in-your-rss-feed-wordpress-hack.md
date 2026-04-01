@@ -3,6 +3,7 @@ title = "Placing thumbnails in your RSS feed: Wordpress Hack"
 slug = "placing-thumbnails-in-your-rss-feed-wordpress-hack"
 date = "2011-07-19T21:02:54"
 draft = false
+aliases = ["/2011/07/placing-thumbnails-in-your-rss-feed-wordpress-hack.html"]
 categories = ['Misc']
 +++
 

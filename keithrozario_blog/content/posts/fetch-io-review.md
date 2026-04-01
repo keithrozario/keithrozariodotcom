@@ -3,6 +3,7 @@ title = "Fetch.io : Review and Final Verdict"
 slug = "fetch-io-review"
 date = "2011-07-29T10:09:11"
 draft = false
+aliases = ["/2011/07/fetch-io-review.html"]
 categories = ['Misc']
 +++
 

@@ -3,6 +3,7 @@ title = "Nearlyfreespeech the hosting provider that takes security seriously"
 slug = "nearlyfreespeech-the-hosting-provider-that-takes-security-seriously"
 date = "2014-08-31T22:12:54"
 draft = false
+aliases = ["/2014/08/nearlyfreespeech-the-hosting-provider-that-takes-security-seriously.html"]
 categories = ['Blog', 'Security &amp; Privacy']
 +++
 

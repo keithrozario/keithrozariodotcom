@@ -3,6 +3,7 @@ title = "The Astro Data Breach"
 slug = "the-astro-data-breach"
 date = "2018-06-07T00:57:30"
 draft = false
+aliases = ["/2018/06/the-astro-data-breach.html"]
 categories = ['Security &amp; Privacy']
 +++
 

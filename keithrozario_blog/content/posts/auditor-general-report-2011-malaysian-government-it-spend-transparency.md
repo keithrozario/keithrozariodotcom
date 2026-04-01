@@ -3,6 +3,7 @@ title = "Auditor-General report 2011 : When can Malaysians expect Transparency i
 slug = "auditor-general-report-2011-malaysian-government-it-spend-transparency"
 date = "2012-10-29T08:00:49"
 draft = false
+aliases = ["/2012/10/auditor-general-report-2011-malaysian-government-it-spend-transparency.html"]
 tags = ['AG report 2011']
 categories = ['Copyright and Censorship', 'CyberLaw', "Keith's Favorite Post", 'Malaysia', 'Misc']
 +++

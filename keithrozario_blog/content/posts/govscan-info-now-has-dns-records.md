@@ -3,6 +3,7 @@ title = "govScan.info now has DNS records"
 slug = "govscan-info-now-has-dns-records"
 date = "2018-10-15T01:36:30"
 draft = false
+aliases = ["/2018/10/govscan-info-now-has-dns-records.html"]
 categories = ['Misc']
 +++
 

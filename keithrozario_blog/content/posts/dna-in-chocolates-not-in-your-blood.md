@@ -3,6 +3,7 @@ title = "DNA in chocolates, not in your blood"
 slug = "dna-in-chocolates-not-in-your-blood"
 date = "2014-05-28T11:15:35"
 draft = false
+aliases = ["/2014/05/dna-in-chocolates-not-in-your-blood.html"]
 tags = ['Cabury', 'PigDNA']
 categories = ['Misc']
 +++

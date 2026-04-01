@@ -3,6 +3,7 @@ title = "How to prevent your Unifi account from being hacked"
 slug = "prevent-unifi-hack-fix"
 date = "2014-01-05T20:22:49"
 draft = false
+aliases = ["/2014/01/prevent-unifi-hack-fix.html"]
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++
 

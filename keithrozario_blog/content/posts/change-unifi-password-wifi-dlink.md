@@ -3,6 +3,7 @@ title = "How to change your Unifi password"
 slug = "change-unifi-password-wifi-dlink"
 date = "2012-07-14T23:00:56"
 draft = false
+aliases = ["/2012/07/change-unifi-password-wifi-dlink.html"]
 categories = ['Malaysia', 'Misc']
 +++
 

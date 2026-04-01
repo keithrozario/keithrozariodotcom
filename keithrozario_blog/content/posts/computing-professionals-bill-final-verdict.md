@@ -3,6 +3,7 @@ title = "Computing Professionals Bill: Final Verdict"
 slug = "computing-professionals-bill-final-verdict"
 date = "2011-12-21T22:46:02"
 draft = false
+aliases = ["/2011/12/computing-professionals-bill-final-verdict.html"]
 tags = ['Computing Professionals Bill 2011']
 categories = ['CyberLaw', 'Malaysia', 'Misc']
 +++

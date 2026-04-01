@@ -3,6 +3,7 @@ title = "What I learnt from winning the DigiWWWOW awards"
 slug = "digi-wwwwow-2012-fave-tech-head-keiths-blog"
 date = "2012-07-09T08:00:02"
 draft = false
+aliases = ["/2012/07/digi-wwwwow-2012-fave-tech-head-keiths-blog.html"]
 tags = ['Digi', 'Lowyat']
 categories = ['Blog', "Keith's Favorite Post", 'Malaysia']
 +++

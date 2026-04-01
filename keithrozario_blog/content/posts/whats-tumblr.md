@@ -3,6 +3,7 @@ title = "What's Tumblr"
 slug = "whats-tumblr"
 date = "2011-05-26T01:36:11"
 draft = false
+aliases = ["/2011/05/whats-tumblr.html"]
 categories = ['Blog']
 +++
 

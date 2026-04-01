@@ -3,6 +3,7 @@ title = "Are your broadband meters accurate?"
 slug = "broadband-bandwidth-quota-data-cap-metering"
 date = "2013-02-18T07:00:38"
 draft = false
+aliases = ["/2013/02/broadband-bandwidth-quota-data-cap-metering.html"]
 categories = ['CyberLaw']
 +++
 

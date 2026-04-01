@@ -3,6 +3,7 @@ title = "Apple Launches iTunes Store in Malaysia"
 slug = "apple-launches-itunes-store-malaysia"
 date = "2012-07-04T09:40:22"
 draft = false
+aliases = ["/2012/07/apple-launches-itunes-store-malaysia.html"]
 tags = ['Apple']
 categories = ['Copyright and Censorship', 'Malaysia']
 +++

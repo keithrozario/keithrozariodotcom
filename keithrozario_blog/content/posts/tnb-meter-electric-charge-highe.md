@@ -3,6 +3,7 @@ title = "Are TNBs new electric meters rigged to charge higher"
 slug = "tnb-meter-electric-charge-highe"
 date = "2013-01-07T07:00:45"
 draft = false
+aliases = ["/2013/01/tnb-meter-electric-charge-highe.html"]
 categories = ['Malaysia', 'Science']
 +++
 

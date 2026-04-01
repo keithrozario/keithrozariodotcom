@@ -3,6 +3,7 @@ title = "Security on the Cloud: Does PCI compliance matter"
 slug = "security-on-the-cloud-does-pci-compliance-matter"
 date = "2011-11-28T09:33:19"
 draft = false
+aliases = ["/2011/11/security-on-the-cloud-does-pci-compliance-matter.html"]
 tags = ['Amazon', 'Cloud', 'Security']
 categories = ['Cloud Computing']
 +++

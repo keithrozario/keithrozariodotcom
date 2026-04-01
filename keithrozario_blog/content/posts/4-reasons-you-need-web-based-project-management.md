@@ -3,6 +3,7 @@ title = "4 Reasons you need Web Based Project Management"
 slug = "4-reasons-you-need-web-based-project-management"
 date = "2011-05-29T18:32:59"
 draft = false
+aliases = ["/2011/05/4-reasons-you-need-web-based-project-management.html"]
 tags = ['Blog Features']
 categories = ['Blog']
 +++

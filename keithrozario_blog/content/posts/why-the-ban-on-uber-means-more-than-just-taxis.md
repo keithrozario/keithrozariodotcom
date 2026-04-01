@@ -3,6 +3,7 @@ title = "Why the ban on Uber means more than just Taxis"
 slug = "why-the-ban-on-uber-means-more-than-just-taxis"
 date = "2014-08-30T20:58:06"
 draft = false
+aliases = ["/2014/08/why-the-ban-on-uber-means-more-than-just-taxis.html"]
 categories = ['Misc']
 +++
 

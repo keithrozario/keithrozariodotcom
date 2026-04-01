@@ -3,6 +3,7 @@ title = "Black Day for Malaysians : New Evidence Bill Takes effect today"
 slug = "evidence-act-amendment-malaysia"
 date = "2012-06-01T05:00:38"
 draft = false
+aliases = ["/2012/06/evidence-act-amendment-malaysia.html"]
 tags = ['Malaysian Laws']
 categories = ['Copyright and Censorship', 'CyberLaw', "Keith's Favorite Post", 'Malaysia']
 +++

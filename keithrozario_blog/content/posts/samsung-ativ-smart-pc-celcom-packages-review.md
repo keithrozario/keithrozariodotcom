@@ -3,6 +3,7 @@ title = "Samsung ATIV Smart PC"
 slug = "samsung-ativ-smart-pc-celcom-packages-review"
 date = "2013-01-24T11:06:01"
 draft = false
+aliases = ["/2013/01/samsung-ativ-smart-pc-celcom-packages-review.html"]
 tags = ['Celcom', 'Samsung']
 categories = ['Malaysia']
 +++

@@ -3,6 +3,7 @@ title = "MCMC screw up press release"
 slug = "mcmc-screw-up-press-release"
 date = "2013-03-20T06:00:25"
 draft = false
+aliases = ["/2013/03/mcmc-screw-up-press-release.html"]
 tags = ['Spyware']
 categories = ['CyberLaw', 'Malaysia']
 +++

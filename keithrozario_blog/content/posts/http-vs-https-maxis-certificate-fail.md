@@ -3,6 +3,7 @@ title = "HTTP vs. HTTPs : Why SSL and TLS are important"
 slug = "http-vs-https-maxis-certificate-fail"
 date = "2012-08-06T12:24:33"
 draft = false
+aliases = ["/2012/08/http-vs-https-maxis-certificate-fail.html"]
 tags = ['Maxis']
 categories = ['Malaysia', 'Misc']
 +++

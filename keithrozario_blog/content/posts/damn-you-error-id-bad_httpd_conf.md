@@ -3,6 +3,7 @@ title = "Damn you!! error id: \"bad_httpd_conf\""
 slug = "damn-you-error-id-bad_httpd_conf"
 date = "2011-12-04T22:37:48"
 draft = false
+aliases = ["/2011/12/damn-you-error-id-bad_httpd_conf.html"]
 categories = ['Blog']
 +++
 

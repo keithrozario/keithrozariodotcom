@@ -3,6 +3,7 @@ title = "SKMM on my Unifi Downtime"
 slug = "skmm-on-my-unifi-downtime"
 date = "2012-02-25T10:43:28"
 draft = false
+aliases = ["/2012/02/skmm-on-my-unifi-downtime.html"]
 tags = ['Broadband', 'skmm', 'Unifi']
 categories = ['CyberLaw', 'Malaysia']
 +++

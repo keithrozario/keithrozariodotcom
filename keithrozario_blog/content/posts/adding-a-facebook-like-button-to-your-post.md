@@ -3,6 +3,7 @@ title = "Adding a facebook Like Button to your post"
 slug = "adding-a-facebook-like-button-to-your-post"
 date = "2011-05-08T09:18:19"
 draft = false
+aliases = ["/2011/05/adding-a-facebook-like-button-to-your-post.html"]
 tags = ['Blog Features', 'Facebook']
 categories = ['Blog']
 +++

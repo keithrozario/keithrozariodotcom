@@ -3,6 +3,7 @@ title = "Part 3: PRISM and Upstream"
 slug = "prism-upstream-data-transit-rest"
 date = "2013-06-28T08:00:11"
 draft = false
+aliases = ["/2013/06/prism-upstream-data-transit-rest.html"]
 tags = ['NSA', 'PRISM', 'Upstream']
 categories = ['CyberLaw', 'Security &amp; Privacy']
 +++

@@ -3,6 +3,7 @@ title = "MySejahtera privacy concerns"
 slug = "mysejahtera-privacy-concerns"
 date = "2020-12-06T17:35:16"
 draft = false
+aliases = ["/2020/12/mysejahtera-privacy-concerns.html"]
 categories = ['Misc']
 +++
 

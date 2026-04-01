@@ -3,6 +3,7 @@ title = "The Year in Review: A lookback at 2011"
 slug = "the-year-in-review-a-lookback-at-2011"
 date = "2011-12-24T19:51:42"
 draft = false
+aliases = ["/2011/12/the-year-in-review-a-lookback-at-2011.html"]
 categories = ['Misc']
 +++
 

@@ -3,6 +3,7 @@ title = "Using the internet anonymously"
 slug = "using-the-internet-anonymously"
 date = "2015-09-11T12:25:53"
 draft = false
+aliases = ["/2015/09/using-the-internet-anonymously.html"]
 categories = ['Misc']
 +++
 

@@ -3,6 +3,7 @@ title = "Cloud investment: Is Cisco the next big thing?"
 slug = "investing-in-the-cloud"
 date = "2011-12-01T23:01:43"
 draft = false
+aliases = ["/2011/12/investing-in-the-cloud.html"]
 tags = ['Cisco', 'Cloud']
 categories = ['Cloud Computing']
 +++

@@ -3,6 +3,7 @@ title = "Amazon KMS: Intro"
 slug = "amazon-kms-intro"
 date = "2020-01-06T23:41:19"
 draft = false
+aliases = ["/2020/01/amazon-kms-intro.html"]
 categories = ['Security &amp; Privacy', 'Serverless']
 +++
 

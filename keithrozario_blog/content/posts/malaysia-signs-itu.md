@@ -3,6 +3,7 @@ title = "Malaysia signs ITU"
 slug = "malaysia-signs-itu"
 date = "2012-12-16T19:18:46"
 draft = false
+aliases = ["/2012/12/malaysia-signs-itu.html"]
 categories = ['CyberLaw', 'Malaysia']
 +++
 

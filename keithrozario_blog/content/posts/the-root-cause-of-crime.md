@@ -3,6 +3,7 @@ title = "The root cause of crime"
 slug = "the-root-cause-of-crime"
 date = "2013-07-10T13:04:19"
 draft = false
+aliases = ["/2013/07/the-root-cause-of-crime.html"]
 categories = ['Big Data']
 +++
 

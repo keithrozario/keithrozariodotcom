@@ -3,6 +3,7 @@ title = "ATM Hacks are so bloody boring"
 slug = "atm-hacks-are-so-bloody-boring"
 date = "2014-10-01T22:31:11"
 draft = false
+aliases = ["/2014/10/atm-hacks-are-so-bloody-boring.html"]
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++
 

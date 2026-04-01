@@ -3,6 +3,7 @@ title = "Is Dowloading a banned ebook illegal?"
 slug = "downloading-irshad-manji-ebook-illegal-malaysian-law"
 date = "2012-06-22T10:00:02"
 draft = false
+aliases = ["/2012/06/downloading-irshad-manji-ebook-illegal-malaysian-law.html"]
 categories = ['Copyright and Censorship', 'CyberLaw', "Keith's Favorite Post", 'Malaysia']
 +++
 

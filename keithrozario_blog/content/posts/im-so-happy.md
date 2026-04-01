@@ -3,6 +3,7 @@ title = "I'm so happy...."
 slug = "im-so-happy"
 date = "2011-12-16T16:26:10"
 draft = false
+aliases = ["/2011/12/im-so-happy.html"]
 categories = ['Blog', 'Malaysia', 'Misc']
 +++
 

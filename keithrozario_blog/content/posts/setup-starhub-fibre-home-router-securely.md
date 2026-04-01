@@ -3,6 +3,7 @@ title = "Securing your StarHub Home Router"
 slug = "setup-starhub-fibre-home-router-securely"
 date = "2016-11-08T23:24:41"
 draft = false
+aliases = ["/2016/11/setup-starhub-fibre-home-router-securely.html"]
 tags = ['dlink', 'StarHub']
 categories = ['Security &amp; Privacy', 'Singapore']
 +++

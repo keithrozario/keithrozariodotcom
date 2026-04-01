@@ -3,6 +3,7 @@ title = "Is illegal downloading considered stealing?"
 slug = "is-illegal-downloading-considered-stealing"
 date = "2014-08-11T08:00:40"
 draft = false
+aliases = ["/2014/08/is-illegal-downloading-considered-stealing.html"]
 categories = ['Copyright and Censorship']
 +++
 

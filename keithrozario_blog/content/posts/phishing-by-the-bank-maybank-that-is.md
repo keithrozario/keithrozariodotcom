@@ -3,6 +3,7 @@ title = "Phishing by the Bank--Maybank that is"
 slug = "phishing-by-the-bank-maybank-that-is"
 date = "2014-10-31T23:30:30"
 draft = false
+aliases = ["/2014/10/phishing-by-the-bank-maybank-that-is.html"]
 categories = ['Misc']
 +++
 

@@ -3,6 +3,7 @@ title = "Why you must ALWAYS question government"
 slug = "why-you-must-always-question-government"
 date = "2015-03-14T22:38:56"
 draft = false
+aliases = ["/2015/03/why-you-must-always-question-government.html"]
 categories = ['Misc', 'Science']
 +++
 

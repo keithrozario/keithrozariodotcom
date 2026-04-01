@@ -3,6 +3,7 @@ title = "Overcoming Setbacks = Progress"
 slug = "overcoming-setbacks-progress"
 date = "2025-01-04T10:57:20"
 draft = false
+aliases = ["/2025/01/overcoming-setbacks-progress.html"]
 categories = ['Misc']
 +++
 

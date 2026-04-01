@@ -3,6 +3,7 @@ title = "Embedding Tweets in your Post using Twitter-Blackbird"
 slug = "embedding-tweets-in-your-post-using-twitter-blackbird"
 date = "2011-06-28T23:31:07"
 draft = false
+aliases = ["/2011/06/embedding-tweets-in-your-post-using-twitter-blackbird.html"]
 tags = ['twitter', 'wordpress']
 categories = ['Blog']
 +++

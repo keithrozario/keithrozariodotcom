@@ -3,6 +3,7 @@ title = "Who are you trusting online?"
 slug = "who-are-you-trusting-online"
 date = "2014-07-20T22:44:53"
 draft = false
+aliases = ["/2014/07/who-are-you-trusting-online.html"]
 categories = ['Misc', 'Security &amp; Privacy']
 +++
 

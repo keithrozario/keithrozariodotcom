@@ -3,6 +3,7 @@ title = "Hosting a static website on S3 and Cloudflare"
 slug = "hosting-a-static-website-on-s3-and-cloudflare"
 date = "2018-10-03T23:34:57"
 draft = false
+aliases = ["/2018/10/hosting-a-static-website-on-s3-and-cloudflare.html"]
 categories = ['Misc']
 +++
 

@@ -3,6 +3,7 @@ title = "Passcodes should be protected"
 slug = "passcodes-should-be-protected"
 date = "2016-05-14T11:28:20"
 draft = false
+aliases = ["/2016/05/passcodes-should-be-protected.html"]
 categories = ['CyberLaw', 'Security &amp; Privacy']
 +++
 

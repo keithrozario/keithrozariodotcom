@@ -3,6 +3,7 @@ title = "Lambda functions in a VPC"
 slug = "lambda-functions-in-a-vpc"
 date = "2020-02-09T21:57:07"
 draft = false
+aliases = ["/2020/02/lambda-functions-in-a-vpc.html"]
 categories = ['Cloud Computing', 'Security &amp; Privacy', 'Serverless']
 +++
 

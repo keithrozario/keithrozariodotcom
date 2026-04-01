@@ -3,6 +3,7 @@ title = "Lucking out on life"
 slug = "lucking-out-on-life"
 date = "2021-04-11T18:35:06"
 draft = false
+aliases = ["/2021/04/lucking-out-on-life.html"]
 categories = ['Misc']
 +++
 

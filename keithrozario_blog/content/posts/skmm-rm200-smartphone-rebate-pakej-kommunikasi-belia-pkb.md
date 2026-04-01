@@ -3,6 +3,7 @@ title = "Why the SKMM Rm200 smartphone rebate is a bad idea"
 slug = "skmm-rm200-smartphone-rebate-pakej-kommunikasi-belia-pkb"
 date = "2012-12-30T07:00:47"
 draft = false
+aliases = ["/2012/12/skmm-rm200-smartphone-rebate-pakej-kommunikasi-belia-pkb.html"]
 categories = ['CyberLaw', 'Malaysia']
 +++
 

@@ -3,6 +3,7 @@ title = "Doing one thing Right: 6 websites that excel at just one thing. "
 slug = "doing-one-thing-right-6-websites-that-excel-at-just-one-thing"
 date = "2011-06-17T06:24:30"
 draft = false
+aliases = ["/2011/06/doing-one-thing-right-6-websites-that-excel-at-just-one-thing.html"]
 categories = ['Design']
 +++
 

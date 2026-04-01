@@ -3,6 +3,7 @@ title = "First xxx domain hijacked : Popebenedict.xxx"
 slug = "first-xxx-domain-hijacked-popebenedict-xxx"
 date = "2012-03-19T02:12:40"
 draft = false
+aliases = ["/2012/03/first-xxx-domain-hijacked-popebenedict-xxx.html"]
 categories = ['Blog', 'Security &amp; Privacy']
 +++
 

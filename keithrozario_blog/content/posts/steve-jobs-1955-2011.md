@@ -3,6 +3,7 @@ title = "Steve Jobs 1955-2011"
 slug = "steve-jobs-1955-2011"
 date = "2011-10-06T08:49:51"
 draft = false
+aliases = ["/2011/10/steve-jobs-1955-2011.html"]
 tags = ['Apple']
 categories = ['Misc']
 +++

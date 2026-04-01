@@ -3,6 +3,7 @@ title = "Big data in sports"
 slug = "big-data-in-sports"
 date = "2013-02-23T07:00:00"
 draft = false
+aliases = ["/2013/02/big-data-in-sports.html"]
 categories = ['Misc']
 +++
 

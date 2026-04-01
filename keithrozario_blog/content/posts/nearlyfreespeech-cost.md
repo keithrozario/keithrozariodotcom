@@ -3,6 +3,7 @@ title = "Nearlyfreespeech, how much does it really cost? Just $3.60"
 slug = "nearlyfreespeech-cost"
 date = "2011-09-12T01:05:57"
 draft = false
+aliases = ["/2011/09/nearlyfreespeech-cost.html"]
 tags = ['NearlyFreeSpeech', 'wordpress']
 categories = ['Blog']
 +++

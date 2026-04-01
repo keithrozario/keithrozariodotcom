@@ -3,6 +3,7 @@ title = "Malaysiakini down!"
 slug = "malaysiakini-down"
 date = "2012-04-27T18:36:29"
 draft = false
+aliases = ["/2012/04/malaysiakini-down.html"]
 categories = ['CyberLaw', 'Malaysia']
 +++
 

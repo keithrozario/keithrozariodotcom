@@ -3,6 +3,7 @@ title = "How to hack passwords with just a login script: Predictable passwords a
 slug = "how-to-hack-passwords-with-just-a-login-script-predictable-passwords-and-how-we-choose-them"
 date = "2011-07-19T11:03:57"
 draft = false
+aliases = ["/2011/07/how-to-hack-passwords-with-just-a-login-script-predictable-passwords-and-how-we-choose-them.html"]
 categories = ['Misc']
 +++
 

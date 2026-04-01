@@ -3,6 +3,7 @@ title = "SOPA: What Trey Ratcliff and Uri Geller have to say"
 slug = "sopa-stop-online-piracy-act-trey-ratcliff"
 date = "2011-12-28T10:24:45"
 draft = false
+aliases = ["/2011/12/sopa-stop-online-piracy-act-trey-ratcliff.html"]
 categories = ['Copyright and Censorship', 'CyberLaw', 'Misc']
 +++
 

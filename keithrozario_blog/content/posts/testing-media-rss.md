@@ -3,6 +3,7 @@ title = "Testing Media RSS"
 slug = "testing-media-rss"
 date = "2011-04-29T01:01:31"
 draft = false
+aliases = ["/2011/04/testing-media-rss.html"]
 tags = ['RSS']
 categories = ['Blog']
 +++

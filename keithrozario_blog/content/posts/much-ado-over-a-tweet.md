@@ -3,6 +3,7 @@ title = "Much ado over a tweet"
 slug = "much-ado-over-a-tweet"
 date = "2014-01-09T09:28:48"
 draft = false
+aliases = ["/2014/01/much-ado-over-a-tweet.html"]
 categories = ['Malaysia', 'Social Media']
 +++
 

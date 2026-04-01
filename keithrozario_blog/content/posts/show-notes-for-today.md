@@ -3,6 +3,7 @@ title = "Show notes for today"
 slug = "show-notes-for-today"
 date = "2016-06-23T13:35:35"
 draft = false
+aliases = ["/2016/06/show-notes-for-today.html"]
 tags = ['BFM']
 categories = ['CyberLaw', "Keith's Favorite Post", 'Security &amp; Privacy']
 +++

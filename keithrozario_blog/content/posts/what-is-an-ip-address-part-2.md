@@ -3,6 +3,7 @@ title = "What is an IP address : Part 2"
 slug = "what-is-an-ip-address-part-2"
 date = "2013-09-22T21:39:55"
 draft = false
+aliases = ["/2013/09/what-is-an-ip-address-part-2.html"]
 categories = ['WhatisIT']
 +++
 

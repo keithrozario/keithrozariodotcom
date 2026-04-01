@@ -3,6 +3,7 @@ title = "Domain Names: .xxx domain and what you should know"
 slug = "xxx-domain-names-and-what-you-should-know"
 date = "2011-10-26T17:33:21"
 draft = false
+aliases = ["/2011/10/xxx-domain-names-and-what-you-should-know.html"]
 categories = ['Blog', 'Misc']
 +++
 

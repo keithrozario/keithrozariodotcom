@@ -3,6 +3,7 @@ title = "Is it Root-er or Rao-ter : The age old question for the pronunciation o
 slug = "rao-ter-root-ter"
 date = "2014-03-03T22:15:20"
 draft = false
+aliases = ["/2014/03/rao-ter-root-ter.html"]
 categories = ['CyberLaw', 'Science']
 +++
 

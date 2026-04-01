@@ -3,6 +3,7 @@ title = "Stopping my Addiction"
 slug = "social-media-addiction"
 date = "2020-10-17T12:38:44"
 draft = false
+aliases = ["/2020/10/social-media-addiction.html"]
 categories = ['Misc']
 +++
 

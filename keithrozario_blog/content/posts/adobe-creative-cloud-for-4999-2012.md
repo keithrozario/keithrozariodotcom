@@ -3,6 +3,7 @@ title = "Adobe releasing Creative Cloud for $49.99 soon!"
 slug = "adobe-creative-cloud-for-4999-2012"
 date = "2012-02-25T14:48:48"
 draft = false
+aliases = ["/2012/02/adobe-creative-cloud-for-4999-2012.html"]
 tags = ['Adobe', 'Cloud']
 categories = ['Cloud Computing', 'Design']
 +++

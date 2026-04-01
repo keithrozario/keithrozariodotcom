@@ -3,6 +3,7 @@ title = "What is Finfisher capable of"
 slug = "finfisher-finspy-finfly-isp-capable-of"
 date = "2013-05-03T22:15:36"
 draft = false
+aliases = ["/2013/05/finfisher-finspy-finfly-isp-capable-of.html"]
 categories = ['Copyright and Censorship', 'CyberLaw', 'Security &amp; Privacy']
 +++
 

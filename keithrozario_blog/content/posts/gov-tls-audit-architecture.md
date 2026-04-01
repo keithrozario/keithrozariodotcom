@@ -3,6 +3,7 @@ title = "Gov TLS Audit : Architecture"
 slug = "gov-tls-audit-architecture"
 date = "2018-04-14T00:47:40"
 draft = false
+aliases = ["/2018/04/gov-tls-audit-architecture.html"]
 categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++
 

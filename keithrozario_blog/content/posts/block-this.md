@@ -3,6 +3,7 @@ title = "Block This!!"
 slug = "block-this"
 date = "2015-08-28T18:15:32"
 draft = false
+aliases = ["/2015/08/block-this.html"]
 categories = ['Copyright and Censorship']
 +++
 

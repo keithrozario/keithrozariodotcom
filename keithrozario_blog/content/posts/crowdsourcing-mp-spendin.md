@@ -3,6 +3,7 @@ title = "The UK crowdsourced Auditing for MPs : Malaysia Boleh?"
 slug = "crowdsourcing-mp-spendin"
 date = "2012-05-09T14:17:07"
 draft = false
+aliases = ["/2012/05/crowdsourcing-mp-spendin.html"]
 tags = ['Crowdsourcing']
 categories = ['Crowdsourcing', 'Malaysia']
 +++

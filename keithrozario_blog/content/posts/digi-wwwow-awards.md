@@ -3,6 +3,7 @@ title = "Digi WWWOW Awards"
 slug = "digi-wwwow-awards"
 date = "2012-05-07T00:55:09"
 draft = false
+aliases = ["/2012/05/digi-wwwow-awards.html"]
 tags = ['Digi', 'Lowyat']
 categories = ['Malaysia']
 +++

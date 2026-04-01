@@ -3,6 +3,7 @@ title = "The problem with Grab"
 slug = "grab-isnt-good"
 date = "2019-02-06T00:12:52"
 draft = false
+aliases = ["/2019/02/grab-isnt-good.html"]
 categories = ["Keith's Favorite Post", 'Malaysia', 'Science']
 +++
 

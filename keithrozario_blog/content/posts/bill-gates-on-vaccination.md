@@ -3,6 +3,7 @@ title = "Bill Gates on Vaccination"
 slug = "bill-gates-on-vaccination"
 date = "2013-09-18T10:15:07"
 draft = false
+aliases = ["/2013/09/bill-gates-on-vaccination.html"]
 tags = ['Vaccine']
 categories = ['Science']
 +++

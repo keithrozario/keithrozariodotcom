@@ -3,6 +3,7 @@ title = "Security Offences Bill vs. Universal declaration of Human Rights"
 slug = "sospa-udhr-finspy-malaysia"
 date = "2013-06-13T08:34:25"
 draft = false
+aliases = ["/2013/06/sospa-udhr-finspy-malaysia.html"]
 categories = ['CyberLaw', "Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++
 

@@ -3,6 +3,7 @@ title = "I'm officially on Nuffnang"
 slug = "nuffnang-malaysia-ads-online-monetize-blog-community"
 date = "2012-07-07T23:32:42"
 draft = false
+aliases = ["/2012/07/nuffnang-malaysia-ads-online-monetize-blog-community.html"]
 categories = ['Blog', 'Malaysia']
 +++
 

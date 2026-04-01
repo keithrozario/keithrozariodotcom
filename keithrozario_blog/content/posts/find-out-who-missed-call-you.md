@@ -3,6 +3,7 @@ title = "Find out who missed call you..."
 slug = "find-out-who-missed-call-you"
 date = "2011-10-18T15:44:50"
 draft = false
+aliases = ["/2011/10/find-out-who-missed-call-you.html"]
 tags = ['Crowdsourcing']
 categories = ['Crowdsourcing']
 +++

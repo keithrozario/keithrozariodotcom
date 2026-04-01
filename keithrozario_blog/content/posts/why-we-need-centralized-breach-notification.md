@@ -3,6 +3,7 @@ title = "Why we need centralized breach notification"
 slug = "why-we-need-centralized-breach-notification"
 date = "2018-03-28T19:12:21"
 draft = false
+aliases = ["/2018/03/why-we-need-centralized-breach-notification.html"]
 categories = ['Misc']
 +++
 

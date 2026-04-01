@@ -3,6 +3,7 @@ title = "TOGAF Certification : Finally I'm TOGAF certified"
 slug = "togaf-certification-architecture-certified-malaysia"
 date = "2013-03-25T07:00:12"
 draft = false
+aliases = ["/2013/03/togaf-certification-architecture-certified-malaysia.html"]
 categories = ['Misc']
 +++
 

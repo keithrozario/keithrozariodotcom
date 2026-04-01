@@ -3,6 +3,7 @@ title = "Creating a email for your domain using Google Apps"
 slug = "email-on-google-using-google-apps"
 date = "2011-04-20T12:19:05"
 draft = false
+aliases = ["/2011/04/email-on-google-using-google-apps.html"]
 tags = ['Blog Features', 'Google', 'Mail', 'NearlyFreeSpeech']
 categories = ['Blog']
 +++

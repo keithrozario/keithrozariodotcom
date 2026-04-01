@@ -3,6 +3,7 @@ title = "How to Port Forward your Unifi Dlink Dir-615 router"
 slug = "port-forwarding-unifi-dlink-dir-615"
 date = "2012-09-01T16:56:30"
 draft = false
+aliases = ["/2012/09/port-forwarding-unifi-dlink-dir-615.html"]
 tags = ['dlink', 'foscam', 'Unifi']
 categories = ['Malaysia']
 +++

@@ -3,6 +3,7 @@ title = "THANK YOU: keiths.blog won the #DigiWWWOW awards"
 slug = "thank-you-keiths-blog-won-the-digiwwwow-awards"
 date = "2012-06-10T00:05:25"
 draft = false
+aliases = ["/2012/06/thank-you-keiths-blog-won-the-digiwwwow-awards.html"]
 categories = ['Blog', 'Misc', 'Social Media']
 +++
 

@@ -3,6 +3,7 @@ title = "Johor Weekend: Good or bad?"
 slug = "johor-weekend-good-or-bad"
 date = "2013-11-25T10:04:20"
 draft = false
+aliases = ["/2013/11/johor-weekend-good-or-bad.html"]
 categories = ['Misc']
 +++
 

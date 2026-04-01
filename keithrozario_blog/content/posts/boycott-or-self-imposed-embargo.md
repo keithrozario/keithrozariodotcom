@@ -3,6 +3,7 @@ title = "Boycott or self-imposed embargo?"
 slug = "boycott-or-self-imposed-embargo"
 date = "2013-05-14T00:46:31"
 draft = false
+aliases = ["/2013/05/boycott-or-self-imposed-embargo.html"]
 categories = ['Misc']
 +++
 

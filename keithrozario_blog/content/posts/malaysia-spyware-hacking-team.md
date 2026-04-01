@@ -3,6 +3,7 @@ title = "The Government doesn't buy spyware--yea right!"
 slug = "malaysia-spyware-hacking-team"
 date = "2015-12-30T00:28:44"
 draft = false
+aliases = ["/2015/12/malaysia-spyware-hacking-team.html"]
 tags = ['Spyware']
 categories = ['CyberLaw', "Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++

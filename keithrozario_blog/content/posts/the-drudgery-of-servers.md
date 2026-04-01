@@ -3,6 +3,7 @@ title = "The Drudgery of Servers"
 slug = "the-drudgery-of-servers"
 date = "2020-08-08T12:13:56"
 draft = false
+aliases = ["/2020/08/the-drudgery-of-servers.html"]
 categories = ['Misc']
 +++
 

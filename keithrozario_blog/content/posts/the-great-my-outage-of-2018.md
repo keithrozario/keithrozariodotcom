@@ -3,6 +3,7 @@ title = "The GREAT .my outage of 2018"
 slug = "the-great-my-outage-of-2018"
 date = "2018-06-23T11:22:30"
 draft = false
+aliases = ["/2018/06/the-great-my-outage-of-2018.html"]
 tags = ['DNSSEC', 'MYNIC']
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++

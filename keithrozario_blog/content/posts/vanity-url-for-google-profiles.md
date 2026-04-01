@@ -3,6 +3,7 @@ title = "Vanity URL for Google+ profiles"
 slug = "vanity-url-for-google-profiles"
 date = "2011-07-29T12:42:33"
 draft = false
+aliases = ["/2011/07/vanity-url-for-google-profiles.html"]
 tags = ['Google']
 categories = ['Social Media']
 +++

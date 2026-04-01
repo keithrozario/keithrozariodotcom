@@ -3,6 +3,7 @@ title = "Get 2 passes to the Digi WWWOW awards"
 slug = "digi-wwwow-free-pass"
 date = "2012-06-08T16:23:03"
 draft = false
+aliases = ["/2012/06/digi-wwwow-free-pass.html"]
 categories = ['Misc']
 +++
 

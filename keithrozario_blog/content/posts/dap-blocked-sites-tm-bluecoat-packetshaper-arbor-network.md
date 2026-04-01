@@ -3,6 +3,7 @@ title = "DAP lodges report with MCMC over blocked sites"
 slug = "dap-blocked-sites-tm-bluecoat-packetshaper-arbor-network"
 date = "2013-05-23T07:00:31"
 draft = false
+aliases = ["/2013/05/dap-blocked-sites-tm-bluecoat-packetshaper-arbor-network.html"]
 tags = ['Arbor', 'Bluecoat', 'Maxis', 'TM', 'Unifi']
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia']
 +++

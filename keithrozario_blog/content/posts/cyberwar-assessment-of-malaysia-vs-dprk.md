@@ -3,6 +3,7 @@ title = "Cyberwar assessment of Malaysia vs. DPRK"
 slug = "cyberwar-assessment-of-malaysia-vs-dprk"
 date = "2017-04-01T01:15:41"
 draft = false
+aliases = ["/2017/04/cyberwar-assessment-of-malaysia-vs-dprk.html"]
 tags = ['cyberwar']
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++

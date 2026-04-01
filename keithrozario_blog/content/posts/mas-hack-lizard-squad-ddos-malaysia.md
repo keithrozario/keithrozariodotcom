@@ -3,6 +3,7 @@ title = "What happened in the MAS hack. All questions answered, one question ask
 slug = "mas-hack-lizard-squad-ddos-malaysia"
 date = "2015-01-29T23:11:53"
 draft = false
+aliases = ["/2015/01/mas-hack-lizard-squad-ddos-malaysia.html"]
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++
 

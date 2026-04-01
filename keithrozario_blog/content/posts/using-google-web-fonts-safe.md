@@ -3,6 +3,7 @@ title = "Using Google Web Fonts on Wordpress"
 slug = "using-google-web-fonts-safe"
 date = "2011-04-27T14:51:26"
 draft = false
+aliases = ["/2011/04/using-google-web-fonts-safe.html"]
 tags = ['Blog Features', 'Fonts', 'Google']
 categories = ['Blog']
 +++

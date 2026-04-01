@@ -3,6 +3,7 @@ title = "Is it legal to buy ebooks from Amazon?"
 slug = "is-it-legal-to-buy-ebooks-from-amazon"
 date = "2012-05-14T11:46:41"
 draft = false
+aliases = ["/2012/05/is-it-legal-to-buy-ebooks-from-amazon.html"]
 categories = ['CyberLaw', 'Malaysia']
 +++
 

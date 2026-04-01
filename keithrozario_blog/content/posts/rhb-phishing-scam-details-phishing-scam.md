@@ -3,6 +3,7 @@ title = "RHBNOW Email: Intricate details of a Phishing scam"
 slug = "rhb-phishing-scam-details-phishing-scam"
 date = "2014-07-03T22:47:16"
 draft = false
+aliases = ["/2014/07/rhb-phishing-scam-details-phishing-scam.html"]
 tags = ['RHB', 'Scam']
 categories = ['Security &amp; Privacy']
 +++

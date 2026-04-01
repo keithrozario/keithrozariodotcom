@@ -3,6 +3,7 @@ title = "loads.in : Let's you know how fast your page loads across the world"
 slug = "loads-in-lets-you-know-how-fast-your-page-loads-across-the-world"
 date = "2011-07-15T16:13:36"
 draft = false
+aliases = ["/2011/07/loads-in-lets-you-know-how-fast-your-page-loads-across-the-world.html"]
 categories = ['Misc']
 +++
 

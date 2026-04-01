@@ -3,6 +3,7 @@ title = "Maxis Cloud : Too Late, Too expensive and Too Restrictive"
 slug = "maxis-cloud-too-late-too-expensive-and-too-restrictive"
 date = "2012-03-21T15:51:01"
 draft = false
+aliases = ["/2012/03/maxis-cloud-too-late-too-expensive-and-too-restrictive.html"]
 tags = ['Amazon', 'Cloud', 'Maxis', 'rackspace']
 categories = ['Cloud Computing']
 +++

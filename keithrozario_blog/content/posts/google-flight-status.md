@@ -3,6 +3,7 @@ title = "Google: Typing your flight number in Google reveals the flight status"
 slug = "google-flight-status"
 date = "2011-10-22T22:53:32"
 draft = false
+aliases = ["/2011/10/google-flight-status.html"]
 tags = ['Google']
 categories = ['Misc']
 +++

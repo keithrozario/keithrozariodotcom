@@ -3,6 +3,7 @@ title = "Samsung Galaxy S3: I don't have one"
 slug = "samsung-galaxy-s3-maxis-bad"
 date = "2012-06-04T09:18:45"
 draft = false
+aliases = ["/2012/06/samsung-galaxy-s3-maxis-bad.html"]
 tags = ['Maxis']
 categories = ['Misc']
 +++

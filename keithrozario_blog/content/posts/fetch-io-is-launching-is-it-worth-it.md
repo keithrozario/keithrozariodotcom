@@ -3,6 +3,7 @@ title = "fetch.io is launching! Is it worth it?"
 slug = "fetch-io-is-launching-is-it-worth-it"
 date = "2011-07-04T08:38:47"
 draft = false
+aliases = ["/2011/07/fetch-io-is-launching-is-it-worth-it.html"]
 categories = ['Misc']
 +++
 

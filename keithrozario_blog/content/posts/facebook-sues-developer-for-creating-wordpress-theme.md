@@ -3,6 +3,7 @@ title = "Facebook sues developer while Google takes youtube domains: What's the 
 slug = "facebook-sues-developer-for-creating-wordpress-theme"
 date = "2011-11-24T20:38:30"
 draft = false
+aliases = ["/2011/11/facebook-sues-developer-for-creating-wordpress-theme.html"]
 tags = ['Facebook', 'wordpress', 'Youtube']
 categories = ['Design', 'Social Media']
 +++

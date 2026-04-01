@@ -3,6 +3,7 @@ title = "Malaysian government using spyware against citizens? No, not really."
 slug = "malaysian-government-using-spyware-against-citizens-irresponsible-journalism-by-the-malaysian-insider"
 date = "2013-03-15T01:01:00"
 draft = false
+aliases = ["/2013/03/malaysian-government-using-spyware-against-citizens-irresponsible-journalism-by-the-malaysian-insider.html"]
 tags = ['Spyware']
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia', 'Security &amp; Privacy']
 +++

@@ -3,6 +3,7 @@ title = "YTL has the most ridiculous Acceptable Use Policy"
 slug = "ytl-has-the-most-ridiculous-acceptable-use-policy"
 date = "2012-03-11T15:10:36"
 draft = false
+aliases = ["/2012/03/ytl-has-the-most-ridiculous-acceptable-use-policy.html"]
 tags = ['Broadband', 'Yes']
 categories = ['Malaysia', 'Misc', 'Security &amp; Privacy']
 +++

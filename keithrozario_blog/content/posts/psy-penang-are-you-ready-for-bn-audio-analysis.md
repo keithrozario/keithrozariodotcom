@@ -3,6 +3,7 @@ title = "PSY Penang: Are you ready for BN audio analysis"
 slug = "psy-penang-are-you-ready-for-bn-audio-analysis"
 date = "2013-02-16T07:00:21"
 draft = false
+aliases = ["/2013/02/psy-penang-are-you-ready-for-bn-audio-analysis.html"]
 categories = ['Malaysia']
 +++
 

@@ -3,6 +3,7 @@ title = "Censorship in Malaysia: SOPA told through Malaysian Eyes"
 slug = "censorship-in-malaysia-sopa"
 date = "2012-01-24T10:15:53"
 draft = false
+aliases = ["/2012/01/censorship-in-malaysia-sopa.html"]
 tags = ['Censorship', 'SOPA']
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia', 'Misc']
 +++

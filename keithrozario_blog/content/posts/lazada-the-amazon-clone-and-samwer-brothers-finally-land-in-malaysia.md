@@ -3,6 +3,7 @@ title = "Lazada : The Amazon clone (and Samwer brothers) finally land in Malaysi
 slug = "lazada-the-amazon-clone-and-samwer-brothers-finally-land-in-malaysia"
 date = "2012-04-09T23:49:41"
 draft = false
+aliases = ["/2012/04/lazada-the-amazon-clone-and-samwer-brothers-finally-land-in-malaysia.html"]
 tags = ['Amazon', 'Lazada', 'Samwer']
 categories = ['Copyright and Censorship', 'Malaysia', 'Misc']
 +++

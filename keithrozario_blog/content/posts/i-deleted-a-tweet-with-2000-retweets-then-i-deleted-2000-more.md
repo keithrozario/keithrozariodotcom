@@ -3,6 +3,7 @@ title = "First I deleted my most popular tweet -- then I deleted 2000 more."
 slug = "i-deleted-a-tweet-with-2000-retweets-then-i-deleted-2000-more"
 date = "2018-04-22T19:39:38"
 draft = false
+aliases = ["/2018/04/i-deleted-a-tweet-with-2000-retweets-then-i-deleted-2000-more.html"]
 categories = ['Misc']
 +++
 

@@ -3,6 +3,7 @@ title = "Top 3 things I learnt from Blogging: Nothing technical about them"
 slug = "top-3-things-i-learnt-from-blogging-nothing-technical-about-them"
 date = "2011-07-22T11:10:40"
 draft = false
+aliases = ["/2011/07/top-3-things-i-learnt-from-blogging-nothing-technical-about-them.html"]
 tags = ['Blog', 'wordpress']
 categories = ['Blog']
 +++

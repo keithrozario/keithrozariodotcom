@@ -3,6 +3,7 @@ title = "Celcom launches LTE in Malaysia"
 slug = "celcom-lte-4g-malaysia"
 date = "2013-01-03T07:00:19"
 draft = false
+aliases = ["/2013/01/celcom-lte-4g-malaysia.html"]
 tags = ['Celcom']
 categories = ['Malaysia']
 +++

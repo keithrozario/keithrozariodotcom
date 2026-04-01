@@ -3,6 +3,7 @@ title = "Malaysian Government Hacked Environmental website?"
 slug = "malaysian-government-hacked-environmental-website"
 date = "2014-11-08T15:06:36"
 draft = false
+aliases = ["/2014/11/malaysian-government-hacked-environmental-website.html"]
 categories = ['Copyright and Censorship', 'Malaysia', 'Security &amp; Privacy']
 +++
 

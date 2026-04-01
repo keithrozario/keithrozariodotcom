@@ -3,6 +3,7 @@ title = "The quality of censorship: The God Delusion in Malaysia"
 slug = "the-quality-of-censorship-god-delusion-dawkins"
 date = "2013-08-18T00:48:18"
 draft = false
+aliases = ["/2013/08/the-quality-of-censorship-god-delusion-dawkins.html"]
 categories = ['Copyright and Censorship']
 +++
 

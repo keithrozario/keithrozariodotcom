@@ -3,6 +3,7 @@ title = "Spacy in a Lambda"
 slug = "spacy-in-a-lambda-layer"
 date = "2019-04-22T00:29:34"
 draft = false
+aliases = ["/2019/04/spacy-in-a-lambda-layer.html"]
 categories = ['AI', 'Singapore']
 +++
 

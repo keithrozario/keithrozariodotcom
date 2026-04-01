@@ -3,6 +3,7 @@ title = "I scanned 1000 government sites, what I found will NOT shock you"
 slug = "gov-tls-audit"
 date = "2018-02-25T09:03:22"
 draft = false
+aliases = ["/2018/02/gov-tls-audit.html"]
 categories = ['Misc']
 +++
 

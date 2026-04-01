@@ -3,6 +3,7 @@ title = "The Myth of the anti-social developer"
 slug = "the-myth-of-the-anti-social-developer"
 date = "2020-10-11T12:03:41"
 draft = false
+aliases = ["/2020/10/the-myth-of-the-anti-social-developer.html"]
 categories = ['Misc']
 +++
 

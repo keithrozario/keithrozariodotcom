@@ -3,6 +3,7 @@ title = "Congratulations LHDN"
 slug = "congratulations-lhdn"
 date = "2012-04-27T14:51:37"
 draft = false
+aliases = ["/2012/04/congratulations-lhdn.html"]
 categories = ['Malaysia']
 +++
 

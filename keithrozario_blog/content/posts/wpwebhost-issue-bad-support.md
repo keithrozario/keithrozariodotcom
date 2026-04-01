@@ -3,6 +3,7 @@ title = "My Issue with WPWebHost: Bad Support"
 slug = "wpwebhost-issue-bad-support"
 date = "2014-05-22T08:00:52"
 draft = false
+aliases = ["/2014/05/wpwebhost-issue-bad-support.html"]
 tags = ['WPWebHost']
 categories = ['Blog', 'Malaysia']
 +++

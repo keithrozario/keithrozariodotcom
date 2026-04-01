@@ -3,6 +3,7 @@ title = "Gov.My TLS audit: Version 2.0"
 slug = "gov-my-tls-audit"
 date = "2018-03-05T23:28:15"
 draft = false
+aliases = ["/2018/03/gov-my-tls-audit.html"]
 tags = ['jangankenahack', 'siteaudit']
 categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++

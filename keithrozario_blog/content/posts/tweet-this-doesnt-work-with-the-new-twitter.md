@@ -3,6 +3,7 @@ title = "Tweet This doesn't work with the 'new' twitter"
 slug = "tweet-this-doesnt-work-with-the-new-twitter"
 date = "2011-06-08T05:58:14"
 draft = false
+aliases = ["/2011/06/tweet-this-doesnt-work-with-the-new-twitter.html"]
 tags = ['twitter', 'wordpress']
 categories = ['Blog']
 +++

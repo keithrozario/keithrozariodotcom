@@ -3,6 +3,7 @@ title = "3 Things Social: 6 Degrees Of Separation, Dunbars Number, Social Goodne
 slug = "3-things-social-6-degrees-of-separation-dunbars-number-social-goodness"
 date = "2011-09-28T13:39:20"
 draft = false
+aliases = ["/2011/09/3-things-social-6-degrees-of-separation-dunbars-number-social-goodness.html"]
 tags = ['Techless Tuesday']
 categories = ['Misc']
 +++

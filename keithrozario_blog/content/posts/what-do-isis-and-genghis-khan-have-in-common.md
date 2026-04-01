@@ -3,6 +3,7 @@ title = "What do ISIS and Genghis Khan have in common?"
 slug = "what-do-isis-and-genghis-khan-have-in-common"
 date = "2014-08-17T17:17:55"
 draft = false
+aliases = ["/2014/08/what-do-isis-and-genghis-khan-have-in-common.html"]
 categories = ['Misc']
 +++
 

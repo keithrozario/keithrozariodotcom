@@ -3,6 +3,7 @@ title = "Should you apply for the same job twice?"
 slug = "should-you-apply-for-the-same-job-twice"
 date = "2011-05-27T13:44:03"
 draft = false
+aliases = ["/2011/05/should-you-apply-for-the-same-job-twice.html"]
 tags = ['Interesting Blog']
 categories = ['Misc']
 +++

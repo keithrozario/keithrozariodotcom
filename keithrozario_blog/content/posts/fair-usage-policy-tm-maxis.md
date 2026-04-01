@@ -3,6 +3,7 @@ title = "Maxis and TM Fair Usage Policies : Are they fair?"
 slug = "fair-usage-policy-tm-maxis"
 date = "2013-06-24T08:00:31"
 draft = false
+aliases = ["/2013/06/fair-usage-policy-tm-maxis.html"]
 tags = ['Fair Usage', 'Maxis', 'Unifi']
 categories = ['Copyright and Censorship', 'Malaysia']
 +++

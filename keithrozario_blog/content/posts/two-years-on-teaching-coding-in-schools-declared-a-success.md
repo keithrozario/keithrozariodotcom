@@ -3,6 +3,7 @@ title = "Two years on, teaching coding in schools declared a success"
 slug = "two-years-on-teaching-coding-in-schools-declared-a-success"
 date = "2016-07-30T11:08:19"
 draft = false
+aliases = ["/2016/07/two-years-on-teaching-coding-in-schools-declared-a-success.html"]
 tags = ['satire']
 categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++

@@ -3,6 +3,7 @@ title = "4 ways to add Pinterest 'Pin It' button to Wordpress"
 slug = "4-ways-to-add-pinterest-pin-it-button-to-wordpress"
 date = "2012-02-17T10:02:28"
 draft = false
+aliases = ["/2012/02/4-ways-to-add-pinterest-pin-it-button-to-wordpress.html"]
 categories = ['Blog', 'Social Media']
 +++
 

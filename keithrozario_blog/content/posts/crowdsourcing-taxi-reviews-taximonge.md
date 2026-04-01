@@ -3,6 +3,7 @@ title = "Crowdsourcing Taxi Reviews"
 slug = "crowdsourcing-taxi-reviews-taximonge"
 date = "2012-05-25T20:15:35"
 draft = false
+aliases = ["/2012/05/crowdsourcing-taxi-reviews-taximonge.html"]
 tags = ['Crowdsourcing']
 categories = ['Crowdsourcing']
 +++

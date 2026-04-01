@@ -3,6 +3,7 @@ title = "What Challenge 13 taught me about LLMs."
 slug = "what-challenge-13-thought-me-about-llms"
 date = "2025-03-02T17:32:37"
 draft = false
+aliases = ["/2025/03/what-challenge-13-thought-me-about-llms.html"]
 categories = ['Misc']
 +++
 

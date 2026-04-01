@@ -3,6 +3,7 @@ title = "Anonymity and IP addresses"
 slug = "anonymity-and-ip-addresses"
 date = "2016-08-23T08:00:24"
 draft = false
+aliases = ["/2016/08/anonymity-and-ip-addresses.html"]
 categories = ['Copyright and Censorship', 'Security &amp; Privacy', 'Singapore']
 +++
 

@@ -3,6 +3,7 @@ title = "Iggyfied successfully kickstarted"
 slug = "iggyfied-successfully-kickstarted-music-igor-presnyakov"
 date = "2013-01-28T10:34:14"
 draft = false
+aliases = ["/2013/01/iggyfied-successfully-kickstarted-music-igor-presnyakov.html"]
 tags = ['kickstarter', 'Music']
 categories = ['Crowdsourcing']
 +++

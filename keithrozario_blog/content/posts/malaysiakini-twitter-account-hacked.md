@@ -3,6 +3,7 @@ title = "Malaysiakini twitter account hacked"
 slug = "malaysiakini-twitter-account-hacked"
 date = "2013-04-28T15:17:32"
 draft = false
+aliases = ["/2013/04/malaysiakini-twitter-account-hacked.html"]
 tags = ['Malaysiakini']
 categories = ['CyberLaw', 'Malaysia']
 +++

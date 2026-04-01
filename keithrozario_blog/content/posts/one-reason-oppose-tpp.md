@@ -3,6 +3,7 @@ title = "The one reason you should oppose the TPP"
 slug = "one-reason-oppose-tpp"
 date = "2015-05-07T18:25:08"
 draft = false
+aliases = ["/2015/05/one-reason-oppose-tpp.html"]
 categories = ['Copyright and Censorship', 'Malaysia', 'Misc']
 +++
 

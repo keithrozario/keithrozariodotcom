@@ -3,6 +3,7 @@ title = "#PotongSteam"
 slug = "potongsteam"
 date = "2017-09-20T12:59:48"
 draft = false
+aliases = ["/2017/09/potongsteam.html"]
 categories = ['Copyright and Censorship', 'Misc']
 +++
 

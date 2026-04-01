@@ -3,6 +3,7 @@ title = "Maxis Forum needs an upgrade"
 slug = "maxis-forum-needs-an-upgrade"
 date = "2014-12-28T16:36:33"
 draft = false
+aliases = ["/2014/12/maxis-forum-needs-an-upgrade.html"]
 tags = ['Maxis']
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++

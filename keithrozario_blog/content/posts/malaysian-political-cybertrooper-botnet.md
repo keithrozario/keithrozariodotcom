@@ -3,6 +3,7 @@ title = "The Malaysian cybertrooper phenomenon or is it Botnet?"
 slug = "malaysian-political-cybertrooper-botnet"
 date = "2013-05-25T07:00:17"
 draft = false
+aliases = ["/2013/05/malaysian-political-cybertrooper-botnet.html"]
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia']
 +++
 

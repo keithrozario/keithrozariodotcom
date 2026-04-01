@@ -3,6 +3,7 @@ title = "Malaysian parents don't want Kids to do science"
 slug = "malaysian-parents-dont-want-kids-to-do-science"
 date = "2013-02-28T07:00:46"
 draft = false
+aliases = ["/2013/02/malaysian-parents-dont-want-kids-to-do-science.html"]
 categories = ['Malaysia', 'Science']
 +++
 

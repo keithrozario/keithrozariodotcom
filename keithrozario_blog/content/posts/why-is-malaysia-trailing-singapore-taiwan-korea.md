@@ -3,6 +3,7 @@ title = "Why is Malaysia trailing Singapore, Taiwan, Korea"
 slug = "why-is-malaysia-trailing-singapore-taiwan-korea"
 date = "2013-04-29T07:01:26"
 draft = false
+aliases = ["/2013/04/why-is-malaysia-trailing-singapore-taiwan-korea.html"]
 categories = ["Keith's Favorite Post", 'Malaysia', 'Science']
 +++
 

@@ -3,6 +3,7 @@ title = "Using the crowd to predict the future"
 slug = "using-the-crowd-to-predict-the-future"
 date = "2012-02-09T20:45:45"
 draft = false
+aliases = ["/2012/02/using-the-crowd-to-predict-the-future.html"]
 tags = ['Crowd-Predicting', 'Crowdsourcing', 'HSX', 'InTrade', 'twitter']
 categories = ['Crowdsourcing', 'Misc']
 +++

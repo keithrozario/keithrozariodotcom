@@ -3,6 +3,7 @@ title = "Are you embarrassed to be Malaysian?"
 slug = "malaysia-copying"
 date = "2013-12-11T21:38:17"
 draft = false
+aliases = ["/2013/12/malaysia-copying.html"]
 categories = ['Malaysia']
 +++
 

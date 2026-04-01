@@ -3,6 +3,7 @@ title = "Is the MCMC going to 'monitor and control' or is it going to 'censor'"
 slug = "is-the-mcmc-going-to-monitor-and-control-or-is-it-going-to-censor"
 date = "2013-03-12T07:00:33"
 draft = false
+aliases = ["/2013/03/is-the-mcmc-going-to-monitor-and-control-or-is-it-going-to-censor.html"]
 categories = ['CyberLaw', 'Malaysia']
 +++
 

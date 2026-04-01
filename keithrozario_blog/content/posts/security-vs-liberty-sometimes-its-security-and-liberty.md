@@ -3,6 +3,7 @@ title = "Security vs. Liberty : Sometimes it's security and liberty"
 slug = "security-vs-liberty-sometimes-its-security-and-liberty"
 date = "2016-03-20T18:49:44"
 draft = false
+aliases = ["/2016/03/security-vs-liberty-sometimes-its-security-and-liberty.html"]
 tags = ['FBIvApple']
 categories = ['Security &amp; Privacy']
 +++

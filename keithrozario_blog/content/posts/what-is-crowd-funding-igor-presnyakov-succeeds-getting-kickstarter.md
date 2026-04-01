@@ -3,6 +3,7 @@ title = "Igor Presnyakov succeeds in getting kickstart-ed"
 slug = "what-is-crowd-funding-igor-presnyakov-succeeds-getting-kickstarter"
 date = "2012-03-25T16:44:21"
 draft = false
+aliases = ["/2012/03/what-is-crowd-funding-igor-presnyakov-succeeds-getting-kickstarter.html"]
 tags = ['Crowdsourcing', 'kickstarter', 'wiki', 'Youtube']
 categories = ['Copyright and Censorship', 'Crowdsourcing']
 +++

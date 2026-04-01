@@ -3,6 +3,7 @@ title = "Best File Sharing Website"
 slug = "best-file-sharing-website"
 date = "2011-09-23T11:11:35"
 draft = false
+aliases = ["/2011/09/best-file-sharing-website.html"]
 categories = ['Misc']
 +++
 

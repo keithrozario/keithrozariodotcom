@@ -3,6 +3,7 @@ title = "Wikipedia Blacks out for SOPA and How to workaround it"
 slug = "wikipedia-blacks-out-for-sopa"
 date = "2012-01-18T19:26:21"
 draft = false
+aliases = ["/2012/01/wikipedia-blacks-out-for-sopa.html"]
 tags = ['PIPA', 'SOPA', 'Wikipedia']
 categories = ['Copyright and Censorship']
 +++

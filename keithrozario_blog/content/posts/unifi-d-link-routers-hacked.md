@@ -3,6 +3,7 @@ title = "Unifi D-Link Routers are now officially completely hacked"
 slug = "unifi-d-link-routers-hacked"
 date = "2013-12-07T09:56:17"
 draft = false
+aliases = ["/2013/12/unifi-d-link-routers-hacked.html"]
 categories = ['Malaysia']
 +++
 

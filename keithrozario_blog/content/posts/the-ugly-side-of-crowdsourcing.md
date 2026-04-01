@@ -3,6 +3,7 @@ title = "The Ugly side of crowdsourcing"
 slug = "the-ugly-side-of-crowdsourcing"
 date = "2011-11-17T18:11:27"
 draft = false
+aliases = ["/2011/11/the-ugly-side-of-crowdsourcing.html"]
 categories = ['Crowdsourcing', 'Design', 'Social Media']
 +++
 

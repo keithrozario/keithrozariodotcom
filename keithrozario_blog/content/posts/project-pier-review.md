@@ -3,6 +3,7 @@ title = "Project Pier Review"
 slug = "project-pier-review"
 date = "2011-06-04T08:59:29"
 draft = false
+aliases = ["/2011/06/project-pier-review.html"]
 tags = ['PHP', 'Project Management']
 categories = ['Blog']
 +++

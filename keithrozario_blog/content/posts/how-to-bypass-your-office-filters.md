@@ -3,6 +3,7 @@ title = "How to bypass your office internet filters"
 slug = "how-to-bypass-your-office-filters"
 date = "2011-07-21T01:14:52"
 draft = false
+aliases = ["/2011/07/how-to-bypass-your-office-filters.html"]
 tags = ['Application']
 categories = ['Blog']
 +++

@@ -3,6 +3,7 @@ title = "Security theater on KTM trains"
 slug = "security-theater-on-ktm-trains"
 date = "2016-05-29T16:20:34"
 draft = false
+aliases = ["/2016/05/security-theater-on-ktm-trains.html"]
 categories = ['Misc']
 +++
 

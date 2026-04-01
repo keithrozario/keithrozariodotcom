@@ -3,6 +3,7 @@ title = "Malaysian Public Opinion of Science and Technology"
 slug = "malaysian-public-opinion-science-technology"
 date = "2013-04-01T16:23:03"
 draft = false
+aliases = ["/2013/04/malaysian-public-opinion-science-technology.html"]
 tags = ['Education', 'MASTIC', 'STEM']
 categories = ['Malaysia', 'Science']
 +++

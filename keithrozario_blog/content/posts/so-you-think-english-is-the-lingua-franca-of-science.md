@@ -3,6 +3,7 @@ title = "So you think English is the lingua-franca of Science..."
 slug = "so-you-think-english-is-the-lingua-franca-of-science"
 date = "2015-12-15T08:00:23"
 draft = false
+aliases = ["/2015/12/so-you-think-english-is-the-lingua-franca-of-science.html"]
 categories = ["Keith's Favorite Post", 'Malaysia', 'Science']
 +++
 

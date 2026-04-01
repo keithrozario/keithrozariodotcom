@@ -3,6 +3,7 @@ title = "Hosting a Web Page on Amazon S3"
 slug = "hosting-web-page-amazon-s3"
 date = "2011-10-28T17:46:33"
 draft = false
+aliases = ["/2011/10/hosting-web-page-amazon-s3.html"]
 tags = ['Amazon', 'S3']
 categories = ['Blog']
 +++

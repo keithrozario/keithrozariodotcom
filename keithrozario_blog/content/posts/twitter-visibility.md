@@ -3,6 +3,7 @@ title = "3 ways to get more visibility in twitter"
 slug = "twitter-visibility"
 date = "2011-09-30T10:32:47"
 draft = false
+aliases = ["/2011/09/twitter-visibility.html"]
 tags = ['twitter']
 categories = ['Social Media']
 +++

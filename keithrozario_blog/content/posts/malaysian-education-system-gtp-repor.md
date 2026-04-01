@@ -3,6 +3,7 @@ title = "Malaysian Education System : Seriously flawed GTP report"
 slug = "malaysian-education-system-gtp-repor"
 date = "2013-03-20T22:02:58"
 draft = false
+aliases = ["/2013/03/malaysian-education-system-gtp-repor.html"]
 tags = ['Science Education']
 categories = ['Malaysia', 'Science']
 +++

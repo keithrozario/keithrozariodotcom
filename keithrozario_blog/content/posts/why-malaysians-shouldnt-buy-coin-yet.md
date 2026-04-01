@@ -3,6 +3,7 @@ title = "Why Malaysians shouldn't buy Coin--yet"
 slug = "why-malaysians-shouldnt-buy-coin-yet"
 date = "2013-11-30T11:20:10"
 draft = false
+aliases = ["/2013/11/why-malaysians-shouldnt-buy-coin-yet.html"]
 tags = ['Coin', 'EMV', 'Malaysia']
 categories = ["Keith's Favorite Post", 'Misc']
 +++

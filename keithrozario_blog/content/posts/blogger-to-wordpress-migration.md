@@ -3,6 +3,7 @@ title = "Moving from Blogger to Wordpress"
 slug = "blogger-to-wordpress-migration"
 date = "2011-04-28T14:28:40"
 draft = false
+aliases = ["/2011/04/blogger-to-wordpress-migration.html"]
 tags = ['Blog Features', 'Blogger']
 categories = ['Blog']
 +++

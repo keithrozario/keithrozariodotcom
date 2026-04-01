@@ -3,6 +3,7 @@ title = "16 Google Wave Invitations to give out"
 slug = "16-google-wave-invitations-to-give-out"
 date = "2009-12-03T09:40:00"
 draft = false
+aliases = ["/2009/12/16-google-wave-invitations-to-give-out.html"]
 tags = ['Google']
 categories = ['Blog']
 +++

@@ -3,6 +3,7 @@ title = "Computing Professionals Bill 2011: Not again!!"
 slug = "computing-professionals-bill-2011"
 date = "2011-12-10T01:13:55"
 draft = false
+aliases = ["/2011/12/computing-professionals-bill-2011.html"]
 tags = ['Computing Professionals Bill 2011', 'Malaysian Government']
 categories = ['Blog', 'CyberLaw', 'Malaysia']
 +++

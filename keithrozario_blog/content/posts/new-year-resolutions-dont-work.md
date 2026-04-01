@@ -3,6 +3,7 @@ title = "New year resolutions: Are they worth it?"
 slug = "new-year-resolutions-dont-work"
 date = "2012-01-21T18:21:11"
 draft = false
+aliases = ["/2012/01/new-year-resolutions-dont-work.html"]
 categories = ['Misc']
 +++
 

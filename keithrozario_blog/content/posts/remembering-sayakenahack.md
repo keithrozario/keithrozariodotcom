@@ -3,6 +3,7 @@ title = "Remembering Sayakenahack"
 slug = "remembering-sayakenahack"
 date = "2023-11-10T13:37:59"
 draft = false
+aliases = ["/2023/11/remembering-sayakenahack.html"]
 categories = ['Misc']
 +++
 

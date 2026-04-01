@@ -3,6 +3,7 @@ title = "When bad advice comes from good people"
 slug = "when-bad-advice-comes-from-good-people"
 date = "2016-04-07T19:48:41"
 draft = false
+aliases = ["/2016/04/when-bad-advice-comes-from-good-people.html"]
 categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++
 

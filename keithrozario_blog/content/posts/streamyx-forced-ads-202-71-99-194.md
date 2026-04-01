@@ -3,6 +3,7 @@ title = "Streamyx forced ads (202.71.99.194)"
 slug = "streamyx-forced-ads-202-71-99-194"
 date = "2014-12-18T18:31:31"
 draft = false
+aliases = ["/2014/12/streamyx-forced-ads-202-71-99-194.html"]
 categories = ['Security &amp; Privacy']
 +++
 

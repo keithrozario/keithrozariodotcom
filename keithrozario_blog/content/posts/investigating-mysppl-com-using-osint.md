@@ -3,6 +3,7 @@ title = "Investigating MYSPPL.com using OSINT"
 slug = "investigating-mysppl-com-using-osint"
 date = "2022-03-08T13:26:26"
 draft = false
+aliases = ["/2022/03/investigating-mysppl-com-using-osint.html"]
 categories = ['Misc']
 +++
 

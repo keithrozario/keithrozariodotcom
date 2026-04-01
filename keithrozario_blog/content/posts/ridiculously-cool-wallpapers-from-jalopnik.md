@@ -3,6 +3,7 @@ title = "Ridiculously cool wallpapers from Jalopnik"
 slug = "ridiculously-cool-wallpapers-from-jalopnik"
 date = "2011-05-11T16:07:53"
 draft = false
+aliases = ["/2011/05/ridiculously-cool-wallpapers-from-jalopnik.html"]
 tags = ['Cool Designs']
 categories = ['Design']
 +++

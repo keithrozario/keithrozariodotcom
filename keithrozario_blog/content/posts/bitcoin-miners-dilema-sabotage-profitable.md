@@ -3,6 +3,7 @@ title = "The miners dilemma - Bitcoin sabotage can be profitable"
 slug = "bitcoin-miners-dilema-sabotage-profitable"
 date = "2016-02-27T12:07:32"
 draft = false
+aliases = ["/2016/02/bitcoin-miners-dilema-sabotage-profitable.html"]
 tags = ['BitCoin']
 categories = ["Keith's Favorite Post", 'Security &amp; Privacy']
 +++

@@ -3,6 +3,7 @@ title = "Malaysia boleh: 3 countries, 3 card-skimmers, all Malaysian"
 slug = "malaysia-boleh-3-countries-3-card-skimmers-all-malaysian"
 date = "2014-06-09T20:34:01"
 draft = false
+aliases = ["/2014/06/malaysia-boleh-3-countries-3-card-skimmers-all-malaysian.html"]
 tags = ['ATM', 'card Skimmer']
 categories = ['Security &amp; Privacy']
 +++

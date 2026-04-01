@@ -3,6 +3,7 @@ title = "Ransomware"
 slug = "ransomware"
 date = "2015-10-12T11:44:34"
 draft = false
+aliases = ["/2015/10/ransomware.html"]
 tags = ['Spyware']
 categories = ['CyberLaw', "Keith's Favorite Post", 'Security &amp; Privacy']
 +++

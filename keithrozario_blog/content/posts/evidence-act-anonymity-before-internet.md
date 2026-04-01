@@ -3,6 +3,7 @@ title = "Evidence Act: Anonymity before the internet"
 slug = "evidence-act-anonymity-before-internet"
 date = "2012-11-06T08:00:35"
 draft = false
+aliases = ["/2012/11/evidence-act-anonymity-before-internet.html"]
 categories = ['Copyright and Censorship', 'CyberLaw', "Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++
 

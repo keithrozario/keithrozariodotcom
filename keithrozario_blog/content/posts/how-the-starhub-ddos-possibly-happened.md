@@ -3,6 +3,7 @@ title = "How the StarHub DDOS (possibly) happened"
 slug = "how-the-starhub-ddos-possibly-happened"
 date = "2016-10-27T23:46:38"
 draft = false
+aliases = ["/2016/10/how-the-starhub-ddos-possibly-happened.html"]
 tags = ['DDOS', 'Dyn', 'IOT', 'Singapore']
 categories = ['Misc']
 +++

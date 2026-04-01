@@ -3,6 +3,7 @@ title = "TM blocking SarawakReport"
 slug = "tm-blocking-sarawakreport"
 date = "2015-07-19T21:58:36"
 draft = false
+aliases = ["/2015/07/tm-blocking-sarawakreport.html"]
 categories = ['Copyright and Censorship', 'Malaysia']
 +++
 

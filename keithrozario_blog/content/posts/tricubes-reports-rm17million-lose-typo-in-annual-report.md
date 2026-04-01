@@ -3,6 +3,7 @@ title = "Tricubes reports Rm17million lose, typo in Annual Report"
 slug = "tricubes-reports-rm17million-lose-typo-in-annual-report"
 date = "2011-12-29T16:34:28"
 draft = false
+aliases = ["/2011/12/tricubes-reports-rm17million-lose-typo-in-annual-report.html"]
 categories = ['Malaysia', 'Misc']
 +++
 

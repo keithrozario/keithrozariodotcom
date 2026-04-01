@@ -3,6 +3,7 @@ title = "One Visa files suit against TM : Is it a Human Rights abuse?"
 slug = "one-visa-files-suit-against-tm-is-it-a-human-rights-abuse"
 date = "2012-09-26T22:00:16"
 draft = false
+aliases = ["/2012/09/one-visa-files-suit-against-tm-is-it-a-human-rights-abuse.html"]
 tags = ['One Visa', 'TM']
 categories = ['CyberLaw', "Keith's Favorite Post", 'Malaysia']
 +++

@@ -3,6 +3,7 @@ title = "The law shouldn't rely on good behavior from Billionaires"
 slug = "the-law-shouldnt-rely-on-good-behavior-from-billionaires"
 date = "2016-06-05T11:22:37"
 draft = false
+aliases = ["/2016/06/the-law-shouldnt-rely-on-good-behavior-from-billionaires.html"]
 categories = ['CyberLaw', 'Security &amp; Privacy']
 +++
 

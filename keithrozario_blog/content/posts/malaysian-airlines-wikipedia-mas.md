@@ -3,6 +3,7 @@ title = "Is MAS updating it's own Wikipedia page?"
 slug = "malaysian-airlines-wikipedia-mas"
 date = "2012-07-19T04:26:32"
 draft = false
+aliases = ["/2012/07/malaysian-airlines-wikipedia-mas.html"]
 tags = ['Wikipedia']
 categories = ['Big Data', 'Crowdsourcing']
 +++

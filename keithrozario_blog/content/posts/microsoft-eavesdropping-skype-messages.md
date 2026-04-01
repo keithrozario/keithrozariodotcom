@@ -3,6 +3,7 @@ title = "Microsoft is eavesdropping on your skype conversations"
 slug = "microsoft-eavesdropping-skype-messages"
 date = "2013-05-22T07:00:59"
 draft = false
+aliases = ["/2013/05/microsoft-eavesdropping-skype-messages.html"]
 tags = ['Skype']
 categories = ['Copyright and Censorship', 'CyberLaw', 'Security &amp; Privacy']
 +++

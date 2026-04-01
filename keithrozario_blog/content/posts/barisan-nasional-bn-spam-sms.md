@@ -3,6 +3,7 @@ title = "My BN Spam SMS collection"
 slug = "barisan-nasional-bn-spam-sms"
 date = "2013-04-14T23:44:29"
 draft = false
+aliases = ["/2013/04/barisan-nasional-bn-spam-sms.html"]
 tags = ['SMS', 'SPAM']
 categories = ['CyberLaw', 'Malaysia']
 +++

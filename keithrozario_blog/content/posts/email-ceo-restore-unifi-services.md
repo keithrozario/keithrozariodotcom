@@ -3,6 +3,7 @@ title = "Did an email to the CEO really help restore my Unifi services?"
 slug = "email-ceo-restore-unifi-services"
 date = "2012-02-03T16:38:13"
 draft = false
+aliases = ["/2012/02/email-ceo-restore-unifi-services.html"]
 tags = ['Broadband', 'Unifi']
 categories = ['Malaysia']
 +++

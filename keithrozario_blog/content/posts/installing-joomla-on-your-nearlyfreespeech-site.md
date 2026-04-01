@@ -3,6 +3,7 @@ title = "Installing Joomla on your Nearlyfreespeech site"
 slug = "installing-joomla-on-your-nearlyfreespeech-site"
 date = "2011-05-01T00:19:29"
 draft = false
+aliases = ["/2011/05/installing-joomla-on-your-nearlyfreespeech-site.html"]
 tags = ['Joomla']
 categories = ['Blog']
 +++

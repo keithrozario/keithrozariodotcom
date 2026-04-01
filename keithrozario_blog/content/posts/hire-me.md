@@ -3,6 +3,7 @@ title = "Hire Me!!"
 slug = "hire-me"
 date = "2011-04-18T17:11:41"
 draft = false
+aliases = ["/2011/04/hire-me.html"]
 tags = ['Jobs', 'resume']
 categories = ['Design']
 +++

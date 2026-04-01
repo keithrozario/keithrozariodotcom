@@ -3,6 +3,7 @@ title = "Maxis blocks Torrent traffic"
 slug = "maxis-torrent-traffic-blocked"
 date = "2013-05-30T07:00:47"
 draft = false
+aliases = ["/2013/05/maxis-torrent-traffic-blocked.html"]
 tags = ['Maxis', 'Torrent']
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia']
 +++

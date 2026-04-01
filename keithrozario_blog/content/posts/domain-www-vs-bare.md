@@ -3,6 +3,7 @@ title = "Domain Registration (www vs. bare domain)"
 slug = "domain-www-vs-bare"
 date = "2011-04-24T15:31:39"
 draft = false
+aliases = ["/2011/04/domain-www-vs-bare.html"]
 tags = ['NearlyFreeSpeech', 'wordpress']
 categories = ['Blog']
 +++

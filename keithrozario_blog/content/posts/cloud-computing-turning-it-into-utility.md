@@ -3,6 +3,7 @@ title = "Cloud Computing: Turning IT into a utility"
 slug = "cloud-computing-turning-it-into-utility"
 date = "2011-12-12T11:27:20"
 draft = false
+aliases = ["/2011/12/cloud-computing-turning-it-into-utility.html"]
 categories = ['Cloud Computing']
 +++
 

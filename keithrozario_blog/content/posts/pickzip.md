@@ -3,6 +3,7 @@ title = "Copy your Facebook photo albums with Pick&Zip"
 slug = "pickzip"
 date = "2011-08-02T09:42:02"
 draft = false
+aliases = ["/2011/08/pickzip.html"]
 tags = ['Facebook']
 categories = ['Social Media']
 +++

@@ -3,6 +3,7 @@ title = "My Faulty Samsung Galaxy S3 has returned"
 slug = "my-faulty-samsung-galaxy-s3-has-returned"
 date = "2012-09-05T09:39:41"
 draft = false
+aliases = ["/2012/09/my-faulty-samsung-galaxy-s3-has-returned.html"]
 tags = ['Samsung']
 categories = ['Malaysia']
 +++

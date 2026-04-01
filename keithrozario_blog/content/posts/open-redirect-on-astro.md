@@ -3,6 +3,7 @@ title = "Look ma, Open Redirect on Astro"
 slug = "open-redirect-on-astro"
 date = "2018-06-07T23:03:17"
 draft = false
+aliases = ["/2018/06/open-redirect-on-astro.html"]
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++
 

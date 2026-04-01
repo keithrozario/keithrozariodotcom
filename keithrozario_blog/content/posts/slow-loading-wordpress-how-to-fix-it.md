@@ -3,6 +3,7 @@ title = "Slow Loading Wordpress: How to fix it"
 slug = "slow-loading-wordpress-how-to-fix-it"
 date = "2011-06-21T14:57:51"
 draft = false
+aliases = ["/2011/06/slow-loading-wordpress-how-to-fix-it.html"]
 tags = ['Firebug', 'wordpress']
 categories = ['Blog']
 +++

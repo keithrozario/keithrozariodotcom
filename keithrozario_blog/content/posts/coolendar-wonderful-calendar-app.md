@@ -3,6 +3,7 @@ title = "Coolendar: Wonderful Calendar App"
 slug = "coolendar-wonderful-calendar-app"
 date = "2011-06-15T11:51:52"
 draft = false
+aliases = ["/2011/06/coolendar-wonderful-calendar-app.html"]
 tags = ['Cool Designs', 'Google']
 categories = ['Design', 'Misc']
 +++

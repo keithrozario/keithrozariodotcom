@@ -3,6 +3,7 @@ title = "3 Reasons to say NO to Yes Mobile"
 slug = "ytl-yes-4g-mobile-internet-review"
 date = "2011-11-25T19:53:38"
 draft = false
+aliases = ["/2011/11/ytl-yes-4g-mobile-internet-review.html"]
 tags = ['uMobile', 'Yes']
 categories = ['Malaysia', 'Misc']
 +++

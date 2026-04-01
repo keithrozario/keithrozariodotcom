@@ -3,6 +3,7 @@ title = "Accomplished: 1000 hits in 30 days"
 slug = "accomplished"
 date = "2011-10-12T21:06:56"
 draft = false
+aliases = ["/2011/10/accomplished.html"]
 tags = ['Blog', 'wordpress']
 categories = ['Blog', 'Misc']
 +++

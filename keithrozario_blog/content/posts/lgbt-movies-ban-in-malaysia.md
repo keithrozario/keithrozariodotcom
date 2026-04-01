@@ -3,6 +3,7 @@ title = "LGBT Movies Ban in Malaysia"
 slug = "lgbt-movies-ban-in-malaysia"
 date = "2013-02-11T07:00:22"
 draft = false
+aliases = ["/2013/02/lgbt-movies-ban-in-malaysia.html"]
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia', 'Misc']
 +++
 

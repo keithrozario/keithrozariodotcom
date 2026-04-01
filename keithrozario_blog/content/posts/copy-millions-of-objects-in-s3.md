@@ -3,6 +3,7 @@ title = "Copy Millions of S3 Objects in minutes"
 slug = "copy-millions-of-objects-in-s3"
 date = "2019-04-16T23:44:02"
 draft = false
+aliases = ["/2019/04/copy-millions-of-objects-in-s3.html"]
 categories = ['Serverless']
 +++
 

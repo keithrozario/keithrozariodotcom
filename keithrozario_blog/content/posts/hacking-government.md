@@ -3,6 +3,7 @@ title = "Hacking Government, Malaysian Style"
 slug = "hacking-government"
 date = "2015-10-02T10:39:38"
 draft = false
+aliases = ["/2015/10/hacking-government.html"]
 categories = ['CyberLaw', "Keith's Favorite Post", 'Security &amp; Privacy']
 +++
 

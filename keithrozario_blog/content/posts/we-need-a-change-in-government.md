@@ -3,6 +3,7 @@ title = "We need a change in Government"
 slug = "we-need-a-change-in-government"
 date = "2015-08-12T22:44:52"
 draft = false
+aliases = ["/2015/08/we-need-a-change-in-government.html"]
 categories = ['Misc']
 +++
 

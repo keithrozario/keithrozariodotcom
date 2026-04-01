@@ -3,6 +3,7 @@ title = "TM Unifi speeds actually quite GOOD!"
 slug = "unifi-speed-test-broadband-torrents-youtube"
 date = "2012-05-04T09:00:22"
 draft = false
+aliases = ["/2012/05/unifi-speed-test-broadband-torrents-youtube.html"]
 tags = ['TM']
 categories = ['Malaysia']
 +++

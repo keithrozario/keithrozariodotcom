@@ -3,6 +3,7 @@ title = "Proton Preve breaksdown in the middle of the road. FAIL!"
 slug = "proton-preve-breaksdown-in-the-middle-of-the-road-fail"
 date = "2012-04-20T21:42:41"
 draft = false
+aliases = ["/2012/04/proton-preve-breaksdown-in-the-middle-of-the-road-fail.html"]
 categories = ['Misc']
 +++
 

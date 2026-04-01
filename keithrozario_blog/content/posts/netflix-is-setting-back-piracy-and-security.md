@@ -3,6 +3,7 @@ title = "Netflix is setting back Piracy and Security"
 slug = "netflix-is-setting-back-piracy-and-security"
 date = "2016-01-28T20:33:58"
 draft = false
+aliases = ["/2016/01/netflix-is-setting-back-piracy-and-security.html"]
 categories = ['Copyright and Censorship', 'Malaysia']
 +++
 

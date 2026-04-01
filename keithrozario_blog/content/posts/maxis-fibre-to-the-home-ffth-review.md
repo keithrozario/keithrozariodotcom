@@ -3,6 +3,7 @@ title = "Maxis Fibre to the Home (FFTH) : Why you shouldn't get it"
 slug = "maxis-fibre-to-the-home-ffth-review"
 date = "2012-08-13T08:00:49"
 draft = false
+aliases = ["/2012/08/maxis-fibre-to-the-home-ffth-review.html"]
 tags = ['Maxis']
 categories = ['Malaysia']
 +++

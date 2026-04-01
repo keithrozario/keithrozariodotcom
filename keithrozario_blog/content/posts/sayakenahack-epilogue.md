@@ -3,6 +3,7 @@ title = "Sayakenahack: Epilogue"
 slug = "sayakenahack-epilogue"
 date = "2017-11-24T19:00:29"
 draft = false
+aliases = ["/2017/11/sayakenahack-epilogue.html"]
 categories = ["Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++
 

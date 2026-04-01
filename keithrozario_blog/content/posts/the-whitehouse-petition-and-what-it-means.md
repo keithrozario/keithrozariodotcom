@@ -3,6 +3,7 @@ title = "The WhiteHouse Petition, and what it means"
 slug = "the-whitehouse-petition-and-what-it-means"
 date = "2015-03-13T09:25:12"
 draft = false
+aliases = ["/2015/03/the-whitehouse-petition-and-what-it-means.html"]
 categories = ['Misc']
 +++
 

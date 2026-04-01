@@ -3,6 +3,7 @@ title = "Playing with files within the memory of Lambda function"
 slug = "playing-with-files-within-the-memory-of-lambda-function"
 date = "2020-04-18T11:40:14"
 draft = false
+aliases = ["/2020/04/playing-with-files-within-the-memory-of-lambda-function.html"]
 categories = ['Misc', 'Serverless']
 +++
 

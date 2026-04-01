@@ -3,6 +3,7 @@ title = "The new media is powerless"
 slug = "the-new-media-is-powerless"
 date = "2016-04-30T16:23:16"
 draft = false
+aliases = ["/2016/04/the-new-media-is-powerless.html"]
 categories = ['Misc']
 +++
 

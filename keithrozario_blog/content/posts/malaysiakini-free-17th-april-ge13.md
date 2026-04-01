@@ -3,6 +3,7 @@ title = "Malaysiakini goes free from 17th April for GE13"
 slug = "malaysiakini-free-17th-april-ge13"
 date = "2013-04-17T12:26:00"
 draft = false
+aliases = ["/2013/04/malaysiakini-free-17th-april-ge13.html"]
 tags = ['Malaysiakini']
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia']
 +++

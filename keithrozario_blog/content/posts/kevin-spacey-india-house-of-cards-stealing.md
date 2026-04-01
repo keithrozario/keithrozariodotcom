@@ -3,6 +3,7 @@ title = "Kevin Spacey doesn't like Indian Pirates: But are they really pirates?"
 slug = "kevin-spacey-india-house-of-cards-stealing"
 date = "2014-04-29T22:29:52"
 draft = false
+aliases = ["/2014/04/kevin-spacey-india-house-of-cards-stealing.html"]
 categories = ['Copyright and Censorship']
 +++
 

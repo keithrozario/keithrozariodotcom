@@ -3,6 +3,7 @@ title = "Youtube gets a spanking new html5 interface"
 slug = "youtube-gets-a-spanking-new-html5-interface"
 date = "2011-06-20T10:13:37"
 draft = false
+aliases = ["/2011/06/youtube-gets-a-spanking-new-html5-interface.html"]
 tags = ['HTML5']
 categories = ['Blog']
 +++

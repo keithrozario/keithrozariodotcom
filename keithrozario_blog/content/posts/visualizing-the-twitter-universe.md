@@ -3,6 +3,7 @@ title = "Visualizing the Twitter Universe"
 slug = "visualizing-the-twitter-universe"
 date = "2011-06-09T14:55:38"
 draft = false
+aliases = ["/2011/06/visualizing-the-twitter-universe.html"]
 tags = ['twitter']
 categories = ['Misc']
 +++

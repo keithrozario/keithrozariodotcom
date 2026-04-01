@@ -3,6 +3,7 @@ title = "MCMC can't solve your Unifi downtime but they're looking for Gays onlin
 slug = "mcmc-cant-solve-your-unifi-downtime-but-theyre-looking-for-gays-online"
 date = "2012-03-12T23:09:43"
 draft = false
+aliases = ["/2012/03/mcmc-cant-solve-your-unifi-downtime-but-theyre-looking-for-gays-online.html"]
 categories = ['CyberLaw', 'Malaysia']
 +++
 

@@ -3,6 +3,7 @@ title = "What we all share?"
 slug = "what-we-all-share"
 date = "2014-05-04T11:17:46"
 draft = false
+aliases = ["/2014/05/what-we-all-share.html"]
 categories = ['Misc']
 +++
 

@@ -3,6 +3,7 @@ title = "Digi begins April Fools day a bit early"
 slug = "digi-april-fools-dayvintage-phone"
 date = "2013-03-30T13:57:59"
 draft = false
+aliases = ["/2013/03/digi-april-fools-dayvintage-phone.html"]
 categories = ['Misc']
 +++
 

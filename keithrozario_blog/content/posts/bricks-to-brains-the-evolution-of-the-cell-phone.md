@@ -3,6 +3,7 @@ title = "Bricks to Brains: The evolution of the cell phone"
 slug = "bricks-to-brains-the-evolution-of-the-cell-phone"
 date = "2013-11-05T20:51:50"
 draft = false
+aliases = ["/2013/11/bricks-to-brains-the-evolution-of-the-cell-phone.html"]
 categories = ['Misc']
 +++
 

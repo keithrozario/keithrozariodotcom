@@ -3,6 +3,7 @@ title = "More reasons Copyright sucks"
 slug = "more-reasons-copyright-sucks"
 date = "2012-02-22T09:07:13"
 draft = false
+aliases = ["/2012/02/more-reasons-copyright-sucks.html"]
 tags = ['copyright laws']
 categories = ['Copyright and Censorship', 'CyberLaw', 'Misc']
 +++

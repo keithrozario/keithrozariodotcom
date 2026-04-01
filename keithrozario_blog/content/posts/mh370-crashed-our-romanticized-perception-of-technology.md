@@ -3,6 +3,7 @@ title = "MH370 crashed our romanticized perception of technology"
 slug = "mh370-crashed-our-romanticized-perception-of-technology"
 date = "2014-03-22T17:55:15"
 draft = false
+aliases = ["/2014/03/mh370-crashed-our-romanticized-perception-of-technology.html"]
 categories = ['Malaysia', 'Science']
 +++
 

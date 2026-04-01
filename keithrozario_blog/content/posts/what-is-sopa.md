@@ -3,6 +3,7 @@ title = "What is SOPA?"
 slug = "what-is-sopa"
 date = "2011-12-04T22:14:54"
 draft = false
+aliases = ["/2011/12/what-is-sopa.html"]
 tags = ['SOPA']
 categories = ['Blog', 'CyberLaw']
 +++

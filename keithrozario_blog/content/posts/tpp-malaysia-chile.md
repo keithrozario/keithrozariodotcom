@@ -3,6 +3,7 @@ title = "Trans-Pacific Partnership Agreement : What is it?"
 slug = "tpp-malaysia-chile"
 date = "2012-05-15T17:50:35"
 draft = false
+aliases = ["/2012/05/tpp-malaysia-chile.html"]
 categories = ['Copyright and Censorship', 'CyberLaw']
 +++
 

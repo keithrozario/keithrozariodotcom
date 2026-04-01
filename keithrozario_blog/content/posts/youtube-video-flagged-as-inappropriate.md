@@ -3,6 +3,7 @@ title = "Youtube Video flagged as inappropriate"
 slug = "youtube-video-flagged-as-inappropriate"
 date = "2014-06-26T08:00:37"
 draft = false
+aliases = ["/2014/06/youtube-video-flagged-as-inappropriate.html"]
 tags = ['Youtube']
 categories = ['Copyright and Censorship', 'Misc']
 +++

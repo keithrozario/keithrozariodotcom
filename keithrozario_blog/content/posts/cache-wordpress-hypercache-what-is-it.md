@@ -3,6 +3,7 @@ title = "What is a Wordpress Cache and how do I use it?"
 slug = "cache-wordpress-hypercache-what-is-it"
 date = "2011-04-27T10:49:20"
 draft = false
+aliases = ["/2011/04/cache-wordpress-hypercache-what-is-it.html"]
 tags = ['Blog Features', 'Cache', 'HyperCache', 'W3 Total Cache']
 categories = ['Blog']
 +++

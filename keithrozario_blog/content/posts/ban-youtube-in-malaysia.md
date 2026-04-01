@@ -3,6 +3,7 @@ title = "Ban Youtube in Malaysia?"
 slug = "ban-youtube-in-malaysia"
 date = "2012-09-18T09:23:13"
 draft = false
+aliases = ["/2012/09/ban-youtube-in-malaysia.html"]
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia']
 +++
 

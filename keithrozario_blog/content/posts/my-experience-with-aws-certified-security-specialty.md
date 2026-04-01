@@ -3,6 +3,7 @@ title = "My experience with AWS Certified Security - Specialty"
 slug = "my-experience-with-aws-certified-security-specialty"
 date = "2020-03-28T08:49:08"
 draft = false
+aliases = ["/2020/03/my-experience-with-aws-certified-security-specialty.html"]
 categories = ['Cloud Computing', "Keith's Favorite Post", 'Security &amp; Privacy', 'Serverless']
 +++
 

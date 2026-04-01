@@ -3,6 +3,7 @@ title = "Keith's PGP Key"
 slug = "keiths-pgp-key"
 date = "2015-04-18T07:06:40"
 draft = false
+aliases = ["/2015/04/keiths-pgp-key.html"]
 categories = ['Misc']
 +++
 

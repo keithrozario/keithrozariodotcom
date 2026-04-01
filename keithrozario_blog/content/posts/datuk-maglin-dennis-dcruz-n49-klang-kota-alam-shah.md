@@ -3,6 +3,7 @@ title = "Datuk Maglin Dennis D'cruz in Klang : The non-updating Minister"
 slug = "datuk-maglin-dennis-dcruz-n49-klang-kota-alam-shah"
 date = "2013-04-20T20:22:13"
 draft = false
+aliases = ["/2013/04/datuk-maglin-dennis-dcruz-n49-klang-kota-alam-shah.html"]
 categories = ['CyberLaw', 'Malaysia']
 +++
 

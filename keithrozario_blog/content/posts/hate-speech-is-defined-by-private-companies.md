@@ -3,6 +3,7 @@ title = "Hate Speech is defined by private companies"
 slug = "hate-speech-is-defined-by-private-companies"
 date = "2016-03-13T15:55:01"
 draft = false
+aliases = ["/2016/03/hate-speech-is-defined-by-private-companies.html"]
 categories = ['Copyright and Censorship', 'CyberLaw', 'Social Media']
 +++
 

@@ -3,6 +3,7 @@ title = "My teachers day tribute to Mr. Vijay: Summing every number 1 to 100"
 slug = "mr-vijay-sum-1-to-100"
 date = "2014-05-17T22:38:04"
 draft = false
+aliases = ["/2014/05/mr-vijay-sum-1-to-100.html"]
 categories = ['Misc', 'Science']
 +++
 

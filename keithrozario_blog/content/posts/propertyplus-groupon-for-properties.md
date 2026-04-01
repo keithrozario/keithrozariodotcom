@@ -3,6 +3,7 @@ title = "PropertyPlus: Groupon for properties"
 slug = "propertyplus-groupon-for-properties"
 date = "2013-10-13T20:27:34"
 draft = false
+aliases = ["/2013/10/propertyplus-groupon-for-properties.html"]
 tags = ['PropertyPlus']
 categories = ['Misc']
 +++

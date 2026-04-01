@@ -3,6 +3,7 @@ title = "EnGenius Wireless Router ESR600 Review"
 slug = "engenius-wireless-router-esr600-review"
 date = "2015-07-01T08:00:46"
 draft = false
+aliases = ["/2015/07/engenius-wireless-router-esr600-review.html"]
 categories = ['Misc']
 +++
 

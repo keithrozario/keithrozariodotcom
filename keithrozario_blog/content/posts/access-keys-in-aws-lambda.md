@@ -3,6 +3,7 @@ title = "Access Keys in AWS Lambda"
 slug = "access-keys-in-aws-lambda"
 date = "2020-06-14T17:55:51"
 draft = false
+aliases = ["/2020/06/access-keys-in-aws-lambda.html"]
 categories = ["Keith's Favorite Post", 'Security &amp; Privacy', 'Serverless']
 +++
 

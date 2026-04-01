@@ -3,6 +3,7 @@ title = "FireEye: Group spied on Malaysia for 10 years"
 slug = "fireeye-group-spied-on-malaysia-for-10-years"
 date = "2015-04-13T16:11:22"
 draft = false
+aliases = ["/2015/04/fireeye-group-spied-on-malaysia-for-10-years.html"]
 tags = ['Spyware']
 categories = ['Malaysia', 'Security &amp; Privacy']
 +++

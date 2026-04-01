@@ -3,6 +3,7 @@ title = "Multiprocessing in Lambda Functions"
 slug = "multiprocessing-in-lambda-functions"
 date = "2019-10-13T18:28:52"
 draft = false
+aliases = ["/2019/10/multiprocessing-in-lambda-functions.html"]
 categories = ['Serverless']
 +++
 

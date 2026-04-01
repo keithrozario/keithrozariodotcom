@@ -3,6 +3,7 @@ title = "Study shows Malaysian students can't solve problems"
 slug = "study-shows-malaysian-students-cant-solve-problems"
 date = "2014-04-02T10:31:21"
 draft = false
+aliases = ["/2014/04/study-shows-malaysian-students-cant-solve-problems.html"]
 categories = ['Science']
 +++
 

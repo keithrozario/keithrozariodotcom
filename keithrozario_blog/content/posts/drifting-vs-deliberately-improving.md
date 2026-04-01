@@ -3,6 +3,7 @@ title = "Drifting vs. Deliberately improving"
 slug = "drifting-vs-deliberately-improving"
 date = "2021-11-07T17:28:07"
 draft = false
+aliases = ["/2021/11/drifting-vs-deliberately-improving.html"]
 categories = ['Misc']
 +++
 

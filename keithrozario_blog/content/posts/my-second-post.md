@@ -3,6 +3,7 @@ title = "My Second Post"
 slug = "my-second-post"
 date = "2011-04-16T10:24:35"
 draft = false
+aliases = ["/2011/04/my-second-post.html"]
 tags = ['Blog']
 categories = ['Blog']
 +++

@@ -3,6 +3,7 @@ title = "Freedom vs. Security : Papagomo arrested"
 slug = "freedom-vs-security-papagomo-arrested"
 date = "2013-05-14T22:13:49"
 draft = false
+aliases = ["/2013/05/freedom-vs-security-papagomo-arrested.html"]
 categories = ['Copyright and Censorship', 'Malaysia']
 +++
 

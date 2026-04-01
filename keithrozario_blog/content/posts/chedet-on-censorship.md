@@ -3,6 +3,7 @@ title = "CheDet on Censorship"
 slug = "chedet-on-censorship"
 date = "2014-08-04T20:00:04"
 draft = false
+aliases = ["/2014/08/chedet-on-censorship.html"]
 categories = ['Copyright and Censorship', 'CyberLaw']
 +++
 

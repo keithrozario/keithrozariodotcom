@@ -3,6 +3,7 @@ title = "Amazon Shipping to Malaysia"
 slug = "amazon-shipping-to-malaysia"
 date = "2013-01-02T08:00:31"
 draft = false
+aliases = ["/2013/01/amazon-shipping-to-malaysia.html"]
 tags = ['Amazon']
 categories = ['Misc']
 +++

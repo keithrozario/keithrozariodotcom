@@ -3,6 +3,7 @@ title = "Consolidating Emails using Gmail"
 slug = "consolidating-emails-using-gmail"
 date = "2011-05-26T17:02:35"
 draft = false
+aliases = ["/2011/05/consolidating-emails-using-gmail.html"]
 tags = ['Blog Features', 'Google']
 categories = ['Blog']
 +++

@@ -3,6 +3,7 @@ title = "LinkedIn Passwords comprimised: How to change it"
 slug = "linkedin-password-how-to-change-hack"
 date = "2012-06-07T09:45:25"
 draft = false
+aliases = ["/2012/06/linkedin-password-how-to-change-hack.html"]
 tags = ['LinkedIn']
 categories = ['Social Media']
 +++

@@ -3,6 +3,7 @@ title = "Guest Post: Keyboards on Smartphones and the Future of Buttons"
 slug = "keyboards-smartphones-future-of-button"
 date = "2013-07-29T08:00:00"
 draft = false
+aliases = ["/2013/07/keyboards-smartphones-future-of-button.html"]
 categories = ['Misc']
 +++
 

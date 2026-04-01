@@ -3,6 +3,7 @@ title = "What is a QR Code"
 slug = "what-is-a-qr-code"
 date = "2011-04-22T16:35:59"
 draft = false
+aliases = ["/2011/04/what-is-a-qr-code.html"]
 tags = ['New Stuff']
 categories = ['Blog', 'Design']
 +++

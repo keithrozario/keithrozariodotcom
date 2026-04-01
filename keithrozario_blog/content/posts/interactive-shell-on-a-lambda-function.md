@@ -3,6 +3,7 @@ title = "Interactive Shell on a Lambda Function"
 slug = "interactive-shell-on-a-lambda-function"
 date = "2019-08-25T21:54:26"
 draft = false
+aliases = ["/2019/08/interactive-shell-on-a-lambda-function.html"]
 categories = ['Security &amp; Privacy', 'Serverless']
 +++
 

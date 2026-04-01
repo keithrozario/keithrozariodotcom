@@ -3,6 +3,7 @@ title = "The ugly truth about Uber"
 slug = "the-ugly-truth-about-uber"
 date = "2016-05-21T09:07:02"
 draft = false
+aliases = ["/2016/05/the-ugly-truth-about-uber.html"]
 categories = ['Misc']
 +++
 

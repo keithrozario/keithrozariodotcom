@@ -3,6 +3,7 @@ title = "Writing a Wordpress Restoration script"
 slug = "writing-a-wordpress-restoration-script"
 date = "2017-03-02T21:59:50"
 draft = false
+aliases = ["/2017/03/writing-a-wordpress-restoration-script.html"]
 categories = ["Keith's Favorite Post", 'Misc', 'Security &amp; Privacy']
 +++
 

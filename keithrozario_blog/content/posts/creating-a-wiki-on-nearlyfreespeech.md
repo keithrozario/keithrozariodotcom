@@ -3,6 +3,7 @@ title = "Creating a wiki on Nearlyfreespeech"
 slug = "creating-a-wiki-on-nearlyfreespeech"
 date = "2011-05-25T14:51:41"
 draft = false
+aliases = ["/2011/05/creating-a-wiki-on-nearlyfreespeech.html"]
 tags = ['Blog Features', 'NearlyFreeSpeech', 'PHP', 'wiki']
 categories = ['Blog']
 +++

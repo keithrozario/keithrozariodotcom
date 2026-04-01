@@ -3,6 +3,7 @@ title = "Sub-domains on your site"
 slug = "sub-domains-on-your-post"
 date = "2011-05-10T07:38:39"
 draft = false
+aliases = ["/2011/05/sub-domains-on-your-post.html"]
 tags = ['Blog Features', 'NearlyFreeSpeech']
 categories = ['Blog']
 +++

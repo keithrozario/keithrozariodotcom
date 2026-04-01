@@ -3,6 +3,7 @@ title = "Why Wordpress is so important"
 slug = "why-wordpress-is-so-important"
 date = "2011-10-17T16:06:38"
 draft = false
+aliases = ["/2011/10/why-wordpress-is-so-important.html"]
 tags = ['wordpress']
 categories = ['Blog', 'Misc']
 +++

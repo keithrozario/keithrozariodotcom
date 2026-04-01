@@ -3,6 +3,7 @@ title = "Why I stopped the Nuffnang Ads on my blog"
 slug = "nuffnang-ads-malaysia-stopped"
 date = "2012-09-20T08:00:13"
 draft = false
+aliases = ["/2012/09/nuffnang-ads-malaysia-stopped.html"]
 tags = ['Maxis', 'Nuffnang']
 categories = ['Blog', "Keith's Favorite Post", 'Malaysia']
 +++

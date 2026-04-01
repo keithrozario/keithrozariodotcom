@@ -3,6 +3,7 @@ title = "Does the government have a right to shut down telecommunications servic
 slug = "does-the-government-have-a-right-to-shut-down-telecommunications-services"
 date = "2012-11-30T13:58:29"
 draft = false
+aliases = ["/2012/11/does-the-government-have-a-right-to-shut-down-telecommunications-services.html"]
 categories = ['Copyright and Censorship', 'CyberLaw', 'Malaysia']
 +++
 

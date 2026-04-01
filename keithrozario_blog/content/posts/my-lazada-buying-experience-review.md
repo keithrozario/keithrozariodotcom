@@ -3,6 +3,7 @@ title = "My Lazada buying experience"
 slug = "my-lazada-buying-experience-review"
 date = "2013-08-24T08:00:26"
 draft = false
+aliases = ["/2013/08/my-lazada-buying-experience-review.html"]
 categories = ['Malaysia', 'Misc']
 +++
 

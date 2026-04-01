@@ -3,6 +3,7 @@ title = "Can the internet go down?"
 slug = "can-the-internet-go-down"
 date = "2013-04-09T07:00:18"
 draft = false
+aliases = ["/2013/04/can-the-internet-go-down.html"]
 categories = ['Misc']
 +++
 

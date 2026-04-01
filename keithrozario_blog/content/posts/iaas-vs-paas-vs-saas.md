@@ -3,6 +3,7 @@ title = "IaaS vs. PaaS vs. SaaS: What do they mean?"
 slug = "iaas-vs-paas-vs-saas"
 date = "2011-11-29T18:18:55"
 draft = false
+aliases = ["/2011/11/iaas-vs-paas-vs-saas.html"]
 tags = ['Cloud']
 categories = ['Cloud Computing']
 +++

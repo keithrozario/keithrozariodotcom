@@ -3,6 +3,7 @@ title = "All Air Pollutant Index (API) readings in Malaysia for 2014"
 slug = "all-air-pollutant-index-api-readings-in-malaysia-for-2014"
 date = "2015-02-08T00:24:16"
 draft = false
+aliases = ["/2015/02/all-air-pollutant-index-api-readings-in-malaysia-for-2014.html"]
 categories = ['Malaysia', 'Misc']
 +++
 

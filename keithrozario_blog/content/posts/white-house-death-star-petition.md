@@ -3,6 +3,7 @@ title = "Is America Building the Death Star -- Not really"
 slug = "white-house-death-star-petition"
 date = "2013-01-16T07:00:25"
 draft = false
+aliases = ["/2013/01/white-house-death-star-petition.html"]
 categories = ['Malaysia', 'Science']
 +++
 

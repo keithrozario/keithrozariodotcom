@@ -3,6 +3,7 @@ title = "Evidence Act Technological Misconceptions: A response to Rocky and Fati
 slug = "evidence-act-114a-technological-misconceptions"
 date = "2012-08-15T12:56:16"
 draft = false
+aliases = ["/2012/08/evidence-act-114a-technological-misconceptions.html"]
 categories = ['Copyright and Censorship', 'CyberLaw', "Keith's Favorite Post", 'Malaysia', 'Security &amp; Privacy']
 +++
 

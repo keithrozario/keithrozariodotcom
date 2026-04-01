@@ -3,6 +3,7 @@ title = "Contact forms: continued."
 slug = "contact-forms-continued"
 date = "2011-05-24T01:44:22"
 draft = false
+aliases = ["/2011/05/contact-forms-continued.html"]
 tags = ['wordpress']
 categories = ['Blog']
 +++

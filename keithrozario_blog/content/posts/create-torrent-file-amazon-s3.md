@@ -3,6 +3,7 @@ title = "Create a torrent file to share with Amazon S3"
 slug = "create-torrent-file-amazon-s3"
 date = "2011-10-30T17:09:10"
 draft = false
+aliases = ["/2011/10/create-torrent-file-amazon-s3.html"]
 tags = ['Amazon', 'Torrent']
 categories = ['Blog', 'Cloud Computing', 'Cloud Storage']
 +++

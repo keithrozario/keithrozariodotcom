@@ -3,6 +3,7 @@ title = "TrueCrypt is dead, long live ....bitlocker?!?!"
 slug = "truecrypt-has-ended"
 date = "2014-05-30T09:00:18"
 draft = false
+aliases = ["/2014/05/truecrypt-has-ended.html"]
 tags = ['TrueCrypt']
 categories = ['Security &amp; Privacy']
 +++
