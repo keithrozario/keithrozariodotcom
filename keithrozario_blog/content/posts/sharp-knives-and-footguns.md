@@ -1,7 +1,7 @@
 +++
 title = "Sharp Knives and Footguns"
 date = "2026-04-06T15:34:45+08:00"
-draft = true
+draft = false
 categories = []
 description = ""
 showFullContent = false
