@@ -20,3 +20,19 @@ aliases = ["/2025/02/things-i-read-over-and-over-again.html"]
 
 - If only we wanted to be happy, it would be easy; but we want to be happier than other people, which is difficult, since we think them happier than they are." 
 Montesquieu (via James Clear)
+
+- "God, grant me the serenity  
+  to accept the things I cannot change  
+  the courage to change the things I can  
+  and the wisdom to know the difference.  
+  
+  Living one day at a time,  
+  enjoying one moment at a time.  
+  Accepting hardships as the pathway to peace.  
+  Taking, as he did, the sinful world as it is,  
+  not as I would have it.  
+  Trusting that he will make all things right  
+  if I surrender to His will;  
+  that I may be reasonably happy in this life,  
+  and supremely happy with Him forever."  
+  Reinhold Niebuhr
