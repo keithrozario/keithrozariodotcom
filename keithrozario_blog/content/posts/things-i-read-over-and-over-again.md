@@ -12,6 +12,8 @@ aliases = ["/2025/02/things-i-read-over-and-over-again.html"]
 <li><a href="https://www.scottsmitelli.com/articles/ideal-candidate/" target="_blank" rel="noopener" title="The Ideal Candidate will get punched in the stomach">https://www.scottsmitelli.com/articles/ideal-candidate/</a></li>
 <li><a href="https://www.youtube.com/watch?v=OSGv2VnC0go" target="_blank" rel="noopener" title="">Raymond Hettinger Transforming code into beautiful Python</a></li>
 <li><a href="https://www.robin-guo.com/p/life-is-poker-not-chess" target="_blank" rel="noopener" title="">Life is Poker Not Chess</a></li>
+<li><a href="https://davidoks.blog/p/why-japanese-companies-do-so-many" target="_blank" rel="noopener" title="Why Japanese companies do so many acquisitions">Why Japanese companies do so many acquisitions</a></li>
+<li><a href="https://acotra.substack.com/p/the-stable-marriage-problem" target="_blank" rel="noopener" title="The stable marriage problem">The stable marriage problem</a></li>
 
 
 ## List of Quotes I love:
