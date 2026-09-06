@@ -18,8 +18,9 @@ aliases = ["/2025/02/things-i-read-over-and-over-again.html"]
 
 ## List of Quotes I love:
 
-- If only we wanted to be happy, it would be easy; but we want to be happier than other people, which is difficult, since we think them happier than they are." 
-Montesquieu (via James Clear)
+- I'd far rather be happy than right any day - Douglas Adams
+
+- If only we wanted to be happy, it would be easy; but we want to be happier than other people, which is difficult, since we think them happier than they are."  - Montesquieu
 
 - "God, grant me the serenity  
   to accept the things I cannot change  
