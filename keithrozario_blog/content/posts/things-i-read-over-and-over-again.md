@@ -14,7 +14,7 @@ aliases = ["/2025/02/things-i-read-over-and-over-again.html"]
 <li><a href="https://www.robin-guo.com/p/life-is-poker-not-chess" target="_blank" rel="noopener" title="">Life is Poker Not Chess</a></li>
 <li><a href="https://davidoks.blog/p/why-japanese-companies-do-so-many" target="_blank" rel="noopener" title="Why Japanese companies do so many acquisitions">Why Japanese companies do so many acquisitions</a></li>
 <li><a href="https://acotra.substack.com/p/the-stable-marriage-problem" target="_blank" rel="noopener" title="The stable marriage problem">The stable marriage problem</a></li>
-<li><a href="https://fs.blog/richard-feynman-love-letter/">Richard Feynmann Love Letter to his wife</a></li>.
+<li><a href="https://fs.blog/richard-feynman-love-letter/">Richard Feynmann Love Letter to his wife</a></li>
 
 ## List of Quotes I love:
 
@@ -38,4 +38,4 @@ aliases = ["/2025/02/things-i-read-over-and-over-again.html"]
   and supremely happy with Him forever."  
   Reinhold Niebuhr
 
-- "Perkins admired the way Roosevelt gratefully and humbly accepted help. “I began to see what the great teachers of religion meant when they said that humility is the greatest of virtues,” she later wrote, “and if you can’t learn it, God will teach it to you by humiliation. Only so can a man be really great, and it was in those accommodations to necessity that Franklin Roosevelt began to approach the stature of humility and inner integrity which made him truly great.” -- Road to Character
+- “I began to see what the great teachers of religion meant when they said that humility is the greatest of virtues ... and if you can’t learn it, God will teach it to you by humiliation"  -- Road to Character, David Brooks (it's a quote from another book)
