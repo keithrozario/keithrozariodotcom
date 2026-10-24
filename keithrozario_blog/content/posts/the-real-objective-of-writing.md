@@ -1,7 +1,7 @@
 +++
 title = "The Real Objective of Writing"
 date = "2026-10-24T21:05:37+08:00"
-draft = true
+draft = false
 categories = []
 description = ""
 showFullContent = false
@@ -11,23 +11,32 @@ hideComments = true
 
 Writing is thinking clearly.
 
-And while is not the **only** way to think clearly, it's the easiest. Kinda like, you could multiply 5 digit numbers in your head, but it's easier to just write them on paper.
+And while writing is not the **only** way to think clearly, it is the easiest.
 
-Writing culture in Amazon is dead. Writing as a proof-of-work is dead. But perhaps the most saddening article of all, was this one titled the last essay -- reporting that even English majors could no longer tell the difference between prose written by George Elliot and that of Claude. 
+You could multiply 5 digit numbers in your head, but it's easier to just write them on paper. You could form a well-thought out argument in your head, but it's far easier if you wrote it down.
 
-AI is a better writer than human -- certainly better than average humans. AI certainly can write words that capture the readers imagination better, and AI can string them in prose more beautiful than yours. 
+Writing culture in Amazon is [dead](https://alifeengineered.substack.com/p/on-the-death-of-amazons-writing-culture). Writing as a proof-of-work is [dead](https://www.seangoedecke.com/writing-is-no-longer-proof-of-work/), and most saddening of all, writing for human consumption might be [dead](https://www.seangoedecke.com/writing-is-no-longer-proof-of-work/). 
 
-And that is better from the perspective of the reader, but what about the writer?
+>1,682 adults read short fiction written either by AI or human beings. They not only preferred the stories written by AI, but in follow-up experiments, they did no better than a coin flip in determining authenticity.
+> [The Last Essay - Max Raskin](https://www.thefp.com/p/the-last-essay-ai-writing-tech-books-future)
 
-I write to help me think, and the "hard" part of writing is the thinking which is the point. Writing with AI is like [bringing a forklift to the gym](https://davestuartjr.com/this-year-no-forklifts/#:~:text=Yorker%20article%20is-,here.,-). It defeats the core purpose of going to gym.
+AI is a better writer than humans -- certainly better than average humans, possibly even better than Ernest Hemingway or George Eliot. Its writing capture the readers imagination better, and its prose more beautiful than yours. It might beat your own writing on every metric that matters.
 
-I don't believe that "conversing" with an AI will grant you the same understanding as writing. There is a time for conversing, and bouncing ideas, and there is a time for taking all that you've learnt so far, and crystallizing them into written words. The words are a means to an end, the end itself is the fully formed thought in your head that was the result of you wrestling with the idea by yourself.
+But that is from the perspective of the reader, not the writer.
 
-As a former Amazonian, the Amazon meetings were the best. Someone wrote a 6-page document, and the meeting started by everyone reading in silence. The point was to prevent a "loud" person from taking over the meeting before others had a chance to form their opinion based on just the words. It was only after everyone had read the document did the discussion begin, and it feels vulnerable having your 6-page ideas being bombarded -- but that's how ideas harden, and become better.
+I write to help me think, and good thinking is hard. Writing with AI is like [bringing a forklift to the gym](https://davestuartjr.com/this-year-no-forklifts/#:~:text=Yorker%20article%20is-,here.,-). It defeats the purpose.
 
-A vague idea, depicted by a couple bullet points on a slide is ... fluid. It can dodge challenges and absorb criticism without changing. If you don't write down the goal-post they can always shift. Those ideas don't harden, and don't become better.
+Conversing with an AI will never grant you the deep understanding that necessarily comes from wrestling with a topic while writing. There is a time for conversing, and bouncing ideas. But eventually, those ideas need crystallizing through written words. The words are a means to an end, with the end being the fully formed thought in your head.
 
+As a former Amazonian, the Amazon meetings were the best. Someone wrote a 6-page document, and the meeting started by everyone reading in silence. The point was to prevent a "loud" person from taking over the meeting before others had a chance to form their own opinion. It was only after everyone had read the document did the discussion begin.
 
+It feels vulnerable having your 6-page idea being challenged and ripped apart -- but that's how ideas harden, and how they become better. You need to be vulnerable on your way to invulnerability. 
+
+A vague idea, depicted by a couple bullet points on a slide is ... fluid. It can dodge challenges and absorb criticism easily. If you don't write down the goal-post you can always shift it. Those ideas don't harden, and don't become better, they just shift from left to right, never standing still to be tested. Ideas sometimes fail on the details, and if no details are provided they can always be conjured up on the fly by a smart enough mouth.
+
+Writing, solidifies your ideas, and puts it out there, to be tested, sometimes by others -- but always by you. 
+
+The future might be full of shallow ideas generated by prompts and regurgitated by AI, with the accompanying superfluous fluff (just look at LinkedIn). But real thinking and deep thoughts will always come from writing.
 
 
 
