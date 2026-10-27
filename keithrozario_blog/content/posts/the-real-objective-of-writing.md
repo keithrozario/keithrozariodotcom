@@ -1,7 +1,7 @@
 +++
 title = "The Real Objective of Writing"
 date = "2026-10-24T21:05:37+08:00"
-draft = false
+draft = true
 categories = []
 description = ""
 showFullContent = false
@@ -13,14 +13,14 @@ Writing is thinking clearly.
 
 And while writing is not the **only** way to think clearly, it is the easiest.
 
-You could multiply 5 digit numbers in your head, but it's easier to just write them on paper. You could form a well-thought out argument in your head, but it's far easier if you wrote it down.
+You could multiply 5 digit numbers in your head, but it's easier to just write them on paper. Just like you could form a well-thought out argument in your head, but most of us would benefit from writing it down.
 
-Writing culture in Amazon is [dead](https://alifeengineered.substack.com/p/on-the-death-of-amazons-writing-culture). Writing as a proof-of-work is [dead](https://www.seangoedecke.com/writing-is-no-longer-proof-of-work/), and most saddening of all, writing for human consumption might be [dead](https://www.seangoedecke.com/writing-is-no-longer-proof-of-work/). 
+Writing culture in Amazon is [dead](https://alifeengineered.substack.com/p/on-the-death-of-amazons-writing-culture). Writing as a proof-of-work is [dead](https://www.seangoedecke.com/writing-is-no-longer-proof-of-work/), and most saddening of all, writing for human consumption ~~is~~ might be [dead](https://www.seangoedecke.com/writing-is-no-longer-proof-of-work/). 
 
 >1,682 adults read short fiction written either by AI or human beings. They not only preferred the stories written by AI, but in follow-up experiments, they did no better than a coin flip in determining authenticity.
 > [The Last Essay - Max Raskin](https://www.thefp.com/p/the-last-essay-ai-writing-tech-books-future)
 
-AI is a better writer than humans -- certainly better than average humans, possibly even better than Ernest Hemingway or George Eliot. Its writing capture the readers imagination better, and its prose more beautiful than yours. It might beat your own writing on every metric that matters.
+AI is a better writer than humans -- certainly better than average humans (like you!), possibly even better than Hemingway or George Eliot. Its writing captures the reader's imagination better, and its prose would be more beautiful than yours. 
 
 But that is from the perspective of the reader, not the writer.
 

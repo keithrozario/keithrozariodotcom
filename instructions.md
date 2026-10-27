@@ -76,5 +76,8 @@ You do **not** need to manually build the site. GitHub Actions will automaticall
     ```
 
 4.  **Wait for Deployment:**
-    - Go to the "Actions" tab in your GitHub repository to see the deployment progress.
+    - Go to the "Actions" tab in your GitHub repository to see the deployment progress, or check the latest 3 workflow runs from the CLI:
+      ```zsh
+      uv run --project scripts scripts/check_actions.py
+      ```
     - Once the workflow completes (usually 1-2 minutes), your changes will be live at `https://keithrozario.com`.
